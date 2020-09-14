@@ -1,0 +1,132 @@
+Admin, Teemworx (admin) --> 2019-06-22 13:57:44 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-06-22 14:02:28 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-06-22 14:06:14 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-06-22 14:15:02 --> mrf --> insert --> to -->  --> weng_e@legendhotels.com.ph
+ALICANTE, LISSA (30991) --> 2019-06-22 14:15:02 --> mrf --> insert --> subject -->  --> PRF for approval
+ALICANTE, LISSA (30991) --> 2019-06-22 14:15:02 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ELISCUPIDES, ROWENA ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by ALICANTE, LISSA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+ALICANTE, LISSA (30991) --> 2019-06-22 14:15:44 --> annual_manpower_planning --> insert --> year -->  --> 2019
+ALICANTE, LISSA (30991) --> 2019-06-22 14:15:44 --> annual_manpower_planning --> insert --> company_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 14:15:44 --> annual_manpower_planning --> insert --> department_id -->  --> 9
+ALICANTE, LISSA (30991) --> 2019-06-22 14:15:44 --> annual_manpower_planning --> delete --> recruitment_manpower_plan_position_new - plan_id --> 1 --> 
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:22 --> annual_manpower_planning --> delete --> recruitment_manpower_plan_incumbent - plan_id --> 1 --> 
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:22 --> annual_manpower_planning --> insert --> plan_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:22 --> annual_manpower_planning --> insert --> user_id -->  --> 757
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:22 --> annual_manpower_planning --> insert --> position_id -->  --> 381
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:22 --> annual_manpower_planning --> insert --> company_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:22 --> annual_manpower_planning --> insert --> action_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:22 --> annual_manpower_planning --> insert --> month -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:22 --> annual_manpower_planning --> insert --> budget -->  --> 2000
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:43 --> annual_manpower_planning --> delete --> recruitment_manpower_plan_incumbent - plan_id --> 1 --> 
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:43 --> annual_manpower_planning --> insert --> plan_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:43 --> annual_manpower_planning --> insert --> user_id -->  --> 757
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:43 --> annual_manpower_planning --> insert --> position_id -->  --> 381
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:43 --> annual_manpower_planning --> insert --> company_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:43 --> annual_manpower_planning --> insert --> action_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:43 --> annual_manpower_planning --> insert --> month -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:44 --> annual_manpower_planning --> insert --> budget -->  --> 2000.00
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:44 --> annual_manpower_planning --> insert --> plan_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:44 --> annual_manpower_planning --> insert --> user_id -->  --> 757
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:44 --> annual_manpower_planning --> insert --> position_id -->  --> 381
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:44 --> annual_manpower_planning --> insert --> company_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:44 --> annual_manpower_planning --> insert --> action_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:44 --> annual_manpower_planning --> insert --> month -->  --> 2
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:44 --> annual_manpower_planning --> insert --> budget -->  --> 3000
+ALICANTE, LISSA (30991) --> 2019-06-22 14:16:50 --> annual_manpower_planning --> delete --> recruitment_manpower_plan_position_new - plan_id --> 1 --> 
+ALICANTE, LISSA (30991) --> 2019-06-22 14:17:23 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2019-06-22 14:18:39 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2019-06-22 14:18:39 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2019-06-22 14:29:59 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-06-22 14:30:12 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-06-22 14:41:34 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2019-06-22 14:41:46 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2019-06-22 14:43:00 --> mrf_manage --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+ELISCUPIDES, ROWENA (00273) --> 2019-06-22 14:43:00 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+ELISCUPIDES, ROWENA (00273) --> 2019-06-22 14:43:00 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+ELISCUPIDES, ROWENA (00273) --> 2019-06-22 14:43:00 --> mrf_manage --> insert --> to -->  --> weng_e@legendhotels.com.ph
+ELISCUPIDES, ROWENA (00273) --> 2019-06-22 14:43:00 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+ELISCUPIDES, ROWENA (00273) --> 2019-06-22 14:43:00 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ELISCUPIDES, ROWENA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+ELISCUPIDES, ROWENA (00273) --> 2019-06-22 14:43:00 --> mrf_manage --> insert --> to -->  --> lissa_d@abrahamholdings.ph
+ELISCUPIDES, ROWENA (00273) --> 2019-06-22 14:43:00 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+ELISCUPIDES, ROWENA (00273) --> 2019-06-22 14:43:00 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ALICANTE, LISSA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+ELISCUPIDES, ROWENA (00273) --> 2019-06-22 14:43:01 --> mrf_manage --> insert --> to -->  --> lee_p@abrahamholdings.ph
+ELISCUPIDES, ROWENA (00273) --> 2019-06-22 14:43:01 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing

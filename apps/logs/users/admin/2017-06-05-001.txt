@@ -1,0 +1,41 @@
+2017-06-05 11:28:33 --> authentication --> logout --> logout -->  --> 
+2017-06-05 11:41:07 --> authentication --> login --> login -->  --> 
+2017-06-05 11:42:59 --> system --> update --> config -->  --> Emplopad
+2017-06-05 11:42:59 --> system --> update --> config -->  --> Teemworx ISC, Inc.
+2017-06-05 11:42:59 --> system --> update --> config -->  --> В© Emplopad
+2017-06-05 11:42:59 --> system --> update --> config -->  --> В© Emplopad
+2017-06-05 11:42:59 --> system --> update --> config -->  --> 1
+2017-06-05 11:42:59 --> system --> update --> config -->  --> uploads/system/login/abraham_login.png
+2017-06-05 11:42:59 --> system --> update --> config -->  --> uploads/system/header/emplopad_header.png
+2017-06-05 11:42:59 --> system --> update --> config -->  --> uploads/system/print/logo-header 300x132.png
+2017-06-05 11:42:59 --> system --> update --> config -->  --> 2
+2017-06-05 11:43:17 --> system --> update --> config -->  --> Emplopad
+2017-06-05 11:43:17 --> system --> update --> config -->  --> Teemworx ISC, Inc.
+2017-06-05 11:43:17 --> system --> update --> config -->  --> В© Emplopad
+2017-06-05 11:43:17 --> system --> update --> config -->  --> В© Emplopad
+2017-06-05 11:43:17 --> system --> update --> config -->  --> 1
+2017-06-05 11:43:17 --> system --> update --> config -->  --> uploads/system/login/abraham_login.png
+2017-06-05 11:43:17 --> system --> update --> config -->  --> uploads/system/header/emplopad_header.png
+2017-06-05 11:43:17 --> system --> update --> config -->  --> uploads/system/print/logo-header 300x132.png
+2017-06-05 11:43:17 --> system --> update --> config -->  --> 2
+2017-06-05 11:49:49 --> company --> update --> city --> Pasay --> updated by trigger
+2017-06-05 11:49:49 --> company --> update --> country --> Philippines --> updated by trigger
+2017-06-05 11:49:49 --> company --> update --> print_logo --> uploads/company/HDI-Systech-h100.jpg --> uploads/company/print/logo-header 300x132.png
+2017-06-05 11:49:49 --> company --> insert --> company_id -->  --> 1
+2017-06-05 11:49:49 --> company --> insert --> contact_type -->  --> Phone
+2017-06-05 11:49:49 --> company --> insert --> company_id -->  --> 1
+2017-06-05 11:49:49 --> company --> insert --> contact_type -->  --> Mobile
+2017-06-05 11:49:49 --> company --> insert --> company_id -->  --> 1
+2017-06-05 11:49:49 --> company --> insert --> contact_type -->  --> Fax
+2017-06-05 15:53:10 --> bonus --> insert --> bonus_transaction_id -->  --> 10
+2017-06-05 15:53:10 --> bonus --> insert --> payroll_date -->  --> 2017-06-05
+2017-06-05 15:53:10 --> bonus --> insert --> date_from -->  --> 2017-06-05
+2017-06-05 15:53:10 --> bonus --> insert --> date_to -->  --> 2017-06-05
+2017-06-05 15:53:10 --> bonus --> insert --> period -->  --> 1
+2017-06-05 15:53:10 --> bonus --> insert --> week -->  --> 2
+2017-06-05 15:53:10 --> bonus --> insert --> transaction_method_id -->  --> 3
+2017-06-05 15:53:10 --> bonus --> insert --> account_id -->  --> 3
+2017-06-05 15:53:10 --> bonus --> delete --> payroll_bonus_employee - bonus_id --> 1 --> 
+2017-06-05 15:53:10 --> bonus --> insert --> bonus_id -->  --> 1
+2017-06-05 15:53:10 --> bonus --> insert --> employee_id -->  --> 23
+2017-06-05 15:53:11 --> bonus --> insert --> amount -->  --> СгЂъЙoЇшцe4Ўґ¬q

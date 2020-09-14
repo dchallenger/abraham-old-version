@@ -1,0 +1,96 @@
+Admin, Teemworx (admin) --> 2017-08-10 03:54:11 --> applicants --> insert --> key_id -->  --> 179
+Admin, Teemworx (admin) --> 2017-08-10 03:54:11 --> applicants --> insert --> key -->  --> duration_month
+Admin, Teemworx (admin) --> 2017-08-10 03:54:12 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:12 --> applicants --> insert --> key_name -->  --> Months of Stay
+Admin, Teemworx (admin) --> 2017-08-10 03:54:12 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:12 --> applicants --> insert --> key_id -->  --> 94
+Admin, Teemworx (admin) --> 2017-08-10 03:54:12 --> applicants --> insert --> key -->  --> same_as_present_address
+Admin, Teemworx (admin) --> 2017-08-10 03:54:12 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:12 --> applicants --> insert --> key_name -->  --> Same as Present Address
+Admin, Teemworx (admin) --> 2017-08-10 03:54:12 --> applicants --> insert --> key_value -->  --> 0
+Admin, Teemworx (admin) --> 2017-08-10 03:54:12 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:12 --> applicants --> insert --> key_id -->  --> 96
+Admin, Teemworx (admin) --> 2017-08-10 03:54:12 --> applicants --> insert --> key -->  --> permanent_address_1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:13 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:13 --> applicants --> insert --> key_name -->  --> Permanent Street
+Admin, Teemworx (admin) --> 2017-08-10 03:54:13 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:13 --> applicants --> insert --> key_id -->  --> 97
+Admin, Teemworx (admin) --> 2017-08-10 03:54:13 --> applicants --> insert --> key -->  --> permanent_address_2
+Admin, Teemworx (admin) --> 2017-08-10 03:54:13 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:13 --> applicants --> insert --> key_name -->  --> Permanent Barangay
+Admin, Teemworx (admin) --> 2017-08-10 03:54:13 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:13 --> applicants --> insert --> key_id -->  --> 98
+Admin, Teemworx (admin) --> 2017-08-10 03:54:13 --> applicants --> insert --> key -->  --> permanent_city_town
+Admin, Teemworx (admin) --> 2017-08-10 03:54:13 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:13 --> applicants --> insert --> key_name -->  --> Permanent City
+Admin, Teemworx (admin) --> 2017-08-10 03:54:13 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:14 --> applicants --> insert --> key_id -->  --> 99
+Admin, Teemworx (admin) --> 2017-08-10 03:54:14 --> applicants --> insert --> key -->  --> permanent_province
+Admin, Teemworx (admin) --> 2017-08-10 03:54:14 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:14 --> applicants --> insert --> key_name -->  --> Permanent Province
+Admin, Teemworx (admin) --> 2017-08-10 03:54:14 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:14 --> applicants --> insert --> key_id -->  --> 100
+Admin, Teemworx (admin) --> 2017-08-10 03:54:14 --> applicants --> insert --> key -->  --> permanent_country
+Admin, Teemworx (admin) --> 2017-08-10 03:54:14 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:14 --> applicants --> insert --> key_name -->  --> Permanent Country
+Admin, Teemworx (admin) --> 2017-08-10 03:54:14 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:14 --> applicants --> insert --> key_id -->  --> 101
+Admin, Teemworx (admin) --> 2017-08-10 03:54:14 --> applicants --> insert --> key -->  --> permanent_zipcode
+Admin, Teemworx (admin) --> 2017-08-10 03:54:15 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:15 --> applicants --> insert --> key_name -->  --> Permanent Zipcode
+Admin, Teemworx (admin) --> 2017-08-10 03:54:15 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:15 --> applicants --> insert --> key_id -->  --> 174
+Admin, Teemworx (admin) --> 2017-08-10 03:54:15 --> applicants --> insert --> key -->  --> permanent_add_no
+Admin, Teemworx (admin) --> 2017-08-10 03:54:15 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:15 --> applicants --> insert --> key_name -->  --> Permanent No.
+Admin, Teemworx (admin) --> 2017-08-10 03:54:15 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:15 --> applicants --> insert --> key_id -->  --> 175
+Admin, Teemworx (admin) --> 2017-08-10 03:54:15 --> applicants --> insert --> key -->  --> permanent_add_village
+Admin, Teemworx (admin) --> 2017-08-10 03:54:15 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:16 --> applicants --> insert --> key_name -->  --> Permanent Subdivision/Village
+Admin, Teemworx (admin) --> 2017-08-10 03:54:16 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:16 --> applicants --> insert --> key_id -->  --> 176
+Admin, Teemworx (admin) --> 2017-08-10 03:54:16 --> applicants --> insert --> key -->  --> permanent_town
+Admin, Teemworx (admin) --> 2017-08-10 03:54:16 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:16 --> applicants --> insert --> key_name -->  --> Permanent Town
+Admin, Teemworx (admin) --> 2017-08-10 03:54:16 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:16 --> applicants --> insert --> key_id -->  --> 16
+Admin, Teemworx (admin) --> 2017-08-10 03:54:16 --> applicants --> insert --> key -->  --> emergency_name
+Admin, Teemworx (admin) --> 2017-08-10 03:54:16 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:16 --> applicants --> insert --> key_name -->  --> Contact Name
+Admin, Teemworx (admin) --> 2017-08-10 03:54:16 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:17 --> applicants --> insert --> key_id -->  --> 17
+Admin, Teemworx (admin) --> 2017-08-10 03:54:17 --> applicants --> insert --> key -->  --> emergency_relationship
+Admin, Teemworx (admin) --> 2017-08-10 03:54:17 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:17 --> applicants --> insert --> key_name -->  --> Relationship
+Admin, Teemworx (admin) --> 2017-08-10 03:54:17 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:17 --> applicants --> insert --> key_id -->  --> 18
+Admin, Teemworx (admin) --> 2017-08-10 03:54:17 --> applicants --> insert --> key -->  --> emergency_phone
+Admin, Teemworx (admin) --> 2017-08-10 03:54:17 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:17 --> applicants --> insert --> key_name -->  --> Contact Phone
+Admin, Teemworx (admin) --> 2017-08-10 03:54:17 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:17 --> applicants --> insert --> key_id -->  --> 19
+Admin, Teemworx (admin) --> 2017-08-10 03:54:17 --> applicants --> insert --> key -->  --> emergency_mobile
+Admin, Teemworx (admin) --> 2017-08-10 03:54:18 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:18 --> applicants --> insert --> key_name -->  --> Contact Mobile
+Admin, Teemworx (admin) --> 2017-08-10 03:54:18 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:18 --> applicants --> insert --> key_id -->  --> 20
+Admin, Teemworx (admin) --> 2017-08-10 03:54:18 --> applicants --> insert --> key -->  --> emergency_address
+Admin, Teemworx (admin) --> 2017-08-10 03:54:18 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:18 --> applicants --> insert --> key_name -->  --> Contact Address
+Admin, Teemworx (admin) --> 2017-08-10 03:54:18 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:18 --> applicants --> insert --> key_id -->  --> 21
+Admin, Teemworx (admin) --> 2017-08-10 03:54:18 --> applicants --> insert --> key -->  --> emergency_city
+Admin, Teemworx (admin) --> 2017-08-10 03:54:18 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:18 --> applicants --> insert --> key_name -->  --> Contact City
+Admin, Teemworx (admin) --> 2017-08-10 03:54:18 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:18 --> applicants --> insert --> key_id -->  --> 92
+Admin, Teemworx (admin) --> 2017-08-10 03:54:19 --> applicants --> insert --> key -->  --> emergency_country
+Admin, Teemworx (admin) --> 2017-08-10 03:54:19 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:19 --> applicants --> insert --> key_name -->  --> Country
+Admin, Teemworx (admin) --> 2017-08-10 03:54:19 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:19 --> applicants --> insert --> key_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-08-10 03:54:19 --> applicants --> insert --> key -->  --> emergency_zip_code
+Admin, Teemworx (admin) --> 2017-08-10 03:54:19 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 03:54:19 --> applicants --> insert --> key_name -->  --> Contact Zip Code
+Admin, Teemworx (admin) --> 2017-08-10 04:00:35 --> applicants --> insert --> lastname -->  --> t

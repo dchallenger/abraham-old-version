@@ -1,0 +1,6 @@
+Admin, Teemworx (admin) --> 2018-06-04 13:43:36 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-06-04 13:44:33 --> authentication --> logout --> logout -->  --> 
+SERIO, PELMAR (31231) --> 2018-06-04 13:45:19 --> authentication --> login --> login -->  --> 
+() --> 2018-06-04 13:45:47 --> authentication --> logout --> logout -->  --> 
+SERIO, PELMAR (31231) --> 2018-06-04 14:39:21 --> authentication --> logout --> logout -->  --> 
+() --> 2018-06-04 14:39:23 --> authentication --> logout --> logout -->  --> 

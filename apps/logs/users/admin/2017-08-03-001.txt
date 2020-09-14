@@ -1,0 +1,35 @@
+2017-08-03 21:11:12 --> authentication --> login --> login -->  --> 
+2017-08-03 21:12:42 --> authentication --> logout --> logout -->  --> 
+2017-08-03 21:12:54 --> authentication --> login --> login -->  --> 
+2017-08-03 21:41:43 --> bonus --> insert --> bonus_transaction_id -->  --> 10
+2017-08-03 21:41:43 --> bonus --> insert --> payroll_date -->  --> 2017-06-06
+2017-08-03 21:41:43 --> bonus --> insert --> date_from -->  --> 2017-06-06
+2017-08-03 21:41:43 --> bonus --> insert --> date_to -->  --> 2017-06-06
+2017-08-03 21:41:43 --> bonus --> insert --> period -->  --> 1
+2017-08-03 21:41:43 --> bonus --> insert --> week -->  --> 2
+2017-08-03 21:41:43 --> bonus --> insert --> transaction_method_id -->  --> 3
+2017-08-03 21:41:43 --> bonus --> insert --> account_id -->  --> 21
+2017-08-03 21:41:43 --> bonus --> insert --> description -->  --> test
+2017-08-03 21:41:44 --> bonus --> insert --> taxable_bonus_transaction_id -->  --> 11
+2017-08-03 21:41:44 --> bonus --> delete --> payroll_bonus_employee - bonus_id --> 6 --> 
+2017-08-03 21:41:44 --> bonus --> insert --> bonus_id -->  --> 6
+2017-08-03 21:41:44 --> bonus --> insert --> employee_id -->  --> 434
+2017-08-03 21:41:44 --> bonus --> insert --> amount -->  --> O6›	›èHa'h¸BÇx
+2017-08-03 21:42:46 --> bonus --> delete --> payroll_bonus_employee - bonus_id --> 6 --> 
+2017-08-03 21:42:46 --> bonus --> insert --> bonus_id -->  --> 6
+2017-08-03 21:42:46 --> bonus --> insert --> employee_id -->  --> 434
+2017-08-03 21:42:47 --> bonus --> insert --> amount -->  --> O6›	›èHa'h¸BÇx
+2017-08-03 21:42:47 --> bonus --> insert --> bonus_id -->  --> 6
+2017-08-03 21:42:47 --> bonus --> insert --> employee_id -->  --> 23
+2017-08-03 21:42:47 --> bonus --> insert --> amount -->  --> O6›	›èHa'h¸BÇx
+2017-08-03 21:43:05 --> bonus --> delete --> payroll_bonus_employee - bonus_id --> 6 --> 
+2017-08-03 21:43:05 --> bonus --> insert --> bonus_id -->  --> 6
+2017-08-03 21:43:05 --> bonus --> insert --> employee_id -->  --> 434
+2017-08-03 21:43:05 --> bonus --> insert --> amount -->  --> O6›	›èHa'h¸BÇx
+2017-08-03 21:43:05 --> bonus --> insert --> bonus_id -->  --> 6
+2017-08-03 21:43:05 --> bonus --> insert --> employee_id -->  --> 23
+2017-08-03 21:43:05 --> bonus --> insert --> amount -->  --> O6›	›èHa'h¸BÇx
+2017-08-03 21:53:37 --> bonus --> delete --> payroll_bonus_employee - bonus_id --> 6 --> 
+2017-08-03 21:53:37 --> bonus --> insert --> bonus_id -->  --> 6
+2017-08-03 21:53:37 --> bonus --> insert --> employee_id -->  --> 434
+2017-08-03 21:53:37 --> bonus --> insert --> amount -->  --> O6›	›èHa'h¸BÇx

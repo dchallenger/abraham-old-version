@@ -1,0 +1,8 @@
+Admin, Teemworx (admin) --> 2018-01-26 05:21:24 --> report_generator --> insert --> report_code -->  --> BIR1604CF 7.1
+Admin, Teemworx (admin) --> 2018-01-26 05:21:25 --> report_generator --> insert --> report_name -->  --> BIR1604CF 7.1
+Admin, Teemworx (admin) --> 2018-01-26 05:21:26 --> report_generator --> insert --> description -->  --> BIR 1604CF Report (closed transaction - year end report)
+Admin, Teemworx (admin) --> 2018-01-26 05:21:26 --> report_generator --> insert --> category_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-01-26 05:21:26 --> report_generator --> insert --> roles -->  --> 1,2,8
+Admin, Teemworx (admin) --> 2018-01-26 20:27:31 --> authentication --> logout --> logout -->  --> 
+() --> 2018-01-26 20:27:33 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-26 20:28:00 --> authentication --> login --> login -->  --> 

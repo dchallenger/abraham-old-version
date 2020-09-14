@@ -1,0 +1,19 @@
+2017-11-26 06:12:38 --> applicant_monitoring --> insert --> reports_to -->  --> 434
+2017-11-26 06:12:38 --> applicant_monitoring --> insert --> employment_status_id -->  --> 7
+2017-11-26 06:12:38 --> applicant_monitoring --> insert --> no_months -->  --> 6
+2017-11-26 06:12:39 --> applicant_monitoring --> insert --> start_date -->  --> 2017-11-28
+2017-11-26 06:12:39 --> applicant_monitoring --> insert --> end_date -->  --> 2018-05-28
+2017-11-26 06:12:39 --> applicant_monitoring --> insert --> accept_offer -->  --> 1
+2017-11-26 06:12:39 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-26 06:12:39 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 1 --> 
+2017-11-26 06:12:49 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 1 --> 
+2017-11-26 06:12:49 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-26 06:12:49 --> applicant_monitoring --> insert --> benefit_id -->  --> 231
+2017-11-26 06:12:50 --> applicant_monitoring --> insert --> permanent -->  --> 0
+2017-11-26 06:12:50 --> applicant_monitoring --> insert --> amount -->  --> 5000
+2017-11-26 06:12:50 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+2017-11-26 06:12:50 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-26 06:12:50 --> applicant_monitoring --> insert --> benefit_id -->  --> 93
+2017-11-26 06:12:50 --> applicant_monitoring --> insert --> permanent -->  --> 1
+2017-11-26 06:12:50 --> applicant_monitoring --> insert --> amount -->  --> 6000
+2017-11-26 06:12:50 --> applicant_monitoring --> insert --> rate_id -->  --> 2

@@ -1,0 +1,39 @@
+Admin, Teemworx (admin) --> 2019-02-10 17:43:45 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-02-10 17:47:48 --> roles --> insert --> role -->  --> Payroll Admin Selected Company
+Admin, Teemworx (admin) --> 2019-02-10 17:47:48 --> roles --> insert --> profile_id -->  --> 5,6,12,14,25,27
+Admin, Teemworx (admin) --> 2019-02-10 17:48:58 --> authentication --> logout --> logout -->  --> 
+MALIGO, RAMIRO (33320) --> 2019-02-10 17:50:18 --> authentication --> login --> login -->  --> 
+MALIGO, RAMIRO (33320) --> 2019-02-10 17:51:06 --> authentication --> logout --> logout -->  --> 
+() --> 2019-02-10 17:51:07 --> authentication --> logout --> logout -->  --> 
+() --> 2019-02-10 17:51:08 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-02-10 17:51:13 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-02-10 17:59:20 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2019-02-10 17:59:25 --> authentication --> login --> login -->  --> 
+() --> 2019-02-10 17:59:28 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2019-02-10 18:00:42 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-02-10 18:00:51 --> authentication --> login --> login -->  --> 
+() --> 2019-02-10 18:01:35 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-02-10 18:04:16 --> authentication --> logout --> logout -->  --> 
+RAMIRO, ALENI (01967) --> 2019-02-10 18:04:30 --> authentication --> login --> login -->  --> 
+() --> 2019-02-10 18:04:33 --> authentication --> logout --> logout -->  --> 
+RAMIRO, ALENI (01967) --> 2019-02-10 18:04:49 --> authentication --> logout --> logout -->  --> 
+RAMIRO, ALENI (01967) --> 2019-02-10 18:12:33 --> authentication --> login --> login -->  --> 
+RAMIRO, ALENI (01967) --> 2019-02-10 18:13:43 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-02-10 18:13:55 --> authentication --> login --> login -->  --> 
+() --> 2019-02-10 18:13:56 --> authentication --> logout --> logout -->  --> 
+() --> 2019-02-10 18:13:57 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-02-10 18:30:21 --> authentication --> logout --> logout -->  --> 
+RAMIRO, ALENI (01967) --> 2019-02-10 18:30:33 --> authentication --> login --> login -->  --> 
+RAMIRO, ALENI (01967) --> 2019-02-10 18:31:30 --> authentication --> logout --> logout -->  --> 
+() --> 2019-02-10 18:31:31 --> authentication --> logout --> logout -->  --> 
+() --> 2019-02-10 18:31:32 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-02-10 18:31:37 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-02-10 18:33:07 --> authentication --> logout --> logout -->  --> 
+RAMIRO, ALENI (01967) --> 2019-02-10 18:34:15 --> authentication --> login --> login -->  --> 
+RAMIRO, ALENI (01967) --> 2019-02-10 18:35:35 --> authentication --> logout --> logout -->  --> 
+RAMIRO, ALENI (01967) --> 2019-02-10 18:39:30 --> authentication --> login --> login -->  --> 
+() --> 2019-02-10 18:39:31 --> authentication --> logout --> logout -->  --> 
+() --> 2019-02-10 18:39:35 --> authentication --> logout --> logout -->  --> 
+RAMIRO, ALENI (01967) --> 2019-02-10 18:41:44 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-02-10 18:41:56 --> authentication --> login --> login -->  --> 
+() --> 2019-02-10 18:44:49 --> authentication --> logout --> logout -->  --> 

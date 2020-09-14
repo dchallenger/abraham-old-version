@@ -1,0 +1,15 @@
+2017-04-06 09:44:56 --> authentication --> login --> login -->  --> 
+2017-04-06 09:47:26 --> authentication --> logout --> logout -->  --> 
+2017-04-06 10:26:20 --> authentication --> login --> login -->  --> 
+2017-04-06 03:41:45 --> report_generator --> insert --> report_code -->  --> Work Schedule
+2017-04-06 03:41:45 --> report_generator --> insert --> report_name -->  --> Work Schedule Report
+2017-04-06 03:41:45 --> report_generator --> insert --> category_id -->  --> 1
+2017-04-06 03:41:45 --> report_generator --> insert --> roles -->  --> 1,2
+2017-04-06 11:47:43 --> authentication --> logout --> logout -->  --> 
+2017-04-06 11:57:50 --> authentication --> login --> login -->  --> 
+2017-04-06 12:08:14 --> authentication --> logout --> logout -->  --> 
+2017-04-06 13:08:04 --> authentication --> login --> login -->  --> 
+2017-04-06 13:10:14 --> authentication --> logout --> logout -->  --> 
+2017-04-06 13:16:49 --> authentication --> login --> login -->  --> 
+2017-04-06 14:07:12 --> authentication --> logout --> logout -->  --> 
+2017-04-06 22:23:34 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,21 @@
+Admin, Teemworx (admin) --> 2017-05-14 10:22:18 --> clearance_sign --> insert --> layout_name -->  --> tes
+Admin, Teemworx (admin) --> 2017-05-14 10:56:49 --> clearance_sign --> insert --> layout_name -->  --> st
+Admin, Teemworx (admin) --> 2017-05-14 10:57:30 --> clearance_sign --> insert --> layout_name -->  --> dffd
+Admin, Teemworx (admin) --> 2017-05-14 10:59:27 --> clearance_sign --> insert --> layout_name -->  --> asdfsadf
+Admin, Teemworx (admin) --> 2017-05-14 11:02:12 --> clearance_sign --> insert --> layout_name -->  --> rrrr
+Admin, Teemworx (admin) --> 2017-05-14 11:33:02 --> clearance_sign --> insert --> layout_name -->  --> check
+Admin, Teemworx (admin) --> 2017-05-14 11:33:41 --> clearance_sign --> update --> layout_name -->  --> check
+Admin, Teemworx (admin) --> 2017-05-14 11:36:31 --> clearance_sign --> insert --> layout_name -->  --> afsdfdsdf
+Admin, Teemworx (admin) --> 2017-05-14 11:39:13 --> clearance_sign --> insert --> layout_name -->  --> asdfasdf
+Admin, Teemworx (admin) --> 2017-05-14 13:09:01 --> clearance_sign --> insert --> layout_name -->  --> sgsdfg
+Admin, Teemworx (admin) --> 2017-05-14 13:12:11 --> clearance_sign --> insert --> layout_name -->  --> sdfsdf
+Admin, Teemworx (admin) --> 2017-05-14 13:13:07 --> clearance_sign --> update --> layout_name -->  --> sdfsdf
+Admin, Teemworx (admin) --> 2017-05-14 13:16:00 --> clearance_sign --> update --> layout_name -->  --> sdfsdf
+Admin, Teemworx (admin) --> 2017-05-14 13:16:57 --> clearance_sign --> update --> layout_name -->  --> sdfsdf
+Admin, Teemworx (admin) --> 2017-05-14 13:24:22 --> clearance_sign --> insert --> layout_name -->  --> asdfadsf
+Admin, Teemworx (admin) --> 2017-05-14 13:25:13 --> clearance_sign --> update --> layout_name -->  --> asdfadsf
+Admin, Teemworx (admin) --> 2017-05-14 13:43:21 --> clearance_sign --> insert --> layout_name -->  --> Head Office
+Admin, Teemworx (admin) --> 2017-05-14 13:44:31 --> clearance_sign --> update --> layout_name -->  --> Head Office
+Admin, Teemworx (admin) --> 2017-05-14 14:59:10 --> clearance_sign --> update --> layout_name -->  --> Head Office
+Admin, Teemworx (admin) --> 2017-05-14 21:44:42 --> exit_interview_manager --> insert --> layout_name -->  --> Head Office
+Admin, Teemworx (admin) --> 2017-05-14 21:56:44 --> exit_interview_manager --> insert --> layout_name -->  --> Head Office

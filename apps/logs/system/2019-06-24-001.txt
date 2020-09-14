@@ -1,0 +1,89 @@
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:37 --> applicant_monitoring --> insert --> recruitment_date -->  --> 2019-06-24
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:40 --> applicant_monitoring --> insert --> title -->  --> Mr.
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:40 --> applicant_monitoring --> insert --> lastname -->  --> AGUILAR
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:40 --> applicant_monitoring --> insert --> firstname -->  --> RAYMOND
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:40 --> applicant_monitoring --> insert --> middlename -->  --> FERRER
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> email -->  --> raymond_a@legendpalawan.com.ph
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> birth_date -->  --> 1980-07-18
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> request_id -->  --> 12
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> partner_id -->  --> 773
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_id -->  --> 164
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key -->  --> position_sought
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_name -->  --> Position Sought
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_value -->  --> ACCOUNT EXECUTIVE
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_id -->  --> 167
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key -->  --> currently_employed
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_name -->  --> Currently Employed
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_value -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_id -->  --> 8
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key -->  --> civil_status
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_name -->  --> Civil Status
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_value -->  --> Married
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_id -->  --> 23
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key -->  --> gender
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_name -->  --> Gender
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_value -->  --> Male
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_id -->  --> 14
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key -->  --> organization
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_name -->  --> Organization
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_id -->  --> 11
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key -->  --> original_date_hired
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_name -->  --> Original Hired Date
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_id -->  --> 113
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key -->  --> pagibig_number
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_name -->  --> Pag-Ibig Number
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_value -->  --> 121009799851
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_id -->  --> 119
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key -->  --> philhealth_number
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_name -->  --> Philhealth Number
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_value -->  --> 090250242513
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key -->  --> probationary_date
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_name -->  --> Probationary Date
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_value -->  --> June 20, 2018
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_id -->  --> 110
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key -->  --> sss_number
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_name -->  --> SSS Number
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_value -->  --> 04-1964580-7
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_id -->  --> 128
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key -->  --> taxcode
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_name -->  --> Tax Status Code
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_value -->  --> 6
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_id -->  --> 116
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key -->  --> tin_number
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:44 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:44 --> applicant_monitoring --> insert --> key_name -->  --> TIN Number
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:44 --> applicant_monitoring --> insert --> key_value -->  --> 496807808
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:44 --> applicant_monitoring --> insert --> request_id -->  --> 12
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:44 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+ALICANTE, LISSA (30991) --> 2019-06-24 06:16:44 --> applicant_monitoring --> insert --> status_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-24 09:45:49 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-06-24 09:46:03 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-06-24 09:50:39 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2019-06-24 09:50:39 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2019-06-24 09:50:39 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2019-06-24 09:50:39 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2019-06-24 09:50:39 --> profiles --> edit --> profile_id -->  --> 1

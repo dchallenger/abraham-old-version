@@ -1,0 +1,16 @@
+Admin, System (admin) --> 2017-04-10 10:29:02 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-10 15:25:24 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-10 15:25:33 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-10 15:26:16 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-10 15:26:23 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-10 15:44:58 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-10 15:45:24 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-10 16:04:49 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-10 16:12:05 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-10 16:12:18 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-10 16:14:03 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-10 16:14:17 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-10 16:15:27 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-10 16:15:35 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-10 16:46:01 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-10 16:46:10 --> authentication --> login --> login -->  --> 

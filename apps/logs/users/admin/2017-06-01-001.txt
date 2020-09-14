@@ -1,0 +1,16 @@
+2017-06-01 09:34:47 --> authentication --> login --> login -->  --> 
+2017-06-01 09:38:08 --> authentication --> logout --> logout -->  --> 
+2017-06-01 09:40:09 --> authentication --> login --> login -->  --> 
+2017-06-01 09:42:20 --> leave_balance_admin --> insert --> year -->  --> 2017
+2017-06-01 09:42:20 --> leave_balance_admin --> insert --> user_id -->  --> 652
+2017-06-01 09:42:20 --> leave_balance_admin --> insert --> form_id -->  --> 6
+2017-06-01 09:42:20 --> leave_balance_admin --> insert --> previous -->  --> 0
+2017-06-01 09:42:20 --> leave_balance_admin --> insert --> current -->  --> 7
+2017-06-01 09:42:20 --> leave_balance_admin --> insert --> period_from -->  --> 2017-06-01
+2017-06-01 09:42:20 --> leave_balance_admin --> insert --> period_to -->  --> 2017-06-30
+2017-06-01 09:42:20 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+2017-06-01 09:42:26 --> authentication --> logout --> logout -->  --> 
+2017-06-01 12:46:02 --> authentication --> login --> login -->  --> 
+2017-06-01 16:38:20 --> authentication --> logout --> logout -->  --> 
+2017-06-01 16:53:34 --> authentication --> login --> login -->  --> 
+2017-06-01 21:36:11 --> authentication --> logout --> logout -->  --> 

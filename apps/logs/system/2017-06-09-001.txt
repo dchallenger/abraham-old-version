@@ -1,0 +1,32 @@
+POLONAN, MARIA LEE (31002) --> 2017-06-09 08:53:04 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-06-09 08:53:20 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-06-09 09:00:38 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-09 09:00:44 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-09 09:01:40 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-06-09 09:01:47 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-06-09 09:12:41 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-09 09:13:01 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-09 09:30:17 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-06-09 09:30:28 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-06-09 09:32:04 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-09 09:32:10 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-09 09:33:24 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-06-09 09:33:39 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-06-09 09:34:29 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-06-09 09:34:40 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-06-09 09:36:44 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-06-09 09:37:09 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-06-09 09:37:50 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-06-09 09:38:06 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-06-09 09:38:50 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-06-09 09:39:22 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-06-09 09:39:39 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-09 09:39:43 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-09 09:44:38 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-06-09 09:44:59 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-06-09 09:48:11 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-06-09 09:48:17 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-06-09 10:04:29 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-06-09 10:05:07 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-06-09 10:06:50 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-09 10:07:19 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,22 @@
+2018-04-22 13:45:27 --> authentication --> login --> login -->  --> 
+2018-04-22 13:48:56 --> authentication --> logout --> logout -->  --> 
+2018-04-22 14:13:49 --> authentication --> login --> login -->  --> 
+2018-04-22 14:14:21 --> authentication --> logout --> logout -->  --> 
+2018-04-22 14:16:51 --> authentication --> login --> login -->  --> 
+2018-04-22 14:30:36 --> performance_appraisal --> insert --> planning_id -->  --> 5
+2018-04-22 14:30:36 --> performance_appraisal --> insert --> date_from -->  --> 2018-04-01
+2018-04-22 14:30:36 --> performance_appraisal --> insert --> date_to -->  --> 2018-04-30
+2018-04-22 14:30:36 --> performance_appraisal --> insert --> year -->  --> 2018
+2018-04-22 14:30:36 --> performance_appraisal --> insert --> performance_type_id -->  --> 1
+2018-04-22 14:30:36 --> performance_appraisal --> insert --> template_id -->  --> 1
+2018-04-22 14:30:36 --> performance_appraisal --> insert --> employment_status_id -->  --> 3,1,2
+2018-04-22 14:30:37 --> performance_appraisal --> insert --> filter_by -->  --> 1
+2018-04-22 14:30:37 --> performance_appraisal --> insert --> filter_id -->  --> 1,2,3,13,4,6,5,7,12,10,8,9,11
+2018-04-22 14:30:37 --> performance_appraisal --> insert --> notes -->  --> test
+2018-04-22 14:30:37 --> performance_appraisal --> insert --> status_id -->  --> 1
+2018-04-22 14:31:39 --> authentication --> logout --> logout -->  --> 
+2018-04-22 15:57:31 --> authentication --> login --> login -->  --> 
+2018-04-22 16:00:06 --> appraisal_individual_rate --> update --> selfrate_date -->  --> 2018-04-22
+2018-04-22 16:00:26 --> authentication --> logout --> logout -->  --> 
+2018-04-22 16:03:52 --> authentication --> login --> login -->  --> 
+2018-04-22 16:05:03 --> authentication --> logout --> logout -->  --> 

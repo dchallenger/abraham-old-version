@@ -1,0 +1,39 @@
+2017-04-26 09:24:33 --> authentication --> logout --> logout -->  --> 
+2017-04-26 09:29:25 --> authentication --> login --> login -->  --> 
+2017-04-26 09:33:41 --> authentication --> logout --> logout -->  --> 
+2017-04-26 09:36:34 --> authentication --> login --> login -->  --> 
+2017-04-26 09:39:10 --> authentication --> logout --> logout -->  --> 
+2017-04-26 09:40:22 --> authentication --> login --> login -->  --> 
+2017-04-26 09:44:21 --> authentication --> logout --> logout -->  --> 
+2017-04-26 09:46:05 --> authentication --> login --> login -->  --> 
+2017-04-26 09:47:52 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+2017-04-26 09:48:55 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+2017-04-26 09:50:03 --> incident_manage --> update --> nte_complainants --> 0 --> 1
+2017-04-26 09:50:03 --> incident_manage --> update --> nte_witnesses --> 0 --> 1
+2017-04-26 09:50:04 --> incident_manage --> update --> nte_others --> 0 --> 1
+2017-04-26 09:50:04 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+2017-04-26 09:51:30 --> authentication --> logout --> logout -->  --> 
+2017-04-26 09:54:33 --> authentication --> login --> login -->  --> 
+2017-04-26 09:59:02 --> hearing_manage --> update --> incident_status_id --> 9 --> 10
+2017-04-26 10:06:36 --> authentication --> logout --> logout -->  --> 
+2017-04-26 10:08:38 --> authentication --> login --> login -->  --> 
+2017-04-26 10:09:17 --> incident_manage --> update --> nte_complainants --> 0 --> 1
+2017-04-26 10:09:17 --> incident_manage --> update --> nte_witnesses --> 0 --> 1
+2017-04-26 10:09:17 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+2017-04-26 10:09:41 --> authentication --> logout --> logout -->  --> 
+2017-04-26 10:10:38 --> authentication --> login --> login -->  --> 
+2017-04-26 10:11:26 --> hearing_manage --> update --> incident_status_id --> 9 --> 10
+2017-04-26 10:12:04 --> authentication --> logout --> logout -->  --> 
+2017-04-26 10:16:18 --> authentication --> login --> login -->  --> 
+2017-04-26 10:21:01 --> authentication --> logout --> logout -->  --> 
+2017-04-26 11:09:27 --> authentication --> login --> login -->  --> 
+2017-04-26 11:09:56 --> disciplinary_manage --> update --> incident_status_id --> 10 --> 6
+2017-04-26 11:09:56 --> disciplinary_manage --> update --> status --> Open --> Close
+2017-04-26 11:10:08 --> authentication --> logout --> logout -->  --> 
+2017-04-26 11:11:21 --> authentication --> login --> login -->  --> 
+2017-04-26 11:12:06 --> incident_manage --> update --> nte_complainants --> 0 --> 1
+2017-04-26 11:12:06 --> incident_manage --> update --> nte_witnesses --> 0 --> 1
+2017-04-26 11:12:06 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+2017-04-26 11:12:09 --> authentication --> logout --> logout -->  --> 
+2017-04-26 11:13:10 --> authentication --> login --> login -->  --> 
+2017-04-26 11:46:17 --> authentication --> logout --> logout -->  --> 

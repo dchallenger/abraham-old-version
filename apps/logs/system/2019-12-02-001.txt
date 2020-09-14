@@ -1,0 +1,4 @@
+Admin, Teemworx (admin) --> 2019-12-02 21:39:33 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-12-02 21:39:42 --> authentication --> login --> login -->  --> 
+RIVERA, REX BRYAN (33717) --> 2019-12-02 04:49:43 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-12-02 04:49:53 --> authentication --> login --> login -->  --> 

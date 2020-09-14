@@ -1,0 +1,10 @@
+2017-03-26 13:57:20 --> branch --> update --> status_id --> 1 --> 0
+2017-03-26 14:35:36 --> authentication --> logout --> logout -->  --> 
+2017-03-26 15:10:08 --> authentication --> login --> login -->  --> 
+2017-03-26 15:29:09 --> authentication --> logout --> logout -->  --> 
+2017-03-26 16:31:16 --> authentication --> login --> login -->  --> 
+2017-03-26 18:00:17 --> weeklyshift --> update --> default --> 0 --> 1
+2017-03-26 18:43:40 --> authentication --> logout --> logout -->  --> 
+2017-03-26 19:05:37 --> authentication --> login --> login -->  --> 
+2017-03-26 19:07:00 --> authentication --> logout --> logout -->  --> 
+2017-03-26 19:08:40 --> authentication --> login --> login -->  --> 

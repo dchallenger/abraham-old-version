@@ -1,0 +1,42 @@
+2018-04-07 20:42:20 --> appraisal_template --> insert --> template_id -->  --> 1
+2018-04-07 20:42:20 --> appraisal_template --> insert --> template_section -->  --> PART 2 : FEEDBACK ON PERFORMANCE
+2018-04-07 20:42:20 --> appraisal_template --> insert --> parent_id -->  --> 1
+2018-04-07 20:42:20 --> appraisal_template --> insert --> sequence -->  --> 2
+2018-04-07 20:42:20 --> appraisal_template --> insert --> weight -->  --> 10
+2018-04-07 20:42:20 --> appraisal_template --> insert --> section_type_id -->  --> 2
+2018-04-07 20:44:14 --> appraisal_template --> insert --> template_section_id -->  --> 3
+2018-04-07 20:44:14 --> appraisal_template --> insert --> title -->  --> ASSESSMENT AREA
+2018-04-07 20:44:14 --> appraisal_template --> insert --> sequence -->  --> 1
+2018-04-07 20:44:14 --> appraisal_template --> insert --> width -->  --> 25
+2018-04-07 20:44:14 --> appraisal_template --> insert --> uitype_id -->  --> 3
+2018-04-07 20:44:55 --> appraisal_template --> insert --> template_section_id -->  --> 3
+2018-04-07 20:44:55 --> appraisal_template --> insert --> title -->  --> INDICATOR
+2018-04-07 20:44:55 --> appraisal_template --> insert --> sequence -->  --> 2
+2018-04-07 20:44:55 --> appraisal_template --> insert --> width -->  --> 26
+2018-04-07 20:44:55 --> appraisal_template --> insert --> uitype_id -->  --> 3
+2018-04-07 20:45:23 --> appraisal_template --> insert --> template_section_id -->  --> 3
+2018-04-07 20:45:23 --> appraisal_template --> insert --> title -->  --> WEIGHT
+2018-04-07 20:45:23 --> appraisal_template --> insert --> sequence -->  --> 3
+2018-04-07 20:45:23 --> appraisal_template --> insert --> width -->  --> 7
+2018-04-07 20:45:23 --> appraisal_template --> insert --> uitype_id -->  --> 7
+2018-04-07 20:45:50 --> appraisal_template --> insert --> template_section_id -->  --> 3
+2018-04-07 20:45:50 --> appraisal_template --> insert --> title -->  --> COMMENTS
+2018-04-07 20:45:50 --> appraisal_template --> insert --> sequence -->  --> 4
+2018-04-07 20:45:50 --> appraisal_template --> insert --> width -->  --> 25
+2018-04-07 20:45:50 --> appraisal_template --> insert --> uitype_id -->  --> 3
+2018-04-07 20:46:16 --> appraisal_template --> insert --> template_section_id -->  --> 3
+2018-04-07 20:46:16 --> appraisal_template --> insert --> title -->  --> POINTS
+2018-04-07 20:46:16 --> appraisal_template --> insert --> sequence -->  --> 5
+2018-04-07 20:46:17 --> appraisal_template --> insert --> width -->  --> 10
+2018-04-07 20:46:17 --> appraisal_template --> insert --> uitype_id -->  --> 9
+2018-04-07 20:47:20 --> appraisal_template --> insert --> template_section_id -->  --> 3
+2018-04-07 20:47:20 --> appraisal_template --> insert --> title -->  --> RATING
+2018-04-07 20:47:20 --> appraisal_template --> insert --> sequence -->  --> 6
+2018-04-07 20:47:20 --> appraisal_template --> insert --> width -->  --> 7
+2018-04-07 20:47:20 --> appraisal_template --> insert --> uitype_id -->  --> 5
+2018-04-07 20:47:20 --> appraisal_template --> insert --> rating_group_id -->  --> 1
+2018-04-07 22:50:57 --> appraisal_template --> insert --> template_id -->  --> 1
+2018-04-07 22:50:57 --> appraisal_template --> insert --> template_section -->  --> PART 3 : PERSONAL DEVELOPMENT PLAN
+2018-04-07 22:50:57 --> appraisal_template --> insert --> parent_id -->  --> 1
+2018-04-07 22:50:57 --> appraisal_template --> insert --> sequence -->  --> 3
+2018-04-07 22:50:57 --> appraisal_template --> insert --> section_type_id -->  --> 5

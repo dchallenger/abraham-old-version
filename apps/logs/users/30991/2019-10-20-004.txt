@@ -1,0 +1,121 @@
+2019-10-20 05:27:01 --> applicants --> insert --> key_name -->  --> Occupation
+2019-10-20 05:27:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+2019-10-20 05:27:01 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:27:01 --> applicants --> insert --> key_id -->  --> 136
+2019-10-20 05:27:01 --> applicants --> insert --> key -->  --> family-employer
+2019-10-20 05:27:02 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:27:02 --> applicants --> insert --> key_name -->  --> Employer
+2019-10-20 05:35:53 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+2019-10-20 05:35:53 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:35:53 --> applicants --> insert --> key_id -->  --> 33
+2019-10-20 05:35:53 --> applicants --> insert --> key -->  --> education-type
+2019-10-20 05:35:53 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:35:53 --> applicants --> insert --> key_name -->  --> Type
+2019-10-20 05:35:53 --> applicants --> insert --> key_value -->  --> Graduate Studies
+2019-10-20 05:35:53 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+2019-10-20 05:35:53 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:35:53 --> applicants --> insert --> key_id -->  --> 34
+2019-10-20 05:35:53 --> applicants --> insert --> key -->  --> education-school
+2019-10-20 05:35:53 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:35:53 --> applicants --> insert --> key_name -->  --> School
+2019-10-20 05:35:54 --> applicants --> insert --> key_value -->  --> AMA
+2019-10-20 05:35:54 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+2019-10-20 05:35:54 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:35:54 --> applicants --> insert --> key_id -->  --> 35
+2019-10-20 05:35:54 --> applicants --> insert --> key -->  --> education-year-from
+2019-10-20 05:35:54 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:35:54 --> applicants --> insert --> key_name -->  --> Year From
+2019-10-20 05:35:54 --> applicants --> insert --> key_value -->  --> 2016
+2019-10-20 05:35:54 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+2019-10-20 05:35:54 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:35:54 --> applicants --> insert --> key_id -->  --> 36
+2019-10-20 05:35:54 --> applicants --> insert --> key -->  --> education-year-to
+2019-10-20 05:35:54 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:35:54 --> applicants --> insert --> key_name -->  --> Year To
+2019-10-20 05:35:54 --> applicants --> insert --> key_value -->  --> 2020
+2019-10-20 05:35:54 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+2019-10-20 05:35:54 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:35:54 --> applicants --> insert --> key_id -->  --> 37
+2019-10-20 05:35:54 --> applicants --> insert --> key -->  --> education-degree
+2019-10-20 05:35:54 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:35:54 --> applicants --> insert --> key_name -->  --> Degree
+2019-10-20 05:35:54 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+2019-10-20 05:35:54 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:35:54 --> applicants --> insert --> key_id -->  --> 38
+2019-10-20 05:35:55 --> applicants --> insert --> key -->  --> education-status
+2019-10-20 05:35:55 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:35:55 --> applicants --> insert --> key_name -->  --> Status
+2019-10-20 05:35:55 --> applicants --> insert --> key_value -->  --> Graduated
+2019-10-20 05:35:55 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+2019-10-20 05:35:55 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:35:55 --> applicants --> insert --> key_id -->  --> 180
+2019-10-20 05:35:55 --> applicants --> insert --> key -->  --> education-lastsem-attended
+2019-10-20 05:35:55 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:35:55 --> applicants --> insert --> key_name -->  --> Last SY and Sem
+2019-10-20 05:35:55 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+2019-10-20 05:35:55 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:35:55 --> applicants --> insert --> key_id -->  --> 131
+2019-10-20 05:35:55 --> applicants --> insert --> key -->  --> education-honors_awards
+2019-10-20 05:35:55 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:35:55 --> applicants --> insert --> key_name -->  --> Honors/Awards
+2019-10-20 13:38:15 --> applicant_monitoring --> insert --> recruitment_date -->  --> 2019-10-20
+2019-10-20 13:38:15 --> applicant_monitoring --> insert --> title -->  --> Miss
+2019-10-20 13:38:15 --> applicant_monitoring --> insert --> lastname -->  --> JOSE
+2019-10-20 13:38:15 --> applicant_monitoring --> insert --> firstname -->  --> MYLENE
+2019-10-20 13:38:15 --> applicant_monitoring --> insert --> middlename -->  --> L.
+2019-10-20 13:38:15 --> applicant_monitoring --> insert --> nickname -->  --> MYLENE
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> email -->  --> mylene_j@livingangels.edu.ph
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> birth_date -->  --> 1995-01-15
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> request_id -->  --> 22
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> partner_id -->  --> 351
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_id -->  --> 164
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key -->  --> position_sought
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_name -->  --> Position Sought
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_value -->  --> ACCOUNT EXECUTIVE
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_id -->  --> 167
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key -->  --> currently_employed
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_name -->  --> Currently Employed
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_value -->  --> 1
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_id -->  --> 1
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key -->  --> address_1
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_name -->  --> Street
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_value -->  --> 402 TILAPAYONG BALIWAG BULACAN
+2019-10-20 13:38:16 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_id -->  --> 24
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key -->  --> birth_place
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_name -->  --> Birth Place
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_id -->  --> 3
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key -->  --> city_town
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_name -->  --> City/Town
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_id -->  --> 8
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key -->  --> civil_status
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_name -->  --> Civil Status
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_value -->  --> Single
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_id -->  --> 4
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key -->  --> country
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_name -->  --> Country
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_value -->  --> Philippines
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_id -->  --> 20
+2019-10-20 13:38:18 --> applicant_monitoring --> insert --> key -->  --> emergency_address
+2019-10-20 13:38:18 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 13:38:18 --> applicant_monitoring --> insert --> key_name -->  --> Contact Address
+2019-10-20 13:38:18 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-10-20 13:38:18 --> applicant_monitoring --> insert --> key_id -->  --> 21
+2019-10-20 13:38:18 --> applicant_monitoring --> insert --> key -->  --> emergency_city
+2019-10-20 13:38:18 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 13:38:18 --> applicant_monitoring --> insert --> key_name -->  --> Contact City
+2019-10-20 13:38:18 --> applicant_monitoring --> insert --> recruit_id -->  --> 11

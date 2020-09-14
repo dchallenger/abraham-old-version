@@ -1,0 +1,4 @@
+DE LEON, LISSA (30991) --> 2017-05-29 12:55:32 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-29 13:02:54 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-29 23:33:43 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-29 23:33:51 --> authentication --> login --> login -->  --> 

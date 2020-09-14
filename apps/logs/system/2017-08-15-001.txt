@@ -1,0 +1,20 @@
+Admin, Teemworx (admin) --> 2017-08-15 10:54:30 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-08-15 11:29:09 --> authentication --> logout --> logout -->  --> 
+() --> 2017-08-15 11:29:14 --> authentication --> logout --> logout -->  --> 
+CARMEN, MA RITA (00108) --> 2017-08-15 11:29:34 --> authentication --> login --> login -->  --> 
+() --> 2017-08-15 11:35:08 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-08-15 12:18:14 --> authentication --> logout --> logout -->  --> 
+TOPIA, DIWATA (00897) --> 2017-08-15 12:18:46 --> authentication --> login --> login -->  --> 
+() --> 2017-08-15 12:18:49 --> authentication --> logout --> logout -->  --> 
+TOPIA, DIWATA (00897) --> 2017-08-15 14:51:30 --> authentication --> logout --> logout -->  --> 
+PALILEO, GYPSY ANNE (31195) --> 2017-08-15 14:52:09 --> authentication --> login --> login -->  --> 
+() --> 2017-08-15 14:52:12 --> authentication --> logout --> logout -->  --> 
+PALILEO, GYPSY ANNE (31195) --> 2017-08-15 14:53:09 --> authentication --> logout --> logout -->  --> 
+() --> 2017-08-15 14:53:34 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-08-15 14:53:43 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-08-15 15:27:36 --> authentication --> logout --> logout -->  --> 
+PALILEO, GYPSY ANNE (31195) --> 2017-08-15 15:27:48 --> authentication --> login --> login -->  --> 
+() --> 2017-08-15 15:27:55 --> authentication --> logout --> logout -->  --> 
+PALILEO, GYPSY ANNE (31195) --> 2017-08-15 16:22:07 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-08-15 16:22:20 --> authentication --> login --> login -->  --> 
+() --> 2017-08-15 16:28:45 --> authentication --> logout --> logout -->  --> 

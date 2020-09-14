@@ -1,0 +1,19 @@
+2017-04-19 12:18:26 --> authentication --> login --> login -->  --> 
+2017-04-19 12:23:47 --> authentication --> logout --> logout -->  --> 
+2017-04-19 12:34:18 --> authentication --> login --> login -->  --> 
+2017-04-19 12:35:56 --> authentication --> logout --> logout -->  --> 
+2017-04-19 12:51:51 --> authentication --> login --> login -->  --> 
+2017-04-19 12:52:04 --> authentication --> update --> users - hash --> $2a$08$h/t7j9cqtGT5OXPL0cW7T.eykXmtkq/X1A0a.4y.kgIKRrbAqT7.u --> $2a$08$sumlp9tgLWFBUaHtCaa.5uqltu0Ukx0blgGQT.x8fne/baXrgmAx.
+2017-04-19 12:52:33 --> authentication --> logout --> logout -->  --> 
+2017-04-19 13:07:57 --> authentication --> login --> login -->  --> 
+2017-04-19 13:10:45 --> authentication --> logout --> logout -->  --> 
+2017-04-19 13:34:50 --> authentication --> login --> login -->  --> 
+2017-04-19 13:37:25 --> authentication --> logout --> logout -->  --> 
+2017-04-19 13:51:20 --> authentication --> login --> login -->  --> 
+2017-04-19 13:53:43 --> authentication --> logout --> logout -->  --> 
+2017-04-19 13:55:24 --> authentication --> login --> login -->  --> 
+2017-04-19 14:02:37 --> authentication --> logout --> logout -->  --> 
+2017-04-19 14:45:46 --> authentication --> login --> login -->  --> 
+2017-04-19 14:47:32 --> authentication --> logout --> logout -->  --> 
+2017-04-19 16:04:18 --> authentication --> login --> login -->  --> 
+2017-04-19 16:04:49 --> authentication --> logout --> logout -->  --> 

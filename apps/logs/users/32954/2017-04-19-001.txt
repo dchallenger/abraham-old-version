@@ -1,0 +1,47 @@
+2017-04-19 12:14:32 --> authentication --> login --> login -->  --> 
+2017-04-19 12:17:57 --> incident_report --> insert --> involved_partners -->  --> 41
+2017-04-19 12:17:57 --> incident_report --> insert --> offense_id -->  --> 1
+2017-04-19 12:17:57 --> incident_report --> insert --> complainants -->  --> 93
+2017-04-19 12:17:57 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-19 12:16:00
+2017-04-19 12:17:57 --> incident_report --> insert --> witnesses -->  --> 15
+2017-04-19 12:17:57 --> incident_report --> insert --> incident_status_id -->  --> 2
+2017-04-19 12:17:57 --> incident_report --> insert --> date_sent -->  --> 2017-04-19 12:17:57
+2017-04-19 12:18:12 --> authentication --> logout --> logout -->  --> 
+2017-04-19 12:23:58 --> authentication --> login --> login -->  --> 
+2017-04-19 12:26:32 --> incident_report --> insert --> involved_partners -->  --> 41
+2017-04-19 12:26:32 --> incident_report --> insert --> offense_id -->  --> 1
+2017-04-19 12:26:32 --> incident_report --> insert --> complainants -->  --> 93
+2017-04-19 12:26:32 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-19 12:26:00
+2017-04-19 12:26:32 --> incident_report --> insert --> witnesses -->  --> 15
+2017-04-19 12:26:32 --> incident_report --> insert --> incident_status_id -->  --> 2
+2017-04-19 12:26:32 --> incident_report --> insert --> date_sent -->  --> 2017-04-19 12:26:32
+2017-04-19 12:28:32 --> incident_report --> insert --> involved_partners -->  --> 41
+2017-04-19 12:28:32 --> incident_report --> insert --> offense_id -->  --> 1
+2017-04-19 12:28:32 --> incident_report --> insert --> complainants -->  --> 93
+2017-04-19 12:28:32 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-19 12:00:00
+2017-04-19 12:28:32 --> incident_report --> insert --> witnesses -->  --> 15
+2017-04-19 12:28:32 --> incident_report --> insert --> incident_status_id -->  --> 2
+2017-04-19 12:28:32 --> incident_report --> insert --> date_sent -->  --> 2017-04-19 12:28:32
+2017-04-19 12:34:08 --> authentication --> logout --> logout -->  --> 
+2017-04-19 12:36:09 --> authentication --> login --> login -->  --> 
+2017-04-19 12:36:56 --> authentication --> logout --> logout -->  --> 
+2017-04-19 12:39:05 --> authentication --> login --> login -->  --> 
+2017-04-19 12:39:30 --> authentication --> update --> users - hash --> $2a$08$iXXxY4Kq.CTeZjn.60TWb.oLGRtde465v/h2i7PJZHGulJrSDk8IO --> $2a$08$aZZrKe5lNZMnsb3edmecMOfPxHFgAszHxpIn3kUR/U7Od9Olgt4Zu
+2017-04-19 12:51:41 --> authentication --> logout --> logout -->  --> 
+2017-04-19 13:06:27 --> authentication --> login --> login -->  --> 
+2017-04-19 13:07:48 --> authentication --> logout --> logout -->  --> 
+2017-04-19 13:37:37 --> authentication --> login --> login -->  --> 
+2017-04-19 13:38:53 --> authentication --> logout --> logout -->  --> 
+2017-04-19 13:53:56 --> authentication --> login --> login -->  --> 
+2017-04-19 13:54:57 --> authentication --> logout --> logout -->  --> 
+2017-04-19 14:47:42 --> authentication --> login --> login -->  --> 
+2017-04-19 14:48:32 --> authentication --> logout --> logout -->  --> 
+2017-04-19 15:58:25 --> authentication --> login --> login -->  --> 
+2017-04-19 15:59:11 --> incident_report --> insert --> involved_partners -->  --> 41
+2017-04-19 15:59:11 --> incident_report --> insert --> offense_id -->  --> 1
+2017-04-19 15:59:11 --> incident_report --> insert --> complainants -->  --> 93
+2017-04-19 15:59:11 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-27 15:14:00
+2017-04-19 15:59:11 --> incident_report --> insert --> witnesses -->  --> 15
+2017-04-19 15:59:11 --> incident_report --> insert --> incident_status_id -->  --> 2
+2017-04-19 15:59:11 --> incident_report --> insert --> date_sent -->  --> 2017-04-19 15:59:11
+2017-04-19 15:59:16 --> authentication --> logout --> logout -->  --> 

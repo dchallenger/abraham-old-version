@@ -1,0 +1,5 @@
+Admin, Teemworx (admin) --> 2018-01-07 05:20:11 --> authentication --> logout --> logout -->  --> 
+CARMEN, MA RITA (00108) --> 2018-01-07 05:20:18 --> authentication --> login --> login -->  --> 
+() --> 2018-01-07 05:21:08 --> authentication --> logout --> logout -->  --> 
+CARMEN, MA RITA (00108) --> 2018-01-07 05:22:21 --> authentication --> logout --> logout -->  --> 
+() --> 2018-01-07 05:22:35 --> authentication --> logout --> logout -->  --> 

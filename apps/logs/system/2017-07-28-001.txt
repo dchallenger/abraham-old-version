@@ -1,0 +1,24 @@
+CASTRO, RANDY (32904) --> 2017-07-28 10:43:11 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-28 11:48:02 --> form_policy --> delete --> id --> 48 --> 
+Admin, Teemworx (admin) --> 2017-07-28 11:48:37 --> form_policy --> update --> class_id --> 298 --> 299
+Admin, Teemworx (admin) --> 2017-07-28 11:48:37 --> form_policy --> update --> class_value --> 2 --> 3
+Admin, Teemworx (admin) --> 2017-07-28 11:48:57 --> form_policy --> delete --> id --> 85 --> 
+Admin, Teemworx (admin) --> 2017-07-28 11:49:15 --> form_policy --> delete --> id --> 47 --> 
+Admin, Teemworx (admin) --> 2017-07-28 11:49:26 --> form_policy --> update --> class_value --> 66 --> 3
+Admin, Teemworx (admin) --> 2017-07-28 11:50:50 --> form_policy --> insert --> class_id -->  --> 307
+Admin, Teemworx (admin) --> 2017-07-28 11:50:50 --> form_policy --> insert --> class_value -->  --> 3
+Admin, Teemworx (admin) --> 2017-07-28 11:50:50 --> form_policy --> insert --> description -->  --> test
+Admin, Teemworx (admin) --> 2017-07-28 11:50:50 --> form_policy --> insert --> severity -->  --> Strict Compliance
+Admin, Teemworx (admin) --> 2017-07-28 11:50:51 --> form_policy --> insert --> company_id -->  --> 1,2,3,4,5,6,7,8,9,10,11,12,13
+Admin, Teemworx (admin) --> 2017-07-28 11:51:09 --> form_policy --> delete --> id --> 162 --> 
+Admin, Teemworx (admin) --> 2017-07-28 12:20:34 --> form_policy --> insert --> class_id -->  --> 303
+Admin, Teemworx (admin) --> 2017-07-28 12:20:34 --> form_policy --> insert --> class_value -->  --> 3
+Admin, Teemworx (admin) --> 2017-07-28 12:20:34 --> form_policy --> insert --> severity -->  --> Strict Compliance
+Admin, Teemworx (admin) --> 2017-07-28 12:20:34 --> form_policy --> insert --> company_id -->  --> 1,2,3,4,5,6,7,8,9,10,11,12,13
+Admin, Teemworx (admin) --> 2017-07-28 12:20:55 --> form_policy --> delete --> id --> 164 --> 
+Admin, Teemworx (admin) --> 2017-07-28 12:51:35 --> authentication --> logout --> logout -->  --> 
+CASONGGAY, STEPHANIE (01659) --> 2017-07-28 12:51:41 --> authentication --> login --> login -->  --> 
+() --> 2017-07-28 12:51:44 --> authentication --> logout --> logout -->  --> 
+CASONGGAY, STEPHANIE (01659) --> 2017-07-28 13:52:08 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-28 13:52:22 --> authentication --> login --> login -->  --> 
+() --> 2017-07-28 13:53:32 --> authentication --> logout --> logout -->  --> 

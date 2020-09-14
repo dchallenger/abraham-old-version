@@ -1,0 +1,18 @@
+() --> 2017-12-03 03:56:04 --> authentication --> logout --> logout -->  --> 
+() --> 2017-12-03 03:56:12 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-12-03 03:57:41 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-03 04:59:22 --> leave_conversion --> update --> form_id --> 2 --> 22
+Admin, Teemworx (admin) --> 2017-12-03 04:59:39 --> leave_conversion --> update --> form_id --> 2 --> 22
+Admin, Teemworx (admin) --> 2017-12-03 05:13:03 --> payroll_period --> insert --> date_from -->  --> 2017-12-22
+Admin, Teemworx (admin) --> 2017-12-03 05:13:03 --> payroll_period --> insert --> date_to -->  --> 2017-12-22
+Admin, Teemworx (admin) --> 2017-12-03 05:13:03 --> payroll_period --> insert --> payroll_date -->  --> 2017-12-22
+Admin, Teemworx (admin) --> 2017-12-03 05:13:03 --> payroll_period --> insert --> posting_date -->  --> 2017-12-22
+Admin, Teemworx (admin) --> 2017-12-03 05:13:03 --> payroll_period --> insert --> apply_to_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-12-03 05:13:03 --> payroll_period --> insert --> period_processing_type_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-12-03 05:13:03 --> payroll_period --> insert --> payroll_schedule_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-12-03 05:13:03 --> payroll_period --> insert --> week -->  --> 4
+Admin, Teemworx (admin) --> 2017-12-03 05:13:03 --> payroll_period --> insert --> remarks -->  --> test
+Admin, Teemworx (admin) --> 2017-12-03 05:13:03 --> payroll_period --> insert --> period_status_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-12-03 05:30:14 --> payroll_period --> update --> apply_to_id --> 1 --> 2
+Admin, Teemworx (admin) --> 2017-12-03 05:49:59 --> payroll_period --> update --> apply_to_id --> 2 --> 1
+Admin, Teemworx (admin) --> 2017-12-03 06:00:30 --> payroll_period --> update --> apply_to_id --> 1 --> 2

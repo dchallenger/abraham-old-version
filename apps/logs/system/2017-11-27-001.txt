@@ -1,0 +1,28 @@
+Admin, Teemworx (admin) --> 2017-11-27 13:29:56 --> authentication --> logout --> logout -->  --> 
+() --> 2017-11-27 13:30:15 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-27 13:32:19 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-27 13:57:27 --> authentication --> logout --> logout -->  --> 
+MALCO, ALEX (01449) --> 2017-11-27 13:57:40 --> authentication --> login --> login -->  --> 
+MALCO, ALEX (01449) --> 2017-11-27 13:58:24 --> authentication --> logout --> logout -->  --> 
+() --> 2017-11-27 13:58:25 --> authentication --> logout --> logout -->  --> 
+() --> 2017-11-27 13:58:27 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-27 13:59:12 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-27 14:07:55 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-27 14:08:19 --> authentication --> logout --> logout -->  --> 
+() --> 2017-11-27 14:08:22 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-11-27 14:08:36 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-11-27 14:09:30 --> authentication --> logout --> logout -->  --> 
+() --> 2017-11-27 14:09:32 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-27 14:09:36 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-27 14:13:22 --> payroll_period --> insert --> date_from -->  --> 2017-08-30
+Admin, Teemworx (admin) --> 2017-11-27 14:13:22 --> payroll_period --> insert --> date_to -->  --> 2017-08-30
+Admin, Teemworx (admin) --> 2017-11-27 14:13:22 --> payroll_period --> insert --> payroll_date -->  --> 2017-11-30
+Admin, Teemworx (admin) --> 2017-11-27 14:13:22 --> payroll_period --> insert --> posting_date -->  --> 2017-11-30
+Admin, Teemworx (admin) --> 2017-11-27 14:13:22 --> payroll_period --> insert --> apply_to_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-27 14:13:22 --> payroll_period --> insert --> period_processing_type_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-11-27 14:13:22 --> payroll_period --> insert --> payroll_schedule_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-11-27 14:13:22 --> payroll_period --> insert --> week -->  --> 4
+Admin, Teemworx (admin) --> 2017-11-27 14:13:22 --> payroll_period --> insert --> remarks -->  --> test
+Admin, Teemworx (admin) --> 2017-11-27 14:13:22 --> payroll_period --> insert --> period_status_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-27 14:33:54 --> payroll_period --> update --> date_from --> 2017-08-30 --> 2017-09-01
+Admin, Teemworx (admin) --> 2017-11-27 14:33:54 --> payroll_period --> update --> date_to --> 2017-08-30 --> 2017-09-30

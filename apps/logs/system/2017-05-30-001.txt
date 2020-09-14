@@ -1,0 +1,63 @@
+Admin, Teemworx (admin) --> 2017-05-30 10:08:58 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 10:09:05 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 10:14:17 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 10:14:17 --> incident_report --> insert --> offense_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 10:14:17 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 10:14:17 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-05-30 10:13:00
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 10:14:17 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 10:14:17 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 10:14:17 --> incident_report --> insert --> date_sent -->  --> 2017-05-30 10:14:17
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 10:14:23 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 10:14:37 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 10:16:10 --> incident_manage --> update --> nte_complainants --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 10:16:10 --> incident_manage --> update --> nte_witnesses --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 10:16:10 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 10:20:48 --> authentication --> logout --> logout -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-05-30 10:21:02 --> authentication --> login --> login -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-05-30 10:22:23 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 10:22:36 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 10:25:14 --> authentication --> logout --> logout -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-05-30 10:25:29 --> authentication --> login --> login -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-05-30 10:37:24 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 10:37:28 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 10:47:42 --> disciplinary_manage --> update --> incident_status_id --> 9 --> 6
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 10:47:42 --> disciplinary_manage --> update --> status --> Open --> Close
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 10:47:47 --> authentication --> logout --> logout -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-05-30 10:48:01 --> authentication --> login --> login -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-05-30 10:58:16 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-30 10:58:29 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-30 14:59:25 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 14:59:35 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 15:00:17 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 15:00:17 --> incident_report --> insert --> offense_id -->  --> 4
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 15:00:17 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 15:00:17 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-05-30 14:00:00
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 15:00:17 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 15:00:17 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 15:00:17 --> incident_report --> insert --> date_sent -->  --> 2017-05-30 15:00:17
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 15:00:26 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 15:00:32 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 15:00:59 --> incident_manage --> update --> status --> Open --> Close
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 15:00:59 --> incident_manage --> update --> incident_status_id --> 2 --> 6
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 15:01:06 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 15:33:25 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 20:15:27 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 20:15:32 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 20:19:28 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-30 20:19:40 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-30 20:20:45 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-05-30 20:21:20 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-05-30 20:22:00 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-05-30 20:22:33 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-05-30 20:28:56 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 20:29:01 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-30 20:30:08 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-30 20:30:12 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-30 20:31:14 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 20:31:28 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-30 20:31:57 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-05-30 20:32:16 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-05-30 20:33:25 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-05-30 20:34:34 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-05-30 20:35:10 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-05-30 20:35:27 --> authentication --> login --> login -->  --> 

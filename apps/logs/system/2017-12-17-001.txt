@@ -1,0 +1,32 @@
+Admin, Teemworx (admin) --> 2017-12-17 10:53:40 --> authentication --> logout --> logout -->  --> 
+() --> 2017-12-17 10:53:41 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-12-17 10:53:45 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-17 13:41:27 --> leave_conversion --> update --> employment_type_id --> 0 --> 6
+Admin, Teemworx (admin) --> 2017-12-17 13:41:51 --> leave_conversion --> update --> employment_type_id --> 0 --> 6
+Admin, Teemworx (admin) --> 2017-12-17 13:52:15 --> leave_conversion --> update --> employment_type_id -->  --> 17,9
+Admin, Teemworx (admin) --> 2017-12-17 13:53:08 --> leave_conversion --> update --> employment_type_id --> 17,9 --> 6
+Admin, Teemworx (admin) --> 2017-12-17 14:45:13 --> leave_conversion --> update --> employment_type_id --> 6 --> 1,6
+Admin, Teemworx (admin) --> 2017-12-17 14:49:26 --> leave_conversion --> update --> employment_type_id --> 6 --> 4,6
+Admin, Teemworx (admin) --> 2017-12-17 14:51:36 --> leave_conversion --> update --> employment_type_id --> 4,6 --> 4,6,5
+Admin, Teemworx (admin) --> 2017-12-17 14:54:30 --> leave_conversion --> update --> employment_type_id --> 4,6,5 --> 6
+Admin, Teemworx (admin) --> 2017-12-17 14:54:42 --> leave_conversion --> update --> employment_type_id --> 1,6 --> 6
+Admin, Teemworx (admin) --> 2017-12-17 14:56:05 --> leave_conversion --> insert --> company_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-12-17 14:56:05 --> leave_conversion --> insert --> employment_type_id -->  --> 5
+Admin, Teemworx (admin) --> 2017-12-17 14:56:05 --> leave_conversion --> insert --> form_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-12-17 14:56:05 --> leave_conversion --> insert --> convertible -->  --> 10
+Admin, Teemworx (admin) --> 2017-12-17 14:56:05 --> leave_conversion --> insert --> taxable -->  --> 10
+Admin, Teemworx (admin) --> 2017-12-17 14:59:09 --> payroll_period --> insert --> date_from -->  --> 2017-12-22
+Admin, Teemworx (admin) --> 2017-12-17 14:59:09 --> payroll_period --> insert --> date_to -->  --> 2017-12-22
+Admin, Teemworx (admin) --> 2017-12-17 14:59:09 --> payroll_period --> insert --> payroll_date -->  --> 2017-12-22
+Admin, Teemworx (admin) --> 2017-12-17 14:59:09 --> payroll_period --> insert --> posting_date -->  --> 2017-12-22
+Admin, Teemworx (admin) --> 2017-12-17 14:59:09 --> payroll_period --> insert --> apply_to_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-12-17 14:59:09 --> payroll_period --> insert --> period_processing_type_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-12-17 14:59:09 --> payroll_period --> insert --> include_basic_and_allowances -->  --> 0
+Admin, Teemworx (admin) --> 2017-12-17 14:59:09 --> payroll_period --> insert --> payroll_schedule_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-12-17 14:59:09 --> payroll_period --> insert --> week -->  --> 2
+Admin, Teemworx (admin) --> 2017-12-17 14:59:09 --> payroll_period --> insert --> remarks -->  --> test
+Admin, Teemworx (admin) --> 2017-12-17 14:59:09 --> payroll_period --> insert --> period_status_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-12-17 21:45:47 --> leave_conversion --> insert --> company_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-12-17 21:45:47 --> leave_conversion --> insert --> employment_type_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-12-17 21:45:47 --> leave_conversion --> insert --> form_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-12-17 21:45:47 --> leave_conversion --> insert --> convertible -->  --> 10

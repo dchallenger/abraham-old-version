@@ -1,0 +1,14 @@
+Admin, System (admin) --> 2017-03-23 12:28:12 --> payroll_employee --> update --> hdmf_mode -->  --> 5
+Admin, System (admin) --> 2017-03-23 12:28:12 --> payroll_employee --> update --> hdmf_week -->  --> 2
+Admin, System (admin) --> 2017-03-23 12:28:12 --> payroll_employee --> update --> phic_no -->  --> 12345
+Admin, System (admin) --> 2017-03-23 12:28:12 --> payroll_employee --> update --> phic_mode -->  --> 5
+Admin, System (admin) --> 2017-03-23 12:28:12 --> payroll_employee --> update --> phic_week -->  --> 2
+Admin, System (admin) --> 2017-03-23 12:28:12 --> payroll_employee --> update --> tin -->  --> 12345
+Admin, System (admin) --> 2017-03-23 12:28:12 --> payroll_employee --> update --> tax_mode -->  --> 1
+Admin, System (admin) --> 2017-03-23 12:28:12 --> payroll_employee --> update --> tax_week -->  --> 2
+Admin, System (admin) --> 2017-03-23 12:30:43 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-23 12:31:20 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-23 12:36:11 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-23 12:36:30 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-23 12:37:12 --> payroll_period --> update --> payroll_date --> 2017-03-18 --> 2017-03-15
+Admin, System (admin) --> 2017-03-23 12:37:12 --> payroll_period --> update --> posting_date --> 2017-03-18 --> 2017-03-20

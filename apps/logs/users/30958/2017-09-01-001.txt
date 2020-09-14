@@ -1,0 +1,2 @@
+2017-09-01 17:12:00 --> authentication --> login --> login -->  --> 
+2017-09-01 17:12:47 --> authentication --> update --> users - hash --> $2a$08$hRV4eko18h6qPQ0gn7.f.eKk9O9Dv7nPKfZbN1mhregMrBYi3sR6i --> $2a$08$oiqXrdY0vmW6tw0BnF9jAO1aAYINJxnCYKVDdZxbyqHzKpp2WfHnm

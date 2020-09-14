@@ -1,0 +1,30 @@
+2017-09-29 11:13:01 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-29 11:13:01 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-29 11:15:48 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-29 11:15:48 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-29 11:18:16 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-29 11:18:16 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-29 11:29:39 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-29 11:29:39 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-29 11:43:24 --> applicant_monitoring --> update --> key_value --> Consider --> Reject
+2017-09-29 11:50:28 --> applicant_monitoring --> update --> result_id --> 8 --> 10
+2017-09-29 11:50:28 --> applicant_monitoring --> update --> result --> Consider --> Rejected
+2017-09-29 11:52:48 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-29 11:52:48 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-29 11:52:48 --> applicant_monitoring --> update --> result_id --> 10 --> 8
+2017-09-29 11:52:48 --> applicant_monitoring --> update --> result --> Rejected --> Consider
+2017-09-29 11:52:48 --> applicant_monitoring --> update --> key_value --> Reject --> Consider
+2017-09-29 11:55:10 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-29 11:55:10 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-29 12:14:47 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-29 12:14:47 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-29 22:15:38 --> applicant_monitoring --> update --> result_id --> 8 --> 9
+2017-09-29 22:15:38 --> applicant_monitoring --> update --> result --> Consider --> Hold
+2017-09-29 22:15:38 --> applicant_monitoring --> update --> key_value --> Consider --> Hold
+2017-09-29 22:17:57 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-29 22:17:57 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-29 22:28:10 --> applicant_monitoring --> update --> status_id --> 4 --> 2
+2017-09-29 22:40:33 --> applicant_monitoring --> update --> status_id --> 3 --> 4
+2017-09-29 22:40:34 --> applicant_monitoring --> update --> status_id --> 3 --> 4
+2017-09-29 23:18:53 --> authentication --> login --> login -->  --> 
+2017-09-29 23:39:03 --> authentication --> logout --> logout -->  --> 

@@ -1,0 +1,10 @@
+Admin, Teemworx (admin) --> 2018-01-29 10:39:03 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-29 10:39:09 --> authentication --> login --> login -->  --> 
+() --> 2018-01-29 10:39:30 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-29 11:27:19 --> authentication --> logout --> logout -->  --> 
+() --> 2018-01-29 11:27:20 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-29 11:27:44 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-01-29 21:41:29 --> authentication --> logout --> logout -->  --> 
+() --> 2018-01-29 21:41:30 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-29 21:42:35 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-01-29 21:47:49 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,7 @@
+2017-04-13 11:27:32 --> coordinator --> insert --> company_id -->  --> 1
+2017-04-13 11:27:32 --> coordinator --> insert --> coordinator_user_id -->  --> 121
+2017-04-13 11:29:45 --> coordinator --> insert --> company_id -->  --> 1
+2017-04-13 11:29:45 --> coordinator --> insert --> coordinator_user_id -->  --> 121
+2017-04-13 14:57:00 --> coordinator --> update --> coordinator_user_id --> 121,285 --> 121
+2017-04-13 14:57:36 --> coordinator --> update --> coordinator_user_id --> 121 --> 434,121
+2017-04-13 15:20:40 --> coordinator --> update --> coordinator_user_id --> 434,121 --> 434,121,171

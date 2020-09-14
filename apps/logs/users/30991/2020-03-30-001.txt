@@ -1,0 +1,2 @@
+2020-03-30 16:41:41 --> authentication --> login --> login -->  --> 
+2020-03-30 16:55:01 --> authentication --> logout --> logout -->  --> 

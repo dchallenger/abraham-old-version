@@ -1,0 +1,8 @@
+2017-04-26 09:51:44 --> authentication --> login --> login -->  --> 
+2017-04-26 09:54:18 --> authentication --> logout --> logout -->  --> 
+2017-04-26 10:06:49 --> authentication --> login --> login -->  --> 
+2017-04-26 10:07:09 --> authentication --> logout --> logout -->  --> 
+2017-04-26 10:09:55 --> authentication --> login --> login -->  --> 
+2017-04-26 10:10:26 --> authentication --> logout --> logout -->  --> 
+2017-04-26 10:12:16 --> authentication --> login --> login -->  --> 
+2017-04-26 10:16:06 --> authentication --> logout --> logout -->  --> 

@@ -1,0 +1,39 @@
+2017-03-08 09:51:25 --> authentication --> login --> login -->  --> 
+2017-03-08 10:06:38 --> authentication --> login --> login -->  --> 
+2017-03-08 10:37:14 --> form_policy --> update --> class_id --> 294 --> 295
+2017-03-08 10:37:14 --> form_policy --> update --> company_id --> 1,2,3,4 --> 1,2
+2017-03-08 10:38:11 --> authentication --> logout --> logout -->  --> 
+2017-03-08 10:38:32 --> authentication --> login --> login -->  --> 
+2017-03-08 10:45:30 --> authentication --> login --> login -->  --> 
+2017-03-08 10:46:42 --> form_policy --> update --> severity --> Warning --> Strict Compliance
+2017-03-08 10:46:54 --> authentication --> logout --> logout -->  --> 
+2017-03-08 11:15:25 --> authentication --> login --> login -->  --> 
+2017-03-08 11:16:41 --> form_policy --> update --> class_value --> YES --> NO
+2017-03-08 11:16:41 --> form_policy --> update --> company_id --> 1,2,3,4 --> 1,2
+2017-03-08 11:18:38 --> form_policy --> update --> class_value --> YES --> NO
+2017-03-08 11:18:38 --> form_policy --> update --> company_id --> 1,2,3,4 --> 1,2
+2017-03-08 11:19:16 --> authentication --> logout --> logout -->  --> 
+2017-03-08 11:20:26 --> authentication --> login --> login -->  --> 
+2017-03-08 13:23:50 --> form_policy --> insert --> class_id -->  --> 641
+2017-03-08 13:23:50 --> form_policy --> insert --> class_value -->  --> YES
+2017-03-08 13:23:50 --> form_policy --> insert --> severity -->  --> Strict Compliance
+2017-03-08 13:23:50 --> form_policy --> insert --> company_id -->  --> 1,2
+2017-03-08 13:25:08 --> form_policy --> update --> description -->  --> Allow filling of home leave
+2017-03-08 14:08:11 --> form_policy --> insert --> class_id -->  --> 674
+2017-03-08 14:08:11 --> form_policy --> insert --> class_value -->  --> YES
+2017-03-08 14:08:11 --> form_policy --> insert --> description -->  --> Filing allow for leave incentive program
+2017-03-08 14:08:11 --> form_policy --> insert --> severity -->  --> Strict Compliance
+2017-03-08 14:08:11 --> form_policy --> insert --> company_id -->  --> 1,2
+2017-03-08 14:08:47 --> form_policy --> insert --> class_id -->  --> 707
+2017-03-08 14:08:47 --> form_policy --> insert --> class_value -->  --> YES
+2017-03-08 14:08:47 --> form_policy --> insert --> description -->  --> Allow filing for force leave
+2017-03-08 14:08:47 --> form_policy --> insert --> severity -->  --> Strict Compliance
+2017-03-08 14:08:47 --> form_policy --> insert --> company_id -->  --> 1,2
+2017-03-08 15:45:30 --> leave_balance_admin --> insert --> year -->  --> 2017
+2017-03-08 15:45:30 --> leave_balance_admin --> insert --> user_id -->  --> 5
+2017-03-08 15:45:30 --> leave_balance_admin --> insert --> form_id -->  --> 22
+2017-03-08 15:45:30 --> leave_balance_admin --> insert --> previous -->  --> 0
+2017-03-08 15:45:30 --> leave_balance_admin --> insert --> current -->  --> 20
+2017-03-08 15:45:30 --> leave_balance_admin --> insert --> period_from -->  --> 1970-01-01
+2017-03-08 15:45:30 --> leave_balance_admin --> insert --> period_to -->  --> 1970-01-01
+2017-03-08 15:45:30 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01

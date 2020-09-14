@@ -1,0 +1,18 @@
+Admin, Teemworx (admin) --> 2017-05-24 06:32:09 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-24 06:32:24 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-24 07:55:20 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-24 07:55:28 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-24 11:16:47 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-24 11:17:03 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-24 11:30:58 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-24 11:31:06 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-24 11:33:36 --> system --> update --> config -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-24 11:33:36 --> system --> update --> config -->  --> 0
+Admin, Teemworx (admin) --> 2017-05-24 11:33:36 --> system --> update --> config -->  --> 0
+Admin, Teemworx (admin) --> 2017-05-24 11:33:36 --> system --> update --> config -->  --> 0
+Admin, Teemworx (admin) --> 2017-05-24 11:33:36 --> system --> update --> config -->  --> 36000005
+Admin, Teemworx (admin) --> 2017-05-24 11:33:36 --> system --> update --> config -->  --> 18000005
+Admin, Teemworx (admin) --> 2017-05-24 11:33:36 --> system --> update --> config -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-24 11:33:36 --> system --> update --> config -->  --> 2017-05-22
+Admin, Teemworx (admin) --> 2017-05-24 11:33:36 --> system --> update --> config -->  --> 2017-05-25
+Admin, Teemworx (admin) --> 2017-05-24 11:33:36 --> system --> update --> config -->  --> 3

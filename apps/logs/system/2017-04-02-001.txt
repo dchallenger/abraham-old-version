@@ -1,0 +1,4 @@
+ZULUETA, EDITA (00837) --> 2017-04-02 05:09:47 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-02 05:10:06 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-02 20:25:08 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-02 20:25:25 --> authentication --> login --> login -->  --> 

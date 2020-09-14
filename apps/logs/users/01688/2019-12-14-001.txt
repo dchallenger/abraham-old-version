@@ -1,0 +1,2 @@
+2019-12-14 10:47:21 --> authentication --> login --> login -->  --> 
+2019-12-14 10:49:29 --> authentication --> logout --> logout -->  --> 

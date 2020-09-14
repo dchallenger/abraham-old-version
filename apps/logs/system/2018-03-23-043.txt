@@ -1,0 +1,41 @@
+Admin, Teemworx (admin) --> 2018-03-23 05:06:44 --> profiles --> edit --> mod_id -->  --> 201
+Admin, Teemworx (admin) --> 2018-03-23 05:06:44 --> profiles --> edit --> action_id -->  --> 9
+Admin, Teemworx (admin) --> 2018-03-23 05:06:44 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-03-23 05:06:44 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-23 05:06:44 --> profiles --> edit --> mod_id -->  --> 201
+Admin, Teemworx (admin) --> 2018-03-23 05:06:44 --> profiles --> edit --> action_id -->  --> 10
+Admin, Teemworx (admin) --> 2018-03-23 05:06:44 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-03-23 05:06:44 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-23 05:06:44 --> profiles --> edit --> mod_id -->  --> 203
+Admin, Teemworx (admin) --> 2018-03-23 05:06:44 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-23 05:06:44 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-03-23 05:06:44 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-23 05:06:44 --> profiles --> edit --> mod_id -->  --> 203
+Admin, Teemworx (admin) --> 2018-03-23 05:06:45 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-03-23 05:06:45 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-03-23 05:06:45 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-23 05:06:45 --> profiles --> edit --> mod_id -->  --> 203
+Admin, Teemworx (admin) --> 2018-03-23 05:06:45 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-03-23 05:06:45 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-03-23 14:01:32 --> appraisal_template --> insert --> template -->  --> For Non-management
+Admin, Teemworx (admin) --> 2018-03-23 14:01:32 --> appraisal_template --> insert --> template_code -->  --> non-management
+Admin, Teemworx (admin) --> 2018-03-23 14:01:32 --> appraisal_template --> insert --> applicable_to_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-23 14:01:32 --> appraisal_template --> insert --> applicable_to -->  --> 6
+Admin, Teemworx (admin) --> 2018-03-23 14:01:32 --> appraisal_template --> insert --> set_crowdsource_by -->  --> Appraiser
+Admin, Teemworx (admin) --> 2018-03-23 14:03:13 --> appraisal_template --> insert --> template_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-23 14:03:13 --> appraisal_template --> insert --> template_section -->  --> WORK OUTPUT
+Admin, Teemworx (admin) --> 2018-03-23 14:03:13 --> appraisal_template --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-23 14:03:13 --> appraisal_template --> insert --> weight -->  --> 60
+Admin, Teemworx (admin) --> 2018-03-23 14:03:13 --> appraisal_template --> insert --> section_type_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-23 14:03:13 --> appraisal_template --> insert --> header -->  --> <p>Quality &amp; quantity - timeliness, accuracy &amp; completeness</p>
+Admin, Teemworx (admin) --> 2018-03-23 14:03:13 --> appraisal_template --> insert --> footer -->  --> <p>Footer</p>
+Admin, Teemworx (admin) --> 2018-03-23 14:04:52 --> performance_planning --> insert --> year -->  --> 2018
+Admin, Teemworx (admin) --> 2018-03-23 14:04:52 --> performance_planning --> insert --> performance_type_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-23 14:04:53 --> performance_planning --> insert --> date_from -->  --> 2018-03-01
+Admin, Teemworx (admin) --> 2018-03-23 14:04:53 --> performance_planning --> insert --> date_to -->  --> 2018-06-30
+Admin, Teemworx (admin) --> 2018-03-23 14:04:53 --> performance_planning --> insert --> template_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-23 14:04:53 --> performance_planning --> insert --> employment_status_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-23 14:04:53 --> performance_planning --> insert --> filter_by -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-23 14:04:53 --> performance_planning --> insert --> filter_id -->  --> 1,2,3,4,5,6,7,8,9,10,11,12,13
+Admin, Teemworx (admin) --> 2018-03-23 14:04:53 --> performance_planning --> insert --> status_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-23 14:04:53 --> performance_planning --> insert --> notes -->  --> test

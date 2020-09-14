@@ -1,0 +1,33 @@
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:51:28 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:51:28 --> incident_report --> insert --> offense_id -->  --> 1
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:51:28 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:51:28 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-25 16:04:00
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:51:28 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:51:28 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:51:28 --> incident_report --> insert --> date_sent -->  --> 2017-04-25 16:51:27
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:52:08 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-25 16:52:28 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-25 16:52:44 --> authentication --> logout --> logout -->  --> 
+BAUTISTA, NESTOR JR(32642) --> 2017-04-25 16:53:12 --> authentication --> login --> login -->  --> 
+BAUTISTA, NESTOR JR(32642) --> 2017-04-25 16:53:54 --> authentication --> logout --> logout -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-04-25 16:54:09 --> authentication --> login --> login -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-04-25 16:54:27 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 16:54:44 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 16:56:39 --> incident_manage --> update --> nte_complainants --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 16:56:39 --> incident_manage --> update --> nte_witnesses --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 16:56:39 --> incident_manage --> update --> nte_others --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 16:56:39 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 17:05:48 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 17:17:03 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 17:41:07 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 17:42:39 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 17:46:55 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 17:50:42 --> authentication --> logout --> logout -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-04-25 17:50:55 --> authentication --> login --> login -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-04-25 17:52:05 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-25 17:52:16 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-25 17:53:22 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 17:53:35 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 17:55:33 --> hearing_manage --> update --> incident_status_id --> 9 --> 10
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 18:04:19 --> disciplinary_manage --> update --> incident_status_id --> 10 --> 6
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 18:04:19 --> disciplinary_manage --> update --> status --> Open --> Close

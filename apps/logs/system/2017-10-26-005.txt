@@ -1,0 +1,5 @@
+POLONAN, MARIA LEE (31002) --> 2017-10-26 10:46:34 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+POLONAN, MARIA LEE (31002) --> 2017-10-26 10:46:34 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+() --> 2017-10-26 10:47:08 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 12:25:40 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+POLONAN, MARIA LEE (31002) --> 2017-10-26 12:25:40 --> applicant_monitoring --> update --> status_id --> 2 --> 5

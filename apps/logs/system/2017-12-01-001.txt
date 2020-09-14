@@ -1,0 +1,17 @@
+Admin, Teemworx (admin) --> 2017-12-01 11:41:37 --> authentication --> logout --> logout -->  --> 
+() --> 2017-12-01 11:41:41 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-12-01 11:41:47 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-01 13:05:46 --> authentication --> logout --> logout -->  --> 
+() --> 2017-12-01 13:05:46 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-12-01 13:06:03 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-12-01 13:06:42 --> authentication --> logout --> logout -->  --> 
+() --> 2017-12-01 13:06:45 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2017-12-01 13:06:48 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2017-12-01 13:07:34 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-12-01 13:07:51 --> authentication --> login --> login -->  --> 
+() --> 2017-12-01 13:08:24 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-12-01 13:08:46 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-12-01 13:08:57 --> authentication --> login --> login -->  --> 
+() --> 2017-12-01 13:09:55 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-12-01 13:47:02 --> location --> update --> min_wage_amt --> 481.00 --> 521.93
+Admin, Teemworx (admin) --> 2017-12-01 13:53:39 --> location --> update --> min_wage_amt --> 521.93 --> 481

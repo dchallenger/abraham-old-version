@@ -1,0 +1,11 @@
+Admin, Teemworx (admin) --> 2018-11-26 04:50:57 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-11-26 04:51:30 --> authentication --> update --> users - hash --> $2a$08$hRV4eko18h6qPQ0gn7.f.eKk9O9Dv7nPKfZbN1mhregMrBYi3sR6i --> $2a$08$tUYHgdzOEF2QhWGOV7C94OqmKUCGVMnTiJqkIRZCuJKK7wDSzXJ2m
+Admin, Teemworx (admin) --> 2018-11-26 14:18:59 --> authentication --> logout --> logout -->  --> 
+MAYO, JOSE ROBERTO (30927) --> 2018-11-26 14:19:16 --> authentication --> login --> login -->  --> 
+() --> 2018-11-26 14:19:19 --> authentication --> logout --> logout -->  --> 
+MAYO, JOSE ROBERTO (30927) --> 2018-11-26 14:20:46 --> authentication --> logout --> logout -->  --> 
+NICOLAS, RESURECCION (00346) --> 2018-11-26 14:20:50 --> authentication --> login --> login -->  --> 
+() --> 2018-11-26 14:24:58 --> authentication --> logout --> logout -->  --> 
+NICOLAS, RESURECCION (00346) --> 2018-11-26 14:34:35 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-11-26 14:34:46 --> authentication --> login --> login -->  --> 
+() --> 2018-11-26 14:35:06 --> authentication --> logout --> logout -->  --> 

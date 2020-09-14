@@ -1,0 +1,44 @@
+Admin, Teemworx (admin) --> 2018-04-19 10:17:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-19 10:17:41 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-19 10:17:41 --> profiles --> edit --> mod_id -->  --> 129
+Admin, Teemworx (admin) --> 2018-04-19 10:17:41 --> profiles --> edit --> action_id -->  --> 9
+Admin, Teemworx (admin) --> 2018-04-19 10:17:41 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-19 10:17:42 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-19 10:17:42 --> profiles --> edit --> mod_id -->  --> 129
+Admin, Teemworx (admin) --> 2018-04-19 10:17:42 --> profiles --> edit --> action_id -->  --> 10
+Admin, Teemworx (admin) --> 2018-04-19 10:17:42 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-19 10:17:42 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-19 10:17:42 --> profiles --> edit --> mod_id -->  --> 46
+Admin, Teemworx (admin) --> 2018-04-19 10:17:42 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-19 10:17:42 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-19 10:17:43 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-19 10:17:43 --> profiles --> edit --> mod_id -->  --> 46
+Admin, Teemworx (admin) --> 2018-04-19 10:17:43 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-19 10:17:43 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-19 10:17:43 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-19 10:17:44 --> profiles --> edit --> mod_id -->  --> 46
+Admin, Teemworx (admin) --> 2018-04-19 10:17:44 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-04-19 10:17:44 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-19 10:17:44 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-19 10:17:44 --> profiles --> edit --> mod_id -->  --> 46
+Admin, Teemworx (admin) --> 2018-04-19 10:17:45 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-04-19 10:17:45 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-19 10:17:45 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-19 10:17:45 --> profiles --> edit --> mod_id -->  --> 46
+Admin, Teemworx (admin) --> 2018-04-19 10:17:45 --> profiles --> edit --> action_id -->  --> 6
+Admin, Teemworx (admin) --> 2018-04-19 10:17:45 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-19 10:17:46 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-19 10:17:46 --> profiles --> edit --> mod_id -->  --> 46
+Admin, Teemworx (admin) --> 2018-04-19 10:17:46 --> profiles --> edit --> action_id -->  --> 7
+Admin, Teemworx (admin) --> 2018-04-19 10:17:46 --> profiles --> edit --> grant -->  --> on
+CHAVEZ, NELSON (00129) --> 2018-04-19 10:19:49 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-19 10:20:19 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-19 10:20:37 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-19 10:22:20 --> roles --> update --> profile_id --> 2,5,6,12,14,22,4 --> 2,4,5,6,12,14,22
+CHAVEZ, NELSON (00129) --> 2018-04-19 10:22:53 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-19 10:32:23 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-19 11:00:11 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-19 11:00:50 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-19 11:02:10 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-19 11:02:51 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-19 13:54:43 --> authentication --> login --> login -->  --> 

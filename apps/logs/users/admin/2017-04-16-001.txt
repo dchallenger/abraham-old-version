@@ -1,0 +1,12 @@
+2017-04-16 16:37:32 --> authentication --> logout --> logout -->  --> 
+2017-04-16 18:56:30 --> authentication --> login --> login -->  --> 
+2017-04-16 19:24:16 --> exit_interview_manager --> insert --> layout_name -->  --> Template 1
+2017-04-16 19:24:16 --> exit_interview_manager --> insert --> company_id -->  --> 1
+2017-04-16 19:24:16 --> exit_interview_manager --> insert --> department_id -->  --> 1
+2017-04-16 19:25:59 --> clearance_sign --> insert --> layout_name -->  --> asdfadsf
+2017-04-16 19:25:59 --> clearance_sign --> insert --> company_id -->  --> 1
+2017-04-16 19:25:59 --> clearance_sign --> insert --> department_id -->  --> 1
+2017-04-16 19:26:18 --> clearance_sign --> update --> layout_name -->  --> asdfadsf
+2017-04-16 19:26:18 --> clearance_sign --> update --> company_id -->  --> 1
+2017-04-16 19:26:18 --> clearance_sign --> update --> department_id -->  --> 1
+2017-04-16 19:29:22 --> authentication --> logout --> logout -->  --> 

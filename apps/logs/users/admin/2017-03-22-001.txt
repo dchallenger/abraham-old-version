@@ -1,0 +1,29 @@
+2017-03-22 04:55:56 --> leave_balance_admin --> insert --> year -->  --> 2017
+2017-03-22 04:55:56 --> leave_balance_admin --> insert --> user_id -->  --> 18
+2017-03-22 04:55:56 --> leave_balance_admin --> insert --> form_id -->  --> 21
+2017-03-22 04:55:56 --> leave_balance_admin --> insert --> previous -->  --> 0
+2017-03-22 04:55:56 --> leave_balance_admin --> insert --> current -->  --> 20
+2017-03-22 04:55:56 --> leave_balance_admin --> insert --> period_from -->  --> 2017-03-01
+2017-03-22 04:55:56 --> leave_balance_admin --> insert --> period_to -->  --> 2017-03-31
+2017-03-22 04:55:56 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+2017-03-22 04:56:51 --> leave_balance_admin --> update --> period_extension --> 0000-00-00 --> 1970-01-01
+2017-03-22 04:57:47 --> leave_balance_admin --> update --> period_extension --> 0000-00-00 --> 1970-01-01
+2017-03-22 04:59:08 --> leave_balance_admin --> update --> period_extension --> 0000-00-00 --> 1970-01-01
+2017-03-22 04:59:35 --> leave_balance_admin --> update --> period_extension --> 2017-03-31 --> 2017-04-07
+2017-03-22 05:26:38 --> authentication --> logout --> logout -->  --> 
+2017-03-22 05:34:14 --> authentication --> login --> login -->  --> 
+2017-03-22 05:36:18 --> authentication --> logout --> logout -->  --> 
+2017-03-22 10:05:23 --> authentication --> login --> login -->  --> 
+2017-03-22 10:44:08 --> authentication --> logout --> logout -->  --> 
+2017-03-22 10:45:43 --> authentication --> login --> login -->  --> 
+2017-03-22 10:58:44 --> authentication --> logout --> logout -->  --> 
+2017-03-22 10:59:41 --> authentication --> login --> login -->  --> 
+2017-03-22 11:00:40 --> form_policy --> update --> severity --> Strict Compliance --> Warning
+2017-03-22 11:01:45 --> authentication --> logout --> logout -->  --> 
+2017-03-22 12:00:33 --> authentication --> login --> login -->  --> 
+2017-03-22 13:21:39 --> authentication --> logout --> logout -->  --> 
+2017-03-22 14:48:52 --> authentication --> login --> login -->  --> 
+2017-03-22 14:51:14 --> authentication --> logout --> logout -->  --> 
+2017-03-22 15:10:35 --> authentication --> login --> login -->  --> 
+2017-03-22 17:03:31 --> authentication --> logout --> logout -->  --> 
+2017-03-22 18:22:50 --> authentication --> login --> login -->  --> 

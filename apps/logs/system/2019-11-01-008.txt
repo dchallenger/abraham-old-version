@@ -1,0 +1,53 @@
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:34 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:34 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:34 --> applicants --> insert --> key_id -->  --> 78
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:34 --> applicants --> insert --> key -->  --> affiliation-year-end
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:34 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:34 --> applicants --> insert --> key_name -->  --> Year End
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:34 --> applicants --> insert --> key_value -->  --> 2344
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> key_id -->  --> 79
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> key -->  --> accountabilities-name
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> key_name -->  --> Name
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> key_value -->  --> er
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> key_id -->  --> 80
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> key -->  --> accountabilities-code
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> key_name -->  --> Code
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> key_value -->  --> wert
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> key_id -->  --> 81
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> key -->  --> accountabilities-quantity
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> key_name -->  --> Quantity
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> key_id -->  --> 82
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:50 --> applicants --> insert --> key -->  --> accountabilities-date-issued
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:51 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:51 --> applicants --> insert --> key_name -->  --> Date Issued
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:51 --> applicants --> insert --> key_value -->  --> November 02, 2019
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:51 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:51 --> applicants --> insert --> key_id -->  --> 85
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:51 --> applicants --> insert --> key -->  --> accountabilities-date-returned
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:51 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:51 --> applicants --> insert --> key_name -->  --> Date Returned
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:51 --> applicants --> insert --> key_value -->  --> November 23, 2019
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:51 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:51 --> applicants --> insert --> key_id -->  --> 88
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:51 --> applicants --> insert --> key -->  --> accountabilities-remarks
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:51 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:06:51 --> applicants --> insert --> key_name -->  --> Remarks
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:07:17 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:07:17 --> applicants --> insert --> key_id -->  --> 89
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:07:17 --> applicants --> insert --> key -->  --> attachment-name
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:07:17 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:07:18 --> applicants --> insert --> key_name -->  --> File Name
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:07:18 --> applicants --> insert --> key_value -->  --> sretretew
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:07:18 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:07:18 --> applicants --> insert --> key_id -->  --> 91
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:07:18 --> applicants --> insert --> key -->  --> attachment-file
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:07:18 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:07:18 --> applicants --> insert --> key_name -->  --> File
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:07:18 --> applicants --> insert --> key_value -->  --> uploads/applicants/GENESIS.doc

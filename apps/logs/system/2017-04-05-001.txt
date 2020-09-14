@@ -1,0 +1,15 @@
+LOPEZ, PAOLO (02115) --> 2017-04-05 10:07:58 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-05 10:15:06 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-05 10:15:17 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-05 10:18:01 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-05 10:18:14 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-05 10:37:28 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-05 10:38:58 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-05 11:12:23 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-05 11:12:37 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-05 11:13:04 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-05 11:13:23 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-05 12:27:52 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-05 12:28:14 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-05 15:40:39 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-05 15:40:56 --> authentication --> login --> login -->  --> 

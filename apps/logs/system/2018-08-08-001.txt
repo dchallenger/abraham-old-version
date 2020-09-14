@@ -1,0 +1,9 @@
+Admin, Teemworx (admin) --> 2018-08-08 08:49:43 --> authentication --> logout --> logout -->  --> 
+() --> 2018-08-08 08:49:46 --> authentication --> logout --> logout -->  --> 
+SANCHEZ, IRMA (33463) --> 2018-08-08 08:49:48 --> authentication --> login --> login -->  --> 
+SANCHEZ, IRMA (33463) --> 2018-08-08 09:05:20 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-08-08 09:05:27 --> authentication --> login --> login -->  --> 
+() --> 2018-08-08 09:05:34 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-08-08 09:07:48 --> authentication --> logout --> logout -->  --> 
+SANCHEZ, IRMA (33463) --> 2018-08-08 09:08:05 --> authentication --> login --> login -->  --> 
+() --> 2018-08-08 09:08:27 --> authentication --> logout --> logout -->  --> 

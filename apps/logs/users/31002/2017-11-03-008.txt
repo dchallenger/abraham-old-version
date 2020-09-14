@@ -1,0 +1,130 @@
+2017-11-03 07:19:00 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 07:19:00 --> applicants --> insert --> key_id -->  --> 60
+2017-11-03 07:19:00 --> applicants --> insert --> key -->  --> training-category
+2017-11-03 07:19:00 --> applicants --> insert --> sequence -->  --> 1
+2017-11-03 07:19:00 --> applicants --> insert --> key_name -->  --> Category
+2017-11-03 07:19:00 --> applicants --> insert --> key_value -->  --> Training
+2017-11-03 07:19:00 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 07:19:00 --> applicants --> insert --> key_id -->  --> 60
+2017-11-03 07:19:00 --> applicants --> insert --> key -->  --> training-category
+2017-11-03 07:19:00 --> applicants --> insert --> sequence -->  --> 2
+2017-11-03 07:19:00 --> applicants --> insert --> key_name -->  --> Category
+2017-11-03 07:19:00 --> applicants --> insert --> key_value -->  --> Seminar
+2017-11-03 07:19:00 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-11-03 07:19:00 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 07:19:00 --> applicants --> insert --> key_id -->  --> 59
+2017-11-03 07:19:00 --> applicants --> insert --> key -->  --> training-title
+2017-11-03 07:19:00 --> applicants --> insert --> sequence -->  --> 1
+2017-11-03 07:19:01 --> applicants --> insert --> key_name -->  --> Title
+2017-11-03 07:19:01 --> applicants --> insert --> key_value -->  --> training
+2017-11-03 07:19:01 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 07:19:01 --> applicants --> insert --> key_id -->  --> 59
+2017-11-03 07:19:01 --> applicants --> insert --> key -->  --> training-title
+2017-11-03 07:19:01 --> applicants --> insert --> sequence -->  --> 2
+2017-11-03 07:19:01 --> applicants --> insert --> key_name -->  --> Title
+2017-11-03 07:19:01 --> applicants --> insert --> key_value -->  --> seminar
+2017-11-03 07:19:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-11-03 07:19:01 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 07:19:01 --> applicants --> insert --> key_id -->  --> 61
+2017-11-03 07:19:01 --> applicants --> insert --> key -->  --> training-venue
+2017-11-03 07:19:01 --> applicants --> insert --> sequence -->  --> 1
+2017-11-03 07:19:01 --> applicants --> insert --> key_name -->  --> Venue
+2017-11-03 07:19:02 --> applicants --> insert --> key_value -->  --> malabon
+2017-11-03 07:19:02 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 07:19:02 --> applicants --> insert --> key_id -->  --> 61
+2017-11-03 07:19:02 --> applicants --> insert --> key -->  --> training-venue
+2017-11-03 07:19:02 --> applicants --> insert --> sequence -->  --> 2
+2017-11-03 07:19:02 --> applicants --> insert --> key_name -->  --> Venue
+2017-11-03 07:19:02 --> applicants --> insert --> key_value -->  --> caloocan
+2017-11-03 07:19:02 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-11-03 07:19:02 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 07:19:02 --> applicants --> insert --> key_id -->  --> 66
+2017-11-03 07:19:02 --> applicants --> insert --> key -->  --> training-start-month
+2017-11-03 07:19:02 --> applicants --> insert --> sequence -->  --> 1
+2017-11-03 07:19:02 --> applicants --> insert --> key_name -->  --> Start Month
+2017-11-03 07:19:02 --> applicants --> insert --> key_value -->  --> January
+2017-11-03 07:19:02 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 07:19:02 --> applicants --> insert --> key_id -->  --> 66
+2017-11-03 07:19:02 --> applicants --> insert --> key -->  --> training-start-month
+2017-11-03 07:19:02 --> applicants --> insert --> sequence -->  --> 2
+2017-11-03 07:19:02 --> applicants --> insert --> key_name -->  --> Start Month
+2017-11-03 07:19:02 --> applicants --> insert --> key_value -->  --> January
+2017-11-03 07:19:02 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-11-03 07:19:03 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 07:19:03 --> applicants --> insert --> key_id -->  --> 62
+2017-11-03 07:19:03 --> applicants --> insert --> key -->  --> training-start-year
+2017-11-03 07:19:03 --> applicants --> insert --> sequence -->  --> 1
+2017-11-03 07:19:03 --> applicants --> insert --> key_name -->  --> Start Year
+2017-11-03 07:19:03 --> applicants --> insert --> key_value -->  --> 2011
+2017-11-03 07:19:03 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 07:19:03 --> applicants --> insert --> key_id -->  --> 62
+2017-11-03 07:19:03 --> applicants --> insert --> key -->  --> training-start-year
+2017-11-03 07:19:03 --> applicants --> insert --> sequence -->  --> 2
+2017-11-03 07:19:03 --> applicants --> insert --> key_name -->  --> Start Year
+2017-11-03 07:19:03 --> applicants --> insert --> key_value -->  --> 2016
+2017-11-03 07:19:03 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-11-03 07:19:03 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 07:19:03 --> applicants --> insert --> key_id -->  --> 67
+2017-11-03 07:19:03 --> applicants --> insert --> key -->  --> training-end-month
+2017-11-03 07:19:03 --> applicants --> insert --> sequence -->  --> 1
+2017-11-03 07:19:03 --> applicants --> insert --> key_name -->  --> End Month
+2017-11-03 07:19:03 --> applicants --> insert --> key_value -->  --> August
+2017-11-03 07:19:03 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 07:19:03 --> applicants --> insert --> key_id -->  --> 67
+2017-11-03 07:19:03 --> applicants --> insert --> key -->  --> training-end-month
+2017-11-03 07:19:03 --> applicants --> insert --> sequence -->  --> 2
+2017-11-03 07:19:04 --> applicants --> insert --> key_name -->  --> End Month
+2017-11-03 07:19:04 --> applicants --> insert --> key_value -->  --> January
+2017-11-03 07:19:04 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-11-03 07:19:04 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 07:19:04 --> applicants --> insert --> key_id -->  --> 63
+2017-11-03 07:19:04 --> applicants --> insert --> key -->  --> training-end-year
+2017-11-03 07:19:04 --> applicants --> insert --> sequence -->  --> 1
+2017-11-03 07:19:04 --> applicants --> insert --> key_name -->  --> End Year
+2017-11-03 07:19:04 --> applicants --> insert --> key_value -->  --> 2015
+2017-11-03 07:19:04 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 07:19:04 --> applicants --> insert --> key_id -->  --> 63
+2017-11-03 07:19:04 --> applicants --> insert --> key -->  --> training-end-year
+2017-11-03 07:19:04 --> applicants --> insert --> sequence -->  --> 2
+2017-11-03 07:19:04 --> applicants --> insert --> key_name -->  --> End Year
+2017-11-03 07:19:04 --> applicants --> insert --> key_value -->  --> 2017
+2017-11-03 08:12:31 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-11-03 08:12:31 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 08:12:31 --> applicants --> insert --> key_id -->  --> 198
+2017-11-03 08:12:31 --> applicants --> insert --> key -->  --> friend-relative-employee
+2017-11-03 08:12:31 --> applicants --> insert --> sequence -->  --> 1
+2017-11-03 08:12:31 --> applicants --> insert --> key_name -->  --> Employee
+2017-11-03 08:12:31 --> applicants --> insert --> key_value -->  --> 788
+2017-11-03 08:12:31 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 08:12:31 --> applicants --> insert --> key_id -->  --> 198
+2017-11-03 08:12:31 --> applicants --> insert --> key -->  --> friend-relative-employee
+2017-11-03 08:12:31 --> applicants --> insert --> sequence -->  --> 2
+2017-11-03 08:12:31 --> applicants --> insert --> key_name -->  --> Employee
+2017-11-03 08:12:31 --> applicants --> insert --> key_value -->  --> 17
+2017-11-03 08:12:31 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-11-03 08:12:31 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 08:12:31 --> applicants --> insert --> key_id -->  --> 199
+2017-11-03 08:12:32 --> applicants --> insert --> key -->  --> friend-relative-position
+2017-11-03 08:12:32 --> applicants --> insert --> sequence -->  --> 1
+2017-11-03 08:12:32 --> applicants --> insert --> key_name -->  --> Position
+2017-11-03 08:12:32 --> applicants --> insert --> key_value -->  --> df
+2017-11-03 08:12:32 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 08:12:32 --> applicants --> insert --> key_id -->  --> 199
+2017-11-03 08:12:32 --> applicants --> insert --> key -->  --> friend-relative-position
+2017-11-03 08:12:32 --> applicants --> insert --> sequence -->  --> 2
+2017-11-03 08:12:32 --> applicants --> insert --> key_name -->  --> Position
+2017-11-03 08:12:32 --> applicants --> insert --> key_value -->  --> sa
+2017-11-03 08:12:32 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-11-03 08:12:32 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 08:12:32 --> applicants --> insert --> key_id -->  --> 200
+2017-11-03 08:12:32 --> applicants --> insert --> key -->  --> friend-relative-dept
+2017-11-03 08:12:32 --> applicants --> insert --> sequence -->  --> 1
+2017-11-03 08:12:32 --> applicants --> insert --> key_name -->  --> Department
+2017-11-03 08:12:32 --> applicants --> insert --> key_value -->  --> asdf
+2017-11-03 08:12:32 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-03 08:12:32 --> applicants --> insert --> key_id -->  --> 200
+2017-11-03 08:12:32 --> applicants --> insert --> key -->  --> friend-relative-dept
+2017-11-03 08:12:32 --> applicants --> insert --> sequence -->  --> 2
+2017-11-03 08:12:32 --> applicants --> insert --> key_name -->  --> Department
+2017-11-03 08:12:32 --> applicants --> insert --> key_value -->  --> asdf
+2017-11-03 08:12:32 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 

@@ -1,0 +1,4 @@
+Admin, Teemworx (admin) --> 2017-07-13 08:50:53 --> authentication --> login --> login -->  --> 
+RUMBAOA, FLORANTE (00426) --> 2017-07-13 15:20:44 --> authentication --> login --> login -->  --> 
+RUMBAOA, FLORANTE (00426) --> 2017-07-13 17:10:43 --> authentication --> logout --> logout -->  --> 
+DE GUZMAN, JHOANNA (32337) --> 2017-07-13 17:10:48 --> authentication --> login --> login -->  --> 

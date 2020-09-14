@@ -1,0 +1,88 @@
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:38 --> applicant_monitoring --> insert --> process_id -->  --> 8
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:38 --> applicant_monitoring --> insert --> checklist_id -->  --> 21
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:38 --> applicant_monitoring --> insert --> submitted -->  --> 0
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:38 --> applicant_monitoring --> insert --> process_id -->  --> 8
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:38 --> applicant_monitoring --> insert --> checklist_id -->  --> 22
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:38 --> applicant_monitoring --> insert --> submitted -->  --> 0
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:38 --> applicant_monitoring --> insert --> process_id -->  --> 8
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:38 --> applicant_monitoring --> insert --> checklist_id -->  --> 23
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:38 --> applicant_monitoring --> insert --> submitted -->  --> 0
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:38 --> applicant_monitoring --> insert --> process_id -->  --> 8
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:38 --> applicant_monitoring --> insert --> checklist_id -->  --> 24
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:38 --> applicant_monitoring --> insert --> submitted -->  --> 0
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:38 --> applicant_monitoring --> insert --> process_id -->  --> 8
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:38 --> applicant_monitoring --> insert --> checklist_id -->  --> 25
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:38 --> applicant_monitoring --> insert --> submitted -->  --> 0
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:38 --> applicant_monitoring --> insert --> process_id -->  --> 8
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:39 --> applicant_monitoring --> insert --> checklist_id -->  --> 26
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:39 --> applicant_monitoring --> insert --> submitted -->  --> 0
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:39 --> applicant_monitoring --> insert --> process_id -->  --> 8
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:39 --> applicant_monitoring --> insert --> checklist_id -->  --> 27
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:39 --> applicant_monitoring --> insert --> submitted -->  --> 0
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:39 --> applicant_monitoring --> insert --> process_id -->  --> 8
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:39 --> applicant_monitoring --> insert --> checklist_id -->  --> 28
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:39 --> applicant_monitoring --> insert --> submitted -->  --> 0
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:39 --> applicant_monitoring --> insert --> process_id -->  --> 8
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:39 --> applicant_monitoring --> insert --> checklist_id -->  --> 29
+ALICANTE, LISSA (30991) --> 2019-10-20 13:55:39 --> applicant_monitoring --> insert --> submitted -->  --> 0
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:26 --> applicant_monitoring --> insert --> login -->  --> 33779
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:26 --> applicant_monitoring --> insert --> email -->  --> tjkgarcia@yahoo.com
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:26 --> applicant_monitoring --> insert --> role_id -->  --> 12
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:26 --> applicant_monitoring --> insert --> full_name -->  --> Garcia, Tirso
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:26 --> applicant_monitoring --> insert --> display_name -->  --> Garcia, Tirso
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> calendar_id -->  --> 7
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> salary -->  --> ^uЛухaЊ‹ЖWыдG§оЗ
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> user_id -->  --> 1329
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> id_number -->  --> 33779
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> effectivity_date -->  --> 2019-11-01
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> alias -->  --> Garcia, Tirso
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> company_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> department_id -->  --> 9
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> location_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> user_id -->  --> 1329
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> partner_id -->  --> 1328
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> lastname -->  --> Garcia
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> firstname -->  --> Tirso
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> middlename -->  --> Tamares
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:27 --> applicant_monitoring --> insert --> nickname -->  --> Jun
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:28 --> applicant_monitoring --> insert --> position_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:28 --> applicant_monitoring --> insert --> title -->  --> Mr.
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:28 --> applicant_monitoring --> insert --> birth_date -->  --> 1995-02-08
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:28 --> applicant_monitoring --> update --> status_id --> 8 --> 7
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:28 --> applicant_monitoring --> update --> hired --> 0 --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 15:02:28 --> applicant_monitoring --> update --> partner_id -->  --> 1328
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:22 --> applicant_monitoring --> insert --> login -->  --> 33779
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:22 --> applicant_monitoring --> insert --> email -->  --> tjkgarcia@yahoo.com
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:22 --> applicant_monitoring --> insert --> role_id -->  --> 12
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:22 --> applicant_monitoring --> insert --> full_name -->  --> Garcia, Tirso
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:22 --> applicant_monitoring --> insert --> display_name -->  --> Garcia, Tirso
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:22 --> applicant_monitoring --> insert --> calendar_id -->  --> 7
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:22 --> applicant_monitoring --> insert --> salary -->  --> ^uЛухaЊ‹ЖWыдG§оЗ
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:22 --> applicant_monitoring --> insert --> user_id -->  --> 1330
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:22 --> applicant_monitoring --> insert --> id_number -->  --> 33779
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:22 --> applicant_monitoring --> insert --> effectivity_date -->  --> 2019-11-01
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:22 --> applicant_monitoring --> insert --> alias -->  --> Garcia, Tirso
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:22 --> applicant_monitoring --> insert --> company_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:22 --> applicant_monitoring --> insert --> department_id -->  --> 9
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:23 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:23 --> applicant_monitoring --> insert --> location_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:23 --> applicant_monitoring --> insert --> user_id -->  --> 1330
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:23 --> applicant_monitoring --> insert --> partner_id -->  --> 1329
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:23 --> applicant_monitoring --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:23 --> applicant_monitoring --> insert --> lastname -->  --> Garcia
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:23 --> applicant_monitoring --> insert --> firstname -->  --> Tirso
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:23 --> applicant_monitoring --> insert --> middlename -->  --> Tamares
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:23 --> applicant_monitoring --> insert --> nickname -->  --> Jun
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:23 --> applicant_monitoring --> insert --> position_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:23 --> applicant_monitoring --> insert --> title -->  --> Mr.
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:23 --> applicant_monitoring --> insert --> birth_date -->  --> 1995-02-08
+ALICANTE, LISSA (30991) --> 2019-10-20 15:24:23 --> applicant_monitoring --> update --> partner_id --> 1328 --> 1329
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:04 --> applicant_monitoring --> insert --> login -->  --> 33779
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:04 --> applicant_monitoring --> insert --> email -->  --> tjkgarcia@yahoo.com
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:04 --> applicant_monitoring --> insert --> role_id -->  --> 12
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:04 --> applicant_monitoring --> insert --> full_name -->  --> Garcia, Tirso
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:04 --> applicant_monitoring --> insert --> display_name -->  --> Garcia, Tirso
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:04 --> applicant_monitoring --> insert --> calendar_id -->  --> 7
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:04 --> applicant_monitoring --> insert --> salary -->  --> ^uЛухaЊ‹ЖWыдG§оЗ

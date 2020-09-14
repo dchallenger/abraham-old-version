@@ -1,0 +1,101 @@
+DECANO, JAN RANDOLPH (32954) --> 2017-04-24 10:49:38 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-24 10:50:14 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-24 10:50:25 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-24 11:06:49 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-04-24 11:06:56 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-04-24 11:07:36 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-24 11:07:48 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-24 11:11:25 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-04-24 11:11:32 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-04-24 11:26:55 --> module --> insert --> mod_code -->  --> movement_admin
+Admin, Teemworx (admin) --> 2017-04-24 11:26:55 --> module --> insert --> route -->  --> partners/admin/movement_admin
+Admin, Teemworx (admin) --> 2017-04-24 11:26:55 --> module --> insert --> table -->  --> partners_movement
+Admin, Teemworx (admin) --> 2017-04-24 11:26:55 --> module --> insert --> primary_key -->  --> movement_id
+Admin, Teemworx (admin) --> 2017-04-24 11:26:55 --> module --> insert --> enable_mass_action -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:26:55 --> module --> insert --> list_template_header -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:26:55 --> module --> insert --> list_template -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:30:11 --> module --> update --> short_name -->  --> Employee Movement
+Admin, Teemworx (admin) --> 2017-04-24 11:30:11 --> module --> update --> long_name -->  --> Employee Movement
+Admin, Teemworx (admin) --> 2017-04-24 11:30:11 --> module --> update --> icon -->  --> fa-user
+Admin, Teemworx (admin) --> 2017-04-24 11:30:11 --> module --> update --> description -->  --> fa-user
+Admin, Teemworx (admin) --> 2017-04-24 11:31:47 --> module --> update --> description --> fa-user --> Manage Employee Movement
+Admin, Teemworx (admin) --> 2017-04-24 11:38:00 --> module --> update --> short_name --> Employee Movement --> Employee Movement Manage
+Admin, Teemworx (admin) --> 2017-04-24 11:38:00 --> module --> update --> long_name --> Employee Movement --> Employee Movement Manage
+Admin, Teemworx (admin) --> 2017-04-24 11:45:37 --> module --> update --> short_name --> Employee Movement --> Employee Movement Admin
+Admin, Teemworx (admin) --> 2017-04-24 11:45:37 --> module --> update --> long_name --> Employee Movement --> Employee Movement Admin
+Admin, Teemworx (admin) --> 2017-04-24 11:49:12 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:12 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-04-24 11:49:12 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-04-24 11:49:12 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:12 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:12 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-24 11:49:12 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> action_id -->  --> 5
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> action_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> action_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-24 11:49:13 --> profiles --> edit --> action_id -->  --> 8
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> action_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> action_id -->  --> 10
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:14 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:15 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-24 11:49:15 --> profiles --> edit --> action_id -->  --> 5
+Admin, Teemworx (admin) --> 2017-04-24 11:49:15 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:15 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:15 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-24 11:49:15 --> profiles --> edit --> action_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-04-24 11:49:15 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:15 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:15 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-24 11:49:15 --> profiles --> edit --> action_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-04-24 11:49:15 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-24 11:49:15 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-24 11:49:15 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-24 11:49:15 --> profiles --> edit --> action_id -->  --> 8
+Admin, Teemworx (admin) --> 2017-04-24 11:49:15 --> profiles --> edit --> grant -->  --> on

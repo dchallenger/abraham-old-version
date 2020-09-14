@@ -1,0 +1,5 @@
+2019-09-29 10:59:21 --> report_generator --> insert --> report_code -->  --> BIR1604CF 7.1
+2019-09-29 10:59:25 --> report_generator --> insert --> report_name -->  --> BIR1604CF 7.1
+2019-09-29 10:59:25 --> report_generator --> insert --> description -->  --> Alphalist of employees terminated before December 31
+2019-09-29 10:59:25 --> report_generator --> insert --> category_id -->  --> 3
+2019-09-29 10:59:25 --> report_generator --> insert --> roles -->  --> 1,2,8

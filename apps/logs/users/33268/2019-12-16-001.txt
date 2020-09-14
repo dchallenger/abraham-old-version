@@ -1,0 +1,6 @@
+2019-12-16 05:01:18 --> authentication --> login --> login -->  --> 
+2019-12-16 05:01:49 --> appraisal_individual_rate --> update --> status_id -->  --> 13
+2019-12-16 05:01:49 --> appraisal_individual_rate --> update --> appraisee_acceptance -->  --> 1
+2019-12-16 05:01:49 --> appraisal_individual_rate --> update --> appraisee_remarks -->  --> test
+2019-12-16 05:01:50 --> appraisal_individual_rate --> update --> selfrate_date -->  --> 2019-12-16
+2019-12-16 05:20:40 --> authentication --> logout --> logout -->  --> 

@@ -1,0 +1,4 @@
+Admin, Teemworx (admin) --> 2017-05-13 21:59:20 --> clearance_sign --> insert --> layout_name -->  --> tttt
+Admin, Teemworx (admin) --> 2017-05-13 21:59:20 --> clearance_sign --> insert --> company_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-13 21:59:20 --> clearance_sign --> insert --> department_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-13 21:59:21 --> clearance_sign --> insert --> default -->  --> 0

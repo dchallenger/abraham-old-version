@@ -1,0 +1,78 @@
+Admin, Teemworx (admin) --> 2017-09-30 00:19:43 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-09-30 00:22:19 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-09-30 00:24:10 --> authentication --> login --> login -->  --> 
+() --> 2017-09-30 00:24:22 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-09-30 00:27:00 --> authentication --> logout --> logout -->  --> 
+() --> 2017-09-30 00:27:05 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-09-30 00:27:09 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-09-30 00:28:23 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-09-30 00:29:12 --> authentication --> login --> login -->  --> 
+() --> 2017-09-30 00:29:23 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-09-30 00:37:37 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-09-30 00:38:33 --> authentication --> login --> login -->  --> 
+() --> 2017-09-30 00:38:36 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-09-30 00:42:15 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-09-30 00:42:24 --> authentication --> login --> login -->  --> 
+() --> 2017-09-30 00:42:27 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-09-30 10:29:52 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-09-30 10:30:36 --> authentication --> login --> login -->  --> 
+() --> 2017-09-30 10:32:18 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-09-30 10:42:12 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 10:43:25 --> authentication --> login --> login -->  --> 
+() --> 2017-09-30 10:48:42 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 10:50:39 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-09-30 10:51:35 --> authentication --> login --> login -->  --> 
+() --> 2017-09-30 10:51:47 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:57:59 --> applicant_monitoring --> update --> request_id --> 0 --> 1
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:57:59 --> applicant_monitoring --> update --> status_id --> 11 --> 1
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:57:59 --> applicant_monitoring --> insert --> recruit_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:57:59 --> applicant_monitoring --> insert --> key_id -->  --> 196
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:57:59 --> applicant_monitoring --> insert --> key -->  --> sourcing_free_sites
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:57:59 --> applicant_monitoring --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:57:59 --> applicant_monitoring --> insert --> key_name -->  --> Recruitment Sourcing Free Sites
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:57:59 --> applicant_monitoring --> insert --> request_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:57:59 --> applicant_monitoring --> insert --> recruit_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:57:59 --> applicant_monitoring --> insert --> status_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:58:30 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:58:30 --> applicant_monitoring --> insert --> date -->  --> 2017-10-02 01:00:00
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:58:30 --> applicant_monitoring --> insert --> user_id -->  --> 11
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:58:30 --> applicant_monitoring --> insert --> location_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:58:30 --> applicant_monitoring --> insert --> schedule_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:58:30 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+POLONAN, MARIA LEE (31002) --> 2017-09-30 11:58:30 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+POLONAN, MARIA LEE (31002) --> 2017-09-30 12:07:21 --> authentication --> logout --> logout -->  --> 
+() --> 2017-09-30 12:07:23 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 12:07:33 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:52 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:52 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:52 --> applicant_monitoring --> update --> process_id --> 0 --> 1
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:52 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:52 --> applicant_monitoring --> update --> result -->  --> Consider
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:52 --> applicant_monitoring --> insert --> interview_id -->  --> 1
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:52 --> applicant_monitoring --> insert --> key_id -->  --> 31
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:52 --> applicant_monitoring --> insert --> key -->  --> remarks
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:52 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:52 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:52 --> applicant_monitoring --> insert --> key_value -->  --> asdfasdf
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:52 --> applicant_monitoring --> insert --> interview_id -->  --> 1
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_id -->  --> 66
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key -->  --> interviewer
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_value -->  --> ELISCUPIDES, ROWENA
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> interview_id -->  --> 1
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_id -->  --> 64
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_value -->  --> October 05, 2017
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> interview_id -->  --> 1
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_id -->  --> 32
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 14:08:41 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 14:08:41 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 14:08:41 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+ELISCUPIDES, ROWENA (00273) --> 2017-09-30 14:08:42 --> applicant_monitoring --> update --> result --> Pending --> Consider

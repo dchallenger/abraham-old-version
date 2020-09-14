@@ -1,0 +1,8 @@
+2017-04-27 12:50:04 --> payroll_transactions --> insert --> transaction_code -->  --> ECOLA
+2017-04-27 12:50:04 --> payroll_transactions --> insert --> transaction_label -->  --> E-cola
+2017-04-27 12:50:04 --> payroll_transactions --> insert --> transaction_class_id -->  --> 6
+2017-04-27 12:50:04 --> payroll_transactions --> insert --> transaction_type_id -->  --> 6
+2017-04-27 12:50:04 --> payroll_transactions --> insert --> debit_account_id -->  --> 3
+2017-04-27 12:50:04 --> payroll_transactions --> insert --> priority_id -->  --> 3
+2017-04-27 15:28:23 --> authentication --> logout --> logout -->  --> 
+2017-04-27 15:28:30 --> authentication --> login --> login -->  --> 

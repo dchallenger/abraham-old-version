@@ -1,0 +1,4 @@
+() --> 2017-03-06 10:32:45 --> project --> insert --> project -->  --> ssss
+() --> 2017-03-06 10:32:45 --> project --> insert --> project_code -->  --> 212
+() --> 2017-03-06 10:32:45 --> project --> insert --> status_id -->  --> 1
+() --> 2017-03-06 10:36:05 --> project --> update --> status_id --> 1 --> 1 else 0

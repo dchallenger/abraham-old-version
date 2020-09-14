@@ -1,0 +1,16 @@
+Admin, Teemworx (admin) --> 2019-11-25 04:30:47 --> authentication --> logout --> logout -->  --> 
+ARIQUE, JR., CESAR (32638) --> 2019-11-25 04:42:53 --> authentication --> login --> login -->  --> 
+ARIQUE, JR., CESAR (32638) --> 2019-11-25 04:44:42 --> incident_report --> insert --> involved_partners -->  --> 1046
+ARIQUE, JR., CESAR (32638) --> 2019-11-25 04:44:42 --> incident_report --> insert --> offense_id -->  --> 53
+ARIQUE, JR., CESAR (32638) --> 2019-11-25 04:44:42 --> incident_report --> insert --> complainants -->  --> 328
+ARIQUE, JR., CESAR (32638) --> 2019-11-25 04:44:42 --> incident_report --> insert --> date_time_of_offense -->  --> 2019-11-25 04:00:00
+ARIQUE, JR., CESAR (32638) --> 2019-11-25 04:44:42 --> incident_report --> insert --> witnesses -->  --> 1208
+ARIQUE, JR., CESAR (32638) --> 2019-11-25 04:44:42 --> incident_report --> insert --> incident_status_id -->  --> 2
+ARIQUE, JR., CESAR (32638) --> 2019-11-25 04:44:42 --> incident_report --> insert --> date_sent -->  --> 2019-11-25 04:44:41
+ARIQUE, JR., CESAR (32638) --> 2019-11-25 04:45:28 --> authentication --> logout --> logout -->  --> 
+CRUZ, ARNOLD (30007) --> 2019-11-25 04:46:30 --> authentication --> login --> login -->  --> 
+CRUZ, ARNOLD (30007) --> 2019-11-25 04:47:47 --> incident_manage --> update --> nte_complainants --> 0 --> 1
+CRUZ, ARNOLD (30007) --> 2019-11-25 04:47:48 --> incident_manage --> update --> nte_witnesses --> 0 --> 1
+CRUZ, ARNOLD (30007) --> 2019-11-25 04:47:48 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+CRUZ, ARNOLD (30007) --> 2019-11-25 05:11:38 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-11-25 05:11:48 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,5 @@
+Admin, Teemworx (admin) --> 2019-11-10 19:31:32 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-11-10 19:36:00 --> payroll_employee --> update --> salary --> ¢ÄäŸ¨TµÃEÀ~ózÉ --> *Lñ=wðtïU£áóç
+Admin, Teemworx (admin) --> 2019-11-10 19:36:00 --> payroll_employee --> update --> minimum_takehome --> L€„‹ï¡w™£{Ìç --> ü=N¤w#yu/EÃ¶3ä
+Admin, Teemworx (admin) --> 2019-11-10 19:36:00 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2019-11-10 19:36:00 --> payroll_employee --> update --> non_swipe --> 1 --> 1 else 0

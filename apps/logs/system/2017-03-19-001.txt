@@ -1,0 +1,89 @@
+Admin, System (admin) --> 2017-03-19 10:19:53 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 10:20:01 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 10:24:24 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-19 10:24:32 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-19 10:53:21 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, System (admin) --> 2017-03-19 10:53:21 --> leave_balance_admin --> insert --> user_id -->  --> 18
+Admin, System (admin) --> 2017-03-19 10:53:21 --> leave_balance_admin --> insert --> form_id -->  --> 21
+Admin, System (admin) --> 2017-03-19 10:53:21 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, System (admin) --> 2017-03-19 10:53:21 --> leave_balance_admin --> insert --> current -->  --> 5
+Admin, System (admin) --> 2017-03-19 10:53:21 --> leave_balance_admin --> insert --> period_from -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-19 10:53:21 --> leave_balance_admin --> insert --> period_to -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-19 10:53:21 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-19 10:55:17 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, System (admin) --> 2017-03-19 10:55:17 --> leave_balance_admin --> insert --> user_id -->  --> 19
+Admin, System (admin) --> 2017-03-19 10:55:17 --> leave_balance_admin --> insert --> form_id -->  --> 16
+Admin, System (admin) --> 2017-03-19 10:55:17 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, System (admin) --> 2017-03-19 10:55:17 --> leave_balance_admin --> insert --> current -->  --> 5
+Admin, System (admin) --> 2017-03-19 10:55:17 --> leave_balance_admin --> insert --> period_from -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-19 10:55:17 --> leave_balance_admin --> insert --> period_to -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-19 10:55:17 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-19 10:57:27 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, System (admin) --> 2017-03-19 10:57:27 --> leave_balance_admin --> insert --> user_id -->  --> 18
+Admin, System (admin) --> 2017-03-19 10:57:27 --> leave_balance_admin --> insert --> form_id -->  --> 16
+Admin, System (admin) --> 2017-03-19 10:57:27 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, System (admin) --> 2017-03-19 10:57:27 --> leave_balance_admin --> insert --> current -->  --> 7
+Admin, System (admin) --> 2017-03-19 10:57:27 --> leave_balance_admin --> insert --> period_from -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-19 10:57:27 --> leave_balance_admin --> insert --> period_to -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-19 10:57:27 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-19 10:59:36 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, System (admin) --> 2017-03-19 10:59:36 --> leave_balance_admin --> insert --> user_id -->  --> 2
+Admin, System (admin) --> 2017-03-19 10:59:36 --> leave_balance_admin --> insert --> form_id -->  --> 6
+Admin, System (admin) --> 2017-03-19 10:59:36 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, System (admin) --> 2017-03-19 10:59:36 --> leave_balance_admin --> insert --> current -->  --> 9
+Admin, System (admin) --> 2017-03-19 10:59:36 --> leave_balance_admin --> insert --> period_from -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-19 10:59:36 --> leave_balance_admin --> insert --> period_to -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-19 10:59:36 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-19 11:00:26 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, System (admin) --> 2017-03-19 11:00:26 --> leave_balance_admin --> insert --> user_id -->  --> 18
+Admin, System (admin) --> 2017-03-19 11:00:26 --> leave_balance_admin --> insert --> form_id -->  --> 16
+Admin, System (admin) --> 2017-03-19 11:00:26 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, System (admin) --> 2017-03-19 11:00:26 --> leave_balance_admin --> insert --> current -->  --> 9
+Admin, System (admin) --> 2017-03-19 11:00:26 --> leave_balance_admin --> insert --> period_from -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-19 11:00:26 --> leave_balance_admin --> insert --> period_to -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-19 11:00:26 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-19 12:26:25 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 12:26:34 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 12:36:14 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-19 12:36:23 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-19 12:37:01 --> authentication --> logout --> logout -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-19 12:37:09 --> authentication --> login --> login -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-19 12:49:40 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-19 12:49:49 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-19 19:53:32 --> form_policy --> update --> division_id --> ALL --> 1
+Admin, System (admin) --> 2017-03-19 19:53:32 --> form_policy --> update --> department_id --> ALL --> 1
+Admin, System (admin) --> 2017-03-19 20:18:56 --> leave_balance_admin --> update --> year --> 2017 --> 2018
+Admin, System (admin) --> 2017-03-19 20:19:24 --> leave_balance_admin --> update --> year --> 2018 --> 2017
+Admin, System (admin) --> 2017-03-19 20:19:24 --> leave_balance_admin --> update --> period_extension --> 0000-00-00 --> 1970-01-01
+Admin, System (admin) --> 2017-03-19 20:25:52 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 20:26:02 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 20:33:03 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-19 20:33:12 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-19 20:40:13 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 20:40:47 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 20:44:56 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-19 20:45:33 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-19 20:51:14 --> authentication --> logout --> logout -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-19 20:56:53 --> authentication --> login --> login -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-19 21:15:05 --> authentication --> logout --> logout -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-19 21:15:24 --> authentication --> login --> login -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-19 21:26:38 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 21:30:57 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 21:42:01 --> authentication --> logout --> logout -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-19 21:42:14 --> authentication --> login --> login -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-19 21:43:23 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 21:46:09 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 21:52:34 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-19 21:52:41 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-19 21:57:53 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 21:58:17 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 21:59:58 --> authentication --> logout --> logout -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-19 22:00:07 --> authentication --> login --> login -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-19 22:20:23 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 22:20:31 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 22:21:17 --> authentication --> logout --> logout -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-19 22:21:29 --> authentication --> login --> login -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-19 22:31:18 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 22:31:30 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-19 22:32:19 --> authentication --> logout --> logout -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-19 22:32:33 --> authentication --> login --> login -->  --> 

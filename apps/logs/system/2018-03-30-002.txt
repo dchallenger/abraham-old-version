@@ -1,0 +1,86 @@
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:05:48 --> appraisal_individual_planning --> insert --> item -->  --> ggg
+Admin, Teemworx (admin) --> 2018-03-30 20:06:33 --> appraisal_template --> delete --> performance_template_section_column - section_column_id --> 5 --> 
+Admin, Teemworx (admin) --> 2018-03-30 20:06:36 --> appraisal_template --> delete --> performance_template_section_column - section_column_id --> 6 --> 
+Admin, Teemworx (admin) --> 2018-03-30 20:06:39 --> appraisal_template --> delete --> performance_template_section_column - section_column_id --> 8 --> 
+Admin, Teemworx (admin) --> 2018-03-30 20:06:42 --> appraisal_template --> delete --> performance_template_section_column - section_column_id --> 9 --> 
+Admin, Teemworx (admin) --> 2018-03-30 20:08:23 --> appraisal_template --> insert --> template_section_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-03-30 20:08:23 --> appraisal_template --> insert --> title -->  --> PERFORMANCE INDICATORS
+Admin, Teemworx (admin) --> 2018-03-30 20:08:23 --> appraisal_template --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-30 20:08:23 --> appraisal_template --> insert --> width -->  --> 12.5
+Admin, Teemworx (admin) --> 2018-03-30 20:08:23 --> appraisal_template --> insert --> uitype_id -->  --> 8
+Admin, Teemworx (admin) --> 2018-03-30 20:09:14 --> appraisal_template --> insert --> template_section_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-03-30 20:09:14 --> appraisal_template --> insert --> title -->  --> BELOW STANDARD
+Admin, Teemworx (admin) --> 2018-03-30 20:09:14 --> appraisal_template --> insert --> sequence -->  --> 2
+Admin, Teemworx (admin) --> 2018-03-30 20:09:14 --> appraisal_template --> insert --> width -->  --> 15
+Admin, Teemworx (admin) --> 2018-03-30 20:09:14 --> appraisal_template --> insert --> uitype_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-03-30 20:11:42 --> appraisal_template --> insert --> template_section_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-03-30 20:11:42 --> appraisal_template --> insert --> title -->  --> MEET STANDARD - LOW
+Admin, Teemworx (admin) --> 2018-03-30 20:11:42 --> appraisal_template --> insert --> sequence -->  --> 3
+Admin, Teemworx (admin) --> 2018-03-30 20:11:42 --> appraisal_template --> insert --> width -->  --> 12.5
+Admin, Teemworx (admin) --> 2018-03-30 20:11:43 --> appraisal_template --> insert --> uitype_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-03-30 20:12:05 --> appraisal_template --> insert --> template_section_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-03-30 20:12:05 --> appraisal_template --> insert --> title -->  --> MEET STANDARD - HIGH
+Admin, Teemworx (admin) --> 2018-03-30 20:12:05 --> appraisal_template --> insert --> sequence -->  --> 4
+Admin, Teemworx (admin) --> 2018-03-30 20:12:05 --> appraisal_template --> insert --> width -->  --> 12.5
+Admin, Teemworx (admin) --> 2018-03-30 20:12:05 --> appraisal_template --> insert --> uitype_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-03-30 20:12:54 --> appraisal_template --> insert --> template_section_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-03-30 20:12:54 --> appraisal_template --> insert --> title -->  --> EXCEED STANDARD
+Admin, Teemworx (admin) --> 2018-03-30 20:12:54 --> appraisal_template --> insert --> sequence -->  --> 5
+Admin, Teemworx (admin) --> 2018-03-30 20:12:54 --> appraisal_template --> insert --> width -->  --> 12.5
+Admin, Teemworx (admin) --> 2018-03-30 20:12:54 --> appraisal_template --> insert --> uitype_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-03-30 20:13:24 --> appraisal_template --> insert --> template_section_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-03-30 20:13:24 --> appraisal_template --> insert --> title -->  --> Weight
+Admin, Teemworx (admin) --> 2018-03-30 20:13:24 --> appraisal_template --> insert --> sequence -->  --> 6
+Admin, Teemworx (admin) --> 2018-03-30 20:13:24 --> appraisal_template --> insert --> width -->  --> 12.5
+Admin, Teemworx (admin) --> 2018-03-30 20:13:24 --> appraisal_template --> insert --> uitype_id -->  --> 7
+Admin, Teemworx (admin) --> 2018-03-30 20:14:00 --> appraisal_template --> insert --> template_section_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-03-30 20:14:00 --> appraisal_template --> insert --> title -->  --> Points
+Admin, Teemworx (admin) --> 2018-03-30 20:14:00 --> appraisal_template --> insert --> sequence -->  --> 8
+Admin, Teemworx (admin) --> 2018-03-30 20:14:00 --> appraisal_template --> insert --> width -->  --> 12.5
+Admin, Teemworx (admin) --> 2018-03-30 20:14:00 --> appraisal_template --> insert --> uitype_id -->  --> 5
+Admin, Teemworx (admin) --> 2018-03-30 20:14:00 --> appraisal_template --> insert --> rating_group_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-30 20:15:01 --> appraisal_template --> update --> uitype_id --> 5 --> 6
+Admin, Teemworx (admin) --> 2018-03-30 20:15:29 --> appraisal_template --> insert --> template_section_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-03-30 20:15:29 --> appraisal_template --> insert --> title -->  --> Rating
+Admin, Teemworx (admin) --> 2018-03-30 20:15:29 --> appraisal_template --> insert --> sequence -->  --> 8
+Admin, Teemworx (admin) --> 2018-03-30 20:15:29 --> appraisal_template --> insert --> width -->  --> 12.5
+Admin, Teemworx (admin) --> 2018-03-30 20:15:29 --> appraisal_template --> insert --> uitype_id -->  --> 5
+Admin, Teemworx (admin) --> 2018-03-30 20:15:30 --> appraisal_template --> insert --> rating_group_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-30 20:16:26 --> appraisal_template --> update --> sequence --> 8 --> 7
+Admin, Teemworx (admin) --> 2018-03-30 20:17:05 --> appraisal_template --> insert --> template_section_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-03-30 20:17:05 --> appraisal_template --> insert --> title -->  --> WORK OUTPUT
+Admin, Teemworx (admin) --> 2018-03-30 20:17:06 --> appraisal_template --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-30 20:17:06 --> appraisal_template --> insert --> width -->  --> 12.5
+Admin, Teemworx (admin) --> 2018-03-30 20:17:06 --> appraisal_template --> insert --> uitype_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-03-30 20:17:06 --> appraisal_template --> insert --> min_items -->  --> 3
+Admin, Teemworx (admin) --> 2018-03-30 20:17:06 --> appraisal_template --> insert --> max_items -->  --> 8
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:17:40 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:17:40 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:17:40 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 18
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:17:40 --> appraisal_individual_planning --> insert --> item -->  --> sdfasdf
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:18:47 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:18:47 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:18:47 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 18
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:18:48 --> appraisal_individual_planning --> insert --> item -->  --> asd
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:18:48 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:18:48 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:18:48 --> appraisal_individual_planning --> insert --> item_id -->  --> 7
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:18:48 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 15
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:34:50 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:34:50 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:34:50 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 18
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:34:50 --> appraisal_individual_planning --> insert --> item -->  --> fd
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:34:51 --> appraisal_individual_planning --> update --> value -->  --> 60
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:34:51 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:34:51 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:34:51 --> appraisal_individual_planning --> insert --> item_id -->  --> 8
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:34:51 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 15
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:34:51 --> appraisal_individual_planning --> insert --> value -->  --> 34
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:37:06 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:37:06 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:37:06 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 18
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:37:06 --> appraisal_individual_planning --> insert --> item -->  --> dasd
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:37:06 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:37:06 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:37:06 --> appraisal_individual_planning --> insert --> item_id -->  --> 9
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:37:06 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 15

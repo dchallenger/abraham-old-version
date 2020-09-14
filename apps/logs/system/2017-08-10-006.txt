@@ -1,0 +1,33 @@
+Admin, Teemworx (admin) --> 2017-08-10 05:14:27 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 05:14:27 --> applicants --> insert --> key_name -->  --> Height
+Admin, Teemworx (admin) --> 2017-08-10 05:14:27 --> applicants --> insert --> recruit_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-08-10 05:14:27 --> applicants --> insert --> key_id -->  --> 28
+Admin, Teemworx (admin) --> 2017-08-10 05:14:27 --> applicants --> insert --> key -->  --> weight
+Admin, Teemworx (admin) --> 2017-08-10 05:14:28 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 05:14:28 --> applicants --> insert --> key_name -->  --> Weight
+Admin, Teemworx (admin) --> 2017-08-10 05:14:28 --> applicants --> insert --> recruit_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-08-10 05:14:28 --> applicants --> insert --> key_id -->  --> 29
+Admin, Teemworx (admin) --> 2017-08-10 05:14:28 --> applicants --> insert --> key -->  --> interests_hobbies
+Admin, Teemworx (admin) --> 2017-08-10 05:14:28 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 05:14:28 --> applicants --> insert --> key_name -->  --> Interests/Hobbies
+Admin, Teemworx (admin) --> 2017-08-10 05:14:28 --> applicants --> insert --> recruit_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-08-10 05:14:28 --> applicants --> insert --> key_id -->  --> 30
+Admin, Teemworx (admin) --> 2017-08-10 05:14:28 --> applicants --> insert --> key -->  --> language
+Admin, Teemworx (admin) --> 2017-08-10 05:14:29 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 05:14:29 --> applicants --> insert --> key_name -->  --> Language Known
+Admin, Teemworx (admin) --> 2017-08-10 05:14:29 --> applicants --> insert --> recruit_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-08-10 05:14:29 --> applicants --> insert --> key_id -->  --> 31
+Admin, Teemworx (admin) --> 2017-08-10 05:14:29 --> applicants --> insert --> key -->  --> dialect
+Admin, Teemworx (admin) --> 2017-08-10 05:14:29 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 05:14:30 --> applicants --> insert --> key_name -->  --> Dialect Known
+Admin, Teemworx (admin) --> 2017-08-10 05:14:30 --> applicants --> insert --> recruit_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-08-10 05:14:30 --> applicants --> insert --> key_id -->  --> 32
+Admin, Teemworx (admin) --> 2017-08-10 05:14:30 --> applicants --> insert --> key -->  --> dependents_count
+Admin, Teemworx (admin) --> 2017-08-10 05:14:30 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 05:14:30 --> applicants --> insert --> key_name -->  --> Number of Dependents
+Admin, Teemworx (admin) --> 2017-08-10 05:14:30 --> applicants --> insert --> recruit_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-08-10 05:14:30 --> applicants --> insert --> key_id -->  --> 163
+Admin, Teemworx (admin) --> 2017-08-10 05:14:31 --> applicants --> insert --> key -->  --> solo_parent
+Admin, Teemworx (admin) --> 2017-08-10 05:14:31 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-08-10 05:14:31 --> applicants --> insert --> key_name -->  --> Is Solo Parent
+Admin, Teemworx (admin) --> 2017-08-10 05:14:31 --> applicants --> insert --> key_value -->  --> 0

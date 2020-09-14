@@ -1,0 +1,125 @@
+2019-11-01 23:04:54 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:04:54 --> applicants --> insert --> key_id -->  --> 39
+2019-11-01 23:04:54 --> applicants --> insert --> key -->  --> employment-company
+2019-11-01 23:04:54 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:04:54 --> applicants --> insert --> key_name -->  --> Company Name
+2019-11-01 23:04:54 --> applicants --> insert --> key_value -->  --> Uknown
+2019-11-01 23:04:54 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:04:54 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:04:54 --> applicants --> insert --> key_id -->  --> 40
+2019-11-01 23:04:54 --> applicants --> insert --> key -->  --> employment-position-title
+2019-11-01 23:04:54 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:04:54 --> applicants --> insert --> key_name -->  --> Position Title
+2019-11-01 23:04:55 --> applicants --> insert --> key_value -->  --> Test
+2019-11-01 23:04:55 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:04:55 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:04:55 --> applicants --> insert --> key_id -->  --> 41
+2019-11-01 23:04:55 --> applicants --> insert --> key -->  --> employment-location
+2019-11-01 23:04:55 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:04:55 --> applicants --> insert --> key_name -->  --> Location
+2019-11-01 23:04:55 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:04:55 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:04:55 --> applicants --> insert --> key_id -->  --> 44
+2019-11-01 23:04:55 --> applicants --> insert --> key -->  --> employment-duties
+2019-11-01 23:04:55 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:04:55 --> applicants --> insert --> key_name -->  --> Duties and Responsibilities
+2019-11-01 23:04:55 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:04:55 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:04:55 --> applicants --> insert --> key_id -->  --> 42
+2019-11-01 23:04:55 --> applicants --> insert --> key -->  --> employment-month-hired
+2019-11-01 23:04:55 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:04:55 --> applicants --> insert --> key_name -->  --> Month Hired
+2019-11-01 23:04:55 --> applicants --> insert --> key_value -->  --> January
+2019-11-01 23:04:55 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:04:56 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:04:56 --> applicants --> insert --> key_id -->  --> 43
+2019-11-01 23:04:56 --> applicants --> insert --> key -->  --> employment-month-end
+2019-11-01 23:04:56 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:04:56 --> applicants --> insert --> key_name -->  --> Month End
+2019-11-01 23:04:56 --> applicants --> insert --> key_value -->  --> January
+2019-11-01 23:04:56 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:04:56 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:04:56 --> applicants --> insert --> key_id -->  --> 64
+2019-11-01 23:04:56 --> applicants --> insert --> key -->  --> employment-year-hired
+2019-11-01 23:04:56 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:04:56 --> applicants --> insert --> key_name -->  --> Year Hired
+2019-11-01 23:04:56 --> applicants --> insert --> key_value -->  --> 2005
+2019-11-01 23:04:56 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:04:56 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:04:56 --> applicants --> insert --> key_id -->  --> 65
+2019-11-01 23:04:56 --> applicants --> insert --> key -->  --> employment-year-end
+2019-11-01 23:04:56 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:04:56 --> applicants --> insert --> key_name -->  --> Year End
+2019-11-01 23:04:56 --> applicants --> insert --> key_value -->  --> 2018
+2019-11-01 23:04:56 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:04:57 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:04:57 --> applicants --> insert --> key_id -->  --> 182
+2019-11-01 23:04:57 --> applicants --> insert --> key -->  --> employment-last-salary
+2019-11-01 23:04:57 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:04:57 --> applicants --> insert --> key_name -->  --> Last Salary
+2019-11-01 23:04:57 --> applicants --> insert --> key_value -->  --> 60000
+2019-11-01 23:04:57 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:04:57 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:04:57 --> applicants --> insert --> key_id -->  --> 143
+2019-11-01 23:04:57 --> applicants --> insert --> key -->  --> employment-reason-for-leaving
+2019-11-01 23:04:57 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:04:57 --> applicants --> insert --> key_name -->  --> Reason for Leaving
+2019-11-01 23:05:29 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:05:29 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:05:29 --> applicants --> insert --> key_id -->  --> 45
+2019-11-01 23:05:29 --> applicants --> insert --> key -->  --> reference-name
+2019-11-01 23:05:29 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:05:29 --> applicants --> insert --> key_name -->  --> Name
+2019-11-01 23:05:29 --> applicants --> insert --> key_value -->  --> Edel
+2019-11-01 23:05:29 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:05:29 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:05:29 --> applicants --> insert --> key_id -->  --> 46
+2019-11-01 23:05:29 --> applicants --> insert --> key -->  --> reference-occupation
+2019-11-01 23:05:29 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:05:29 --> applicants --> insert --> key_name -->  --> Occupation
+2019-11-01 23:05:30 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:05:30 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:05:30 --> applicants --> insert --> key_id -->  --> 47
+2019-11-01 23:05:30 --> applicants --> insert --> key -->  --> reference-years-known
+2019-11-01 23:05:30 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:05:30 --> applicants --> insert --> key_name -->  --> Years Known
+2019-11-01 23:05:30 --> applicants --> insert --> key_value -->  --> 12
+2019-11-01 23:05:30 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:05:30 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:05:30 --> applicants --> insert --> key_id -->  --> 48
+2019-11-01 23:05:30 --> applicants --> insert --> key -->  --> reference-phone
+2019-11-01 23:05:30 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:05:30 --> applicants --> insert --> key_name -->  --> Phone
+2019-11-01 23:05:30 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:05:30 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:05:30 --> applicants --> insert --> key_id -->  --> 49
+2019-11-01 23:05:30 --> applicants --> insert --> key -->  --> reference-mobile
+2019-11-01 23:05:30 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:05:30 --> applicants --> insert --> key_name -->  --> Mobile
+2019-11-01 23:05:30 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:05:30 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:05:30 --> applicants --> insert --> key_id -->  --> 50
+2019-11-01 23:05:31 --> applicants --> insert --> key -->  --> reference-address
+2019-11-01 23:05:31 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:05:31 --> applicants --> insert --> key_name -->  --> Address
+2019-11-01 23:05:31 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:05:31 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:05:31 --> applicants --> insert --> key_id -->  --> 51
+2019-11-01 23:05:31 --> applicants --> insert --> key -->  --> reference-city
+2019-11-01 23:05:31 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:05:31 --> applicants --> insert --> key_name -->  --> City
+2019-11-01 23:05:31 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:05:31 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:05:31 --> applicants --> insert --> key_id -->  --> 52
+2019-11-01 23:05:31 --> applicants --> insert --> key -->  --> reference-country
+2019-11-01 23:05:31 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:05:31 --> applicants --> insert --> key_name -->  --> Country
+2019-11-01 23:05:31 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:05:31 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:05:31 --> applicants --> insert --> key_id -->  --> 53
+2019-11-01 23:05:31 --> applicants --> insert --> key -->  --> reference-zipcode
+2019-11-01 23:05:31 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:05:31 --> applicants --> insert --> key_name -->  --> Zipcode
+2019-11-01 23:05:32 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:05:32 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:05:32 --> applicants --> insert --> key_id -->  --> 216

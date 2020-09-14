@@ -1,0 +1,7 @@
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> insert --> firstname -->  --> Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> insert --> position_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> insert --> title -->  --> Mr.
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> insert --> birth_date -->  --> 1989-02-15
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> update --> status_id --> 2 --> 7
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> update --> hired --> 0 --> 1
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> update --> partner_id -->  --> 784

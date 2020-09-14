@@ -1,0 +1,29 @@
+2017-10-26 10:45:51 --> authentication --> login --> login -->  --> 
+2017-10-26 10:46:33 --> applicant_monitoring --> update --> process_id --> 0 --> 3
+2017-10-26 10:46:33 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2017-10-26 10:46:33 --> applicant_monitoring --> update --> result -->  --> Consider
+2017-10-26 10:46:33 --> applicant_monitoring --> insert --> interview_id -->  --> 13
+2017-10-26 10:46:33 --> applicant_monitoring --> insert --> key_id -->  --> 31
+2017-10-26 10:46:33 --> applicant_monitoring --> insert --> key -->  --> remarks
+2017-10-26 10:46:33 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-10-26 10:46:33 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+2017-10-26 10:46:33 --> applicant_monitoring --> insert --> interview_id -->  --> 13
+2017-10-26 10:46:33 --> applicant_monitoring --> insert --> key_id -->  --> 66
+2017-10-26 10:46:33 --> applicant_monitoring --> insert --> key -->  --> interviewer
+2017-10-26 10:46:33 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-10-26 10:46:33 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+2017-10-26 10:46:33 --> applicant_monitoring --> insert --> key_value -->  --> POLONAN, MARIA LEE
+2017-10-26 10:46:33 --> applicant_monitoring --> insert --> interview_id -->  --> 13
+2017-10-26 10:46:33 --> applicant_monitoring --> insert --> key_id -->  --> 64
+2017-10-26 10:46:33 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+2017-10-26 10:46:33 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-10-26 10:46:34 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+2017-10-26 10:46:34 --> applicant_monitoring --> insert --> key_value -->  --> October 31, 2017
+2017-10-26 10:46:34 --> applicant_monitoring --> insert --> interview_id -->  --> 13
+2017-10-26 10:46:34 --> applicant_monitoring --> insert --> key_id -->  --> 32
+2017-10-26 10:46:34 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+2017-10-26 10:46:34 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-10-26 10:46:34 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+2017-10-26 10:46:34 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+2017-10-26 12:25:40 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+2017-10-26 12:25:40 --> applicant_monitoring --> update --> status_id --> 2 --> 5

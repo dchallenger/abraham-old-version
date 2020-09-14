@@ -1,0 +1,7 @@
+2017-05-31 10:06:30 --> authentication --> login --> login -->  --> 
+2017-05-31 10:08:57 --> authentication --> logout --> logout -->  --> 
+2017-05-31 10:24:00 --> authentication --> login --> login -->  --> 
+2017-05-31 10:24:28 --> authentication --> logout --> logout -->  --> 
+2017-05-31 15:33:30 --> authentication --> login --> login -->  --> 
+2017-05-31 15:34:33 --> applicant_monitoring --> update --> status_id --> 3 --> 4
+2017-05-31 15:34:33 --> applicant_monitoring --> update --> status_id --> 2 --> 4

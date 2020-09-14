@@ -1,0 +1,87 @@
+Admin, Teemworx (admin) --> 2017-04-19 09:47:35 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-04-19 12:14:05 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:14:32 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:17:57 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:17:57 --> incident_report --> insert --> offense_id -->  --> 1
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:17:57 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:17:57 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-19 12:16:00
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:17:57 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:17:57 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:17:57 --> incident_report --> insert --> date_sent -->  --> 2017-04-19 12:17:57
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:18:12 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-19 12:18:26 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-19 12:23:47 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:23:58 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:26:32 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:26:32 --> incident_report --> insert --> offense_id -->  --> 1
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:26:32 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:26:32 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-19 12:26:00
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:26:32 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:26:32 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:26:32 --> incident_report --> insert --> date_sent -->  --> 2017-04-19 12:26:32
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:28:32 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:28:32 --> incident_report --> insert --> offense_id -->  --> 1
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:28:32 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:28:32 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-19 12:00:00
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:28:32 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:28:32 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:28:32 --> incident_report --> insert --> date_sent -->  --> 2017-04-19 12:28:32
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:34:08 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-19 12:34:18 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-19 12:35:56 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:36:09 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:36:56 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-19 12:37:05 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-19 12:39:00 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:39:05 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:39:30 --> authentication --> update --> users - hash --> $2a$08$iXXxY4Kq.CTeZjn.60TWb.oLGRtde465v/h2i7PJZHGulJrSDk8IO --> $2a$08$aZZrKe5lNZMnsb3edmecMOfPxHFgAszHxpIn3kUR/U7Od9Olgt4Zu
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 12:51:41 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-19 12:51:51 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-19 12:52:04 --> authentication --> update --> users - hash --> $2a$08$h/t7j9cqtGT5OXPL0cW7T.eykXmtkq/X1A0a.4y.kgIKRrbAqT7.u --> $2a$08$sumlp9tgLWFBUaHtCaa.5uqltu0Ukx0blgGQT.x8fne/baXrgmAx.
+GARCES, JOCELYN (00451) --> 2017-04-19 12:52:33 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-19 12:53:05 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-19 12:53:30 --> authentication --> update --> users - hash --> $2a$08$.CJdlM2nuoKJNuiYkLFjCeqhLK3m4ILzRjgZiz75r6Vr9ELnheGm6 --> $2a$08$YGkb4cBB5X8vAC5jsuOPC./cxNA6wD/oVBfrApUk3ptIHKP3ZVOZi
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-19 12:54:10 --> authentication --> logout --> logout -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-04-19 12:54:31 --> authentication --> login --> login -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-04-19 12:54:43 --> authentication --> update --> users - hash --> $2a$08$9ACEn5ew1NduS5F965WcrO17bwFLd94laUo9umoIA7AoM0tzbsiBe --> $2a$08$DcWcbWwz3qqMOb1OP.CQje/LlEBBEem7ZthYjXUssAcXwi1D3CDT.
+LABAPIS, JOSHUA (31091) --> 2017-04-19 12:55:32 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-19 12:55:36 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-19 12:55:58 --> authentication --> update --> users - hash --> $2a$08$AfgN7dsFg9ulhvqKBSaW3uX.WQdhBuZG3yCrqe0v5hDnWYJEwhDy. --> $2a$08$fWH9ZZfcbbjSyvrtmj5Qyu4REQLovwcwIVOuSSZyBubdlKKiqhoRu
+DE LEON, LISSA (30991) --> 2017-04-19 12:57:14 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-19 12:57:32 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-19 12:58:12 --> authentication --> update --> users - hash --> $2a$08$hRV4eko18h6qPQ0gn7.f.eKk9O9Dv7nPKfZbN1mhregMrBYi3sR6i --> $2a$08$69lOXe4Fie8UIm2ZdnU8x.QJd8la86wkTR4BmzyR/ods5P0UL65iG
+ELISCUPIDES, ROWENA (00273) --> 2017-04-19 12:58:33 --> incident_manage --> update --> incident_status_id --> 2 --> 4
+ELISCUPIDES, ROWENA (00273) --> 2017-04-19 13:05:25 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 13:06:27 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 13:07:48 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-19 13:07:57 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-19 13:10:45 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-19 13:11:24 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-19 13:12:53 --> authentication --> logout --> logout -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-04-19 13:13:07 --> authentication --> login --> login -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-04-19 13:13:51 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-19 13:14:02 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-19 13:28:13 --> incident_admin --> update --> hr_remarks -->  --> ok na
+DE LEON, LISSA (30991) --> 2017-04-19 13:28:13 --> incident_admin --> update --> nte_immediate --> 0 --> 1
+DE LEON, LISSA (30991) --> 2017-04-19 13:28:13 --> incident_admin --> update --> nte_complainants --> 0 --> 1
+DE LEON, LISSA (30991) --> 2017-04-19 13:28:13 --> incident_admin --> update --> nte_witnesses --> 0 --> 1
+DE LEON, LISSA (30991) --> 2017-04-19 13:28:13 --> incident_admin --> update --> nte_others --> 0 --> 1
+DE LEON, LISSA (30991) --> 2017-04-19 13:28:13 --> incident_admin --> update --> incident_status_id --> 4 --> 9
+DE LEON, LISSA (30991) --> 2017-04-19 13:34:11 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-19 13:34:50 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-19 13:37:25 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 13:37:37 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 13:38:53 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-19 13:39:08 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-19 13:41:50 --> authentication --> logout --> logout -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-04-19 13:42:00 --> authentication --> login --> login -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-04-19 13:42:46 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-19 13:42:56 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-19 13:45:53 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-19 13:45:58 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-19 13:50:43 --> hearing_admin --> update --> incident_status_id --> 9 --> 10
+DE LEON, LISSA (30991) --> 2017-04-19 13:51:02 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-19 13:51:20 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-19 13:53:43 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 13:53:56 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-19 13:54:57 --> authentication --> logout --> logout -->  --> 

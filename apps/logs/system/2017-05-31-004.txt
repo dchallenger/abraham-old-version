@@ -1,0 +1,95 @@
+Admin, Teemworx (admin) --> 2017-05-31 10:22:34 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-31 10:22:34 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:34 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:34 --> profiles --> edit --> mod_id -->  --> 31
+Admin, Teemworx (admin) --> 2017-05-31 10:22:34 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-31 10:22:34 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:34 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:34 --> profiles --> edit --> mod_id -->  --> 31
+Admin, Teemworx (admin) --> 2017-05-31 10:22:34 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-31 10:22:34 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:37 --> authentication --> logout --> logout -->  --> 
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 10:22:58 --> authentication --> login --> login -->  --> 
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 10:23:47 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-31 10:24:00 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-31 10:24:28 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-31 10:24:42 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-31 10:25:18 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-31 10:25:57 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-31 10:28:01 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-31 10:28:39 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-31 10:29:49 --> authentication --> logout --> logout -->  --> 
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 10:30:00 --> authentication --> login --> login -->  --> 
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:44 --> applicants --> insert --> lastname -->  --> Garcia
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:44 --> applicants --> insert --> firstname -->  --> tirso
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:44 --> applicants --> insert --> nickname -->  --> Jun
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:44 --> applicants --> insert --> source_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:44 --> applicants --> insert --> recruitment_date -->  --> 2017-05-31
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:44 --> applicants --> insert --> request_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:44 --> applicants --> insert --> request_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:44 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:44 --> applicants --> insert --> status_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:44 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:44 --> applicants --> insert --> key_id -->  --> 164
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:44 --> applicants --> insert --> key -->  --> position_sought
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> sequence -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key_name -->  --> Position Sought
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key_value -->  --> ACCOUNTING ASSISTANT
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key_id -->  --> 165
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key -->  --> desired_salary
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> sequence -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key_name -->  --> Desired Salary
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key_value -->  --> 232323
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key_id -->  --> 170
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key -->  --> photo
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> sequence -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key_name -->  --> Photo
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key_id -->  --> 166
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key -->  --> salary_pay_mode
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> sequence -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key_name -->  --> Salary Payment Mode
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key_value -->  --> Monthly
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key_id -->  --> 167
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key -->  --> currently_employed
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> sequence -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key_name -->  --> Currently Employed
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key_value -->  --> 0
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> sequence -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key_value -->  --> 5
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key_id -->  --> 169
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key -->  --> resume
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> sequence -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:39:45 --> applicants --> insert --> key_name -->  --> Resume
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> update --> email -->  --> tjkgarcia@yahoo.com
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> delete --> recruitment_personal - recruit_id --> 1 --> 
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> insert --> key_id -->  --> 5
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> insert --> key -->  --> phone
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> insert --> sequence -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> insert --> key_name -->  --> Phone 
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> insert --> key_value -->  --> +6323659302
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> delete --> recruitment_personal - recruit_id --> 1 --> 
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> insert --> key_id -->  --> 7
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> insert --> key -->  --> mobile
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> insert --> sequence -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> insert --> key_name -->  --> Mobile
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> insert --> key_value -->  --> +639186866801
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:45 --> applicants --> insert --> key_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:46 --> applicants --> insert --> key -->  --> address_1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:46 --> applicants --> insert --> sequence -->  --> 2
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:46 --> applicants --> insert --> key_name -->  --> Street
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:46 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:46 --> applicants --> insert --> key_id -->  --> 3
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:46 --> applicants --> insert --> key -->  --> city_town
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:46 --> applicants --> insert --> sequence -->  --> 2
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:46 --> applicants --> insert --> key_name -->  --> City/Town
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:46 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:46 --> applicants --> insert --> key_id -->  --> 4

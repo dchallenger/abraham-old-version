@@ -1,0 +1,155 @@
+2017-04-29 16:00:31 --> authentication --> logout --> logout -->  --> 
+2017-04-29 16:00:39 --> authentication --> login --> login -->  --> 
+2017-04-29 16:03:34 --> module --> insert --> short_name -->  --> Late Exemption
+2017-04-29 16:03:34 --> module --> insert --> long_name -->  --> Late Exemption
+2017-04-29 16:03:34 --> module --> insert --> icon -->  --> fa-th-list
+2017-04-29 16:03:34 --> module --> insert --> description -->  --> Setup for late exemption for payroll only but with tardiness
+2017-04-29 16:06:23 --> module --> update --> mod_code -->  --> late_exemption
+2017-04-29 16:06:23 --> module --> update --> route -->  --> admin/time/late_exemption
+2017-04-29 16:06:23 --> module --> update --> table -->  --> payroll_late_exemption
+2017-04-29 16:06:23 --> module --> update --> primary_key -->  --> payroll_late_exemption_id
+2017-04-29 16:06:23 --> module --> update --> list_template_header -->  --> <th width="40%">Offense Category</th>
+<th width="40%">Description</th>
+2017-04-29 16:06:23 --> module --> update --> list_template -->  --> <tr class="record">
+    <td>
+        <div>
+            <input type="checkbox" class="record-checker checkboxes" value="<?php echo $record_id; ?>" />
+        </div>
+    </td>
+    <td>
+        {{ $partners_offense_sanction_category_offense_sanction_category }}
+    </td>
+    <td>
+        {{ $partners_offense_sanction_category_description }}
+    </td>
+    <td>
+        <div class="btn-group">
+            <a class="btn btn-xs text-muted" href="{{ $edit_url }}"><i class="fa fa-pencil"></i> Edit</a>
+        </div>
+        <div class="btn-group">
+            <a class="btn btn-xs text-muted" href="#" data-close-others="true" data-toggle="dropdown"><i class="fa fa-gear"></i> Options</a>
+            <ul class="dropdown-menu pull-right">
+                {{ $options }}
+            </ul>
+        </div>
+    </td>
+</tr>
+2017-04-29 16:18:04 --> authentication --> logout --> logout -->  --> 
+2017-04-29 16:19:05 --> authentication --> login --> login -->  --> 
+2017-04-29 16:19:57 --> authentication --> logout --> logout -->  --> 
+2017-04-29 16:20:10 --> authentication --> login --> login -->  --> 
+2017-04-29 16:50:46 --> late_exemption --> insert --> company_id -->  --> 13
+2017-04-29 16:50:46 --> late_exemption --> insert --> employment_type_id -->  --> 5
+2017-04-29 16:50:46 --> late_exemption --> insert --> lates_exemption -->  --> 3.98
+2017-04-29 16:52:19 --> late_exemption --> delete --> payroll_late_exemption_id --> 3 --> 
+2017-04-29 16:52:43 --> late_exemption --> update --> company_id -->  --> 1
+2017-04-29 16:52:52 --> late_exemption --> update --> company_id -->  --> 1
+2017-04-29 19:20:49 --> authentication --> logout --> logout -->  --> 
+2017-04-29 19:22:07 --> authentication --> login --> login -->  --> 
+2017-04-29 19:23:45 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:45 --> profiles --> edit --> mod_id -->  --> 75
+2017-04-29 19:23:45 --> profiles --> edit --> action_id -->  --> 1
+2017-04-29 19:23:45 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:45 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:45 --> profiles --> edit --> mod_id -->  --> 75
+2017-04-29 19:23:45 --> profiles --> edit --> action_id -->  --> 2
+2017-04-29 19:23:45 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:45 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:45 --> profiles --> edit --> mod_id -->  --> 38
+2017-04-29 19:23:45 --> profiles --> edit --> action_id -->  --> 1
+2017-04-29 19:23:45 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:45 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:45 --> profiles --> edit --> mod_id -->  --> 38
+2017-04-29 19:23:46 --> profiles --> edit --> action_id -->  --> 2
+2017-04-29 19:23:46 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:46 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:46 --> profiles --> edit --> mod_id -->  --> 28
+2017-04-29 19:23:46 --> profiles --> edit --> action_id -->  --> 1
+2017-04-29 19:23:46 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:46 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:46 --> profiles --> edit --> mod_id -->  --> 28
+2017-04-29 19:23:46 --> profiles --> edit --> action_id -->  --> 2
+2017-04-29 19:23:46 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:46 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:46 --> profiles --> edit --> mod_id -->  --> 28
+2017-04-29 19:23:46 --> profiles --> edit --> action_id -->  --> 3
+2017-04-29 19:23:46 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:46 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:46 --> profiles --> edit --> mod_id -->  --> 28
+2017-04-29 19:23:46 --> profiles --> edit --> action_id -->  --> 4
+2017-04-29 19:23:46 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:46 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:46 --> profiles --> edit --> mod_id -->  --> 28
+2017-04-29 19:23:46 --> profiles --> edit --> action_id -->  --> 5
+2017-04-29 19:23:46 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:46 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:46 --> profiles --> edit --> mod_id -->  --> 171
+2017-04-29 19:23:47 --> profiles --> edit --> action_id -->  --> 1
+2017-04-29 19:23:47 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:47 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:47 --> profiles --> edit --> mod_id -->  --> 171
+2017-04-29 19:23:47 --> profiles --> edit --> action_id -->  --> 2
+2017-04-29 19:23:47 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:47 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:47 --> profiles --> edit --> mod_id -->  --> 168
+2017-04-29 19:23:47 --> profiles --> edit --> action_id -->  --> 1
+2017-04-29 19:23:47 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:47 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:47 --> profiles --> edit --> mod_id -->  --> 168
+2017-04-29 19:23:47 --> profiles --> edit --> action_id -->  --> 2
+2017-04-29 19:23:47 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:47 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:47 --> profiles --> edit --> mod_id -->  --> 173
+2017-04-29 19:23:47 --> profiles --> edit --> action_id -->  --> 1
+2017-04-29 19:23:47 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:47 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:47 --> profiles --> edit --> mod_id -->  --> 173
+2017-04-29 19:23:47 --> profiles --> edit --> action_id -->  --> 2
+2017-04-29 19:23:47 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:48 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:48 --> profiles --> edit --> mod_id -->  --> 167
+2017-04-29 19:23:48 --> profiles --> edit --> action_id -->  --> 1
+2017-04-29 19:23:48 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:48 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:48 --> profiles --> edit --> mod_id -->  --> 167
+2017-04-29 19:23:48 --> profiles --> edit --> action_id -->  --> 2
+2017-04-29 19:23:48 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:48 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:48 --> profiles --> edit --> mod_id -->  --> 170
+2017-04-29 19:23:48 --> profiles --> edit --> action_id -->  --> 1
+2017-04-29 19:23:48 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:48 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:48 --> profiles --> edit --> mod_id -->  --> 170
+2017-04-29 19:23:48 --> profiles --> edit --> action_id -->  --> 2
+2017-04-29 19:23:48 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:48 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:48 --> profiles --> edit --> mod_id -->  --> 99
+2017-04-29 19:23:48 --> profiles --> edit --> action_id -->  --> 1
+2017-04-29 19:23:48 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:48 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:48 --> profiles --> edit --> mod_id -->  --> 99
+2017-04-29 19:23:48 --> profiles --> edit --> action_id -->  --> 2
+2017-04-29 19:23:48 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:49 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:49 --> profiles --> edit --> mod_id -->  --> 99
+2017-04-29 19:23:49 --> profiles --> edit --> action_id -->  --> 3
+2017-04-29 19:23:49 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:49 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:49 --> profiles --> edit --> mod_id -->  --> 99
+2017-04-29 19:23:49 --> profiles --> edit --> action_id -->  --> 4
+2017-04-29 19:23:49 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:49 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:49 --> profiles --> edit --> mod_id -->  --> 99
+2017-04-29 19:23:49 --> profiles --> edit --> action_id -->  --> 5
+2017-04-29 19:23:49 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:49 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:49 --> profiles --> edit --> mod_id -->  --> 172
+2017-04-29 19:23:49 --> profiles --> edit --> action_id -->  --> 1
+2017-04-29 19:23:49 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:49 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:49 --> profiles --> edit --> mod_id -->  --> 172
+2017-04-29 19:23:49 --> profiles --> edit --> action_id -->  --> 2
+2017-04-29 19:23:49 --> profiles --> edit --> grant -->  --> on
+2017-04-29 19:23:49 --> profiles --> edit --> profile_id -->  --> 14
+2017-04-29 19:23:49 --> profiles --> edit --> mod_id -->  --> 41
+2017-04-29 19:23:49 --> profiles --> edit --> action_id -->  --> 1

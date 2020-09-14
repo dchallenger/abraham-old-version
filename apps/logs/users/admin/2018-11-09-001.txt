@@ -1,0 +1,69 @@
+2018-11-09 05:37:44 --> batch_transaction --> insert --> document_no -->  --> 12345
+2018-11-09 05:37:44 --> batch_transaction --> insert --> transaction_id -->  --> 252
+2018-11-09 05:37:45 --> batch_transaction --> insert --> payroll_date -->  --> 2018-11-15
+2018-11-09 05:37:45 --> batch_transaction --> insert --> unit_rate_main -->  --> É—úŠç}‹F‡*´Ú™}¨
+2018-11-09 05:37:45 --> batch_transaction --> insert --> remarks -->  --> test
+2018-11-09 05:37:45 --> batch_transaction --> delete --> payroll_entry_batch_employee - batch_entry_id --> 1969 --> 
+2018-11-09 05:37:45 --> batch_transaction --> insert --> batch_entry_id -->  --> 1969
+2018-11-09 05:37:45 --> batch_transaction --> insert --> id_number -->  --> 33372
+2018-11-09 05:37:45 --> batch_transaction --> insert --> employee_id -->  --> 968
+2018-11-09 05:37:45 --> batch_transaction --> insert --> unit_rate -->  --> ô¶ÚQµ„DO²%s„GÁh
+2018-11-09 05:37:45 --> batch_transaction --> insert --> quantity -->  --> +¬Ì`à[ÆœÿN48ô
+2018-11-09 05:37:45 --> batch_transaction --> insert --> amount -->  --> ô¶ÚQµ„DO²%s„GÁh
+2018-11-09 05:52:07 --> batch_transaction --> insert --> document_no -->  --> 87888
+2018-11-09 05:52:07 --> batch_transaction --> insert --> transaction_id -->  --> 252
+2018-11-09 05:52:07 --> batch_transaction --> insert --> payroll_date -->  --> 2018-11-30
+2018-11-09 05:52:07 --> batch_transaction --> insert --> unit_rate_main -->  --> Ë˜ñc:11tïö=ú5Ä
+2018-11-09 05:52:07 --> batch_transaction --> delete --> payroll_entry_batch_employee - batch_entry_id --> 1970 --> 
+2018-11-09 05:52:07 --> batch_transaction --> insert --> batch_entry_id -->  --> 1970
+2018-11-09 05:52:07 --> batch_transaction --> insert --> id_number -->  --> 33372
+2018-11-09 05:52:07 --> batch_transaction --> insert --> employee_id -->  --> 968
+2018-11-09 05:52:07 --> batch_transaction --> insert --> unit_rate -->  --> DNU8ÀSŒVÿ‘K
+2018-11-09 05:52:07 --> batch_transaction --> insert --> quantity -->  --> +¬Ì`à[ÆœÿN48ô
+2018-11-09 05:52:07 --> batch_transaction --> insert --> amount -->  --> DNU8ÀSŒVÿ‘K
+2018-11-09 05:53:37 --> batch_transaction --> delete --> payroll_entry_batch_employee - batch_entry_id --> 1970 --> 
+2018-11-09 05:54:31 --> batch_transaction --> delete --> payroll_entry_batch_employee - batch_entry_id --> 1970 --> 
+2018-11-09 05:55:05 --> batch_transaction --> delete --> payroll_entry_batch_employee - batch_entry_id --> 1970 --> 
+2018-11-09 05:59:36 --> batch_transaction --> insert --> document_no -->  --> 2312323
+2018-11-09 05:59:36 --> batch_transaction --> insert --> transaction_id -->  --> 252
+2018-11-09 05:59:36 --> batch_transaction --> insert --> payroll_date -->  --> 2018-11-28
+2018-11-09 05:59:37 --> batch_transaction --> insert --> unit_rate_main -->  --> VUüÈ¬Ê‚x"Â=ùùó¥
+2018-11-09 05:59:37 --> batch_transaction --> insert --> remarks -->  --> 23
+2018-11-09 05:59:37 --> batch_transaction --> delete --> payroll_entry_batch_employee - batch_entry_id --> 1971 --> 
+2018-11-09 05:59:37 --> batch_transaction --> insert --> batch_entry_id -->  --> 1971
+2018-11-09 05:59:37 --> batch_transaction --> insert --> id_number -->  --> 33372
+2018-11-09 05:59:37 --> batch_transaction --> insert --> employee_id -->  --> 968
+2018-11-09 05:59:37 --> batch_transaction --> insert --> unit_rate -->  --> à=¦ïÄ3üq‹Ÿü¹¦
+2018-11-09 05:59:37 --> batch_transaction --> insert --> quantity -->  --> +¬Ì`à[ÆœÿN48ô
+2018-11-09 05:59:37 --> batch_transaction --> insert --> amount -->  --> à=¦ïÄ3üq‹Ÿü¹¦
+2018-11-09 06:00:19 --> batch_transaction --> delete --> payroll_entry_batch_employee - batch_entry_id --> 1971 --> 
+2018-11-09 06:00:19 --> batch_transaction --> insert --> batch_entry_id -->  --> 1971
+2018-11-09 06:00:19 --> batch_transaction --> insert --> id_number -->  --> 33372
+2018-11-09 06:00:19 --> batch_transaction --> insert --> employee_id -->  --> 968
+2018-11-09 06:00:20 --> batch_transaction --> insert --> unit_rate -->  --> à=¦ïÄ3üq‹Ÿü¹¦
+2018-11-09 06:00:20 --> batch_transaction --> insert --> quantity -->  --> +¬Ì`à[ÆœÿN48ô
+2018-11-09 06:00:20 --> batch_transaction --> insert --> amount -->  --> à=¦ïÄ3üq‹Ÿü¹¦
+2018-11-09 06:00:38 --> batch_transaction --> delete --> payroll_entry_batch_employee - batch_entry_id --> 1971 --> 
+2018-11-09 06:00:38 --> batch_transaction --> insert --> batch_entry_id -->  --> 1971
+2018-11-09 06:00:38 --> batch_transaction --> insert --> id_number -->  --> 33372
+2018-11-09 06:00:38 --> batch_transaction --> insert --> employee_id -->  --> 968
+2018-11-09 06:00:38 --> batch_transaction --> insert --> unit_rate -->  --> à=¦ïÄ3üq‹Ÿü¹¦
+2018-11-09 06:00:38 --> batch_transaction --> insert --> quantity -->  --> +¬Ì`à[ÆœÿN48ô
+2018-11-09 06:00:38 --> batch_transaction --> insert --> amount -->  --> à=¦ïÄ3üq‹Ÿü¹¦
+2018-11-09 06:01:12 --> batch_transaction --> delete --> payroll_entry_batch_employee - batch_entry_id --> 1971 --> 
+2018-11-09 06:01:33 --> batch_transaction --> delete --> payroll_entry_batch_employee - batch_entry_id --> 1971 --> 
+2018-11-09 06:02:31 --> batch_transaction --> delete --> payroll_entry_batch_employee - batch_entry_id --> 1971 --> 
+2018-11-09 06:08:00 --> batch_transaction --> delete --> payroll_entry_batch_employee - batch_entry_id --> 1971 --> 
+2018-11-09 06:08:00 --> batch_transaction --> insert --> batch_entry_id -->  --> 1971
+2018-11-09 06:08:00 --> batch_transaction --> insert --> id_number -->  --> 33372
+2018-11-09 06:08:00 --> batch_transaction --> insert --> employee_id -->  --> 968
+2018-11-09 06:08:00 --> batch_transaction --> insert --> unit_rate -->  --> à=¦ïÄ3üq‹Ÿü¹¦
+2018-11-09 06:08:01 --> batch_transaction --> insert --> quantity -->  --> +¬Ì`à[ÆœÿN48ô
+2018-11-09 06:08:01 --> batch_transaction --> insert --> amount -->  --> à=¦ïÄ3üq‹Ÿü¹¦
+2018-11-09 06:08:46 --> batch_transaction --> delete --> payroll_entry_batch_employee - batch_entry_id --> 1970 --> 
+2018-11-09 06:08:46 --> batch_transaction --> insert --> batch_entry_id -->  --> 1970
+2018-11-09 06:08:46 --> batch_transaction --> insert --> id_number -->  --> 33372
+2018-11-09 06:08:46 --> batch_transaction --> insert --> employee_id -->  --> 968
+2018-11-09 06:08:46 --> batch_transaction --> insert --> unit_rate -->  --> DNU8ÀSŒVÿ‘K
+2018-11-09 06:08:46 --> batch_transaction --> insert --> quantity -->  --> +¬Ì`à[ÆœÿN48ô
+2018-11-09 06:08:46 --> batch_transaction --> insert --> amount -->  --> DNU8ÀSŒVÿ‘K

@@ -1,0 +1,25 @@
+Admin, Teemworx (admin) --> 2017-05-17 20:42:18 --> payroll_employee --> update --> total_year_days -->  --> 313
+Admin, Teemworx (admin) --> 2017-05-17 20:42:18 --> payroll_employee --> update --> payroll_rate_type_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-17 20:42:19 --> payroll_employee --> update --> payroll_schedule_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-05-17 20:42:19 --> payroll_employee --> update --> salary --> Î!žQ i‡Ür©
+n±r€ --> qcAžwŸüç‰<D¾
+Admin, Teemworx (admin) --> 2017-05-17 20:42:19 --> payroll_employee --> update --> taxcode_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-17 20:42:19 --> payroll_employee --> update --> attendance_base --> 1 --> 0
+Admin, Teemworx (admin) --> 2017-05-17 20:42:19 --> payroll_employee --> update --> sss_mode -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-17 20:42:19 --> payroll_employee --> update --> sss_week -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-17 20:42:19 --> payroll_employee --> update --> hdmf_no -->  --> 343434343
+Admin, Teemworx (admin) --> 2017-05-17 20:42:19 --> payroll_employee --> update --> hdmf_mode -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-17 20:42:19 --> payroll_employee --> update --> hdmf_week -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-17 20:42:19 --> payroll_employee --> update --> phic_no -->  --> 3424323
+Admin, Teemworx (admin) --> 2017-05-17 20:42:19 --> payroll_employee --> update --> phic_mode -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-17 20:42:19 --> payroll_employee --> update --> phic_week -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-17 20:42:19 --> payroll_employee --> update --> tax_mode -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-17 20:42:19 --> payroll_employee --> update --> tax_week -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-17 21:17:57 --> payroll_employee --> update --> attendance_base --> 0 --> 1
+Admin, Teemworx (admin) --> 2017-05-17 21:20:12 --> payroll_employee --> update --> whole_half --> 0 --> 1
+Admin, Teemworx (admin) --> 2017-05-17 21:21:17 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-17 21:21:17 --> payroll_employee --> update --> whole_half --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-17 21:21:29 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-17 21:21:29 --> payroll_employee --> update --> whole_half --> 1 --> 0
+Admin, Teemworx (admin) --> 2017-05-17 21:21:38 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-17 21:21:38 --> payroll_employee --> update --> whole_half --> 0 --> 1

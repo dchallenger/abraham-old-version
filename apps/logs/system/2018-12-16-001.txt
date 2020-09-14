@@ -1,0 +1,17 @@
+Admin, Teemworx (admin) --> 2018-12-16 12:44:39 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-12-16 13:10:24 --> authentication --> logout --> logout -->  --> 
+GACOTE, GERSHON (33076) --> 2018-12-16 13:10:35 --> authentication --> login --> login -->  --> 
+() --> 2018-12-16 13:10:43 --> authentication --> logout --> logout -->  --> 
+GACOTE, GERSHON (33076) --> 2018-12-16 13:14:00 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-12-16 13:16:40 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-12-16 13:19:10 --> form_policy --> update --> company_id --> 2 --> 2,6
+Admin, Teemworx (admin) --> 2018-12-16 13:19:10 --> form_policy --> update --> employment_status_id --> 1,2,3,4,5,6,7,8,9,10,11,12,13,25 --> 1,2,3,4,5,6,7,8,9,10,11,12
+GACOTE, GERSHON (33076) --> 2018-12-16 13:23:05 --> authentication --> logout --> logout -->  --> 
+NICOLAS, RESURECCION (00346) --> 2018-12-16 13:23:09 --> authentication --> login --> login -->  --> 
+() --> 2018-12-16 13:23:23 --> authentication --> logout --> logout -->  --> 
+NICOLAS, RESURECCION (00346) --> 2018-12-16 13:35:42 --> authentication --> logout --> logout -->  --> 
+GACOTE, GERSHON (33076) --> 2018-12-16 13:35:53 --> authentication --> login --> login -->  --> 
+() --> 2018-12-16 13:36:33 --> authentication --> logout --> logout -->  --> 
+GACOTE, GERSHON (33076) --> 2018-12-16 13:46:00 --> authentication --> logout --> logout -->  --> 
+NICOLAS, RESURECCION (00346) --> 2018-12-16 13:46:14 --> authentication --> login --> login -->  --> 
+() --> 2018-12-16 13:46:28 --> authentication --> logout --> logout -->  --> 

@@ -1,0 +1,14 @@
+() --> 2019-12-28 16:38:25 --> authentication --> logout --> logout -->  --> 
+() --> 2019-12-28 16:38:26 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-12-28 16:38:36 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> company_name -->  --> firefly
+Admin, Teemworx (admin) --> 2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> address -->  --> test
+Admin, Teemworx (admin) --> 2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> user_id -->  --> 1261
+Admin, Teemworx (admin) --> 2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> prev_nontax_thirten_month -->  --> 44
+Admin, Teemworx (admin) --> 2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> prev_nontax_deminimis -->  --> 23
+Admin, Teemworx (admin) --> 2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> prev_nontax_sss_etc -->  --> 23
+Admin, Teemworx (admin) --> 2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> prev_nontax_salaries -->  --> 23
+Admin, Teemworx (admin) --> 2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> prev_nontax_comp_income -->  --> 23
+Admin, Teemworx (admin) --> 2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> prev_taxable_thirten_month -->  --> 23
+Admin, Teemworx (admin) --> 2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> prev_taxable_salaries -->  --> 23
+Admin, Teemworx (admin) --> 2019-12-28 18:25:00 --> previous_employer_amount_for_alphalist --> insert --> prev_total_taxable -->  --> 23

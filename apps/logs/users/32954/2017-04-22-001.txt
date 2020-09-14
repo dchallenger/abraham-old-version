@@ -1,0 +1,24 @@
+2017-04-22 05:49:33 --> authentication --> login --> login -->  --> 
+2017-04-22 05:50:36 --> incident_report --> insert --> involved_partners -->  --> 41
+2017-04-22 05:50:36 --> incident_report --> insert --> offense_id -->  --> 1
+2017-04-22 05:50:36 --> incident_report --> insert --> complainants -->  --> 93
+2017-04-22 05:50:36 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-22 05:00:00
+2017-04-22 05:50:36 --> incident_report --> insert --> witnesses -->  --> 15
+2017-04-22 05:50:36 --> incident_report --> insert --> incident_status_id -->  --> 2
+2017-04-22 05:50:36 --> incident_report --> insert --> date_sent -->  --> 2017-04-22 05:50:36
+2017-04-22 07:59:39 --> incident_report --> insert --> involved_partners -->  --> 41
+2017-04-22 07:59:39 --> incident_report --> insert --> offense_id -->  --> 1
+2017-04-22 07:59:39 --> incident_report --> insert --> complainants -->  --> 93
+2017-04-22 07:59:39 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-22 07:00:00
+2017-04-22 07:59:39 --> incident_report --> insert --> witnesses -->  --> 15
+2017-04-22 07:59:39 --> incident_report --> insert --> incident_status_id -->  --> 2
+2017-04-22 07:59:39 --> incident_report --> insert --> date_sent -->  --> 2017-04-22 07:59:39
+2017-04-22 08:01:19 --> authentication --> logout --> logout -->  --> 
+2017-04-22 17:17:25 --> authentication --> login --> login -->  --> 
+2017-04-22 17:18:27 --> authentication --> logout --> logout -->  --> 
+2017-04-22 17:34:50 --> authentication --> login --> login -->  --> 
+2017-04-22 17:35:55 --> authentication --> logout --> logout -->  --> 
+2017-04-22 19:09:34 --> authentication --> login --> login -->  --> 
+2017-04-22 19:17:25 --> authentication --> logout --> logout -->  --> 
+2017-04-22 19:47:38 --> authentication --> login --> login -->  --> 
+2017-04-22 20:41:04 --> authentication --> logout --> logout -->  --> 

@@ -1,0 +1,11 @@
+Admin, Teemworx (admin) --> 2017-06-20 09:53:06 --> authentication --> logout --> logout -->  --> 
+() --> 2017-06-20 09:53:07 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-20 10:50:16 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-20 10:52:20 --> authentication --> logout --> logout -->  --> 
+() --> 2017-06-20 10:52:25 --> authentication --> logout --> logout -->  --> 
+CARMEN, MA RITA (00108) --> 2017-06-20 10:52:38 --> authentication --> login --> login -->  --> 
+CARMEN, MA RITA (00108) --> 2017-06-20 11:31:15 --> authentication --> logout --> logout -->  --> 
+() --> 2017-06-20 11:31:16 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-06-20 11:31:32 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-06-20 11:32:19 --> authentication --> logout --> logout -->  --> 
+() --> 2017-06-20 11:32:19 --> authentication --> logout --> logout -->  --> 

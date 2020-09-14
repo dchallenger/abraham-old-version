@@ -1,0 +1,54 @@
+() --> 2018-02-28 12:02:58 --> authentication --> logout --> logout -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2018-02-28 12:03:33 --> authentication --> login --> login -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2018-02-28 12:08:08 --> authentication --> logout --> logout -->  --> 
+() --> 2018-02-28 12:08:09 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-02-28 12:08:13 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-02-28 12:47:09 --> authentication --> logout --> logout -->  --> 
+() --> 2018-02-28 12:47:10 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-02-28 12:47:25 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-02-28 12:48:08 --> mrf --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+POLONAN, MARIA LEE (31002) --> 2018-02-28 12:48:08 --> mrf --> insert --> subject -->  --> PRF for approval
+POLONAN, MARIA LEE (31002) --> 2018-02-28 12:48:08 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by POLONAN, MARIA LEE  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+POLONAN, MARIA LEE (31002) --> 2018-02-28 12:48:09 --> mrf --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+POLONAN, MARIA LEE (31002) --> 2018-02-28 12:48:09 --> mrf --> insert --> subject -->  --> PRF for approval
+POLONAN, MARIA LEE (31002) --> 2018-02-28 12:48:09 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by POLONAN, MARIA LEE  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>

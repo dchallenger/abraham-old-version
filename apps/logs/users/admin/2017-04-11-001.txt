@@ -1,0 +1,150 @@
+2017-04-11 09:01:10 --> authentication --> login --> login -->  --> 
+2017-04-11 09:06:37 --> authentication --> login --> login -->  --> 
+2017-04-11 09:10:51 --> authentication --> logout --> logout -->  --> 
+2017-04-11 09:36:29 --> authentication --> login --> login -->  --> 
+2017-04-11 10:14:00 --> authentication --> logout --> logout -->  --> 
+2017-04-11 10:18:13 --> authentication --> login --> login -->  --> 
+2017-04-11 11:42:36 --> authentication --> logout --> logout -->  --> 
+2017-04-11 14:06:54 --> authentication --> login --> login -->  --> 
+2017-04-11 16:25:35 --> authentication --> logout --> logout -->  --> 
+2017-04-11 20:53:27 --> authentication --> login --> login -->  --> 
+2017-04-11 21:05:53 --> module --> insert --> mod_code -->  --> coordinator
+2017-04-11 21:05:53 --> module --> insert --> route -->  --> admin/time/coordinator
+2017-04-11 21:05:53 --> module --> insert --> table -->  --> users_coordinator
+2017-04-11 21:05:53 --> module --> insert --> primary_key -->  --> coordinator_id
+2017-04-11 21:05:53 --> module --> insert --> enable_mass_action -->  --> 1
+2017-04-11 21:05:53 --> module --> insert --> list_template_header -->  --> <th width="33%">Company</th>
+<th width="33%">Branch</th>
+<th width="34%">Corodinator</th>
+2017-04-11 21:05:53 --> module --> insert --> list_template -->  --> <tr class="record">
+    <td class="hidden-xs">
+</td>
+</tr>
+2017-04-11 21:10:39 --> module --> update --> short_name -->  --> Coordinator
+2017-04-11 21:10:39 --> module --> update --> long_name -->  --> Coordinator
+2017-04-11 21:12:04 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:04 --> profiles --> edit --> mod_id -->  --> 4
+2017-04-11 21:12:04 --> profiles --> edit --> sensitivity_id -->  --> 4
+2017-04-11 21:12:04 --> profiles --> edit --> value -->  --> on
+2017-04-11 21:12:04 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:04 --> profiles --> edit --> mod_id -->  --> 252
+2017-04-11 21:12:04 --> profiles --> edit --> action_id -->  --> 1
+2017-04-11 21:12:04 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:04 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:04 --> profiles --> edit --> mod_id -->  --> 252
+2017-04-11 21:12:04 --> profiles --> edit --> action_id -->  --> 2
+2017-04-11 21:12:04 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:04 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:04 --> profiles --> edit --> mod_id -->  --> 252
+2017-04-11 21:12:04 --> profiles --> edit --> action_id -->  --> 3
+2017-04-11 21:12:04 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:04 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:04 --> profiles --> edit --> mod_id -->  --> 252
+2017-04-11 21:12:04 --> profiles --> edit --> action_id -->  --> 4
+2017-04-11 21:12:04 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:04 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:04 --> profiles --> edit --> mod_id -->  --> 252
+2017-04-11 21:12:04 --> profiles --> edit --> action_id -->  --> 5
+2017-04-11 21:12:04 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:04 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:04 --> profiles --> edit --> mod_id -->  --> 252
+2017-04-11 21:12:04 --> profiles --> edit --> action_id -->  --> 6
+2017-04-11 21:12:04 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:04 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:04 --> profiles --> edit --> mod_id -->  --> 252
+2017-04-11 21:12:04 --> profiles --> edit --> action_id -->  --> 7
+2017-04-11 21:12:04 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:04 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 252
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 8
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 252
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 9
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 252
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 10
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 253
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 253
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 2
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 253
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 3
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 253
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 4
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 253
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 5
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 253
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 6
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 253
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 7
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 253
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 8
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 253
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 9
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 253
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 10
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 243
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 243
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 2
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 243
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 3
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 243
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 4
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 243
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 5
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 243
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 6
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 243
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 7
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 243
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 8
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 243
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 9
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 243
+2017-04-11 21:12:05 --> profiles --> edit --> action_id -->  --> 10
+2017-04-11 21:12:05 --> profiles --> edit --> grant -->  --> on
+2017-04-11 21:12:05 --> profiles --> edit --> profile_id -->  --> 1
+2017-04-11 21:12:05 --> profiles --> edit --> mod_id -->  --> 195

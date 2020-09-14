@@ -1,0 +1,15 @@
+POLONAN, MARIA LEE (31002) --> 2017-09-05 13:00:44 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-09-05 13:00:56 --> authentication --> login --> login -->  --> 
+() --> 2017-09-05 13:09:30 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-09-05 14:23:38 --> authentication --> logout --> logout -->  --> 
+() --> 2017-09-05 14:23:42 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-09-05 14:24:02 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-09-05 14:46:02 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-09-05 14:46:29 --> authentication --> login --> login -->  --> 
+() --> 2017-09-05 14:46:57 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-09-05 18:47:20 --> authentication --> logout --> logout -->  --> 
+() --> 2017-09-05 18:47:22 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-09-05 18:47:46 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-09-05 18:49:25 --> authentication --> logout --> logout -->  --> 
+() --> 2017-09-05 18:49:28 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-09-05 18:49:51 --> authentication --> login --> login -->  --> 

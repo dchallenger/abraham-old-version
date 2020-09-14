@@ -1,0 +1,27 @@
+2019-06-22 15:28:27 --> applicant_monitoring --> insert --> recruit_id -->  --> 12
+2019-06-22 15:28:27 --> applicant_monitoring --> insert --> key_id -->  --> 16
+2019-06-22 15:28:27 --> applicant_monitoring --> insert --> key -->  --> emergency_name
+2019-06-22 15:28:27 --> applicant_monitoring --> insert --> sequence -->  --> 2
+2019-06-22 15:28:27 --> applicant_monitoring --> insert --> key_name -->  --> Contact Name
+2019-06-22 15:28:27 --> applicant_monitoring --> insert --> key_value -->  --> Cecilia G. Abejo
+2019-06-22 15:28:27 --> applicant_monitoring --> insert --> recruit_id -->  --> 12
+2019-06-22 15:28:27 --> applicant_monitoring --> insert --> key_id -->  --> 18
+2019-06-22 15:28:27 --> applicant_monitoring --> insert --> key -->  --> emergency_phone
+2019-06-22 15:28:27 --> applicant_monitoring --> insert --> sequence -->  --> 2
+2019-06-22 15:28:27 --> applicant_monitoring --> insert --> key_name -->  --> Contact Phone
+2019-06-22 15:28:27 --> applicant_monitoring --> insert --> recruit_id -->  --> 12
+2019-06-22 15:28:27 --> applicant_monitoring --> insert --> key_id -->  --> 17
+2019-06-22 15:28:27 --> applicant_monitoring --> insert --> key -->  --> emergency_relationship
+2019-06-22 15:28:27 --> applicant_monitoring --> insert --> sequence -->  --> 2
+2019-06-22 15:28:27 --> applicant_monitoring --> insert --> key_name -->  --> Relationship
+2019-06-22 15:28:28 --> applicant_monitoring --> insert --> key_value -->  --> mother
+2019-06-22 15:28:28 --> applicant_monitoring --> insert --> recruit_id -->  --> 12
+2019-06-22 15:28:28 --> applicant_monitoring --> insert --> key_id -->  --> 22
+2019-06-22 15:28:28 --> applicant_monitoring --> insert --> key -->  --> emergency_zip_code
+2019-06-22 15:28:28 --> applicant_monitoring --> insert --> sequence -->  --> 2
+2019-06-22 15:28:28 --> applicant_monitoring --> insert --> key_name -->  --> Contact Zip Code
+2019-06-22 15:28:28 --> applicant_monitoring --> insert --> recruit_id -->  --> 12
+2019-06-22 15:28:28 --> applicant_monitoring --> insert --> key_id -->  --> 15
+2019-06-22 15:28:28 --> applicant_monitoring --> insert --> key -->  --> zip_code
+2019-06-22 15:28:28 --> applicant_monitoring --> insert --> sequence -->  --> 2
+2019-06-22 15:28:28 --> applicant_monitoring --> insert --> key_name -->  --> Zip Code

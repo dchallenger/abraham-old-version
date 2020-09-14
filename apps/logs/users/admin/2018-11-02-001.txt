@@ -1,0 +1,30 @@
+2018-11-02 05:18:57 --> authentication --> logout --> logout -->  --> 
+2018-11-02 05:19:10 --> authentication --> login --> login -->  --> 
+2018-11-02 05:21:47 --> authentication --> update --> users - hash --> $2a$08$hRV4eko18h6qPQ0gn7.f.eKk9O9Dv7nPKfZbN1mhregMrBYi3sR6i --> $2a$08$LSn1RamcUocbTquxOowoMeQdGhvhwcpJbkkOpKOSLBCG.EDJMUHdG
+2018-11-02 08:51:12 --> partner_loan --> insert --> user_id -->  --> 841
+2018-11-02 08:51:12 --> partner_loan --> insert --> loan_id -->  --> 17
+2018-11-02 08:51:12 --> partner_loan --> insert --> loan_status_id -->  --> 2
+2018-11-02 08:51:12 --> partner_loan --> insert --> entry_date -->  --> 2018-11-01
+2018-11-02 08:51:12 --> partner_loan --> insert --> no_payments -->  --> 12
+2018-11-02 08:51:12 --> partner_loan --> insert --> week -->  --> 2
+2018-11-02 08:51:12 --> partner_loan --> insert --> loan_principal -->  --> qcAžwŸüç‰<D¾
+2018-11-02 08:51:12 --> partner_loan --> insert --> interest -->  --> %ÔuXGŸí1¼õ<¾R
+2018-11-02 08:51:12 --> partner_loan --> insert --> amount -->  --> /[ü“sêdz±²!¿N0
+2018-11-02 08:51:12 --> partner_loan --> insert --> start_date -->  --> 2018-12-15
+2018-11-02 08:51:12 --> partner_loan --> insert --> payment_mode_id -->  --> 1
+2018-11-02 08:51:12 --> partner_loan --> insert --> no_payments_remaining -->  --> 12
+2018-11-02 08:51:12 --> partner_loan --> insert --> system_amortization -->  --> qcAžwŸüç‰<D¾
+2018-11-02 08:51:13 --> partner_loan --> insert --> system_interest -->  --> Ókøz|¶u+BÆ¶Æ
+2018-11-02 08:51:13 --> partner_loan --> insert --> last_payment_date -->  --> 1970-01-01
+2018-11-02 08:54:01 --> partner_loan --> insert --> user_id -->  --> 841
+2018-11-02 08:54:01 --> partner_loan --> insert --> loan_id -->  --> 15
+2018-11-02 08:54:01 --> partner_loan --> insert --> loan_status_id -->  --> 2
+2018-11-02 08:54:01 --> partner_loan --> insert --> entry_date -->  --> 2018-11-01
+2018-11-02 08:54:01 --> partner_loan --> insert --> no_payments -->  --> 12
+2018-11-02 08:54:01 --> partner_loan --> insert --> week -->  --> 2
+2018-11-02 08:54:01 --> partner_loan --> insert --> interest -->  --> %ÔuXGŸí1¼õ<¾R
+2018-11-02 08:54:01 --> partner_loan --> insert --> amount -->  --> qcAžwŸüç‰<D¾
+2018-11-02 08:54:01 --> partner_loan --> insert --> start_date -->  --> 2018-12-01
+2018-11-02 08:54:01 --> partner_loan --> insert --> no_payments_remaining -->  --> 12
+2018-11-02 08:54:01 --> partner_loan --> insert --> system_amortization -->  --> “Ë,Ë°òŽÌÆ¾¦j¯H
+2018-11-02 08:54:01 --> partner_loan --> insert --> system_interest -->  --> Ókøz|¶u+BÆ¶Æ

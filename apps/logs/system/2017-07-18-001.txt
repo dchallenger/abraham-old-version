@@ -1,0 +1,15 @@
+() --> 2017-07-18 09:09:05 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-18 09:33:41 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-18 15:25:35 --> authentication --> logout --> logout -->  --> 
+() --> 2017-07-18 15:25:40 --> authentication --> logout --> logout -->  --> 
+DONADO, JERRY (30995) --> 2017-07-18 15:25:45 --> authentication --> login --> login -->  --> 
+DONADO, JERRY (30995) --> 2017-07-18 15:29:29 --> authentication --> logout --> logout -->  --> 
+DURAN, ALAN (00873) --> 2017-07-18 15:29:35 --> authentication --> login --> login -->  --> 
+() --> 2017-07-18 15:29:55 --> authentication --> logout --> logout -->  --> 
+DURAN, ALAN (00873) --> 2017-07-18 15:38:13 --> authentication --> login --> login -->  --> 
+DURAN, ALAN (00873) --> 2017-07-18 15:59:42 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-18 15:59:52 --> authentication --> login --> login -->  --> 
+() --> 2017-07-18 16:00:22 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-18 19:05:13 --> authentication --> logout --> logout -->  --> 
+CASTRO, RANDY (32904) --> 2017-07-18 19:05:18 --> authentication --> login --> login -->  --> 
+() --> 2017-07-18 19:05:39 --> authentication --> logout --> logout -->  --> 

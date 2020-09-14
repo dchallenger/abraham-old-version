@@ -1,0 +1,19 @@
+2017-03-14 04:25:51 --> authentication --> logout --> logout -->  --> 
+2017-03-14 04:59:47 --> authentication --> login --> login -->  --> 
+2017-03-14 12:12:09 --> authentication --> login --> login -->  --> 
+2017-03-14 17:54:18 --> authentication --> logout --> logout -->  --> 
+2017-03-14 17:54:26 --> authentication --> login --> login -->  --> 
+2017-03-14 17:55:30 --> authentication --> logout --> logout -->  --> 
+2017-03-14 20:57:54 --> authentication --> login --> login -->  --> 
+2017-03-14 21:33:59 --> authentication --> update --> users - hash --> $2a$08$hRV4eko18h6qPQ0gn7.f.eKk9O9Dv7nPKfZbN1mhregMrBYi3sR6i --> $2a$08$jQ77g8GRotXkpAXWYrvI..mMzPFK7uCckPe/c7Ou3wxhUwLM1lc0u
+2017-03-14 21:42:23 --> authentication --> update --> users - hash --> $2a$08$hRV4eko18h6qPQ0gn7.f.eKk9O9Dv7nPKfZbN1mhregMrBYi3sR6i --> $2a$08$SgAyr2JOmp6FEyFIK1DKFelP/jfGqxRjMvwBOnoywrCSRS9BfT/ei
+2017-03-14 21:42:43 --> authentication --> logout --> logout -->  --> 
+2017-03-14 21:42:56 --> authentication --> login --> login -->  --> 
+2017-03-14 21:43:30 --> authentication --> update --> users - hash --> $2a$08$SgAyr2JOmp6FEyFIK1DKFelP/jfGqxRjMvwBOnoywrCSRS9BfT/ei --> $2a$08$wDTTG8QLkO/yBGitKnrqAuigquaBc7UbA4U.sELI9E0EM6pUbKOY6
+2017-03-14 21:43:55 --> authentication --> logout --> logout -->  --> 
+2017-03-14 21:44:11 --> authentication --> login --> login -->  --> 
+2017-03-14 21:44:35 --> authentication --> logout --> logout -->  --> 
+2017-03-14 21:57:17 --> authentication --> login --> login -->  --> 
+2017-03-14 22:24:36 --> leave_setup_policy --> update --> company_id -->  --> 1
+2017-03-14 22:36:38 --> authentication --> logout --> logout -->  --> 
+2017-03-14 22:37:30 --> authentication --> login --> login -->  --> 

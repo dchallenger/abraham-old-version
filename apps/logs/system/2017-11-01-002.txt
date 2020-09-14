@@ -1,0 +1,88 @@
+DE LEON, LISSA (30991) --> 2017-11-01 14:46:20 --> applicant_monitoring --> insert --> display_name -->  --> Lozada, Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:33 --> applicant_monitoring --> insert --> salary -->  --> 50,000
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:33 --> applicant_monitoring --> insert --> email -->  --> rdlozada@yahoo.com
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:33 --> applicant_monitoring --> insert --> role_id -->  --> 12
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:33 --> applicant_monitoring --> insert --> full_name -->  --> Lozada, Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:33 --> applicant_monitoring --> insert --> display_name -->  --> Lozada, Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:33 --> applicant_monitoring --> insert --> shift_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:33 --> applicant_monitoring --> insert --> salary -->  --> è¡ˆslo<¨ôú2]u
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:33 --> applicant_monitoring --> insert --> effectivity_date -->  --> 0000-00-00
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:33 --> applicant_monitoring --> insert --> alias -->  --> Lozada, Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:33 --> applicant_monitoring --> insert --> company_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:33 --> applicant_monitoring --> insert --> department_id -->  --> 9
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:33 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:33 --> applicant_monitoring --> insert --> location_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:33 --> applicant_monitoring --> insert --> partner_id -->  --> 879
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:34 --> applicant_monitoring --> insert --> recruit_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:34 --> applicant_monitoring --> insert --> lastname -->  --> Lozada
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:34 --> applicant_monitoring --> insert --> firstname -->  --> Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:34 --> applicant_monitoring --> insert --> position_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:34 --> applicant_monitoring --> insert --> title -->  --> Mr.
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:34 --> applicant_monitoring --> insert --> birth_date -->  --> 1989-02-15
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:34 --> applicant_monitoring --> update --> status_id --> 2 --> 7
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:34 --> applicant_monitoring --> update --> hired --> 0 --> 1
+DE LEON, LISSA (30991) --> 2017-11-01 14:47:34 --> applicant_monitoring --> update --> partner_id -->  --> 879
+DE LEON, LISSA (30991) --> 2017-11-01 14:48:00 --> applicant_monitoring --> insert --> salary -->  --> 50,000
+DE LEON, LISSA (30991) --> 2017-11-01 14:48:00 --> applicant_monitoring --> insert --> email -->  --> rdlozada@yahoo.com
+DE LEON, LISSA (30991) --> 2017-11-01 14:48:00 --> applicant_monitoring --> insert --> role_id -->  --> 12
+DE LEON, LISSA (30991) --> 2017-11-01 14:48:00 --> applicant_monitoring --> insert --> full_name -->  --> Lozada, Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:48:00 --> applicant_monitoring --> insert --> display_name -->  --> Lozada, Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:50 --> applicant_monitoring --> insert --> salary -->  --> 50,000
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:50 --> applicant_monitoring --> insert --> email -->  --> rdlozada@yahoo.com
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:50 --> applicant_monitoring --> insert --> role_id -->  --> 12
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:50 --> applicant_monitoring --> insert --> full_name -->  --> Lozada, Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:50 --> applicant_monitoring --> insert --> display_name -->  --> Lozada, Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:50 --> applicant_monitoring --> insert --> shift_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:50 --> applicant_monitoring --> insert --> salary -->  --> è¡ˆslo<¨ôú2]u
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:50 --> applicant_monitoring --> insert --> effectivity_date -->  --> 0000-00-00
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:50 --> applicant_monitoring --> insert --> alias -->  --> Lozada, Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:51 --> applicant_monitoring --> insert --> company_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:51 --> applicant_monitoring --> insert --> department_id -->  --> 9
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:51 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:51 --> applicant_monitoring --> insert --> location_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:51 --> applicant_monitoring --> insert --> partner_id -->  --> 882
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:51 --> applicant_monitoring --> insert --> recruit_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:51 --> applicant_monitoring --> insert --> lastname -->  --> Lozada
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:51 --> applicant_monitoring --> insert --> firstname -->  --> Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:51 --> applicant_monitoring --> insert --> position_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:51 --> applicant_monitoring --> insert --> title -->  --> Mr.
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:51 --> applicant_monitoring --> insert --> birth_date -->  --> 1989-02-15
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:51 --> applicant_monitoring --> update --> status_id --> 2 --> 7
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:51 --> applicant_monitoring --> update --> hired --> 0 --> 1
+DE LEON, LISSA (30991) --> 2017-11-01 14:52:51 --> applicant_monitoring --> update --> partner_id -->  --> 882
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:54 --> applicant_monitoring --> insert --> salary -->  --> 50,000
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:54 --> applicant_monitoring --> insert --> shift_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:54 --> applicant_monitoring --> insert --> salary -->  --> è¡ˆslo<¨ôú2]u
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:54 --> applicant_monitoring --> insert --> effectivity_date -->  --> 0000-00-00
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:55 --> applicant_monitoring --> insert --> alias -->  --> Lozada, Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:55 --> applicant_monitoring --> insert --> company_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:55 --> applicant_monitoring --> insert --> department_id -->  --> 9
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:55 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:55 --> applicant_monitoring --> insert --> location_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:55 --> applicant_monitoring --> insert --> partner_id -->  --> 883
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:55 --> applicant_monitoring --> insert --> recruit_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:55 --> applicant_monitoring --> insert --> lastname -->  --> Lozada
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:55 --> applicant_monitoring --> insert --> firstname -->  --> Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:55 --> applicant_monitoring --> insert --> position_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:55 --> applicant_monitoring --> insert --> title -->  --> Mr.
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:55 --> applicant_monitoring --> insert --> birth_date -->  --> 1989-02-15
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:55 --> applicant_monitoring --> update --> status_id --> 2 --> 7
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:55 --> applicant_monitoring --> update --> hired --> 0 --> 1
+DE LEON, LISSA (30991) --> 2017-11-01 14:53:55 --> applicant_monitoring --> update --> partner_id -->  --> 883
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:46 --> applicant_monitoring --> insert --> email -->  --> rdlozada@yahoo.com
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:46 --> applicant_monitoring --> insert --> role_id -->  --> 12
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:46 --> applicant_monitoring --> insert --> full_name -->  --> Lozada, Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:46 --> applicant_monitoring --> insert --> display_name -->  --> Lozada, Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:46 --> applicant_monitoring --> insert --> shift_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:46 --> applicant_monitoring --> insert --> salary -->  --> è¡ˆslo<¨ôú2]u
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> insert --> user_id -->  --> 788
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> insert --> effectivity_date -->  --> 0000-00-00
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> insert --> alias -->  --> Lozada, Rommel
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> insert --> company_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> insert --> department_id -->  --> 9
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> insert --> location_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> insert --> user_id -->  --> 788
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> insert --> partner_id -->  --> 884
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> insert --> recruit_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-01 14:54:47 --> applicant_monitoring --> insert --> lastname -->  --> Lozada

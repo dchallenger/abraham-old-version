@@ -1,0 +1,48 @@
+() --> 2018-03-29 22:31:36 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-03-29 22:32:16 --> appraisal_template --> insert --> template_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-29 22:32:16 --> appraisal_template --> insert --> template_section -->  --> Children
+Admin, Teemworx (admin) --> 2018-03-29 22:32:16 --> appraisal_template --> insert --> parent_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-29 22:32:16 --> appraisal_template --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-29 22:32:16 --> appraisal_template --> insert --> weight -->  --> 40
+Admin, Teemworx (admin) --> 2018-03-29 22:32:16 --> appraisal_template --> insert --> section_type_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-03-29 22:32:16 --> appraisal_template --> insert --> header -->  --> <p>adfadsf</p>
+
+<p>asdfdsaf</p>
+
+<p>adsfadsf</p>
+Admin, Teemworx (admin) --> 2018-03-29 22:32:16 --> appraisal_template --> insert --> footer -->  --> <p>asdf</p>
+
+<p>adsf</p>
+
+<p>asdf</p>
+
+<p>&nbsp;</p>
+Admin, Teemworx (admin) --> 2018-03-29 22:32:54 --> appraisal_template --> insert --> template_section_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-03-29 22:32:55 --> appraisal_template --> insert --> title -->  --> Column Title
+Admin, Teemworx (admin) --> 2018-03-29 22:32:55 --> appraisal_template --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-29 22:32:55 --> appraisal_template --> insert --> width -->  --> 200
+Admin, Teemworx (admin) --> 2018-03-29 22:32:55 --> appraisal_template --> insert --> uitype_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-03-29 22:33:01 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-03-29 22:33:16 --> authentication --> login --> login -->  --> 
+() --> 2018-03-29 22:40:34 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-03-29 22:41:30 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-03-29 22:41:37 --> authentication --> login --> login -->  --> 
+() --> 2018-03-29 22:42:52 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-03-29 22:43:51 --> appraisal_template --> insert --> template_section_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-03-29 22:43:51 --> appraisal_template --> insert --> title -->  --> test
+Admin, Teemworx (admin) --> 2018-03-29 22:43:51 --> appraisal_template --> insert --> sequence -->  --> 2
+Admin, Teemworx (admin) --> 2018-03-29 22:43:51 --> appraisal_template --> insert --> width -->  --> 500
+Admin, Teemworx (admin) --> 2018-03-29 22:43:51 --> appraisal_template --> insert --> uitype_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-03-29 22:43:51 --> appraisal_template --> insert --> min_items -->  --> 1
+Admin, Teemworx (admin) --> 2018-03-29 22:43:52 --> appraisal_template --> insert --> max_items -->  --> 4
+Admin, Teemworx (admin) --> 2018-03-29 22:43:57 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-03-29 22:44:10 --> authentication --> login --> login -->  --> 
+() --> 2018-03-29 22:45:05 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-03-29 22:45:21 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-03-29 22:45:21 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-03-29 22:45:22 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2018-03-29 22:45:22 --> appraisal_individual_planning --> insert --> item -->  --> asdfasdfdsfa
+POLONAN, MARIA LEE (31002) --> 2018-03-29 22:45:22 --> appraisal_individual_planning --> update --> status_id --> 0 --> 1
+POLONAN, MARIA LEE (31002) --> 2018-03-29 22:47:34 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-03-29 22:47:41 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-03-29 22:48:25 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,36 @@
+2017-09-30 10:43:25 --> authentication --> login --> login -->  --> 
+2017-09-30 10:50:39 --> authentication --> logout --> logout -->  --> 
+2017-09-30 12:07:33 --> authentication --> login --> login -->  --> 
+2017-09-30 13:43:52 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-30 13:43:52 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-30 13:43:52 --> applicant_monitoring --> update --> process_id --> 0 --> 1
+2017-09-30 13:43:52 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2017-09-30 13:43:52 --> applicant_monitoring --> update --> result -->  --> Consider
+2017-09-30 13:43:52 --> applicant_monitoring --> insert --> interview_id -->  --> 1
+2017-09-30 13:43:52 --> applicant_monitoring --> insert --> key_id -->  --> 31
+2017-09-30 13:43:52 --> applicant_monitoring --> insert --> key -->  --> remarks
+2017-09-30 13:43:52 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-09-30 13:43:52 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+2017-09-30 13:43:52 --> applicant_monitoring --> insert --> key_value -->  --> asdfasdf
+2017-09-30 13:43:52 --> applicant_monitoring --> insert --> interview_id -->  --> 1
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_id -->  --> 66
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key -->  --> interviewer
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_value -->  --> ELISCUPIDES, ROWENA
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> interview_id -->  --> 1
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_id -->  --> 64
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_value -->  --> October 05, 2017
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> interview_id -->  --> 1
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_id -->  --> 32
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+2017-09-30 13:43:53 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+2017-09-30 14:08:41 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-30 14:08:41 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-09-30 14:08:42 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2017-09-30 14:08:42 --> applicant_monitoring --> update --> result --> Pending --> Consider

@@ -1,0 +1,21 @@
+<tr class="record">
+    <td>
+        <div>
+            <input type="checkbox" class="record-checker checkboxes" value="<?php echo $record_id; ?>">
+        </div>
+    </td>
+    <td>
+        <?php echo $year; ?>
+    </td>
+    <td>
+        <?php echo $month; ?>
+    </td>
+    <td align="left">
+        <div class="btn-group">
+            <a class="btn btn-xs text-muted" href="<?php echo $process_url; ?>"><i class="fa fa-gear"></i> Process</a>
+        </div>
+        <!-- <div class="btn-group">
+            <a class="btn btn-xs text-muted" href="<?php echo $export_url; ?>" ><i class="fa fa-download"></i> Export</a>
+        </div> -->
+    </td>
+</tr>

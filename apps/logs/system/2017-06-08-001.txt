@@ -1,0 +1,31 @@
+Admin, Teemworx (admin) --> 2017-06-08 13:28:56 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-06-08 13:29:44 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-06-08 13:33:10 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-06-08 13:33:18 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-06-08 13:40:56 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-06-08 13:41:09 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-06-08 13:42:26 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-06-08 13:42:39 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-06-08 13:43:09 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-06-08 13:43:25 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-06-08 13:43:43 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-06-08 13:43:56 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-06-08 13:44:29 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-06-08 13:45:13 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-06-08 13:45:46 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-06-08 13:45:57 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-06-08 13:46:33 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-06-08 13:46:51 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-08 13:54:06 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-08 15:20:41 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-06-08 15:21:32 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-06-08 15:22:21 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-06-08 15:26:14 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-06-08 15:32:43 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-06-08 15:32:56 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-06-08 16:37:32 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-08 16:37:51 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-08 16:57:33 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-06-08 16:57:39 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-06-08 17:01:48 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-08 17:02:08 --> authentication --> login --> login -->  --> 

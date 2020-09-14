@@ -1,0 +1,89 @@
+Admin, Teemworx (admin) --> 2017-10-11 14:33:26 --> authentication --> logout --> logout -->  --> 
+() --> 2017-10-11 14:33:46 --> authentication --> logout --> logout -->  --> 
+GENER, FRANCIA (00212) --> 2017-10-11 14:34:26 --> authentication --> login --> login -->  --> 
+GENER, FRANCIA (00212) --> 2017-10-11 20:05:01 --> authentication --> logout --> logout -->  --> 
+() --> 2017-10-11 20:05:04 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-11 20:05:20 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-11 20:40:18 --> applicant_monitoring --> update --> submitted --> 0 --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 20:40:24 --> applicant_monitoring --> update --> submitted --> 0 --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:54 --> applicant_monitoring --> update --> status_id --> 7 --> 8
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:54 --> applicant_monitoring --> update --> status_id --> 7 --> 8
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:54 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 4
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:54 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 5
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:54 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 6
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:54 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 7
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:54 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> checklist_id -->  --> 8
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> checklist_id -->  --> 9
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> checklist_id -->  --> 10
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> checklist_id -->  --> 11
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> checklist_id -->  --> 12
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> checklist_id -->  --> 13
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> checklist_id -->  --> 14
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:55 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> checklist_id -->  --> 15
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> checklist_id -->  --> 16
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> checklist_id -->  --> 17
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> checklist_id -->  --> 18
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> checklist_id -->  --> 19
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> checklist_id -->  --> 20
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:56 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> checklist_id -->  --> 21
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> checklist_id -->  --> 22
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> checklist_id -->  --> 23
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> submitted -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> date_submitted -->  --> 2017-10-27
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> checklist_id -->  --> 24
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> submitted -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> date_submitted -->  --> 2017-10-25
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> checklist_id -->  --> 25
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:57 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:58 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:58 --> applicant_monitoring --> insert --> checklist_id -->  --> 26
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:58 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:58 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:58 --> applicant_monitoring --> insert --> checklist_id -->  --> 27
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:58 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:58 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:58 --> applicant_monitoring --> insert --> checklist_id -->  --> 28
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:58 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:58 --> applicant_monitoring --> insert --> process_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:58 --> applicant_monitoring --> insert --> checklist_id -->  --> 29

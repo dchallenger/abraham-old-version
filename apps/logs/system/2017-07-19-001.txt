@@ -1,0 +1,12 @@
+CASTRO, RANDY (32904) --> 2017-07-19 14:08:17 --> authentication --> logout --> logout -->  --> 
+() --> 2017-07-19 14:08:29 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-19 14:08:47 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-19 15:38:21 --> company --> update --> city --> Pasay --> updated by trigger
+Admin, Teemworx (admin) --> 2017-07-19 15:38:22 --> company --> update --> country --> Philippines --> updated by trigger
+Admin, Teemworx (admin) --> 2017-07-19 15:38:22 --> company --> update --> print_logo -->  --> uploads/company/print/AHI LOGO.png
+Admin, Teemworx (admin) --> 2017-07-19 15:38:22 --> company --> insert --> company_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-19 15:38:22 --> company --> insert --> contact_type -->  --> Phone
+Admin, Teemworx (admin) --> 2017-07-19 15:38:23 --> company --> insert --> company_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-19 15:38:23 --> company --> insert --> contact_type -->  --> Mobile
+Admin, Teemworx (admin) --> 2017-07-19 15:38:23 --> company --> insert --> company_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-19 15:38:23 --> company --> insert --> contact_type -->  --> Fax

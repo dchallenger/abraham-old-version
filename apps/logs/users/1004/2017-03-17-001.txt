@@ -1,0 +1,12 @@
+2017-03-17 12:00:04 --> authentication --> login --> login -->  --> 
+2017-03-17 12:02:40 --> authentication --> logout --> logout -->  --> 
+2017-03-17 12:03:53 --> authentication --> login --> login -->  --> 
+2017-03-17 12:06:35 --> authentication --> logout --> logout -->  --> 
+2017-03-17 12:07:24 --> authentication --> login --> login -->  --> 
+2017-03-17 12:10:16 --> authentication --> logout --> logout -->  --> 
+2017-03-17 12:35:47 --> authentication --> login --> login -->  --> 
+2017-03-17 12:41:37 --> authentication --> logout --> logout -->  --> 
+2017-03-17 12:48:34 --> authentication --> login --> login -->  --> 
+2017-03-17 12:48:49 --> authentication --> logout --> logout -->  --> 
+2017-03-17 12:56:11 --> authentication --> login --> login -->  --> 
+2017-03-17 12:56:42 --> authentication --> logout --> logout -->  --> 

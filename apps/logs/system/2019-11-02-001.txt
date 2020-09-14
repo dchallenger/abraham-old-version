@@ -1,0 +1,42 @@
+Admin, Teemworx (admin) --> 2019-11-02 04:23:47 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-11-02 04:24:05 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-11-02 05:51:01 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-02 05:51:15 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-02 05:52:59 --> mrf --> insert --> to -->  --> weng_e@legendhotels.com.ph
+ABULENCIA, AMYRA (33176) --> 2019-11-02 05:52:59 --> mrf --> insert --> subject -->  --> PRF for approval
+ABULENCIA, AMYRA (33176) --> 2019-11-02 05:52:59 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ELISCUPIDES, ROWENA ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by ABULENCIA, AMYRA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+ABULENCIA, AMYRA (33176) --> 2019-11-02 06:53:34 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2019-11-02 06:54:09 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2019-11-02 06:54:57 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-02 06:55:17 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-02 09:58:53 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2019-11-02 09:59:11 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2019-11-02 10:01:37 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+ELISCUPIDES, ROWENA (00273) --> 2019-11-02 10:01:37 --> applicant_monitoring --> insert --> key_id -->  --> 196
+ELISCUPIDES, ROWENA (00273) --> 2019-11-02 10:01:37 --> applicant_monitoring --> insert --> key -->  --> sourcing_free_sites
+ELISCUPIDES, ROWENA (00273) --> 2019-11-02 10:01:37 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ELISCUPIDES, ROWENA (00273) --> 2019-11-02 10:01:37 --> applicant_monitoring --> insert --> key_name -->  --> Recruitment Sourcing Free Sites
+ELISCUPIDES, ROWENA (00273) --> 2019-11-02 10:06:05 --> applicant_monitoring --> update --> request_id --> 22 --> 23
+ELISCUPIDES, ROWENA (00273) --> 2019-11-02 10:06:05 --> applicant_monitoring --> insert --> request_id -->  --> 23
+ELISCUPIDES, ROWENA (00273) --> 2019-11-02 10:06:05 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+ELISCUPIDES, ROWENA (00273) --> 2019-11-02 10:06:05 --> applicant_monitoring --> insert --> status_id -->  --> 1

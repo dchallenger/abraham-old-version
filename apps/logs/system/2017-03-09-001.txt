@@ -1,0 +1,75 @@
+Admin, System (admin) --> 2017-03-09 19:37:45 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-09 21:24:01 --> company --> insert --> company -->  --> Company 123
+Admin, System (admin) --> 2017-03-09 21:24:01 --> company --> insert --> company_code -->  --> q1212
+Admin, System (admin) --> 2017-03-09 21:24:01 --> company --> insert --> address -->  --> asd
+Admin, System (admin) --> 2017-03-09 21:24:01 --> company --> insert --> city_id -->  --> 16
+Admin, System (admin) --> 2017-03-09 21:24:01 --> company --> insert --> city -->  --> updated by trigger
+Admin, System (admin) --> 2017-03-09 21:24:01 --> company --> insert --> country_id -->  --> 17
+Admin, System (admin) --> 2017-03-09 21:24:01 --> company --> insert --> country -->  --> updated by trigger
+Admin, System (admin) --> 2017-03-09 21:24:01 --> company --> insert --> zipcode -->  --> 1605
+Admin, System (admin) --> 2017-03-09 21:24:01 --> company --> insert --> company_id -->  --> 3
+Admin, System (admin) --> 2017-03-09 21:24:01 --> company --> insert --> contact_type -->  --> Phone
+Admin, System (admin) --> 2017-03-09 21:24:01 --> company --> insert --> company_id -->  --> 3
+Admin, System (admin) --> 2017-03-09 21:24:01 --> company --> insert --> contact_type -->  --> Mobile
+Admin, System (admin) --> 2017-03-09 21:24:01 --> company --> insert --> company_id -->  --> 3
+Admin, System (admin) --> 2017-03-09 21:24:01 --> company --> insert --> contact_type -->  --> Fax
+Admin, System (admin) --> 2017-03-09 21:30:13 --> company --> insert --> company -->  --> asdf
+Admin, System (admin) --> 2017-03-09 21:30:13 --> company --> insert --> company_code -->  --> asdfasdfasdfasd
+Admin, System (admin) --> 2017-03-09 21:30:13 --> company --> insert --> address -->  --> asdfasd
+Admin, System (admin) --> 2017-03-09 21:30:13 --> company --> insert --> city_id -->  --> 3
+Admin, System (admin) --> 2017-03-09 21:30:13 --> company --> insert --> city -->  --> updated by trigger
+Admin, System (admin) --> 2017-03-09 21:30:13 --> company --> insert --> country_id -->  --> 3
+Admin, System (admin) --> 2017-03-09 21:30:13 --> company --> insert --> country -->  --> updated by trigger
+Admin, System (admin) --> 2017-03-09 21:30:13 --> company --> insert --> zipcode -->  --> wer
+Admin, System (admin) --> 2017-03-09 21:30:13 --> company --> insert --> company_id -->  --> 4
+Admin, System (admin) --> 2017-03-09 21:30:13 --> company --> insert --> contact_type -->  --> Phone
+Admin, System (admin) --> 2017-03-09 21:30:13 --> company --> insert --> company_id -->  --> 4
+Admin, System (admin) --> 2017-03-09 21:30:13 --> company --> insert --> contact_type -->  --> Mobile
+Admin, System (admin) --> 2017-03-09 21:30:13 --> company --> insert --> company_id -->  --> 4
+Admin, System (admin) --> 2017-03-09 21:30:13 --> company --> insert --> contact_type -->  --> Fax
+Admin, System (admin) --> 2017-03-09 21:40:35 --> company --> insert --> company -->  --> dd
+Admin, System (admin) --> 2017-03-09 21:40:36 --> company --> insert --> company_code -->  --> dd
+Admin, System (admin) --> 2017-03-09 21:40:36 --> company --> insert --> address -->  --> dd
+Admin, System (admin) --> 2017-03-09 21:40:36 --> company --> insert --> city_id -->  --> 15
+Admin, System (admin) --> 2017-03-09 21:40:36 --> company --> insert --> city -->  --> updated by trigger
+Admin, System (admin) --> 2017-03-09 21:40:36 --> company --> insert --> country_id -->  --> 15
+Admin, System (admin) --> 2017-03-09 21:40:36 --> company --> insert --> country -->  --> updated by trigger
+Admin, System (admin) --> 2017-03-09 21:40:36 --> company --> insert --> zipcode -->  --> aa
+Admin, System (admin) --> 2017-03-09 21:40:36 --> company --> insert --> company_id -->  --> 5
+Admin, System (admin) --> 2017-03-09 21:40:36 --> company --> insert --> contact_type -->  --> Phone
+Admin, System (admin) --> 2017-03-09 21:40:36 --> company --> insert --> company_id -->  --> 5
+Admin, System (admin) --> 2017-03-09 21:40:36 --> company --> insert --> contact_type -->  --> Mobile
+Admin, System (admin) --> 2017-03-09 21:40:36 --> company --> insert --> company_id -->  --> 5
+Admin, System (admin) --> 2017-03-09 21:40:36 --> company --> insert --> contact_type -->  --> Fax
+Admin, System (admin) --> 2017-03-09 21:41:05 --> company --> delete --> company_id --> 5 --> 
+Admin, System (admin) --> 2017-03-09 22:06:12 --> company --> insert --> company -->  --> asdf
+Admin, System (admin) --> 2017-03-09 22:06:12 --> company --> insert --> company_code -->  --> dd
+Admin, System (admin) --> 2017-03-09 22:06:12 --> company --> insert --> address -->  --> asdfasdf
+Admin, System (admin) --> 2017-03-09 22:06:12 --> company --> insert --> city_id -->  --> 16
+Admin, System (admin) --> 2017-03-09 22:06:12 --> company --> insert --> city -->  --> updated by trigger
+Admin, System (admin) --> 2017-03-09 22:06:12 --> company --> insert --> country_id -->  --> 11
+Admin, System (admin) --> 2017-03-09 22:06:12 --> company --> insert --> country -->  --> updated by trigger
+Admin, System (admin) --> 2017-03-09 22:06:12 --> company --> insert --> zipcode -->  --> asdfasdf
+Admin, System (admin) --> 2017-03-09 22:06:12 --> company --> insert --> company_id -->  --> 16
+Admin, System (admin) --> 2017-03-09 22:06:12 --> company --> insert --> contact_type -->  --> Phone
+Admin, System (admin) --> 2017-03-09 22:06:12 --> company --> insert --> company_id -->  --> 16
+Admin, System (admin) --> 2017-03-09 22:06:12 --> company --> insert --> contact_type -->  --> Mobile
+Admin, System (admin) --> 2017-03-09 22:06:12 --> company --> insert --> company_id -->  --> 16
+Admin, System (admin) --> 2017-03-09 22:06:12 --> company --> insert --> contact_type -->  --> Fax
+Admin, System (admin) --> 2017-03-09 22:06:27 --> company --> update --> company_code --> dd --> asdf
+Admin, System (admin) --> 2017-03-09 22:06:27 --> company --> update --> city --> Bais City --> updated by trigger
+Admin, System (admin) --> 2017-03-09 22:06:27 --> company --> update --> country --> Argentina --> updated by trigger
+Admin, System (admin) --> 2017-03-09 22:06:27 --> company --> insert --> company_id -->  --> 16
+Admin, System (admin) --> 2017-03-09 22:06:27 --> company --> insert --> contact_type -->  --> Phone
+Admin, System (admin) --> 2017-03-09 22:06:27 --> company --> insert --> company_id -->  --> 16
+Admin, System (admin) --> 2017-03-09 22:06:27 --> company --> insert --> contact_type -->  --> Mobile
+Admin, System (admin) --> 2017-03-09 22:06:27 --> company --> insert --> company_id -->  --> 16
+Admin, System (admin) --> 2017-03-09 22:06:27 --> company --> insert --> contact_type -->  --> Fax
+Admin, System (admin) --> 2017-03-09 22:10:55 --> division --> insert --> division -->  --> jjj
+Admin, System (admin) --> 2017-03-09 22:10:55 --> division --> insert --> division_code -->  --> d4
+Admin, System (admin) --> 2017-03-09 22:10:59 --> division --> update --> status_id --> 0 --> 1
+Admin, System (admin) --> 2017-03-09 22:11:19 --> division --> delete --> division_id --> 5 --> 
+Admin, System (admin) --> 2017-03-09 22:13:12 --> division --> insert --> division -->  --> kjhkjh
+Admin, System (admin) --> 2017-03-09 22:13:12 --> division --> insert --> division_code -->  --> d4
+Admin, System (admin) --> 2017-03-09 22:13:31 --> division --> insert --> division -->  --> kjlj
+Admin, System (admin) --> 2017-03-09 22:13:31 --> division --> insert --> division_code -->  --> d3

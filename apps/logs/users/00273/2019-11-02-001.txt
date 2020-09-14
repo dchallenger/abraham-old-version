@@ -1,0 +1,12 @@
+2019-11-02 06:54:09 --> authentication --> login --> login -->  --> 
+2019-11-02 06:54:57 --> authentication --> logout --> logout -->  --> 
+2019-11-02 09:59:11 --> authentication --> login --> login -->  --> 
+2019-11-02 10:01:37 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+2019-11-02 10:01:37 --> applicant_monitoring --> insert --> key_id -->  --> 196
+2019-11-02 10:01:37 --> applicant_monitoring --> insert --> key -->  --> sourcing_free_sites
+2019-11-02 10:01:37 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-11-02 10:01:37 --> applicant_monitoring --> insert --> key_name -->  --> Recruitment Sourcing Free Sites
+2019-11-02 10:06:05 --> applicant_monitoring --> update --> request_id --> 22 --> 23
+2019-11-02 10:06:05 --> applicant_monitoring --> insert --> request_id -->  --> 23
+2019-11-02 10:06:05 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+2019-11-02 10:06:05 --> applicant_monitoring --> insert --> status_id -->  --> 1

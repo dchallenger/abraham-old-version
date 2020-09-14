@@ -1,0 +1,10 @@
+ABULENCIA, AMYRA (33176) --> 2019-08-10 17:37:29 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-08-10 17:37:41 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-08-10 18:08:41 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-08-10 18:08:53 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-08-10 18:10:09 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-08-10 18:10:18 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-08-10 18:12:53 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-08-10 18:13:09 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-08-10 18:17:21 --> authentication --> logout --> logout -->  --> 
+AMOSCO, SHAIRA (33268) --> 2019-08-10 18:17:42 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,15 @@
+2018-04-22 21:11:39 --> authentication --> logout --> logout -->  --> 
+2018-04-22 21:11:49 --> authentication --> login --> login -->  --> 
+2018-04-22 21:12:59 --> applicant_monitoring --> insert --> reports_to -->  --> 200
+2018-04-22 21:12:59 --> applicant_monitoring --> insert --> employment_status_id -->  --> 2
+2018-04-22 21:12:59 --> applicant_monitoring --> insert --> no_months -->  --> 6
+2018-04-22 21:12:59 --> applicant_monitoring --> insert --> start_date -->  --> 2018-04-22
+2018-04-22 21:12:59 --> applicant_monitoring --> insert --> end_date -->  --> 2018-10-22
+2018-04-22 21:12:59 --> applicant_monitoring --> insert --> accept_offer -->  --> 1
+2018-04-22 21:12:59 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2018-04-22 21:12:59 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+2018-04-22 21:13:00 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+2018-04-22 21:13:05 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+2018-04-22 21:13:05 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+2018-04-22 21:43:23 --> authentication --> login --> login -->  --> 
+2018-04-22 21:43:27 --> authentication --> login --> login -->  --> 

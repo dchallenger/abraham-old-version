@@ -1,0 +1,1251 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+
+<Styles>
+ <Style ss:ID="Default" ss:Name="Normal">
+  <Alignment ss:Vertical="Bottom"/>
+  <Borders/>
+  <Font/>
+  <Interior/>
+  <NumberFormat/>
+  <Protection/>
+ </Style>
+ <Style ss:ID="s27">
+  <Font x:Family="Swiss" ss:Color="#0000FF" ss:Bold="1"/>
+ </Style>
+ <Style ss:ID="s21">
+  <NumberFormat ss:Format="yyyy\-mm\-dd"/>
+ </Style>
+ <Style ss:ID="s22">
+  <NumberFormat ss:Format="yyyy\-mm\-dd\ hh:mm:ss"/>
+ </Style>
+ <Style ss:ID="s23">
+  <NumberFormat ss:Format="hh:mm:ss"/>
+ </Style>
+</Styles>
+
+ <Worksheet ss:Name="Sheet1">
+  <ss:Table>
+   <ss:Row>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">full_name</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">company</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">company_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">department_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">department</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">payroll_date</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">date_from</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">date_to</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">total_dept</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">basic</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">cola</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">overtime</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">transpo</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">comm</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">oth_inc_taxable</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">oth_inc_nontax</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">absences</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">gross_pay</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">whtax</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">sss</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">Ssser</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">phic</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">Phicer</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">hdmf</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">Hdmfer</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">hdmf_add</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">sss_loan</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">hdmf_loan</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">oth_ded</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">netpay</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">GENER, FRANCIA </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">29570</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">7060.8</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38130.8</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">7342.77</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">362.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">362.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">670</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">29074.23</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">SUNIGA, MA. LOURDES </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">56824</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">6444</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">63268</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">12242.33</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">437.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">437.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">13595.54</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">36311.32</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">CORTEZ, MYLENE </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">19145</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">20645</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2473.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">237.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">237.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4064.18</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2841.65</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10347.06</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">MADELO, EDWIN </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">13612</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">3985.75</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">7.83</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">19089.92</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1640.95</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">162.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">162.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2107.96</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4470.56</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10026.65</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">SEDAVA, NORBERTO </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16612</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2196.13</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1244.31</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">19063.82</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1211.43</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1476.64</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2218.59</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">8403.34</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4872.52</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">PRESTOZA, MICHELLE </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">27000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">300</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">28800</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">3966.05</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">337.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">337.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1476.64</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">711.49</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1505.99</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">20121.02</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">PELEA, NERELYN </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">27000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2505.6</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">-0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">31005.6</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">5212.71</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">337.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">337.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">738.32</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">449.14</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">3070</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">20516.63</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">MENDOZA, ALEXIS </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">26140</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">27640</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4206.78</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">325</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">325</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">738.32</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">651.4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">6303.34</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14733.86</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">RECTO, ROWENIE </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16770</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2064.62</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">194.49</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">20140.14</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2356.46</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1476.64</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">8670</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">6755.74</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">DUMLAO, LOUELLA FLORENCIA </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16770</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2014.41</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">-0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">294.15</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">19990.26</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">599.67</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">842.46</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">9885</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">7781.83</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">AQUINO, MARK RIGOR </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">26140</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2919.6</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">-0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">323.2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">30236.39</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4985.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">325</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">325</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">738.32</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">324.71</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">3519.99</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">19661.37</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">FADEROGAO, FELIPE </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">55198</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">56698</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">12388.57</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">437.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">437.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1476.64</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1854.79</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1570</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38289.2</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">MAGYAWE, JOHN ANGIELO </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16770</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1860.51</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16409.49</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1521.23</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">545</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1105</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">738.32</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">671.37</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">12633.57</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">DE GUZMAN, JHOANNA </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16770</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1160.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">19430.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2179.05</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">738.32</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">228.07</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15403.76</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">LIGOT JR., WILLIAM </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">29877</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">315</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">31062</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">5222.13</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">362.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">362.5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">738.32</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">339.75</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">23718</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">SEVERINO, FEBYKATE </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16770</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">18270</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1888.93</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">181.94</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">5370</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">9947.83</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">GARINGARAO, JERAVY </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16770</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">602.76</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">-0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">18872.76</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2039.62</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">738.82</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">219.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">6143.1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">8850.62</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">MERCADO, MAYONISA </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16770</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">7.23</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">18262.77</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1468.02</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">738.32</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">399.76</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4630</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10145.37</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">BISA, ERICSON </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16770</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">309.40</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">17960.59</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1824.19</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">738.32</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">686.51</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1070.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">12760.27</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">BUNAC, JOANNA MARIE </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16770</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200.92</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">-0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">19.29</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">18451.62</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1934.33</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15636</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">RIBOT, MELVIN </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16770</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">3621.96</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">-0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">42.59</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">21849.37</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2783.77</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1476.64</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">-0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16707.66</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">MANALO, ADRIAN </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14974</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">264.62</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">127.02</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16611.60</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1566.65</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">545</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1105</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">738.32</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">379.74</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1203.32</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">11903.56</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">ESPINA, RANDOLPH </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14974</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2175.24</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">-0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">18649.23</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1989.99</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1729.99</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14072.95</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">SUNGCANG, MERCY </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14974</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1435.21</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">-0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">409.03</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">17500.18</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1737.11</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2043.32</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">12863.44</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">BRIONES, VERGEL </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14974</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">897</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">94.72</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">17276.28</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1692.33</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2420</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">12307.65</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">AMISTOSO, ROMELYN </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14974</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">3668.93</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">302.83</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">19840.1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2287.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2630</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14066.1</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">EDANIOL, EUNICE </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16770</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">301.38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">18571.38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1964.27</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1070</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14655.81</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">MALDOS, DANNICA ROSE </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14974</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10.76</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16463.24</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1536.98</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">545</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1105</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14106.26</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">PANLILIO, CHARL ANGELO </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14974</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">269.1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16743.1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1592.95</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">545</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1105</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">5070</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">9260.15</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">IMBANG, LUZVIMINDA </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">34738</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1260</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">37498</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">5259.18</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">425</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">425</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1476.64</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2203.33</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">27452.55</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">GALIT, RUZEL </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14974</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16474</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1539.13</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">545</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1105</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14114.87</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">ONG, VANESSA </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14974</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">538.2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">391.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1650</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">730.52</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16822.68</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1578.87</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">545</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1105</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14423.81</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">DELA CRUZ, SHARMAINE DOMISEL </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14974</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2352.84</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1500</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">18826.84</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2034.39</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15936.15</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">ORTIZ, VINCENT </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14974</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">5579.02</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1400</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">264.08</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">21688.94</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2774.91</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">18057.73</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">GUIRITAN, JIRAH LEE </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14974</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1704.31</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1400</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">18078.31</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1872.73</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4094.99</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">11254.28</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">RAZONABLE, JOYCEE GRACE </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">14974</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4415.05</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1400</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">20789.06</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2549.94</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">175</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">17382.82</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">BAYUG, MYLA </Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Abraham Holdings, Inc.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Accounting</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-05-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-04-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16770</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4703.39</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">-0.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1400</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">76.35</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">22797.04</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2524.69</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">581.3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1178.7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">200</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">100</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">738.32</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">864.76</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">6133.33</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">11654.64</Data></ss:Cell>
+   </ss:Row>
+  </ss:Table>
+ </Worksheet>
+</Workbook>

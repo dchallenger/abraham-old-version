@@ -1,0 +1,59 @@
+2018-04-01 09:30:23 --> appraisal_template --> update --> template_section --> Immediate Supervisors Evaluation --> Performance Evaluation and Development Plan
+2018-04-01 09:42:55 --> appraisal_template --> update --> section_type_id --> 1 --> 2
+2018-04-01 09:44:30 --> appraisal_template --> update --> template_section --> Work Output --> PART 1 : IMMEDIATE SUPERIORS EVALUATION ON PERFORMANCE
+2018-04-01 09:44:30 --> appraisal_template --> update --> weight --> 60 --> 90
+2018-04-01 09:48:36 --> appraisal_template --> insert --> template_id -->  --> 1
+2018-04-01 09:48:37 --> appraisal_template --> insert --> template_section -->  --> PART 1 : IMMEDIATE SUPERIORS EVALUATION ON PERFORMANCE
+2018-04-01 09:48:37 --> appraisal_template --> insert --> sequence -->  --> 1
+2018-04-01 09:48:37 --> appraisal_template --> insert --> section_type_id -->  --> 1
+2018-04-01 09:49:53 --> appraisal_template --> insert --> template_id -->  --> 1
+2018-04-01 09:49:53 --> appraisal_template --> insert --> template_section -->  --> Performance Evaluation and Development Plan
+2018-04-01 09:49:53 --> appraisal_template --> insert --> sequence -->  --> 1
+2018-04-01 09:49:53 --> appraisal_template --> insert --> section_type_id -->  --> 1
+2018-04-01 09:50:11 --> appraisal_template --> insert --> template_id -->  --> 1
+2018-04-01 09:50:11 --> appraisal_template --> insert --> template_section -->  --> PART 1 : IMMEDIATE SUPERIORS EVALUATION ON PERFORMANCE
+2018-04-01 09:50:11 --> appraisal_template --> insert --> parent_id -->  --> 1
+2018-04-01 09:50:11 --> appraisal_template --> insert --> sequence -->  --> 1
+2018-04-01 09:50:11 --> appraisal_template --> insert --> weight -->  --> 90
+2018-04-01 09:50:11 --> appraisal_template --> insert --> section_type_id -->  --> 2
+2018-04-01 09:52:31 --> appraisal_template --> insert --> template_section_id -->  --> 2
+2018-04-01 09:52:31 --> appraisal_template --> insert --> title -->  --> KEY RESULT AREA
+2018-04-01 09:52:31 --> appraisal_template --> insert --> sequence -->  --> 1
+2018-04-01 09:52:31 --> appraisal_template --> insert --> width -->  --> 15
+2018-04-01 09:52:31 --> appraisal_template --> insert --> uitype_id -->  --> 3
+2018-04-01 09:53:53 --> appraisal_template --> insert --> template_section_id -->  --> 2
+2018-04-01 09:53:53 --> appraisal_template --> insert --> title -->  --> KEY PERFORMANCE INDICATOR
+2018-04-01 09:53:53 --> appraisal_template --> insert --> sequence -->  --> 2
+2018-04-01 09:53:53 --> appraisal_template --> insert --> width -->  --> 20
+2018-04-01 09:53:53 --> appraisal_template --> insert --> uitype_id -->  --> 4
+2018-04-01 09:53:53 --> appraisal_template --> insert --> min_items -->  --> 2
+2018-04-01 09:53:53 --> appraisal_template --> insert --> max_items -->  --> 4
+2018-04-01 10:19:46 --> appraisal_template --> insert --> template_section_id -->  --> 2
+2018-04-01 10:19:46 --> appraisal_template --> insert --> title -->  --> WEIGHT
+2018-04-01 10:19:46 --> appraisal_template --> insert --> sequence -->  --> 1
+2018-04-01 10:19:46 --> appraisal_template --> insert --> width -->  --> 10
+2018-04-01 10:19:46 --> appraisal_template --> insert --> uitype_id -->  --> 2
+2018-04-01 10:20:08 --> appraisal_template --> update --> sequence --> 1 --> 3
+2018-04-01 10:21:25 --> appraisal_template --> insert --> template_section_id -->  --> 2
+2018-04-01 10:21:25 --> appraisal_template --> insert --> title -->  --> COMMENTS
+2018-04-01 10:21:25 --> appraisal_template --> insert --> sequence -->  --> 4
+2018-04-01 10:21:25 --> appraisal_template --> insert --> width -->  --> 15
+2018-04-01 10:21:25 --> appraisal_template --> insert --> uitype_id -->  --> 3
+2018-04-01 10:23:24 --> appraisal_template --> update --> width --> 15 --> 25
+2018-04-01 10:23:35 --> appraisal_template --> update --> width --> 20 --> 26
+2018-04-01 10:23:49 --> appraisal_template --> update --> width --> 10 --> 7
+2018-04-01 10:24:01 --> appraisal_template --> update --> width --> 15 --> 25
+2018-04-01 10:25:24 --> appraisal_template --> insert --> template_section_id -->  --> 2
+2018-04-01 10:25:24 --> appraisal_template --> insert --> title -->  --> POINTS
+2018-04-01 10:25:24 --> appraisal_template --> insert --> sequence -->  --> 5
+2018-04-01 10:25:24 --> appraisal_template --> insert --> width -->  --> 10
+2018-04-01 10:25:24 --> appraisal_template --> insert --> uitype_id -->  --> 9
+2018-04-01 10:25:56 --> appraisal_template --> insert --> template_section_id -->  --> 2
+2018-04-01 10:25:56 --> appraisal_template --> insert --> title -->  --> RATING
+2018-04-01 10:25:56 --> appraisal_template --> insert --> sequence -->  --> 6
+2018-04-01 10:25:56 --> appraisal_template --> insert --> width -->  --> 7
+2018-04-01 10:25:56 --> appraisal_template --> insert --> uitype_id -->  --> 2
+2018-04-01 10:38:30 --> appraisal_template --> update --> uitype_id --> 2 --> 5
+2018-04-01 10:38:30 --> appraisal_template --> update --> rating_group_id --> 0 --> 1
+2018-04-01 10:51:00 --> appraisal_template --> update --> uitype_id --> 3 --> 11
+2018-04-01 10:58:06 --> appraisal_template --> update --> uitype_id --> 2 --> 7

@@ -1,0 +1,6 @@
+2017-12-01 11:41:37 --> authentication --> logout --> logout -->  --> 
+2017-12-01 11:41:47 --> authentication --> login --> login -->  --> 
+2017-12-01 13:05:46 --> authentication --> logout --> logout -->  --> 
+2017-12-01 13:08:57 --> authentication --> login --> login -->  --> 
+2017-12-01 13:47:02 --> location --> update --> min_wage_amt --> 481.00 --> 521.93
+2017-12-01 13:53:39 --> location --> update --> min_wage_amt --> 521.93 --> 481

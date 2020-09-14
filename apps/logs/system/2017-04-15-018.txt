@@ -1,0 +1,114 @@
+Admin, System (admin) --> 2017-04-15 10:34:33 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 10:34:33 --> profiles --> edit --> profile_id -->  --> 2
+Admin, System (admin) --> 2017-04-15 10:34:33 --> profiles --> edit --> mod_id -->  --> 46
+Admin, System (admin) --> 2017-04-15 10:34:33 --> profiles --> edit --> action_id -->  --> 4
+Admin, System (admin) --> 2017-04-15 10:34:33 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 10:34:33 --> profiles --> edit --> profile_id -->  --> 2
+Admin, System (admin) --> 2017-04-15 10:34:33 --> profiles --> edit --> mod_id -->  --> 46
+Admin, System (admin) --> 2017-04-15 10:34:33 --> profiles --> edit --> action_id -->  --> 6
+Admin, System (admin) --> 2017-04-15 10:34:33 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 10:34:33 --> profiles --> edit --> profile_id -->  --> 2
+Admin, System (admin) --> 2017-04-15 10:34:33 --> profiles --> edit --> mod_id -->  --> 46
+Admin, System (admin) --> 2017-04-15 10:34:33 --> profiles --> edit --> action_id -->  --> 7
+Admin, System (admin) --> 2017-04-15 10:34:33 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 10:36:43 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:36:54 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:40:47 --> incident_report --> insert --> offense_id -->  --> 1
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:40:47 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-12 10:00:00
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:40:47 --> incident_report --> insert --> location -->  --> Training Room
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:40:47 --> incident_report --> insert --> incident_status_id -->  --> 2
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:40:47 --> incident_report --> insert --> date_sent -->  --> 2017-04-15 10:40:47
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:40:53 --> incident_report --> insert --> offense_id -->  --> 1
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:40:53 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-12 10:00:00
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:40:53 --> incident_report --> insert --> location -->  --> Training Room
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:40:53 --> incident_report --> insert --> incident_status_id -->  --> 2
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:40:53 --> incident_report --> insert --> date_sent -->  --> 2017-04-15 10:40:53
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:44:58 --> incident_report --> insert --> offense_id -->  --> 1
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:44:58 --> incident_report --> insert --> complainants -->  --> 30
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:44:58 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-12 10:00:00
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:44:58 --> incident_report --> insert --> witnesses -->  --> 285
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:44:58 --> incident_report --> insert --> location -->  --> Training Room
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:44:58 --> incident_report --> insert --> incident_status_id -->  --> 2
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:44:58 --> incident_report --> insert --> date_sent -->  --> 2017-04-15 10:44:58
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:45:36 --> incident_report --> insert --> involved_partners -->  --> 9
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:45:36 --> incident_report --> insert --> offense_id -->  --> 1
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:45:36 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-12 10:00:00
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:45:36 --> incident_report --> insert --> location -->  --> Training Room
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:45:36 --> incident_report --> insert --> incident_status_id -->  --> 2
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:45:36 --> incident_report --> insert --> date_sent -->  --> 2017-04-15 10:45:36
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:48:18 --> incident_report --> insert --> involved_partners -->  --> 9
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:48:18 --> incident_report --> insert --> offense_id -->  --> 1
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:48:18 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-12 10:00:00
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:48:18 --> incident_report --> insert --> location -->  --> Training Room
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:48:18 --> incident_report --> insert --> incident_status_id -->  --> 2
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:48:18 --> incident_report --> insert --> date_sent -->  --> 2017-04-15 10:48:18
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:49:00 --> incident_report --> insert --> involved_partners -->  --> 9
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:49:00 --> incident_report --> insert --> offense_id -->  --> 1
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:49:00 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-12 10:00:00
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:49:00 --> incident_report --> insert --> location -->  --> Training Room
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:49:00 --> incident_report --> insert --> incident_status_id -->  --> 2
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:49:00 --> incident_report --> insert --> date_sent -->  --> 2017-04-15 10:49:00
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:50:49 --> incident_report --> insert --> involved_partners -->  --> 9
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:50:49 --> incident_report --> insert --> offense_id -->  --> 1
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:50:49 --> incident_report --> insert --> complainants -->  --> 30
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:50:49 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-12 10:00:00
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:50:49 --> incident_report --> insert --> witnesses -->  --> 285
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:50:49 --> incident_report --> insert --> location -->  --> Training Room
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:50:49 --> incident_report --> insert --> incident_status_id -->  --> 2
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:50:49 --> incident_report --> insert --> date_sent -->  --> 2017-04-15 10:50:49
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:56:03 --> incident_report --> insert --> involved_partners -->  --> 9
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:56:03 --> incident_report --> insert --> offense_id -->  --> 1
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:56:03 --> incident_report --> insert --> complainants -->  --> 30
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:56:03 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-12 01:00:00
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:56:03 --> incident_report --> insert --> incident_status_id -->  --> 2
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:56:03 --> incident_report --> insert --> date_sent -->  --> 2017-04-15 10:56:03
+LOPEZ, PAOLO (02115) --> 2017-04-15 10:58:32 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-15 10:58:45 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-15 11:10:51 --> incident_manage --> update --> incident_status_id --> 2 --> 4
+ELISCUPIDES, ROWENA (00273) --> 2017-04-15 11:12:07 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-15 11:12:18 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-15 11:16:32 --> incident_admin --> update --> hr_remarks -->  --> ok na ito
+Admin, System (admin) --> 2017-04-15 11:16:32 --> incident_admin --> update --> incident_status_id --> 4 --> 9
+Admin, System (admin) --> 2017-04-15 11:16:43 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-04-15 11:17:15 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-04-15 11:25:16 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-15 12:04:08 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-15 12:06:33 --> hearing_admin --> update --> incident_status_id --> 9 --> 10
+Admin, System (admin) --> 2017-04-15 12:06:54 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-15 12:07:08 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-15 12:08:17 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-15 12:08:27 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-15 12:34:04 --> disciplinary_admin --> update --> incident_status_id --> 10 --> 6
+Admin, System (admin) --> 2017-04-15 12:34:04 --> disciplinary_admin --> update --> status --> Open --> Close
+Admin, System (admin) --> 2017-04-15 14:10:41 --> module --> insert --> mod_code -->  --> offense_category
+Admin, System (admin) --> 2017-04-15 14:10:41 --> module --> insert --> route -->  --> admin/offense_category
+Admin, System (admin) --> 2017-04-15 14:10:41 --> module --> insert --> table -->  --> partners_offense_category
+Admin, System (admin) --> 2017-04-15 14:10:41 --> module --> insert --> primary_key -->  --> offense_category_id
+Admin, System (admin) --> 2017-04-15 14:10:41 --> module --> insert --> enable_mass_action -->  --> 1
+Admin, System (admin) --> 2017-04-15 14:10:41 --> module --> insert --> list_template_header -->  --> <th width="8%" class="hidden-xs"></th>
+<th width="35%">Offense Category</th>
+<th width="35%">Description</th>
+Admin, System (admin) --> 2017-04-15 14:10:41 --> module --> insert --> list_template -->  --> <tr class="record">
+    <td>
+        <div>
+            <input type="checkbox" class="record-checker checkboxes" value="<?php echo $record_id; ?>" />
+        </div>
+    </td>
+    <td>
+        
+    </td>
+    <td>
+        
+    </td>
+    <td>
+        <div class="btn-group">
+            <a class="btn btn-xs text-muted" href="{{ $edit_url }}"><i class="fa fa-pencil"></i> Edit</a>
+        </div>
+        <div class="btn-group">
+            <a class="btn btn-xs text-muted" href="#" data-close-others="true" data-toggle="dropdown"><i class="fa fa-gear"></i> Options</a>
+            <ul class="dropdown-menu pull-right">
+                {{ $options }}
+            </ul>
+        </div>
+    </td>
+</tr>

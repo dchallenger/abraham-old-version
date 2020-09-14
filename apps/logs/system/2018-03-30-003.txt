@@ -1,0 +1,10 @@
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:38:50 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:38:50 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:38:51 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 18
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:38:51 --> appraisal_individual_planning --> insert --> item -->  --> zdasd
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:41:25 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:41:25 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:41:25 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 18
+POLONAN, MARIA LEE (31002) --> 2018-03-30 20:41:25 --> appraisal_individual_planning --> insert --> item -->  --> asd
+POLONAN, MARIA LEE (31002) --> 2018-03-30 22:42:54 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-03-30 22:43:12 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,9 @@
+2017-04-20 09:25:12 --> authentication --> logout --> logout -->  --> 
+2017-04-20 10:48:57 --> authentication --> login --> login -->  --> 
+2017-04-20 11:23:03 --> authentication --> logout --> logout -->  --> 
+2017-04-20 11:51:58 --> authentication --> login --> login -->  --> 
+2017-04-20 14:39:10 --> code_discipline --> update --> sanction_id -->  --> 5,4
+2017-04-20 14:51:02 --> coordinator --> insert --> company_id -->  --> 1
+2017-04-20 14:51:02 --> coordinator --> insert --> branch_id -->  --> 13
+2017-04-20 14:51:02 --> coordinator --> insert --> coordinator_user_id -->  --> 121
+2017-04-20 16:04:19 --> code_discipline --> update --> sanction_id --> 5,4 --> 5,4,12

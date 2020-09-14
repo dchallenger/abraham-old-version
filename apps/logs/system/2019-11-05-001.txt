@@ -1,0 +1,132 @@
+ELISCUPIDES, ROWENA (00273) --> 2019-11-05 10:36:09 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-11-05 10:36:17 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-11-05 11:04:07 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-11-05 11:04:30 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-11-05 11:05:21 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:05:27 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:50:42 --> applicant_monitoring --> insert --> process_id -->  --> 12
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:50:42 --> applicant_monitoring --> insert --> date -->  --> 2019-11-07 10:06:00
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:50:42 --> applicant_monitoring --> insert --> user_id -->  --> 38
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:50:42 --> applicant_monitoring --> insert --> location_id -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:50:42 --> applicant_monitoring --> insert --> schedule_id -->  --> 20
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:50:43 --> applicant_monitoring --> insert --> to -->  --> lissa_a@abrahamholdings.ph
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:50:43 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:50:43 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi LISSA ALICANTE,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of Justin Garcia, for the position of ACCOUNT EXECUTIVE. Below are the details and schedule:</p>
+<p>
+	Applicant Name: Justin Garcia
+	<br>
+	Position: ACCOUNT EXECUTIVE
+	<br>
+	Date: November 07, 2019
+	<br>
+	Time: 10:06 am
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:50:43 --> applicant_monitoring --> insert --> to -->  --> tjkgarcia@yahoo.com
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:50:43 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:50:43 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear Justin Garcia,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNT EXECUTIVE position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: November 07, 2019
+	<br>
+	Time: 10:06 am
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for LISSA ALICANTE</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:50:43 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:50:43 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:33 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:33 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:33 --> applicant_monitoring --> update --> process_id --> 0 --> 12
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:33 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:33 --> applicant_monitoring --> update --> result -->  --> Consider
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:33 --> applicant_monitoring --> insert --> interview_id -->  --> 20
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:33 --> applicant_monitoring --> insert --> key_id -->  --> 31
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:33 --> applicant_monitoring --> insert --> key -->  --> remarks
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:33 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:33 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> interview_id -->  --> 20
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> key_id -->  --> 66
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> key -->  --> interviewer
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> key_value -->  --> ALICANTE, LISSA
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> interview_id -->  --> 20
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> key_id -->  --> 64
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> key_value -->  --> November 06, 2019
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> interview_id -->  --> 20
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> key_id -->  --> 32
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> interview_id -->  --> 20
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> key_id -->  --> 67
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> key -->  --> hrd_remarks
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:55:34 --> applicant_monitoring --> insert --> key_name -->  --> Remarks
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:57:59 --> applicant_monitoring --> update --> status_id --> 3 --> 4
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:58:03 --> applicant_monitoring --> update --> status_id --> 3 --> 4
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:58:24 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:58:24 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:58:59 --> applicant_monitoring --> insert --> type -->  --> 2
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:58:59 --> applicant_monitoring --> insert --> process_id -->  --> 12
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:58:59 --> applicant_monitoring --> insert --> date -->  --> 2019-11-06 11:06:00
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:58:59 --> applicant_monitoring --> insert --> user_id -->  --> 39
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:58:59 --> applicant_monitoring --> insert --> location_id -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:00 --> applicant_monitoring --> insert --> schedule_id -->  --> 21
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:00 --> applicant_monitoring --> insert --> to -->  --> lee_p@aecsi.com.ph
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:00 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule

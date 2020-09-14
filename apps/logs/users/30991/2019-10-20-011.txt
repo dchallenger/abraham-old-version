@@ -1,0 +1,190 @@
+2019-10-20 16:07:25 --> applicant_monitoring --> insert --> process_id -->  --> 9
+2019-10-20 16:07:25 --> applicant_monitoring --> insert --> date -->  --> 2019-10-20 16:16:00
+2019-10-20 16:07:25 --> applicant_monitoring --> insert --> user_id -->  --> 9
+2019-10-20 16:07:25 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2019-10-20 16:07:25 --> applicant_monitoring --> insert --> schedule_id -->  --> 16
+2019-10-20 16:07:26 --> applicant_monitoring --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+2019-10-20 16:07:26 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2019-10-20 16:07:26 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi NELSON CHAVEZ,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of MYLENE JOSE, for the position of ACCOUNT EXECUTIVE. Below are the details and schedule:</p>
+<p>
+	Applicant Name: MYLENE JOSE
+	<br>
+	Position: ACCOUNT EXECUTIVE
+	<br>
+	Date: October 20, 2019
+	<br>
+	Time: 04:16 pm
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2019-10-20 16:07:26 --> applicant_monitoring --> insert --> to -->  --> mylene_j@livingangels.edu.ph
+2019-10-20 16:07:26 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2019-10-20 16:07:26 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear MYLENE JOSE,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNT EXECUTIVE position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: October 20, 2019
+	<br>
+	Time: 04:16 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for NELSON CHAVEZ</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2019-10-20 16:07:26 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2019-10-20 16:07:26 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2019-10-20 16:07:52 --> authentication --> logout --> logout -->  --> 
+2019-10-20 16:09:15 --> authentication --> login --> login -->  --> 
+2019-10-20 16:09:36 --> applicant_monitoring --> update --> status_id --> 3 --> 4
+2019-10-20 16:09:36 --> applicant_monitoring --> update --> status_id --> 3 --> 4
+2019-10-20 16:10:04 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+2019-10-20 16:10:04 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+2019-10-20 16:10:29 --> applicant_monitoring --> insert --> type -->  --> 2
+2019-10-20 16:10:29 --> applicant_monitoring --> insert --> process_id -->  --> 9
+2019-10-20 16:10:29 --> applicant_monitoring --> insert --> date -->  --> 2019-10-20 17:17:00
+2019-10-20 16:10:29 --> applicant_monitoring --> insert --> user_id -->  --> 39
+2019-10-20 16:10:29 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2019-10-20 16:10:30 --> applicant_monitoring --> insert --> schedule_id -->  --> 17
+2019-10-20 16:10:30 --> applicant_monitoring --> insert --> to -->  --> lee_p@aecsi.com.ph
+2019-10-20 16:10:30 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2019-10-20 16:10:30 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi MARIA LEE POLONAN,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of MYLENE JOSE, for the position of ACCOUNT EXECUTIVE. Below are the details and schedule:</p>
+<p>
+	Applicant Name: MYLENE JOSE
+	<br>
+	Position: ACCOUNT EXECUTIVE
+	<br>
+	Date: October 20, 2019
+	<br>
+	Time: 05:17 pm
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2019-10-20 16:10:30 --> applicant_monitoring --> insert --> to -->  --> mylene_j@livingangels.edu.ph
+2019-10-20 16:10:30 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2019-10-20 16:10:30 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear MYLENE JOSE,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNT EXECUTIVE position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: October 20, 2019
+	<br>
+	Time: 05:17 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for MARIA LEE POLONAN</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2019-10-20 16:10:30 --> applicant_monitoring --> update --> status_id --> 5 --> 2
+2019-10-20 16:10:30 --> applicant_monitoring --> update --> from_seting_final_interview --> 0 --> 2
+2019-10-20 16:10:31 --> applicant_monitoring --> update --> status_id --> 5 --> 2
+2019-10-20 16:10:31 --> applicant_monitoring --> update --> from_seting_final_interview --> 0 --> 2
+2019-10-20 16:10:55 --> applicant_monitoring --> update --> process_id --> 0 --> 9
+2019-10-20 16:10:55 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2019-10-20 16:10:55 --> applicant_monitoring --> update --> result -->  --> Consider
+2019-10-20 16:10:56 --> applicant_monitoring --> insert --> interview_id -->  --> 17
+2019-10-20 16:10:56 --> applicant_monitoring --> insert --> key_id -->  --> 31
+2019-10-20 16:10:56 --> applicant_monitoring --> insert --> key -->  --> remarks
+2019-10-20 16:10:56 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 16:10:56 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+2019-10-20 16:10:56 --> applicant_monitoring --> insert --> interview_id -->  --> 17
+2019-10-20 16:10:56 --> applicant_monitoring --> insert --> key_id -->  --> 66
+2019-10-20 16:10:56 --> applicant_monitoring --> insert --> key -->  --> interviewer
+2019-10-20 16:10:56 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 16:10:56 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+2019-10-20 16:10:56 --> applicant_monitoring --> insert --> key_value -->  --> POLONAN, MARIA LEE
+2019-10-20 16:10:56 --> applicant_monitoring --> insert --> interview_id -->  --> 17
+2019-10-20 16:10:56 --> applicant_monitoring --> insert --> key_id -->  --> 64
+2019-10-20 16:10:56 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+2019-10-20 16:10:56 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 16:10:56 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer

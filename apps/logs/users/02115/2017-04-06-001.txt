@@ -1,0 +1,19 @@
+2017-04-06 09:47:47 --> authentication --> login --> login -->  --> 
+2017-04-06 09:50:48 --> authentication --> logout --> logout -->  --> 
+2017-04-06 11:48:04 --> authentication --> login --> login -->  --> 
+2017-04-06 11:57:41 --> authentication --> logout --> logout -->  --> 
+2017-04-06 12:11:22 --> authentication --> login --> login -->  --> 
+2017-04-06 12:47:33 --> authentication --> login --> login -->  --> 
+2017-04-06 13:07:47 --> authentication --> logout --> logout -->  --> 
+2017-04-06 14:27:20 --> authentication --> login --> login -->  --> 
+2017-04-06 14:29:07 --> authentication --> logout --> logout -->  --> 
+2017-04-06 14:34:04 --> authentication --> login --> login -->  --> 
+2017-04-06 14:42:26 --> authentication --> logout --> logout -->  --> 
+2017-04-06 15:18:11 --> authentication --> login --> login -->  --> 
+2017-04-06 15:30:01 --> authentication --> logout --> logout -->  --> 
+2017-04-06 15:31:52 --> authentication --> login --> login -->  --> 
+2017-04-06 16:11:31 --> authentication --> logout --> logout -->  --> 
+2017-04-06 16:12:14 --> authentication --> login --> login -->  --> 
+2017-04-06 16:19:25 --> form_policy --> update --> company_id --> ALL --> 1,2,3,4,5,6,7,8,9,10,11,12,13,14
+2017-04-06 16:19:25 --> form_policy --> update --> employment_status_id --> 1,2,3,4,5,6,7,8,9,10,11,12,13,25 --> 1,2,3,4,5,6,7,8,9,10,11,12
+2017-04-06 16:19:59 --> form_policy --> update --> class_value --> YES --> NO

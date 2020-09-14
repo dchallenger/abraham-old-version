@@ -1,0 +1,157 @@
+Admin, Teemworx (admin) --> 2019-10-20 09:05:45 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-10-20 09:06:09 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-10-20 09:07:11 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-10-20 13:13:00 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-10-20 13:15:19 --> annual_manpower_planning --> insert --> year -->  --> 2019
+Admin, Teemworx (admin) --> 2019-10-20 13:15:19 --> annual_manpower_planning --> insert --> company_id -->  --> 1
+Admin, Teemworx (admin) --> 2019-10-20 13:15:19 --> annual_manpower_planning --> insert --> department_id -->  --> 234
+Admin, Teemworx (admin) --> 2019-10-20 13:15:19 --> annual_manpower_planning --> delete --> recruitment_manpower_plan_position_new - plan_id --> 1 --> 
+Admin, Teemworx (admin) --> 2019-10-20 13:16:48 --> annual_manpower_planning --> delete --> recruitment_manpower_plan_position_new - plan_id --> 1 --> 
+Admin, Teemworx (admin) --> 2019-10-20 13:16:49 --> annual_manpower_planning --> insert --> plan_id -->  --> 1
+Admin, Teemworx (admin) --> 2019-10-20 13:16:49 --> annual_manpower_planning --> insert --> position -->  --> Hr Admin
+Admin, Teemworx (admin) --> 2019-10-20 13:16:49 --> annual_manpower_planning --> insert --> employment_status_id -->  --> 1
+Admin, Teemworx (admin) --> 2019-10-20 13:16:49 --> annual_manpower_planning --> insert --> company_id -->  --> 4
+Admin, Teemworx (admin) --> 2019-10-20 13:16:49 --> annual_manpower_planning --> insert --> month -->  --> 1
+Admin, Teemworx (admin) --> 2019-10-20 13:16:49 --> annual_manpower_planning --> insert --> budget -->  --> 20000
+Admin, Teemworx (admin) --> 2019-10-20 13:18:34 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 13:18:50 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 13:20:55 --> mrf --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+ALICANTE, LISSA (30991) --> 2019-10-20 13:20:55 --> mrf --> insert --> subject -->  --> PRF for approval
+ALICANTE, LISSA (30991) --> 2019-10-20 13:20:55 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by ALICANTE, LISSA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+ALICANTE, LISSA (30991) --> 2019-10-20 13:21:37 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-10-20 13:21:42 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-10-20 13:22:15 --> mrf_manage --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+CHAVEZ, NELSON (00129) --> 2019-10-20 13:22:15 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+CHAVEZ, NELSON (00129) --> 2019-10-20 13:22:15 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2019-10-20 13:22:16 --> mrf_manage --> insert --> to -->  --> weng_e@legendhotels.com.ph
+CHAVEZ, NELSON (00129) --> 2019-10-20 13:22:16 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+CHAVEZ, NELSON (00129) --> 2019-10-20 13:22:16 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ELISCUPIDES, ROWENA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2019-10-20 13:22:16 --> mrf_manage --> insert --> to -->  --> lissa_a@abrahamholdings.ph
+CHAVEZ, NELSON (00129) --> 2019-10-20 13:22:16 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+CHAVEZ, NELSON (00129) --> 2019-10-20 13:22:16 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ALICANTE, LISSA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2019-10-20 13:22:16 --> mrf_manage --> insert --> to -->  --> lee_p@aecsi.com.ph
+CHAVEZ, NELSON (00129) --> 2019-10-20 13:22:16 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+CHAVEZ, NELSON (00129) --> 2019-10-20 13:22:16 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear POLONAN, MARIA LEE ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2019-10-20 13:22:16 --> mrf_manage --> insert --> to -->  --> amyra_a@abrahamholdings.ph
+CHAVEZ, NELSON (00129) --> 2019-10-20 13:22:16 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+CHAVEZ, NELSON (00129) --> 2019-10-20 13:22:16 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ABULENCIA, AMYRA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>

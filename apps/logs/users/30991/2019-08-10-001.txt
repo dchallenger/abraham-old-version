@@ -1,0 +1,56 @@
+2019-08-10 10:56:01 --> authentication --> login --> login -->  --> 
+2019-08-10 13:04:07 --> authentication --> logout --> logout -->  --> 
+2019-08-10 13:11:04 --> authentication --> login --> login -->  --> 
+2019-08-10 13:12:48 --> authentication --> logout --> logout -->  --> 
+2019-08-10 13:25:57 --> authentication --> login --> login -->  --> 
+2019-08-10 13:28:14 --> authentication --> logout --> logout -->  --> 
+2019-08-10 14:09:44 --> authentication --> login --> login -->  --> 
+2019-08-10 14:11:05 --> authentication --> logout --> logout -->  --> 
+2019-08-10 14:17:13 --> authentication --> login --> login -->  --> 
+2019-08-10 14:31:17 --> appraisal_template --> insert --> template -->  --> For Non-management
+2019-08-10 14:31:17 --> appraisal_template --> insert --> template_code -->  --> non-management
+2019-08-10 14:31:17 --> appraisal_template --> insert --> applicable_to_id -->  --> 1
+2019-08-10 14:31:17 --> appraisal_template --> insert --> applicable_to -->  --> 4,5,6,18
+2019-08-10 14:34:01 --> appraisal_template --> insert --> template_id -->  --> 1
+2019-08-10 14:34:01 --> appraisal_template --> insert --> template_section -->  --> Performance Evaluation and Development Plan
+2019-08-10 14:34:01 --> appraisal_template --> insert --> sequence -->  --> 1
+2019-08-10 14:34:01 --> appraisal_template --> insert --> section_type_id -->  --> 1
+2019-08-10 14:34:01 --> appraisal_template --> insert --> footer -->  --> <p><br />
+&nbsp;</p>
+2019-08-10 14:35:34 --> appraisal_template --> insert --> template_id -->  --> 1
+2019-08-10 14:35:34 --> appraisal_template --> insert --> template_section -->  --> PART 1 : IMMEDIATE SUPERIORS EVALUATION ON PERFORMANCE
+2019-08-10 14:35:34 --> appraisal_template --> insert --> parent_id -->  --> 1
+2019-08-10 14:35:34 --> appraisal_template --> insert --> sequence -->  --> 1
+2019-08-10 14:35:34 --> appraisal_template --> insert --> weight -->  --> 90
+2019-08-10 14:35:34 --> appraisal_template --> insert --> section_type_id -->  --> 2
+2019-08-10 14:35:34 --> appraisal_template --> insert --> footer -->  --> <p><br />
+&nbsp;</p>
+2019-08-10 14:38:52 --> appraisal_template --> insert --> template_section_id -->  --> 2
+2019-08-10 14:38:52 --> appraisal_template --> insert --> title -->  --> KEY RESULT AREA
+2019-08-10 14:38:52 --> appraisal_template --> insert --> sequence -->  --> 1
+2019-08-10 14:38:52 --> appraisal_template --> insert --> width -->  --> 25
+2019-08-10 14:38:52 --> appraisal_template --> insert --> uitype_id -->  --> 11
+2019-08-10 14:39:45 --> appraisal_template --> insert --> template_section_id -->  --> 2
+2019-08-10 14:39:45 --> appraisal_template --> insert --> title -->  --> KEY PERFORMANCE INDICATOR
+2019-08-10 14:39:45 --> appraisal_template --> insert --> sequence -->  --> 2
+2019-08-10 14:39:45 --> appraisal_template --> insert --> width -->  --> 26
+2019-08-10 14:39:45 --> appraisal_template --> insert --> uitype_id -->  --> 4
+2019-08-10 14:39:45 --> appraisal_template --> insert --> min_items -->  --> 2
+2019-08-10 14:39:45 --> appraisal_template --> insert --> max_items -->  --> 4
+2019-08-10 14:40:32 --> appraisal_template --> insert --> template_section_id -->  --> 2
+2019-08-10 14:40:32 --> appraisal_template --> insert --> title -->  --> WEIGHT
+2019-08-10 14:40:32 --> appraisal_template --> insert --> sequence -->  --> 3
+2019-08-10 14:40:32 --> appraisal_template --> insert --> width -->  --> 7
+2019-08-10 14:40:32 --> appraisal_template --> insert --> uitype_id -->  --> 7
+2019-08-10 14:53:11 --> authentication --> logout --> logout -->  --> 
+2019-08-10 14:54:25 --> authentication --> login --> login -->  --> 
+2019-08-10 15:33:12 --> authentication --> login --> login -->  --> 
+2019-08-10 15:42:02 --> performance_planning_manage --> update --> template_id -->  --> 1
+2019-08-10 15:42:02 --> performance_planning_manage --> update --> employment_status_id -->  --> 1,3,6
+2019-08-10 15:42:02 --> performance_planning_manage --> update --> filter_by --> 0 --> 1
+2019-08-10 15:42:02 --> performance_planning_manage --> update --> filter_id -->  --> 14,1,16,15,2,3,13,17,4,6,5,7,12,10,8,9,11
+2019-08-10 17:36:04 --> authentication --> logout --> logout -->  --> 
+2019-08-10 17:37:41 --> authentication --> login --> login -->  --> 
+2019-08-10 18:08:41 --> authentication --> logout --> logout -->  --> 
+2019-08-10 18:10:18 --> authentication --> login --> login -->  --> 
+2019-08-10 18:12:53 --> authentication --> logout --> logout -->  --> 

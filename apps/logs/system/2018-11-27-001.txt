@@ -1,0 +1,4 @@
+() --> 2018-11-27 09:48:41 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-11-27 09:48:48 --> authentication --> login --> login -->  --> 
+() --> 2018-11-27 09:48:53 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-11-27 16:35:47 --> authentication --> login --> login -->  --> 

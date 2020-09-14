@@ -1,0 +1,116 @@
+2017-11-01 13:07:31 --> authentication --> login --> login -->  --> 
+2017-11-01 13:47:47 --> applicant_monitoring --> update --> status_id --> 8 --> 2
+2017-11-01 13:47:47 --> applicant_monitoring --> insert --> interview_id -->  --> 12
+2017-11-01 13:47:47 --> applicant_monitoring --> insert --> key_id -->  --> 67
+2017-11-01 13:47:47 --> applicant_monitoring --> insert --> key -->  --> hrd_remarks
+2017-11-01 13:47:47 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-11-01 13:47:47 --> applicant_monitoring --> insert --> key_name -->  --> HRD Remarks
+2017-11-01 13:47:47 --> applicant_monitoring --> insert --> key_value -->  --> hdfhgfgf
+2017-11-01 13:54:32 --> applicant_monitoring --> insert --> interview_id -->  --> 13
+2017-11-01 13:54:32 --> applicant_monitoring --> insert --> key_id -->  --> 67
+2017-11-01 13:54:32 --> applicant_monitoring --> insert --> key -->  --> hrd_remarks
+2017-11-01 13:54:32 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-11-01 13:54:32 --> applicant_monitoring --> insert --> key_name -->  --> HRD Remarks
+2017-11-01 13:54:32 --> applicant_monitoring --> insert --> key_value -->  --> bbbbb
+2017-11-01 14:43:32 --> applicant_monitoring --> insert --> salary -->  --> 50,000
+2017-11-01 14:43:32 --> applicant_monitoring --> insert --> email -->  --> rdlozada@yahoo.com
+2017-11-01 14:43:32 --> applicant_monitoring --> insert --> role_id -->  --> 12
+2017-11-01 14:43:32 --> applicant_monitoring --> insert --> full_name -->  --> Lozada, Rommel
+2017-11-01 14:43:32 --> applicant_monitoring --> insert --> display_name -->  --> Lozada, Rommel
+2017-11-01 14:43:32 --> applicant_monitoring --> insert --> shift_id -->  --> 5
+2017-11-01 14:43:32 --> applicant_monitoring --> insert --> effectivity_date -->  --> 0000-00-00
+2017-11-01 14:43:32 --> applicant_monitoring --> insert --> alias -->  --> Lozada, Rommel
+2017-11-01 14:43:33 --> applicant_monitoring --> insert --> company_id -->  --> 1
+2017-11-01 14:43:33 --> applicant_monitoring --> insert --> department_id -->  --> 9
+2017-11-01 14:43:33 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+2017-11-01 14:43:33 --> applicant_monitoring --> insert --> location_id -->  --> 3
+2017-11-01 14:43:33 --> applicant_monitoring --> insert --> partner_id -->  --> 875
+2017-11-01 14:43:33 --> applicant_monitoring --> insert --> recruit_id -->  --> 2
+2017-11-01 14:43:33 --> applicant_monitoring --> insert --> lastname -->  --> Lozada
+2017-11-01 14:43:33 --> applicant_monitoring --> insert --> firstname -->  --> Rommel
+2017-11-01 14:43:33 --> applicant_monitoring --> insert --> position_id -->  --> 5
+2017-11-01 14:43:33 --> applicant_monitoring --> insert --> title -->  --> Mr.
+2017-11-01 14:43:33 --> applicant_monitoring --> insert --> birth_date -->  --> 1989-02-15
+2017-11-01 14:43:33 --> applicant_monitoring --> update --> status_id --> 2 --> 7
+2017-11-01 14:43:33 --> applicant_monitoring --> update --> hired --> 0 --> 1
+2017-11-01 14:43:34 --> applicant_monitoring --> update --> partner_id -->  --> 875
+2017-11-01 14:43:39 --> applicant_monitoring --> insert --> salary -->  --> 50,000
+2017-11-01 14:43:39 --> applicant_monitoring --> insert --> email -->  --> rdlozada@yahoo.com
+2017-11-01 14:43:39 --> applicant_monitoring --> insert --> role_id -->  --> 12
+2017-11-01 14:43:39 --> applicant_monitoring --> insert --> full_name -->  --> Lozada, Rommel
+2017-11-01 14:43:39 --> applicant_monitoring --> insert --> display_name -->  --> Lozada, Rommel
+2017-11-01 14:43:39 --> applicant_monitoring --> insert --> shift_id -->  --> 5
+2017-11-01 14:43:40 --> applicant_monitoring --> insert --> effectivity_date -->  --> 0000-00-00
+2017-11-01 14:43:40 --> applicant_monitoring --> insert --> alias -->  --> Lozada, Rommel
+2017-11-01 14:43:40 --> applicant_monitoring --> insert --> company_id -->  --> 1
+2017-11-01 14:43:40 --> applicant_monitoring --> insert --> department_id -->  --> 9
+2017-11-01 14:43:40 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+2017-11-01 14:43:40 --> applicant_monitoring --> insert --> location_id -->  --> 3
+2017-11-01 14:43:40 --> applicant_monitoring --> insert --> partner_id -->  --> 876
+2017-11-01 14:43:40 --> applicant_monitoring --> insert --> recruit_id -->  --> 2
+2017-11-01 14:43:40 --> applicant_monitoring --> insert --> lastname -->  --> Lozada
+2017-11-01 14:43:40 --> applicant_monitoring --> insert --> firstname -->  --> Rommel
+2017-11-01 14:43:40 --> applicant_monitoring --> insert --> position_id -->  --> 5
+2017-11-01 14:43:40 --> applicant_monitoring --> insert --> title -->  --> Mr.
+2017-11-01 14:43:40 --> applicant_monitoring --> insert --> birth_date -->  --> 1989-02-15
+2017-11-01 14:43:40 --> applicant_monitoring --> update --> status_id --> 2 --> 7
+2017-11-01 14:43:40 --> applicant_monitoring --> update --> hired --> 0 --> 1
+2017-11-01 14:43:40 --> applicant_monitoring --> update --> partner_id -->  --> 876
+2017-11-01 14:45:07 --> applicant_monitoring --> insert --> salary -->  --> 50,000
+2017-11-01 14:45:07 --> applicant_monitoring --> insert --> email -->  --> rdlozada@yahoo.com
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> role_id -->  --> 12
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> full_name -->  --> Lozada, Rommel
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> display_name -->  --> Lozada, Rommel
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> shift_id -->  --> 5
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> salary -->  --> è¡ˆslo<¨ôú2]u
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> effectivity_date -->  --> 0000-00-00
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> alias -->  --> Lozada, Rommel
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> company_id -->  --> 1
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> department_id -->  --> 9
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> location_id -->  --> 3
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> partner_id -->  --> 877
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> recruit_id -->  --> 2
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> lastname -->  --> Lozada
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> firstname -->  --> Rommel
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> position_id -->  --> 5
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> title -->  --> Mr.
+2017-11-01 14:45:08 --> applicant_monitoring --> insert --> birth_date -->  --> 1989-02-15
+2017-11-01 14:45:08 --> applicant_monitoring --> update --> status_id --> 2 --> 7
+2017-11-01 14:45:08 --> applicant_monitoring --> update --> hired --> 0 --> 1
+2017-11-01 14:45:08 --> applicant_monitoring --> update --> partner_id -->  --> 877
+2017-11-01 14:46:20 --> applicant_monitoring --> insert --> salary -->  --> 50,000
+2017-11-01 14:46:20 --> applicant_monitoring --> insert --> email -->  --> rdlozada@yahoo.com
+2017-11-01 14:46:20 --> applicant_monitoring --> insert --> role_id -->  --> 12
+2017-11-01 14:46:20 --> applicant_monitoring --> insert --> full_name -->  --> Lozada, Rommel
+2017-11-01 14:46:20 --> applicant_monitoring --> insert --> display_name -->  --> Lozada, Rommel
+2017-11-01 14:47:33 --> applicant_monitoring --> insert --> salary -->  --> 50,000
+2017-11-01 14:47:33 --> applicant_monitoring --> insert --> email -->  --> rdlozada@yahoo.com
+2017-11-01 14:47:33 --> applicant_monitoring --> insert --> role_id -->  --> 12
+2017-11-01 14:47:33 --> applicant_monitoring --> insert --> full_name -->  --> Lozada, Rommel
+2017-11-01 14:47:33 --> applicant_monitoring --> insert --> display_name -->  --> Lozada, Rommel
+2017-11-01 14:47:33 --> applicant_monitoring --> insert --> shift_id -->  --> 5
+2017-11-01 14:47:33 --> applicant_monitoring --> insert --> salary -->  --> è¡ˆslo<¨ôú2]u
+2017-11-01 14:47:33 --> applicant_monitoring --> insert --> effectivity_date -->  --> 0000-00-00
+2017-11-01 14:47:33 --> applicant_monitoring --> insert --> alias -->  --> Lozada, Rommel
+2017-11-01 14:47:33 --> applicant_monitoring --> insert --> company_id -->  --> 1
+2017-11-01 14:47:33 --> applicant_monitoring --> insert --> department_id -->  --> 9
+2017-11-01 14:47:33 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+2017-11-01 14:47:33 --> applicant_monitoring --> insert --> location_id -->  --> 3
+2017-11-01 14:47:33 --> applicant_monitoring --> insert --> partner_id -->  --> 879
+2017-11-01 14:47:34 --> applicant_monitoring --> insert --> recruit_id -->  --> 2
+2017-11-01 14:47:34 --> applicant_monitoring --> insert --> lastname -->  --> Lozada
+2017-11-01 14:47:34 --> applicant_monitoring --> insert --> firstname -->  --> Rommel
+2017-11-01 14:47:34 --> applicant_monitoring --> insert --> position_id -->  --> 5
+2017-11-01 14:47:34 --> applicant_monitoring --> insert --> title -->  --> Mr.
+2017-11-01 14:47:34 --> applicant_monitoring --> insert --> birth_date -->  --> 1989-02-15
+2017-11-01 14:47:34 --> applicant_monitoring --> update --> status_id --> 2 --> 7
+2017-11-01 14:47:34 --> applicant_monitoring --> update --> hired --> 0 --> 1
+2017-11-01 14:47:34 --> applicant_monitoring --> update --> partner_id -->  --> 879
+2017-11-01 14:48:00 --> applicant_monitoring --> insert --> salary -->  --> 50,000
+2017-11-01 14:48:00 --> applicant_monitoring --> insert --> email -->  --> rdlozada@yahoo.com
+2017-11-01 14:48:00 --> applicant_monitoring --> insert --> role_id -->  --> 12
+2017-11-01 14:48:00 --> applicant_monitoring --> insert --> full_name -->  --> Lozada, Rommel
+2017-11-01 14:48:00 --> applicant_monitoring --> insert --> display_name -->  --> Lozada, Rommel
+2017-11-01 14:52:50 --> applicant_monitoring --> insert --> salary -->  --> 50,000
+2017-11-01 14:52:50 --> applicant_monitoring --> insert --> email -->  --> rdlozada@yahoo.com

@@ -1,0 +1,12 @@
+2020-01-30 15:43:30 --> authentication --> login --> login -->  --> 
+2020-01-30 15:46:58 --> memo --> insert --> memo_type_id -->  --> 5
+2020-01-30 15:46:59 --> memo --> insert --> apply_to_id -->  --> 2
+2020-01-30 15:46:59 --> memo --> insert --> memo_title -->  --> Test Announcement
+2020-01-30 15:46:59 --> memo --> insert --> publish_from -->  --> 2020-01-30
+2020-01-30 15:46:59 --> memo --> insert --> publish_to -->  --> 2020-01-31
+2020-01-30 15:46:59 --> memo --> insert --> publish -->  --> 1
+2020-01-30 15:46:59 --> memo --> insert --> comments -->  --> 0
+2020-01-30 15:46:59 --> memo --> insert --> email -->  --> 0
+2020-01-30 15:46:59 --> memo --> insert --> memo_body -->  --> <p>TEST MESSAGE</p>
+2020-01-30 16:23:19 --> authentication --> logout --> logout -->  --> 
+2020-01-30 16:25:08 --> authentication --> login --> login -->  --> 

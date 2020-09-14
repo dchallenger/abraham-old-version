@@ -1,0 +1,5 @@
+LOPEZ, PAOLO (02115) --> 2017-04-03 14:41:29 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-03 19:20:59 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-03 20:22:17 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-03 22:11:35 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-03 22:14:10 --> authentication --> login --> login -->  --> 

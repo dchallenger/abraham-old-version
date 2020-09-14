@@ -1,0 +1,118 @@
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> process_id -->  --> 8
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> checklist_id -->  --> 20
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> process_id -->  --> 8
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> checklist_id -->  --> 21
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> process_id -->  --> 8
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> checklist_id -->  --> 22
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> process_id -->  --> 8
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> checklist_id -->  --> 23
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> process_id -->  --> 8
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> checklist_id -->  --> 24
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> process_id -->  --> 8
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> checklist_id -->  --> 25
+2019-10-20 13:55:38 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2019-10-20 13:55:39 --> applicant_monitoring --> insert --> process_id -->  --> 8
+2019-10-20 13:55:39 --> applicant_monitoring --> insert --> checklist_id -->  --> 26
+2019-10-20 13:55:39 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2019-10-20 13:55:39 --> applicant_monitoring --> insert --> process_id -->  --> 8
+2019-10-20 13:55:39 --> applicant_monitoring --> insert --> checklist_id -->  --> 27
+2019-10-20 13:55:39 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2019-10-20 13:55:39 --> applicant_monitoring --> insert --> process_id -->  --> 8
+2019-10-20 13:55:39 --> applicant_monitoring --> insert --> checklist_id -->  --> 28
+2019-10-20 13:55:39 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2019-10-20 13:55:39 --> applicant_monitoring --> insert --> process_id -->  --> 8
+2019-10-20 13:55:39 --> applicant_monitoring --> insert --> checklist_id -->  --> 29
+2019-10-20 13:55:39 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2019-10-20 15:02:26 --> applicant_monitoring --> insert --> login -->  --> 33779
+2019-10-20 15:02:26 --> applicant_monitoring --> insert --> email -->  --> tjkgarcia@yahoo.com
+2019-10-20 15:02:26 --> applicant_monitoring --> insert --> role_id -->  --> 12
+2019-10-20 15:02:26 --> applicant_monitoring --> insert --> full_name -->  --> Garcia, Tirso
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> display_name -->  --> Garcia, Tirso
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> calendar_id -->  --> 7
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> salary -->  --> ^uËóõaŒ‹ÆWûäG§îÇ
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> user_id -->  --> 1329
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> id_number -->  --> 33779
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> effectivity_date -->  --> 2019-11-01
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> alias -->  --> Garcia, Tirso
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> company_id -->  --> 1
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> department_id -->  --> 9
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> user_id -->  --> 1329
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> partner_id -->  --> 1328
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> recruit_id -->  --> 10
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> lastname -->  --> Garcia
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> firstname -->  --> Tirso
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> middlename -->  --> Tamares
+2019-10-20 15:02:27 --> applicant_monitoring --> insert --> nickname -->  --> Jun
+2019-10-20 15:02:28 --> applicant_monitoring --> insert --> position_id -->  --> 1
+2019-10-20 15:02:28 --> applicant_monitoring --> insert --> title -->  --> Mr.
+2019-10-20 15:02:28 --> applicant_monitoring --> insert --> birth_date -->  --> 1995-02-08
+2019-10-20 15:02:28 --> applicant_monitoring --> update --> status_id --> 8 --> 7
+2019-10-20 15:02:28 --> applicant_monitoring --> update --> hired --> 0 --> 1
+2019-10-20 15:02:28 --> applicant_monitoring --> update --> partner_id -->  --> 1328
+2019-10-20 15:24:22 --> applicant_monitoring --> insert --> login -->  --> 33779
+2019-10-20 15:24:22 --> applicant_monitoring --> insert --> email -->  --> tjkgarcia@yahoo.com
+2019-10-20 15:24:22 --> applicant_monitoring --> insert --> role_id -->  --> 12
+2019-10-20 15:24:22 --> applicant_monitoring --> insert --> full_name -->  --> Garcia, Tirso
+2019-10-20 15:24:22 --> applicant_monitoring --> insert --> display_name -->  --> Garcia, Tirso
+2019-10-20 15:24:22 --> applicant_monitoring --> insert --> calendar_id -->  --> 7
+2019-10-20 15:24:22 --> applicant_monitoring --> insert --> salary -->  --> ^uËóõaŒ‹ÆWûäG§îÇ
+2019-10-20 15:24:22 --> applicant_monitoring --> insert --> user_id -->  --> 1330
+2019-10-20 15:24:22 --> applicant_monitoring --> insert --> id_number -->  --> 33779
+2019-10-20 15:24:22 --> applicant_monitoring --> insert --> effectivity_date -->  --> 2019-11-01
+2019-10-20 15:24:22 --> applicant_monitoring --> insert --> alias -->  --> Garcia, Tirso
+2019-10-20 15:24:22 --> applicant_monitoring --> insert --> company_id -->  --> 1
+2019-10-20 15:24:22 --> applicant_monitoring --> insert --> department_id -->  --> 9
+2019-10-20 15:24:23 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+2019-10-20 15:24:23 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2019-10-20 15:24:23 --> applicant_monitoring --> insert --> user_id -->  --> 1330
+2019-10-20 15:24:23 --> applicant_monitoring --> insert --> partner_id -->  --> 1329
+2019-10-20 15:24:23 --> applicant_monitoring --> insert --> recruit_id -->  --> 10
+2019-10-20 15:24:23 --> applicant_monitoring --> insert --> lastname -->  --> Garcia
+2019-10-20 15:24:23 --> applicant_monitoring --> insert --> firstname -->  --> Tirso
+2019-10-20 15:24:23 --> applicant_monitoring --> insert --> middlename -->  --> Tamares
+2019-10-20 15:24:23 --> applicant_monitoring --> insert --> nickname -->  --> Jun
+2019-10-20 15:24:23 --> applicant_monitoring --> insert --> position_id -->  --> 1
+2019-10-20 15:24:23 --> applicant_monitoring --> insert --> title -->  --> Mr.
+2019-10-20 15:24:23 --> applicant_monitoring --> insert --> birth_date -->  --> 1995-02-08
+2019-10-20 15:24:23 --> applicant_monitoring --> update --> partner_id --> 1328 --> 1329
+2019-10-20 15:27:04 --> applicant_monitoring --> insert --> login -->  --> 33779
+2019-10-20 15:27:04 --> applicant_monitoring --> insert --> email -->  --> tjkgarcia@yahoo.com
+2019-10-20 15:27:04 --> applicant_monitoring --> insert --> role_id -->  --> 12
+2019-10-20 15:27:04 --> applicant_monitoring --> insert --> full_name -->  --> Garcia, Tirso
+2019-10-20 15:27:04 --> applicant_monitoring --> insert --> display_name -->  --> Garcia, Tirso
+2019-10-20 15:27:04 --> applicant_monitoring --> insert --> calendar_id -->  --> 7
+2019-10-20 15:27:04 --> applicant_monitoring --> insert --> salary -->  --> ^uËóõaŒ‹ÆWûäG§îÇ
+2019-10-20 15:27:04 --> applicant_monitoring --> insert --> user_id -->  --> 1331
+2019-10-20 15:27:04 --> applicant_monitoring --> insert --> id_number -->  --> 33779
+2019-10-20 15:27:04 --> applicant_monitoring --> insert --> effectivity_date -->  --> 2019-11-01
+2019-10-20 15:27:04 --> applicant_monitoring --> insert --> alias -->  --> Garcia, Tirso
+2019-10-20 15:27:05 --> applicant_monitoring --> insert --> company_id -->  --> 1
+2019-10-20 15:27:05 --> applicant_monitoring --> insert --> department_id -->  --> 9
+2019-10-20 15:27:05 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+2019-10-20 15:27:05 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2019-10-20 15:27:05 --> applicant_monitoring --> insert --> user_id -->  --> 1331
+2019-10-20 15:27:05 --> applicant_monitoring --> insert --> partner_id -->  --> 1330
+2019-10-20 15:27:05 --> applicant_monitoring --> insert --> recruit_id -->  --> 10
+2019-10-20 15:27:05 --> applicant_monitoring --> insert --> lastname -->  --> Garcia
+2019-10-20 15:27:05 --> applicant_monitoring --> insert --> firstname -->  --> Tirso
+2019-10-20 15:27:05 --> applicant_monitoring --> insert --> middlename -->  --> Tamares
+2019-10-20 15:27:05 --> applicant_monitoring --> insert --> nickname -->  --> Jun
+2019-10-20 15:27:05 --> applicant_monitoring --> insert --> position_id -->  --> 1
+2019-10-20 15:27:05 --> applicant_monitoring --> insert --> title -->  --> Mr.
+2019-10-20 15:27:05 --> applicant_monitoring --> insert --> birth_date -->  --> 1995-02-08
+2019-10-20 15:27:05 --> applicant_monitoring --> update --> partner_id --> 1329 --> 1330
+2019-10-20 15:33:22 --> authentication --> logout --> logout -->  --> 
+2019-10-20 15:34:39 --> authentication --> login --> login -->  --> 
+2019-10-20 15:38:43 --> authentication --> logout --> logout -->  --> 
+2019-10-20 15:38:55 --> authentication --> login --> login -->  --> 
+2019-10-20 15:45:23 --> authentication --> logout --> logout -->  --> 
+2019-10-20 16:01:40 --> authentication --> login --> login -->  --> 
+2019-10-20 16:03:32 --> authentication --> logout --> logout -->  --> 
+2019-10-20 16:05:58 --> authentication --> login --> login -->  --> 

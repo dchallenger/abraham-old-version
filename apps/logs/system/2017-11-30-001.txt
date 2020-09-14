@@ -1,0 +1,6 @@
+Admin, Teemworx (admin) --> 2017-11-30 10:27:46 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-30 10:27:59 --> authentication --> login --> login -->  --> 
+() --> 2017-11-30 10:30:43 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-30 11:06:32 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-30 11:06:41 --> authentication --> login --> login -->  --> 
+() --> 2017-11-30 11:07:36 --> authentication --> logout --> logout -->  --> 

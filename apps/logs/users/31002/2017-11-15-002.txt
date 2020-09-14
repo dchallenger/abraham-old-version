@@ -1,0 +1,13 @@
+2017-11-15 01:25:17 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-15 01:25:17 --> applicants --> insert --> key_id -->  --> 216
+2017-11-15 01:25:17 --> applicants --> insert --> key -->  --> reference-organization
+2017-11-15 01:25:17 --> applicants --> insert --> sequence -->  --> 1
+2017-11-15 01:25:17 --> applicants --> insert --> key_name -->  --> Organization
+2017-11-15 01:25:17 --> applicants --> insert --> key_value -->  --> organization
+2017-11-15 09:55:13 --> applicant_monitoring --> update --> status_id --> 7 --> 2
+2017-11-15 09:55:13 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2017-11-15 09:57:42 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2017-11-15 09:58:51 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2017-11-15 10:00:47 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2017-11-15 10:02:58 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2017-11-15 13:25:29 --> authentication --> logout --> logout -->  --> 

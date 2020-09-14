@@ -1,0 +1,137 @@
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> recruit_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> key_id -->  --> 49
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> key -->  --> reference-mobile
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> key_name -->  --> Mobile
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> key_value -->  --> 09186866801
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> recruit_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> key_id -->  --> 50
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> key -->  --> reference-address
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> key_name -->  --> Address
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> key_value -->  --> adsf
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> recruit_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> key_id -->  --> 51
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> key -->  --> reference-city
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> key_name -->  --> City
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:16 --> applicants --> insert --> key_value -->  --> adsf
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> recruit_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> key_id -->  --> 52
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> key -->  --> reference-country
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> key_name -->  --> Country
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> key_value -->  --> adsf
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> recruit_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> key_id -->  --> 53
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> key -->  --> reference-zipcode
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> key_name -->  --> Zipcode
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> key_value -->  --> adsf
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> recruit_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> key_id -->  --> 216
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> key -->  --> reference-organization
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> key_name -->  --> Organization
+POLONAN, MARIA LEE (31002) --> 2017-11-15 01:25:17 --> applicants --> insert --> key_value -->  --> organization
+POLONAN, MARIA LEE (31002) --> 2017-11-15 09:55:13 --> applicant_monitoring --> update --> status_id --> 7 --> 2
+POLONAN, MARIA LEE (31002) --> 2017-11-15 09:55:13 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+POLONAN, MARIA LEE (31002) --> 2017-11-15 09:57:42 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+POLONAN, MARIA LEE (31002) --> 2017-11-15 09:58:51 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+POLONAN, MARIA LEE (31002) --> 2017-11-15 10:00:47 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+POLONAN, MARIA LEE (31002) --> 2017-11-15 10:02:58 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+POLONAN, MARIA LEE (31002) --> 2017-11-15 13:25:29 --> authentication --> logout --> logout -->  --> 
+() --> 2017-11-15 13:25:30 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 13:25:38 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 05:50:25 --> report_generator --> insert --> report_code -->  --> Incident Report
+Admin, Teemworx (admin) --> 2017-11-15 05:50:25 --> report_generator --> insert --> report_name -->  --> Incident Report
+Admin, Teemworx (admin) --> 2017-11-15 05:50:25 --> report_generator --> insert --> category_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-11-15 05:50:25 --> report_generator --> insert --> roles -->  --> 1,2,3,4,5,6,7,8,9,10,11,12,21,22,23,24,25,26,27,28,29
+Admin, Teemworx (admin) --> 2017-11-15 18:31:31 --> authentication --> logout --> logout -->  --> 
+() --> 2017-11-15 18:31:37 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 18:31:38 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 19:26:08 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 19:26:08 --> applicant_monitoring --> insert --> date -->  --> 2017-11-15 23:00:00
+DE LEON, LISSA (30991) --> 2017-11-15 19:26:08 --> applicant_monitoring --> insert --> user_id -->  --> 38
+DE LEON, LISSA (30991) --> 2017-11-15 19:26:08 --> applicant_monitoring --> insert --> location_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 19:26:08 --> applicant_monitoring --> insert --> schedule_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-15 19:26:09 --> applicant_monitoring --> insert --> to -->  --> lissa_d@abrahamholdings.ph
+DE LEON, LISSA (30991) --> 2017-11-15 19:26:09 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+DE LEON, LISSA (30991) --> 2017-11-15 19:26:09 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi LISSA DE LEON,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of Tirso Garcia, for the position of ACCOUNTING MANAGER. Below are the details and schedule:</p>
+<p>
+	Applicant Name: Tirso Garcia
+	<br>
+	Position: ACCOUNTING MANAGER
+	<br>
+	Date: November 15, 2017
+	<br>
+	Time: 11:00 pm
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+DE LEON, LISSA (30991) --> 2017-11-15 19:26:09 --> applicant_monitoring --> insert --> to -->  --> tjkgarcia@yahoo.com
+DE LEON, LISSA (30991) --> 2017-11-15 19:26:09 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+DE LEON, LISSA (30991) --> 2017-11-15 19:26:09 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear Tirso Garcia,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNTING MANAGER position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: November 15, 2017
+	<br>
+	Time: 11:00 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for LISSA DE LEON</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>

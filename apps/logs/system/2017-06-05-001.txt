@@ -1,0 +1,43 @@
+Admin, Teemworx (admin) --> 2017-06-05 11:28:33 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-06-05 11:29:05 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-06-05 11:41:02 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-06-05 11:41:07 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-06-05 11:42:59 --> system --> update --> config -->  --> Emplopad
+Admin, Teemworx (admin) --> 2017-06-05 11:42:59 --> system --> update --> config -->  --> Teemworx ISC, Inc.
+Admin, Teemworx (admin) --> 2017-06-05 11:42:59 --> system --> update --> config -->  --> В© Emplopad
+Admin, Teemworx (admin) --> 2017-06-05 11:42:59 --> system --> update --> config -->  --> В© Emplopad
+Admin, Teemworx (admin) --> 2017-06-05 11:42:59 --> system --> update --> config -->  --> 1
+Admin, Teemworx (admin) --> 2017-06-05 11:42:59 --> system --> update --> config -->  --> uploads/system/login/abraham_login.png
+Admin, Teemworx (admin) --> 2017-06-05 11:42:59 --> system --> update --> config -->  --> uploads/system/header/emplopad_header.png
+Admin, Teemworx (admin) --> 2017-06-05 11:42:59 --> system --> update --> config -->  --> uploads/system/print/logo-header 300x132.png
+Admin, Teemworx (admin) --> 2017-06-05 11:42:59 --> system --> update --> config -->  --> 2
+Admin, Teemworx (admin) --> 2017-06-05 11:43:17 --> system --> update --> config -->  --> Emplopad
+Admin, Teemworx (admin) --> 2017-06-05 11:43:17 --> system --> update --> config -->  --> Teemworx ISC, Inc.
+Admin, Teemworx (admin) --> 2017-06-05 11:43:17 --> system --> update --> config -->  --> В© Emplopad
+Admin, Teemworx (admin) --> 2017-06-05 11:43:17 --> system --> update --> config -->  --> В© Emplopad
+Admin, Teemworx (admin) --> 2017-06-05 11:43:17 --> system --> update --> config -->  --> 1
+Admin, Teemworx (admin) --> 2017-06-05 11:43:17 --> system --> update --> config -->  --> uploads/system/login/abraham_login.png
+Admin, Teemworx (admin) --> 2017-06-05 11:43:17 --> system --> update --> config -->  --> uploads/system/header/emplopad_header.png
+Admin, Teemworx (admin) --> 2017-06-05 11:43:17 --> system --> update --> config -->  --> uploads/system/print/logo-header 300x132.png
+Admin, Teemworx (admin) --> 2017-06-05 11:43:17 --> system --> update --> config -->  --> 2
+Admin, Teemworx (admin) --> 2017-06-05 11:49:49 --> company --> update --> city --> Pasay --> updated by trigger
+Admin, Teemworx (admin) --> 2017-06-05 11:49:49 --> company --> update --> country --> Philippines --> updated by trigger
+Admin, Teemworx (admin) --> 2017-06-05 11:49:49 --> company --> update --> print_logo --> uploads/company/HDI-Systech-h100.jpg --> uploads/company/print/logo-header 300x132.png
+Admin, Teemworx (admin) --> 2017-06-05 11:49:49 --> company --> insert --> company_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-06-05 11:49:49 --> company --> insert --> contact_type -->  --> Phone
+Admin, Teemworx (admin) --> 2017-06-05 11:49:49 --> company --> insert --> company_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-06-05 11:49:49 --> company --> insert --> contact_type -->  --> Mobile
+Admin, Teemworx (admin) --> 2017-06-05 11:49:49 --> company --> insert --> company_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-06-05 11:49:49 --> company --> insert --> contact_type -->  --> Fax
+Admin, Teemworx (admin) --> 2017-06-05 15:53:10 --> bonus --> insert --> bonus_transaction_id -->  --> 10
+Admin, Teemworx (admin) --> 2017-06-05 15:53:10 --> bonus --> insert --> payroll_date -->  --> 2017-06-05
+Admin, Teemworx (admin) --> 2017-06-05 15:53:10 --> bonus --> insert --> date_from -->  --> 2017-06-05
+Admin, Teemworx (admin) --> 2017-06-05 15:53:10 --> bonus --> insert --> date_to -->  --> 2017-06-05
+Admin, Teemworx (admin) --> 2017-06-05 15:53:10 --> bonus --> insert --> period -->  --> 1
+Admin, Teemworx (admin) --> 2017-06-05 15:53:10 --> bonus --> insert --> week -->  --> 2
+Admin, Teemworx (admin) --> 2017-06-05 15:53:10 --> bonus --> insert --> transaction_method_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-06-05 15:53:10 --> bonus --> insert --> account_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-06-05 15:53:10 --> bonus --> delete --> payroll_bonus_employee - bonus_id --> 1 --> 
+Admin, Teemworx (admin) --> 2017-06-05 15:53:10 --> bonus --> insert --> bonus_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-06-05 15:53:10 --> bonus --> insert --> employee_id -->  --> 23
+Admin, Teemworx (admin) --> 2017-06-05 15:53:10 --> bonus --> insert --> amount -->  --> СгЂъЙoЇшцe4Ўґ¬q

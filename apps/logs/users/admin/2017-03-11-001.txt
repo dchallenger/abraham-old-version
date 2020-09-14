@@ -1,0 +1,27 @@
+2017-03-11 10:26:31 --> authentication --> logout --> logout -->  --> 
+2017-03-11 10:52:21 --> authentication --> login --> login -->  --> 
+2017-03-11 10:56:46 --> authentication --> logout --> logout -->  --> 
+2017-03-11 10:58:52 --> authentication --> login --> login -->  --> 
+2017-03-11 11:00:19 --> authentication --> logout --> logout -->  --> 
+2017-03-11 11:06:41 --> authentication --> login --> login -->  --> 
+2017-03-11 11:20:23 --> authentication --> logout --> logout -->  --> 
+2017-03-11 11:21:43 --> authentication --> login --> login -->  --> 
+2017-03-11 11:22:13 --> authentication --> logout --> logout -->  --> 
+2017-03-11 11:23:11 --> authentication --> login --> login -->  --> 
+2017-03-11 11:29:58 --> authentication --> login --> login -->  --> 
+2017-03-11 11:36:52 --> career_stream --> insert --> job_class -->  --> sad
+2017-03-11 11:36:52 --> career_stream --> insert --> job_class_code -->  --> asdf
+2017-03-11 11:36:52 --> career_stream --> insert --> status_id -->  --> 1
+2017-03-11 11:38:14 --> career_level --> insert --> job_rank_level -->  --> asd
+2017-03-11 11:38:14 --> career_level --> insert --> job_rank_level_code -->  --> asd
+2017-03-11 11:38:14 --> career_level --> insert --> status_id -->  --> 1
+2017-03-11 12:35:05 --> authentication --> logout --> logout -->  --> 
+2017-03-11 12:37:30 --> authentication --> login --> login -->  --> 
+2017-03-11 12:55:06 --> authentication --> logout --> logout -->  --> 
+2017-03-11 13:01:16 --> authentication --> login --> login -->  --> 
+2017-03-11 13:04:59 --> authentication --> logout --> logout -->  --> 
+2017-03-11 13:13:26 --> authentication --> login --> login -->  --> 
+2017-03-11 13:14:42 --> leave_balance_admin --> update --> period_from --> 0000-00-00 --> 2017-01-01
+2017-03-11 13:14:42 --> leave_balance_admin --> update --> period_to --> 1970-01-01 --> 2017-12-31
+2017-03-11 13:14:42 --> leave_balance_admin --> update --> period_extension --> 1970-01-01 --> 2017-12-31
+2017-03-11 13:14:55 --> authentication --> logout --> logout -->  --> 

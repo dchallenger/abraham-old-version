@@ -1,0 +1,8 @@
+2017-12-08 05:07:28 --> authentication --> login --> login -->  --> 
+2017-12-08 05:12:10 --> payroll_period --> update --> include_basic_and_allowances --> 0 --> 1970-01-01
+2017-12-08 05:14:34 --> payroll_period --> update --> include_basic_and_allowances --> 127 --> 1970-01-01
+2017-12-08 05:22:27 --> payroll_period --> update --> include_basic_and_allowances --> 127 --> 1970-01-01
+2017-12-08 05:22:53 --> payroll_period --> update --> include_basic_and_allowances --> 127 --> 1970-01-01
+2017-12-08 05:23:41 --> payroll_period --> update --> include_basic_and_allowances --> 127 --> 1970-01-01
+2017-12-08 05:26:37 --> payroll_period --> update --> include_basic_and_allowances --> 127 --> 1970-01-01
+2017-12-08 05:30:32 --> payroll_period --> update --> include_basic_and_allowances --> 127 --> 1

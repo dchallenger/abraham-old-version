@@ -1,0 +1,52 @@
+2017-04-18 15:39:08 --> authentication --> login --> login -->  --> 
+2017-04-18 15:40:33 --> code_discipline --> insert --> offense_category_id -->  --> 1
+2017-04-18 15:40:33 --> code_discipline --> insert --> offense_level_id -->  --> 1
+2017-04-18 15:40:33 --> code_discipline --> insert --> offense -->  --> 1.01 Stealing, misappropriating or embezzling of company funds or property (E)
+2017-04-18 15:43:49 --> offense_sanction --> insert --> sanction_category_id -->  --> 4
+2017-04-18 15:43:49 --> offense_sanction --> insert --> offense_level_id -->  --> 1
+2017-04-18 15:43:49 --> offense_sanction --> insert --> sanction -->  --> Dismissal
+2017-04-18 15:45:48 --> offense_sanction --> update --> sanction_category_id --> 4 --> 1
+2017-04-18 15:45:48 --> offense_sanction --> update --> sanction --> Dismissal --> Verbal
+2017-04-18 15:46:32 --> offense_sanction --> insert --> sanction_category_id -->  --> 2
+2017-04-18 15:46:32 --> offense_sanction --> insert --> offense_level_id -->  --> 1
+2017-04-18 15:46:32 --> offense_sanction --> insert --> sanction -->  --> Written
+2017-04-18 15:46:43 --> offense_sanction --> insert --> sanction_category_id -->  --> 2
+2017-04-18 15:46:43 --> offense_sanction --> insert --> offense_level_id -->  --> 2
+2017-04-18 15:46:43 --> offense_sanction --> insert --> sanction -->  --> Written
+2017-04-18 15:47:14 --> offense_sanction --> insert --> sanction_category_id -->  --> 3
+2017-04-18 15:47:14 --> offense_sanction --> insert --> offense_level_id -->  --> 1
+2017-04-18 15:47:14 --> offense_sanction --> insert --> sanction -->  --> 6 days suspension
+2017-04-18 15:47:40 --> offense_sanction --> insert --> sanction_category_id -->  --> 3
+2017-04-18 15:47:40 --> offense_sanction --> insert --> offense_level_id -->  --> 1
+2017-04-18 15:47:40 --> offense_sanction --> insert --> sanction -->  --> 12 days suspension
+2017-04-18 15:47:56 --> offense_sanction --> insert --> sanction_category_id -->  --> 3
+2017-04-18 15:47:56 --> offense_sanction --> insert --> offense_level_id -->  --> 2
+2017-04-18 15:47:56 --> offense_sanction --> insert --> sanction -->  --> 6 days suspension
+2017-04-18 15:48:10 --> offense_sanction --> insert --> sanction_category_id -->  --> 3
+2017-04-18 15:48:10 --> offense_sanction --> insert --> offense_level_id -->  --> 2
+2017-04-18 15:48:11 --> offense_sanction --> insert --> sanction -->  --> 12 days suspension
+2017-04-18 15:48:21 --> offense_sanction --> insert --> sanction_category_id -->  --> 3
+2017-04-18 15:48:21 --> offense_sanction --> insert --> offense_level_id -->  --> 3
+2017-04-18 15:48:21 --> offense_sanction --> insert --> sanction -->  --> 6 days suspension
+2017-04-18 15:48:45 --> offense_sanction --> insert --> sanction_category_id -->  --> 3
+2017-04-18 15:48:45 --> offense_sanction --> insert --> offense_level_id -->  --> 3
+2017-04-18 15:48:45 --> offense_sanction --> insert --> sanction -->  --> 12 days suspension
+2017-04-18 15:49:01 --> offense_sanction --> insert --> sanction_category_id -->  --> 3
+2017-04-18 15:49:01 --> offense_sanction --> insert --> offense_level_id -->  --> 4
+2017-04-18 15:49:01 --> offense_sanction --> insert --> sanction -->  --> 12 days suspension
+2017-04-18 15:49:16 --> offense_sanction --> insert --> sanction_category_id -->  --> 4
+2017-04-18 15:49:16 --> offense_sanction --> insert --> offense_level_id -->  --> 1
+2017-04-18 15:49:16 --> offense_sanction --> insert --> sanction -->  --> Dismissal
+2017-04-18 15:49:24 --> offense_sanction --> insert --> sanction_category_id -->  --> 4
+2017-04-18 15:49:25 --> offense_sanction --> insert --> offense_level_id -->  --> 2
+2017-04-18 15:49:25 --> offense_sanction --> insert --> sanction -->  --> Dismissal
+2017-04-18 15:49:33 --> offense_sanction --> insert --> sanction_category_id -->  --> 4
+2017-04-18 15:49:33 --> offense_sanction --> insert --> offense_level_id -->  --> 3
+2017-04-18 15:49:33 --> offense_sanction --> insert --> sanction -->  --> Dismissal
+2017-04-18 15:49:42 --> offense_sanction --> insert --> sanction_category_id -->  --> 4
+2017-04-18 15:49:42 --> offense_sanction --> insert --> offense_level_id -->  --> 4
+2017-04-18 15:49:42 --> offense_sanction --> insert --> sanction -->  --> Dismissal
+2017-04-18 15:49:50 --> offense_sanction --> insert --> sanction_category_id -->  --> 4
+2017-04-18 15:49:50 --> offense_sanction --> insert --> offense_level_id -->  --> 5
+2017-04-18 15:49:50 --> offense_sanction --> insert --> sanction -->  --> Dismissal
+2017-04-18 17:07:29 --> authentication --> logout --> logout -->  --> 

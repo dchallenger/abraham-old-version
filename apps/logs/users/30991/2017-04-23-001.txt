@@ -1,0 +1,24 @@
+2017-04-23 09:34:43 --> authentication --> logout --> logout -->  --> 
+2017-04-23 15:38:57 --> authentication --> login --> login -->  --> 
+2017-04-23 18:13:06 --> authentication --> logout --> logout -->  --> 
+2017-04-23 18:16:33 --> authentication --> login --> login -->  --> 
+2017-04-23 18:16:56 --> authentication --> logout --> logout -->  --> 
+2017-04-23 18:18:33 --> authentication --> login --> login -->  --> 
+2017-04-23 18:19:17 --> authentication --> logout --> logout -->  --> 
+2017-04-23 20:22:08 --> authentication --> login --> login -->  --> 
+2017-04-23 20:23:41 --> incident_admin --> update --> hr_remarks -->  --> hr remarks forward to nte
+2017-04-23 20:23:41 --> incident_admin --> update --> nte_immediate --> 0 --> 1
+2017-04-23 20:23:41 --> incident_admin --> update --> nte_complainants --> 0 --> 1
+2017-04-23 20:23:41 --> incident_admin --> update --> nte_witnesses --> 0 --> 1
+2017-04-23 20:23:41 --> incident_admin --> update --> nte_others --> 0 --> 1
+2017-04-23 20:23:41 --> incident_admin --> update --> incident_status_id --> 4 --> 9
+2017-04-23 20:28:21 --> authentication --> logout --> logout -->  --> 
+2017-04-23 20:36:57 --> authentication --> login --> login -->  --> 
+2017-04-23 20:43:02 --> hearing_admin --> update --> incident_status_id --> 9 --> 10
+2017-04-23 20:43:07 --> authentication --> logout --> logout -->  --> 
+2017-04-23 21:00:52 --> authentication --> login --> login -->  --> 
+2017-04-23 21:01:24 --> authentication --> logout --> logout -->  --> 
+2017-04-23 21:09:13 --> authentication --> login --> login -->  --> 
+2017-04-23 21:10:01 --> disciplinary_admin --> update --> incident_status_id --> 10 --> 6
+2017-04-23 21:10:01 --> disciplinary_admin --> update --> status --> Open --> Close
+2017-04-23 21:10:39 --> authentication --> logout --> logout -->  --> 

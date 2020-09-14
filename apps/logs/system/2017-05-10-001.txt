@@ -1,0 +1,95 @@
+Admin, Teemworx (admin) --> 2017-05-10 09:44:55 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 09:45:06 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 10:07:30 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 10:07:43 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 10:08:32 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 10:08:32 --> incident_report --> insert --> offense_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 10:08:32 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 10:08:32 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-05-10 10:08:00
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 10:08:32 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 10:08:32 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 10:08:32 --> incident_report --> insert --> date_sent -->  --> 2017-05-10 10:08:32
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 10:08:56 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 10:09:12 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 10:17:19 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 10:17:39 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 10:58:13 --> hearing_manage --> update --> incident_status_id --> 9 --> 10
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:27:48 --> hearing_manage --> update --> hearing_partner --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:27:48 --> hearing_manage --> update --> hearing_complainants --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:27:48 --> hearing_manage --> update --> hearing_others --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:27:48 --> hearing_manage --> update --> incident_status_id --> 9 --> 10
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:28:24 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 11:28:45 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 11:29:30 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-05-10 11:29:41 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-05-10 11:33:23 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 11:33:41 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 11:37:41 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:37:52 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:39:24 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 11:39:38 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 11:44:51 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 11:44:51 --> incident_report --> insert --> offense_id -->  --> 1
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 11:44:51 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 11:44:51 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-05-10 11:44:00
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 11:44:51 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 11:44:51 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 11:44:51 --> incident_report --> insert --> date_sent -->  --> 2017-05-10 11:44:51
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 11:44:56 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:45:09 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:46:03 --> incident_manage --> update --> nte_complainants --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:46:03 --> incident_manage --> update --> nte_witnesses --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:46:03 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:46:14 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 11:46:28 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 11:48:50 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:49:01 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:51:27 --> hearing_manage --> update --> hearing_partner --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:51:27 --> hearing_manage --> update --> hearing_complainants --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:51:27 --> hearing_manage --> update --> hearing_witnesses --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:51:27 --> hearing_manage --> update --> incident_status_id --> 9 --> 10
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 11:56:02 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 11:56:45 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 12:25:27 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-05-10 12:25:40 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-05-10 12:26:40 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 12:26:52 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 12:33:09 --> disciplinary_manage --> update --> incident_status_id --> 10 --> 6
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 12:33:09 --> disciplinary_manage --> update --> status --> Open --> Close
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-10 12:33:26 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 12:33:40 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-10 12:39:42 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-10 12:39:50 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-10 12:47:32 --> profiles --> edit --> profile_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-10 12:47:32 --> profiles --> edit --> mod_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-05-10 12:47:32 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-10 12:47:32 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-10 12:47:32 --> profiles --> edit --> profile_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-10 12:47:32 --> profiles --> edit --> mod_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-05-10 12:47:32 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> profile_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> mod_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> profile_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> mod_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> profile_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> mod_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> action_id -->  --> 5
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> profile_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> mod_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> action_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> profile_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> mod_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-05-10 12:47:33 --> profiles --> edit --> action_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-10 12:47:34 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-10 12:47:34 --> profiles --> edit --> profile_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-10 12:47:34 --> profiles --> edit --> mod_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-05-10 12:47:34 --> profiles --> edit --> action_id -->  --> 8
+Admin, Teemworx (admin) --> 2017-05-10 12:47:34 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-10 12:47:34 --> profiles --> edit --> profile_id -->  --> 3

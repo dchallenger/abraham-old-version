@@ -1,0 +1,17 @@
+moya ariel - kalinisan - admin
+   overtime fo rest day excess not match 
+      march 4,5 and 12
+
+on sp_payroll_get_recurring - base on hrs_actuall should exclude tardiness and undertime. line 70
+
+
+
+all allowance base on earnings, if absent then allowance should deduct base on absent
+
+
+
+
+if logout provide proper message
+
+
+rubio efren,toledo dante no time records but with payroll on current transaction

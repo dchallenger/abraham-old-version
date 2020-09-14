@@ -1,0 +1,10 @@
+Admin, Teemworx (admin) --> 2017-12-09 06:07:56 --> authentication --> logout --> logout -->  --> 
+() --> 2017-12-09 06:07:57 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-12-09 06:08:07 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-09 13:31:11 --> overtime_rates_fixed_amount --> insert --> company_id -->  --> 11
+Admin, Teemworx (admin) --> 2017-12-09 13:31:11 --> overtime_rates_fixed_amount --> insert --> employment_type_id -->  --> 5
+Admin, Teemworx (admin) --> 2017-12-09 13:31:11 --> overtime_rates_fixed_amount --> insert --> overtime_location_id -->  --> 13
+Admin, Teemworx (admin) --> 2017-12-09 13:31:11 --> overtime_rates_fixed_amount --> insert --> overtime_id -->  --> 5
+Admin, Teemworx (admin) --> 2017-12-09 13:31:11 --> overtime_rates_fixed_amount --> insert --> overtime_amount -->  --> 140
+Admin, Teemworx (admin) --> 2017-12-09 13:31:11 --> overtime_rates_fixed_amount --> insert --> overtime_code -->  --> REGOT
+Admin, Teemworx (admin) --> 2017-12-09 13:31:12 --> overtime_rates_fixed_amount --> insert --> overtime -->  --> Regular Day OT > 8

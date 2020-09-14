@@ -1,0 +1,13 @@
+POLONAN, MARIA LEE (31002) --> 2019-06-17 11:28:59 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2019-06-17 11:31:43 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-06-17 11:31:58 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-06-17 11:33:13 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2019-06-17 11:33:31 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2019-06-17 12:34:55 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-06-17 12:35:00 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-06-17 12:35:07 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-06-17 12:36:01 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2019-06-17 12:36:06 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2019-06-17 12:36:59 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-06-17 12:37:05 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-06-17 12:37:57 --> authentication --> logout --> logout -->  --> 

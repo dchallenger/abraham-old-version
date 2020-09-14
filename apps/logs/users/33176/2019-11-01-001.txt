@@ -1,0 +1,133 @@
+2019-11-01 22:56:34 --> applicants --> insert --> lastname -->  --> Garcia
+2019-11-01 22:56:34 --> applicants --> insert --> firstname -->  --> Justin
+2019-11-01 22:56:34 --> applicants --> insert --> source_id -->  --> 1
+2019-11-01 22:56:34 --> applicants --> insert --> recruitment_date -->  --> 2019-11-02
+2019-11-01 22:56:34 --> applicants --> insert --> request_id -->  --> 22
+2019-11-01 22:56:34 --> applicants --> insert --> request_id -->  --> 22
+2019-11-01 22:56:34 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:56:34 --> applicants --> insert --> status_id -->  --> 1
+2019-11-01 22:56:34 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:56:34 --> applicants --> insert --> key_id -->  --> 164
+2019-11-01 22:56:34 --> applicants --> insert --> key -->  --> position_sought
+2019-11-01 22:56:34 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:56:34 --> applicants --> insert --> key_name -->  --> Position Sought
+2019-11-01 22:56:34 --> applicants --> insert --> key_value -->  --> ACCOUNT EXECUTIVE
+2019-11-01 22:56:34 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:56:34 --> applicants --> insert --> key_id -->  --> 165
+2019-11-01 22:56:34 --> applicants --> insert --> key -->  --> desired_salary
+2019-11-01 22:56:34 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:56:34 --> applicants --> insert --> key_name -->  --> Desired Salary
+2019-11-01 22:56:34 --> applicants --> insert --> key_value -->  --> 50000
+2019-11-01 22:56:35 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:56:35 --> applicants --> insert --> key_id -->  --> 170
+2019-11-01 22:56:35 --> applicants --> insert --> key -->  --> photo
+2019-11-01 22:56:35 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:56:35 --> applicants --> insert --> key_name -->  --> Photo
+2019-11-01 22:56:35 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:56:35 --> applicants --> insert --> key_id -->  --> 166
+2019-11-01 22:56:35 --> applicants --> insert --> key -->  --> salary_pay_mode
+2019-11-01 22:56:35 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:56:35 --> applicants --> insert --> key_name -->  --> Salary Payment Mode
+2019-11-01 22:56:35 --> applicants --> insert --> key_value -->  --> Monthly
+2019-11-01 22:56:35 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:56:35 --> applicants --> insert --> key_id -->  --> 167
+2019-11-01 22:56:35 --> applicants --> insert --> key -->  --> currently_employed
+2019-11-01 22:56:35 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:56:35 --> applicants --> insert --> key_name -->  --> Currently Employed
+2019-11-01 22:56:35 --> applicants --> insert --> key_value -->  --> 0
+2019-11-01 22:56:35 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:56:35 --> applicants --> insert --> key_id -->  --> 169
+2019-11-01 22:56:35 --> applicants --> insert --> key -->  --> resume
+2019-11-01 22:56:35 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:56:35 --> applicants --> insert --> key_name -->  --> Resume
+2019-11-01 22:57:03 --> applicants --> update --> email -->  --> tjkgarcia@yahoo.com
+2019-11-01 22:57:03 --> applicants --> delete --> recruitment_personal - recruit_id --> 13 --> 
+2019-11-01 22:57:03 --> applicants --> delete --> recruitment_personal - recruit_id --> 13 --> 
+2019-11-01 22:57:03 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:03 --> applicants --> insert --> key_id -->  --> 1
+2019-11-01 22:57:03 --> applicants --> insert --> key -->  --> address_1
+2019-11-01 22:57:03 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:03 --> applicants --> insert --> key_name -->  --> Street
+2019-11-01 22:57:03 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:03 --> applicants --> insert --> key_id -->  --> 3
+2019-11-01 22:57:03 --> applicants --> insert --> key -->  --> city_town
+2019-11-01 22:57:03 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:03 --> applicants --> insert --> key_name -->  --> City/Town
+2019-11-01 22:57:03 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:04 --> applicants --> insert --> key_id -->  --> 4
+2019-11-01 22:57:04 --> applicants --> insert --> key -->  --> country
+2019-11-01 22:57:04 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:04 --> applicants --> insert --> key_name -->  --> Country
+2019-11-01 22:57:04 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:04 --> applicants --> insert --> key_id -->  --> 15
+2019-11-01 22:57:04 --> applicants --> insert --> key -->  --> zip_code
+2019-11-01 22:57:04 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:04 --> applicants --> insert --> key_name -->  --> Zip Code
+2019-11-01 22:57:04 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:04 --> applicants --> insert --> key_id -->  --> 95
+2019-11-01 22:57:04 --> applicants --> insert --> key -->  --> province
+2019-11-01 22:57:04 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:04 --> applicants --> insert --> key_name -->  --> Province
+2019-11-01 22:57:04 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:04 --> applicants --> insert --> key_id -->  --> 16
+2019-11-01 22:57:04 --> applicants --> insert --> key -->  --> emergency_name
+2019-11-01 22:57:04 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:04 --> applicants --> insert --> key_name -->  --> Contact Name
+2019-11-01 22:57:04 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:04 --> applicants --> insert --> key_id -->  --> 17
+2019-11-01 22:57:04 --> applicants --> insert --> key -->  --> emergency_relationship
+2019-11-01 22:57:05 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:05 --> applicants --> insert --> key_name -->  --> Relationship
+2019-11-01 22:57:05 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:05 --> applicants --> insert --> key_id -->  --> 18
+2019-11-01 22:57:05 --> applicants --> insert --> key -->  --> emergency_phone
+2019-11-01 22:57:05 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:05 --> applicants --> insert --> key_name -->  --> Contact Phone
+2019-11-01 22:57:05 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:05 --> applicants --> insert --> key_id -->  --> 19
+2019-11-01 22:57:05 --> applicants --> insert --> key -->  --> emergency_mobile
+2019-11-01 22:57:05 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:05 --> applicants --> insert --> key_name -->  --> Contact Mobile
+2019-11-01 22:57:05 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:05 --> applicants --> insert --> key_id -->  --> 20
+2019-11-01 22:57:05 --> applicants --> insert --> key -->  --> emergency_address
+2019-11-01 22:57:05 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:05 --> applicants --> insert --> key_name -->  --> Contact Address
+2019-11-01 22:57:05 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:05 --> applicants --> insert --> key_id -->  --> 21
+2019-11-01 22:57:06 --> applicants --> insert --> key -->  --> emergency_city
+2019-11-01 22:57:06 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:06 --> applicants --> insert --> key_name -->  --> Contact City
+2019-11-01 22:57:06 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:06 --> applicants --> insert --> key_id -->  --> 92
+2019-11-01 22:57:06 --> applicants --> insert --> key -->  --> emergency_country
+2019-11-01 22:57:06 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:06 --> applicants --> insert --> key_name -->  --> Country
+2019-11-01 22:57:06 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:06 --> applicants --> insert --> key_id -->  --> 22
+2019-11-01 22:57:06 --> applicants --> insert --> key -->  --> emergency_zip_code
+2019-11-01 22:57:06 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:06 --> applicants --> insert --> key_name -->  --> Contact Zip Code
+2019-11-01 22:57:30 --> applicants --> update --> birth_date --> 0000-00-00 --> 1999-03-02
+2019-11-01 22:57:30 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:30 --> applicants --> insert --> key_id -->  --> 23
+2019-11-01 22:57:30 --> applicants --> insert --> key -->  --> gender
+2019-11-01 22:57:30 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:30 --> applicants --> insert --> key_name -->  --> Gender
+2019-11-01 22:57:30 --> applicants --> insert --> key_value -->  --> Male
+2019-11-01 22:57:30 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:30 --> applicants --> insert --> key_id -->  --> 24
+2019-11-01 22:57:30 --> applicants --> insert --> key -->  --> birth_place
+2019-11-01 22:57:30 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:30 --> applicants --> insert --> key_name -->  --> Birth Place
+2019-11-01 22:57:30 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:30 --> applicants --> insert --> key_id -->  --> 25
+2019-11-01 22:57:30 --> applicants --> insert --> key -->  --> religion
+2019-11-01 22:57:30 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:30 --> applicants --> insert --> key_name -->  --> Religion
+2019-11-01 22:57:30 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 22:57:30 --> applicants --> insert --> key_id -->  --> 26
+2019-11-01 22:57:30 --> applicants --> insert --> key -->  --> nationality
+2019-11-01 22:57:30 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 22:57:31 --> applicants --> insert --> key_name -->  --> Nationality
+2019-11-01 22:57:31 --> applicants --> insert --> recruit_id -->  --> 13

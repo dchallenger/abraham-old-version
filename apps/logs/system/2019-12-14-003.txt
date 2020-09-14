@@ -1,0 +1,24 @@
+ALICANTE, LISSA (30991) --> 2019-12-14 15:04:43 --> performance_appraisal --> insert --> planning_id -->  --> 28
+ALICANTE, LISSA (30991) --> 2019-12-14 15:04:43 --> performance_appraisal --> insert --> date_from -->  --> 2019-12-14
+ALICANTE, LISSA (30991) --> 2019-12-14 15:04:43 --> performance_appraisal --> insert --> date_to -->  --> 2019-12-30
+ALICANTE, LISSA (30991) --> 2019-12-14 15:04:43 --> performance_appraisal --> insert --> year -->  --> 2019
+ALICANTE, LISSA (30991) --> 2019-12-14 15:04:43 --> performance_appraisal --> insert --> performance_type_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-12-14 15:04:43 --> performance_appraisal --> insert --> template_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-12-14 15:04:43 --> performance_appraisal --> insert --> employment_status_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-12-14 15:04:43 --> performance_appraisal --> insert --> filter_by -->  --> 5
+ALICANTE, LISSA (30991) --> 2019-12-14 15:04:43 --> performance_appraisal --> insert --> notes -->  --> test
+ALICANTE, LISSA (30991) --> 2019-12-14 15:04:43 --> performance_appraisal --> insert --> status_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-12-14 15:05:32 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-12-14 15:06:12 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-12-14 15:06:49 --> authentication --> logout --> logout -->  --> 
+AMOSCO, SHAIRA (33268) --> 2019-12-14 15:07:02 --> authentication --> login --> login -->  --> 
+AMOSCO, SHAIRA (33268) --> 2019-12-14 15:14:28 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-12-14 15:14:41 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-12-14 15:15:02 --> authentication --> logout --> logout -->  --> 
+AMOSCO, SHAIRA (33268) --> 2019-12-14 15:19:26 --> authentication --> login --> login -->  --> 
+AMOSCO, SHAIRA (33268) --> 2019-12-14 15:19:49 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-12-14 15:20:01 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-12-14 15:49:48 --> authentication --> logout --> logout -->  --> 
+AMOSCO, SHAIRA (33268) --> 2019-12-14 15:50:02 --> authentication --> login --> login -->  --> 
+AMOSCO, SHAIRA (33268) --> 2019-12-14 15:52:26 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-12-14 15:52:37 --> authentication --> login --> login -->  --> 

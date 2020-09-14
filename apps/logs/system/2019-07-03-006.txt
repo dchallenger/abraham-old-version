@@ -1,0 +1,140 @@
+Admin, Teemworx (admin) --> 2019-07-03 13:44:30 --> profiles --> edit --> mod_id -->  --> 136
+Admin, Teemworx (admin) --> 2019-07-03 13:44:30 --> profiles --> edit --> action_id -->  --> 5
+Admin, Teemworx (admin) --> 2019-07-03 13:44:30 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-07-03 13:44:30 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2019-07-03 13:44:30 --> profiles --> edit --> mod_id -->  --> 80
+Admin, Teemworx (admin) --> 2019-07-03 13:44:30 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2019-07-03 13:44:30 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-07-03 13:44:30 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2019-07-03 13:44:30 --> profiles --> edit --> mod_id -->  --> 80
+Admin, Teemworx (admin) --> 2019-07-03 13:44:31 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2019-07-03 13:44:31 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-07-03 13:44:31 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2019-07-03 13:44:31 --> profiles --> edit --> mod_id -->  --> 77
+Admin, Teemworx (admin) --> 2019-07-03 13:44:31 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2019-07-03 13:44:31 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-07-03 13:44:31 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2019-07-03 13:44:31 --> profiles --> edit --> mod_id -->  --> 77
+Admin, Teemworx (admin) --> 2019-07-03 13:44:31 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2019-07-03 13:44:31 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-07-03 13:44:31 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2019-07-03 13:44:31 --> profiles --> edit --> mod_id -->  --> 27
+Admin, Teemworx (admin) --> 2019-07-03 13:44:31 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2019-07-03 13:44:32 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-07-03 13:44:32 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2019-07-03 13:44:32 --> profiles --> edit --> mod_id -->  --> 27
+Admin, Teemworx (admin) --> 2019-07-03 13:44:32 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2019-07-03 13:44:32 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-07-03 13:44:32 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2019-07-03 13:44:32 --> profiles --> edit --> mod_id -->  --> 27
+Admin, Teemworx (admin) --> 2019-07-03 13:44:32 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2019-07-03 13:44:32 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-07-03 13:44:32 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2019-07-03 13:44:32 --> profiles --> edit --> mod_id -->  --> 27
+Admin, Teemworx (admin) --> 2019-07-03 13:44:32 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2019-07-03 13:44:32 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-07-03 13:44:32 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2019-07-03 13:44:32 --> profiles --> edit --> mod_id -->  --> 27
+Admin, Teemworx (admin) --> 2019-07-03 13:44:32 --> profiles --> edit --> action_id -->  --> 5
+Admin, Teemworx (admin) --> 2019-07-03 13:44:33 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-07-03 13:44:40 --> authentication --> logout --> logout -->  --> 
+DONES, JASMIN (00961) --> 2019-07-03 13:44:48 --> authentication --> login --> login -->  --> 
+DONES, JASMIN (00961) --> 2019-07-03 13:48:03 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-07-03 13:48:10 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-07-03 13:48:57 --> authentication --> logout --> logout -->  --> 
+DONES, JASMIN (00961) --> 2019-07-03 13:49:06 --> authentication --> login --> login -->  --> 
+DONES, JASMIN (00961) --> 2019-07-03 14:11:14 --> mrf --> insert --> to -->  --> joselito_f@abrahamholdings.ph
+DONES, JASMIN (00961) --> 2019-07-03 14:11:14 --> mrf --> insert --> subject -->  --> PRF for approval
+DONES, JASMIN (00961) --> 2019-07-03 14:11:14 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear FELIPE, JOSELITO ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by DONES, JASMIN  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+DONES, JASMIN (00961) --> 2019-07-03 14:12:00 --> authentication --> logout --> logout -->  --> 
+FELIPE, JOSELITO (33629) --> 2019-07-03 14:12:05 --> authentication --> login --> login -->  --> 
+FELIPE, JOSELITO (33629) --> 2019-07-03 14:12:56 --> mrf_manage --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+FELIPE, JOSELITO (33629) --> 2019-07-03 14:12:56 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+FELIPE, JOSELITO (33629) --> 2019-07-03 14:12:56 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by DONES, JASMIN .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+FELIPE, JOSELITO (33629) --> 2019-07-03 14:12:57 --> mrf_manage --> insert --> to -->  --> weng_e@legendhotels.com.ph
+FELIPE, JOSELITO (33629) --> 2019-07-03 14:12:57 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+FELIPE, JOSELITO (33629) --> 2019-07-03 14:12:57 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ELISCUPIDES, ROWENA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by DONES, JASMIN .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+FELIPE, JOSELITO (33629) --> 2019-07-03 14:12:57 --> mrf_manage --> insert --> to -->  --> lissa_a@abrahamholdings.ph
+FELIPE, JOSELITO (33629) --> 2019-07-03 14:12:57 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+FELIPE, JOSELITO (33629) --> 2019-07-03 14:12:57 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ALICANTE, LISSA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by DONES, JASMIN .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+FELIPE, JOSELITO (33629) --> 2019-07-03 14:12:57 --> mrf_manage --> insert --> to -->  --> lee_p@aecsi.com.ph

@@ -1,0 +1,153 @@
+2019-10-20 16:12:19 --> applicant_monitoring --> insert --> process_id -->  --> 9
+2019-10-20 16:12:19 --> applicant_monitoring --> insert --> checklist_id -->  --> 24
+2019-10-20 16:12:20 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2019-10-20 16:12:20 --> applicant_monitoring --> insert --> process_id -->  --> 9
+2019-10-20 16:12:20 --> applicant_monitoring --> insert --> checklist_id -->  --> 25
+2019-10-20 16:12:20 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2019-10-20 16:12:20 --> applicant_monitoring --> insert --> process_id -->  --> 9
+2019-10-20 16:12:20 --> applicant_monitoring --> insert --> checklist_id -->  --> 26
+2019-10-20 16:12:20 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2019-10-20 16:12:20 --> applicant_monitoring --> insert --> process_id -->  --> 9
+2019-10-20 16:12:20 --> applicant_monitoring --> insert --> checklist_id -->  --> 27
+2019-10-20 16:12:20 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2019-10-20 16:12:20 --> applicant_monitoring --> insert --> process_id -->  --> 9
+2019-10-20 16:12:20 --> applicant_monitoring --> insert --> checklist_id -->  --> 28
+2019-10-20 16:12:20 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2019-10-20 16:12:20 --> applicant_monitoring --> insert --> process_id -->  --> 9
+2019-10-20 16:12:20 --> applicant_monitoring --> insert --> checklist_id -->  --> 29
+2019-10-20 16:12:20 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2019-10-20 16:12:42 --> applicant_monitoring --> insert --> login -->  --> 33782
+2019-10-20 16:12:42 --> applicant_monitoring --> insert --> email -->  --> mylene_j@livingangels.edu.ph
+2019-10-20 16:12:42 --> applicant_monitoring --> insert --> role_id -->  --> 12
+2019-10-20 16:12:42 --> applicant_monitoring --> insert --> full_name -->  --> JOSE, MYLENE
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> display_name -->  --> JOSE, MYLENE
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> calendar_id -->  --> 18
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> salary -->  --> $W~H¨~˜áŽíÇ·
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> user_id -->  --> 1332
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> id_number -->  --> 33782
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> effectivity_date -->  --> 0000-00-00
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> alias -->  --> JOSE, MYLENE
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> company_id -->  --> 1
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> department_id -->  --> 9
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> location_id -->  --> 14
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> user_id -->  --> 1332
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> partner_id -->  --> 1331
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> lastname -->  --> JOSE
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> firstname -->  --> MYLENE
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> middlename -->  --> L.
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> nickname -->  --> MYLENE
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> position_id -->  --> 1
+2019-10-20 16:12:43 --> applicant_monitoring --> insert --> title -->  --> Miss
+2019-10-20 16:12:44 --> applicant_monitoring --> insert --> birth_date -->  --> 1995-01-15
+2019-10-20 16:12:44 --> applicant_monitoring --> update --> status_id --> 8 --> 7
+2019-10-20 16:12:44 --> applicant_monitoring --> update --> hired --> 0 --> 1
+2019-10-20 16:12:44 --> applicant_monitoring --> update --> partner_id --> 351 --> 1331
+2019-10-20 17:13:30 --> applicant_monitoring --> insert --> process_id -->  --> 10
+2019-10-20 17:13:30 --> applicant_monitoring --> insert --> date -->  --> 2019-10-21 16:13:00
+2019-10-20 17:13:30 --> applicant_monitoring --> insert --> user_id -->  --> 39
+2019-10-20 17:13:30 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2019-10-20 17:13:30 --> applicant_monitoring --> insert --> schedule_id -->  --> 18
+2019-10-20 17:13:30 --> applicant_monitoring --> insert --> to -->  --> lee_p@aecsi.com.ph
+2019-10-20 17:13:30 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2019-10-20 17:13:30 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi MARIA LEE POLONAN,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of ROLLIE OTOME, for the position of ACCOUNT EXECUTIVE. Below are the details and schedule:</p>
+<p>
+	Applicant Name: ROLLIE OTOME
+	<br>
+	Position: ACCOUNT EXECUTIVE
+	<br>
+	Date: October 21, 2019
+	<br>
+	Time: 04:13 pm
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2019-10-20 17:13:31 --> applicant_monitoring --> insert --> to -->  --> rollie_o@kingscourt.com.ph
+2019-10-20 17:13:31 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2019-10-20 17:13:31 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear ROLLIE OTOME,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNT EXECUTIVE position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: October 21, 2019
+	<br>
+	Time: 04:13 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for MARIA LEE POLONAN</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2019-10-20 17:13:31 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2019-10-20 17:13:31 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2019-10-20 17:13:53 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2019-10-20 17:13:53 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2019-10-20 17:13:53 --> applicant_monitoring --> update --> process_id --> 0 --> 10
+2019-10-20 17:13:53 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2019-10-20 17:13:53 --> applicant_monitoring --> update --> result -->  --> Consider
+2019-10-20 17:13:53 --> applicant_monitoring --> insert --> interview_id -->  --> 18
+2019-10-20 17:13:53 --> applicant_monitoring --> insert --> key_id -->  --> 31
+2019-10-20 17:13:53 --> applicant_monitoring --> insert --> key -->  --> remarks
+2019-10-20 17:13:53 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 17:13:53 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+2019-10-20 17:13:53 --> applicant_monitoring --> insert --> interview_id -->  --> 18
+2019-10-20 17:13:54 --> applicant_monitoring --> insert --> key_id -->  --> 66
+2019-10-20 17:13:54 --> applicant_monitoring --> insert --> key -->  --> interviewer
+2019-10-20 17:13:54 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 17:13:54 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+2019-10-20 17:13:54 --> applicant_monitoring --> insert --> key_value -->  --> POLONAN, MARIA LEE
+2019-10-20 17:13:54 --> applicant_monitoring --> insert --> interview_id -->  --> 18
+2019-10-20 17:13:54 --> applicant_monitoring --> insert --> key_id -->  --> 64
+2019-10-20 17:13:54 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+2019-10-20 17:13:54 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 17:13:54 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+2019-10-20 17:13:54 --> applicant_monitoring --> insert --> key_value -->  --> October 20, 2019
+2019-10-20 17:13:54 --> applicant_monitoring --> insert --> interview_id -->  --> 18
+2019-10-20 17:13:54 --> applicant_monitoring --> insert --> key_id -->  --> 32
+2019-10-20 17:13:54 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+2019-10-20 17:13:54 --> applicant_monitoring --> insert --> sequence -->  --> 1

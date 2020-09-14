@@ -1,0 +1,5 @@
+2017-04-08 21:05:49 --> authentication --> login --> login -->  --> 
+2017-04-08 13:47:27 --> report_generator --> insert --> report_code -->  --> Time Record Schedule History
+2017-04-08 13:47:27 --> report_generator --> insert --> report_name -->  --> Time Record Schedule History Report
+2017-04-08 13:47:27 --> report_generator --> insert --> category_id -->  --> 1
+2017-04-08 13:47:27 --> report_generator --> insert --> roles -->  --> 1,2,3,23

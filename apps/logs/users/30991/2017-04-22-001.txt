@@ -1,0 +1,39 @@
+2017-04-22 09:13:28 --> authentication --> login --> login -->  --> 
+2017-04-22 09:13:49 --> authentication --> logout --> logout -->  --> 
+2017-04-22 16:46:41 --> authentication --> login --> login -->  --> 
+2017-04-22 16:59:10 --> incident_admin --> update --> hr_remarks -->  --> test
+2017-04-22 16:59:10 --> incident_admin --> update --> nte_immediate --> 0 --> 1
+2017-04-22 16:59:10 --> incident_admin --> update --> nte_complainants --> 0 --> 1
+2017-04-22 16:59:10 --> incident_admin --> update --> nte_witnesses --> 0 --> 1
+2017-04-22 16:59:10 --> incident_admin --> update --> incident_status_id --> 4 --> 9
+2017-04-22 17:00:14 --> authentication --> logout --> logout -->  --> 
+2017-04-22 17:15:26 --> authentication --> login --> login -->  --> 
+2017-04-22 17:15:59 --> incident_admin --> update --> incident_status_id --> 4 --> 9
+2017-04-22 17:16:42 --> authentication --> logout --> logout -->  --> 
+2017-04-22 17:29:23 --> authentication --> login --> login -->  --> 
+2017-04-22 17:30:39 --> authentication --> logout --> logout -->  --> 
+2017-04-22 17:31:41 --> authentication --> login --> login -->  --> 
+2017-04-22 17:32:38 --> incident_admin --> update --> hr_remarks -->  --> from hr for nte
+2017-04-22 17:32:38 --> incident_admin --> update --> nte_immediate --> 0 --> 1
+2017-04-22 17:32:38 --> incident_admin --> update --> nte_complainants --> 0 --> 1
+2017-04-22 17:32:38 --> incident_admin --> update --> nte_witnesses --> 0 --> 1
+2017-04-22 17:32:38 --> incident_admin --> update --> nte_others --> 0 --> 1
+2017-04-22 17:32:38 --> incident_admin --> update --> incident_status_id --> 4 --> 9
+2017-04-22 17:32:43 --> authentication --> logout --> logout -->  --> 
+2017-04-22 17:36:09 --> authentication --> login --> login -->  --> 
+2017-04-22 17:36:57 --> authentication --> logout --> logout -->  --> 
+2017-04-22 17:41:48 --> authentication --> login --> login -->  --> 
+2017-04-22 17:45:07 --> incident_admin --> update --> incident_status_id --> 4 --> 9
+2017-04-22 17:46:05 --> authentication --> logout --> logout -->  --> 
+2017-04-22 17:56:38 --> authentication --> login --> login -->  --> 
+2017-04-22 18:41:32 --> hearing_admin --> update --> incident_status_id --> 9 --> 10
+2017-04-22 19:09:13 --> authentication --> logout --> logout -->  --> 
+2017-04-22 19:21:52 --> authentication --> login --> login -->  --> 
+2017-04-22 19:22:25 --> authentication --> logout --> logout -->  --> 
+2017-04-22 19:31:17 --> authentication --> login --> login -->  --> 
+2017-04-22 19:39:34 --> authentication --> logout --> logout -->  --> 
+2017-04-22 20:49:45 --> authentication --> login --> login -->  --> 
+2017-04-22 21:22:22 --> disciplinary_admin --> update --> incident_status_id --> 10 --> 6
+2017-04-22 21:22:22 --> disciplinary_admin --> update --> status --> Open --> Close
+2017-04-22 21:26:28 --> disciplinary_admin --> update --> incident_status_id --> 10 --> 6
+2017-04-22 21:26:28 --> disciplinary_admin --> update --> status --> Open --> Close

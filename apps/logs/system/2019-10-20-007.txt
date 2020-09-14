@@ -1,0 +1,90 @@
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:53 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:53 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:53 --> applicants --> insert --> key_id -->  --> 34
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:53 --> applicants --> insert --> key -->  --> education-school
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:53 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:53 --> applicants --> insert --> key_name -->  --> School
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> key_value -->  --> AMA
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> key_id -->  --> 35
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> key -->  --> education-year-from
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> key_name -->  --> Year From
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> key_value -->  --> 2016
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> key_id -->  --> 36
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> key -->  --> education-year-to
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> key_name -->  --> Year To
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> key_value -->  --> 2020
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> key_id -->  --> 37
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> key -->  --> education-degree
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> key_name -->  --> Degree
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:54 --> applicants --> insert --> key_id -->  --> 38
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:55 --> applicants --> insert --> key -->  --> education-status
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:55 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:55 --> applicants --> insert --> key_name -->  --> Status
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:55 --> applicants --> insert --> key_value -->  --> Graduated
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:55 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:55 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:55 --> applicants --> insert --> key_id -->  --> 180
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:55 --> applicants --> insert --> key -->  --> education-lastsem-attended
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:55 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:55 --> applicants --> insert --> key_name -->  --> Last SY and Sem
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:55 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:55 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:55 --> applicants --> insert --> key_id -->  --> 131
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:55 --> applicants --> insert --> key -->  --> education-honors_awards
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:55 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:55 --> applicants --> insert --> key_name -->  --> Honors/Awards
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:15 --> applicant_monitoring --> insert --> recruitment_date -->  --> 2019-10-20
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:15 --> applicant_monitoring --> insert --> title -->  --> Miss
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:15 --> applicant_monitoring --> insert --> lastname -->  --> JOSE
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:15 --> applicant_monitoring --> insert --> firstname -->  --> MYLENE
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:15 --> applicant_monitoring --> insert --> middlename -->  --> L.
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:15 --> applicant_monitoring --> insert --> nickname -->  --> MYLENE
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> email -->  --> mylene_j@livingangels.edu.ph
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> birth_date -->  --> 1995-01-15
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> request_id -->  --> 22
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> partner_id -->  --> 351
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_id -->  --> 164
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key -->  --> position_sought
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_name -->  --> Position Sought
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_value -->  --> ACCOUNT EXECUTIVE
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_id -->  --> 167
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key -->  --> currently_employed
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_name -->  --> Currently Employed
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_value -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key -->  --> address_1
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_name -->  --> Street
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> key_value -->  --> 402 TILAPAYONG BALIWAG BULACAN
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:16 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_id -->  --> 24
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key -->  --> birth_place
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:17 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_name -->  --> Birth Place
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:17 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_id -->  --> 3
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key -->  --> city_town
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:17 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_name -->  --> City/Town
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:17 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_id -->  --> 8
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key -->  --> civil_status
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:17 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_name -->  --> Civil Status
+ALICANTE, LISSA (30991) --> 2019-10-20 13:38:17 --> applicant_monitoring --> insert --> key_value -->  --> Single

@@ -1,0 +1,17 @@
+need to update on report generator
+
+tardiness report
+	remove undertime and month
+	sort column base on sample report
+
+perfect attendance
+	remove month id,company id and department id
+	Rename alias of employee ID to Employee Number
+
+active employee summary report
+	remove company id and department id and position id
+
+payslip
+	rename report code payslip riofil to payslip abraham
+
+additional status on views payroll_payslip_riofil

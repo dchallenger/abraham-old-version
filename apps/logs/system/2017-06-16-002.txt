@@ -1,0 +1,79 @@
+Admin, Teemworx (admin) --> 2017-06-16 13:18:21 --> profiles --> edit --> mod_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-06-16 13:18:21 --> profiles --> edit --> action_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-06-16 13:18:21 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> profile_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> mod_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> action_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> profile_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> mod_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> action_id -->  --> 8
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> profile_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> mod_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> action_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> profile_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> mod_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> action_id -->  --> 10
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> profile_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> mod_id -->  --> 126
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-06-16 13:18:22 --> profiles --> edit --> profile_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> mod_id -->  --> 126
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> profile_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> mod_id -->  --> 126
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> profile_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> mod_id -->  --> 126
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> profile_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> mod_id -->  --> 126
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> action_id -->  --> 5
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> profile_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> mod_id -->  --> 126
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> action_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-06-16 13:18:23 --> profiles --> edit --> profile_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-06-16 13:18:24 --> profiles --> edit --> mod_id -->  --> 126
+Admin, Teemworx (admin) --> 2017-06-16 13:18:24 --> profiles --> edit --> action_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-06-16 13:18:24 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-06-16 13:18:24 --> profiles --> edit --> profile_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-06-16 13:18:24 --> profiles --> edit --> mod_id -->  --> 126
+Admin, Teemworx (admin) --> 2017-06-16 13:18:24 --> profiles --> edit --> action_id -->  --> 8
+Admin, Teemworx (admin) --> 2017-06-16 13:18:24 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-06-16 13:18:24 --> profiles --> edit --> profile_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-06-16 13:18:24 --> profiles --> edit --> mod_id -->  --> 126
+Admin, Teemworx (admin) --> 2017-06-16 13:18:24 --> profiles --> edit --> action_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-06-16 13:18:24 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-06-16 13:18:24 --> profiles --> edit --> profile_id -->  --> 22
+Admin, Teemworx (admin) --> 2017-06-16 13:18:24 --> profiles --> edit --> mod_id -->  --> 126
+Admin, Teemworx (admin) --> 2017-06-16 13:18:24 --> profiles --> edit --> action_id -->  --> 10
+Admin, Teemworx (admin) --> 2017-06-16 13:18:24 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-06-16 13:20:27 --> roles --> update --> profile_id --> 2,5,6,12,14 --> 2,5,6,12,14,22
+Admin, Teemworx (admin) --> 2017-06-16 13:41:16 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-06-16 13:42:25 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-06-16 13:49:22 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-06-16 13:49:35 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-06-16 14:02:12 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-06-16 14:02:27 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-06-16 14:18:53 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-06-16 14:19:12 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-06-16 14:29:46 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-16 14:30:07 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-16 14:34:57 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-06-16 14:35:08 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-06-16 14:38:32 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-06-16 14:38:55 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-06-16 14:39:08 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-06-16 14:39:23 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-06-16 14:43:47 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-16 14:44:05 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-06-16 05:34:26 --> authentication --> login --> login -->  --> 

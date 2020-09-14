@@ -1,0 +1,2 @@
+2017-06-18 11:06:50 --> recurring_transaction --> update --> date_to --> 2019-03-31 --> 2019-08-31
+2017-06-18 13:27:26 --> authentication --> logout --> logout -->  --> 

@@ -1,0 +1,44 @@
+Admin, Teemworx (admin) --> 2018-04-18 14:10:37 --> profiles --> edit --> mod_id -->  --> 80
+Admin, Teemworx (admin) --> 2018-04-18 14:10:37 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-18 14:10:37 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-18 14:10:37 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2018-04-18 14:10:37 --> profiles --> edit --> mod_id -->  --> 80
+Admin, Teemworx (admin) --> 2018-04-18 14:10:37 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-18 14:10:37 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-18 14:10:37 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2018-04-18 14:10:38 --> profiles --> edit --> mod_id -->  --> 77
+Admin, Teemworx (admin) --> 2018-04-18 14:10:38 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-18 14:10:38 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-18 14:10:38 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2018-04-18 14:10:38 --> profiles --> edit --> mod_id -->  --> 77
+Admin, Teemworx (admin) --> 2018-04-18 14:10:38 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-18 14:10:38 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-18 14:10:38 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2018-04-18 14:10:38 --> profiles --> edit --> mod_id -->  --> 27
+Admin, Teemworx (admin) --> 2018-04-18 14:10:38 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-18 14:10:38 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-18 14:10:39 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2018-04-18 14:10:39 --> profiles --> edit --> mod_id -->  --> 27
+Admin, Teemworx (admin) --> 2018-04-18 14:10:39 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-18 14:10:39 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-18 14:10:39 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2018-04-18 14:10:39 --> profiles --> edit --> mod_id -->  --> 27
+Admin, Teemworx (admin) --> 2018-04-18 14:10:39 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-04-18 14:10:39 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-18 14:10:39 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2018-04-18 14:10:39 --> profiles --> edit --> mod_id -->  --> 27
+Admin, Teemworx (admin) --> 2018-04-18 14:10:39 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-04-18 14:10:39 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-18 14:10:40 --> profiles --> edit --> profile_id -->  --> 12
+Admin, Teemworx (admin) --> 2018-04-18 14:10:40 --> profiles --> edit --> mod_id -->  --> 27
+Admin, Teemworx (admin) --> 2018-04-18 14:10:40 --> profiles --> edit --> action_id -->  --> 5
+Admin, Teemworx (admin) --> 2018-04-18 14:10:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-18 14:10:55 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2018-04-18 14:11:05 --> authentication --> login --> login -->  --> 
+() --> 2018-04-18 14:11:20 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2018-04-18 14:54:51 --> authentication --> logout --> logout -->  --> 
+() --> 2018-04-18 14:54:55 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-18 14:55:03 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-18 14:57:14 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2018-04-18 14:57:25 --> authentication --> login --> login -->  --> 
+() --> 2018-04-18 14:57:42 --> authentication --> logout --> logout -->  --> 

@@ -1,0 +1,19 @@
+() --> 2017-10-31 09:45:27 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-31 09:45:39 --> authentication --> login --> login -->  --> 
+() --> 2017-10-31 09:45:44 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-31 09:46:08 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-10-31 09:46:47 --> authentication --> login --> login -->  --> 
+() --> 2017-10-31 09:47:05 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-10-31 10:03:35 --> authentication --> logout --> logout -->  --> 
+() --> 2017-10-31 10:03:38 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-31 10:03:51 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-31 10:05:30 --> authentication --> logout --> logout -->  --> 
+() --> 2017-10-31 10:05:32 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-31 10:05:48 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-31 10:06:46 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-10-31 10:06:59 --> authentication --> login --> login -->  --> 
+() --> 2017-10-31 10:07:03 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-10-31 10:27:45 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-31 10:28:02 --> authentication --> login --> login -->  --> 
+() --> 2017-10-31 10:28:46 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-10-31 12:28:51 --> authentication --> login --> login -->  --> 

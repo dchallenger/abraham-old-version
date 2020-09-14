@@ -1,0 +1,16 @@
+Admin, Teemworx (admin) --> 2019-01-28 09:07:57 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-01-28 09:09:59 --> authentication --> logout --> logout -->  --> 
+() --> 2019-01-28 09:10:02 --> authentication --> logout --> logout -->  --> 
+JAEN, MARIA BERNADETTE (33430) --> 2019-01-28 09:11:36 --> authentication --> login --> login -->  --> 
+JAEN, MARIA BERNADETTE (33430) --> 2019-01-28 09:14:04 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2019-01-28 09:14:18 --> authentication --> login --> login -->  --> 
+() --> 2019-01-28 09:14:34 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2019-01-28 14:55:08 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-01-28 14:55:32 --> authentication --> login --> login -->  --> 
+() --> 2019-01-28 14:55:57 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-01-28 14:56:16 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2019-01-28 14:56:30 --> authentication --> login --> login -->  --> 
+() --> 2019-01-28 14:56:48 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2019-01-28 16:42:47 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-01-28 16:42:54 --> authentication --> login --> login -->  --> 
+() --> 2019-01-28 16:43:34 --> authentication --> logout --> logout -->  --> 

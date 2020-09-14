@@ -1,0 +1,23 @@
+Admin, Teemworx (admin) --> 2017-09-21 13:18:23 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-09-21 13:19:31 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-09-21 16:50:35 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-09-21 17:05:21 --> applicant_monitoring --> update --> request_id --> 0 --> 1
+Admin, Teemworx (admin) --> 2017-09-21 17:05:21 --> applicant_monitoring --> update --> status_id --> 11 --> 1
+Admin, Teemworx (admin) --> 2017-09-21 17:05:21 --> applicant_monitoring --> insert --> recruit_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-09-21 17:05:21 --> applicant_monitoring --> insert --> key_id -->  --> 196
+Admin, Teemworx (admin) --> 2017-09-21 17:05:21 --> applicant_monitoring --> insert --> key -->  --> sourcing_free_sites
+Admin, Teemworx (admin) --> 2017-09-21 17:05:21 --> applicant_monitoring --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-09-21 17:05:21 --> applicant_monitoring --> insert --> key_name -->  --> Recruitment Sourcing Free Sites
+Admin, Teemworx (admin) --> 2017-09-21 17:05:21 --> applicant_monitoring --> insert --> request_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-09-21 17:05:21 --> applicant_monitoring --> insert --> recruit_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-09-21 17:05:22 --> applicant_monitoring --> insert --> status_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-09-21 17:46:57 --> applicant_monitoring --> insert --> process_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-09-21 17:46:57 --> applicant_monitoring --> insert --> date -->  --> 2017-09-22 17:00:00
+Admin, Teemworx (admin) --> 2017-09-21 17:46:57 --> applicant_monitoring --> insert --> user_id -->  --> 39
+Admin, Teemworx (admin) --> 2017-09-21 17:46:57 --> applicant_monitoring --> insert --> location_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-09-21 17:46:57 --> applicant_monitoring --> insert --> schedule_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-09-21 17:46:57 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+Admin, Teemworx (admin) --> 2017-09-21 17:46:57 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+Admin, Teemworx (admin) --> 2017-09-21 18:37:33 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-09-21 18:38:02 --> authentication --> login --> login -->  --> 
+() --> 2017-09-21 18:38:03 --> authentication --> logout --> logout -->  --> 

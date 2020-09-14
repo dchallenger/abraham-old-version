@@ -1,0 +1,6 @@
+2017-05-31 15:29:59 --> authentication --> login --> login -->  --> 
+2017-05-31 15:32:07 --> applicant_monitoring --> update --> process_id --> 0 --> 1
+2017-05-31 15:32:07 --> applicant_monitoring --> update --> result_id --> 0 --> 1
+2017-05-31 15:32:07 --> applicant_monitoring --> update --> result -->  --> Passed
+2017-05-31 15:32:08 --> applicant_monitoring --> update --> key_value --> Qualified --> Passed
+2017-05-31 15:32:22 --> authentication --> logout --> logout -->  --> 

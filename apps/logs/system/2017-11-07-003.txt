@@ -1,0 +1,90 @@
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:28:52 --> applicant_monitoring --> insert --> reports_to -->  --> 121
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:28:52 --> applicant_monitoring --> insert --> employment_status_id -->  --> 3
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:28:52 --> applicant_monitoring --> insert --> start_date -->  --> 0000-00-00
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:28:52 --> applicant_monitoring --> insert --> end_date -->  --> 0000-00-00
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:28:52 --> applicant_monitoring --> insert --> accept_offer -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:28:52 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:28:52 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 1 --> 
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:28:52 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:28:53 --> applicant_monitoring --> insert --> benefit_id -->  --> 251
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:28:53 --> applicant_monitoring --> insert --> amount -->  --> 6000
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:28:53 --> applicant_monitoring --> insert --> rate_id -->  --> 5
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:29:04 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:29:04 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:34:03 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:35:22 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:40:31 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:30 --> applicant_monitoring --> update --> status_id --> 7 --> 8
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:30 --> applicant_monitoring --> update --> status_id --> 7 --> 8
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:30 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:30 --> applicant_monitoring --> insert --> checklist_id -->  --> 4
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:30 --> applicant_monitoring --> insert --> submitted -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:30 --> applicant_monitoring --> insert --> date_submitted -->  --> 2017-11-14
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:30 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:30 --> applicant_monitoring --> insert --> checklist_id -->  --> 5
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:30 --> applicant_monitoring --> insert --> submitted -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:30 --> applicant_monitoring --> insert --> date_submitted -->  --> 2017-11-25
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:30 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:30 --> applicant_monitoring --> insert --> checklist_id -->  --> 6
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:30 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:30 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> checklist_id -->  --> 7
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> submitted -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> date_submitted -->  --> 2017-11-29
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> checklist_id -->  --> 8
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> checklist_id -->  --> 9
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> submitted -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> date_submitted -->  --> 2017-11-30
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> checklist_id -->  --> 10
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> checklist_id -->  --> 11
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> checklist_id -->  --> 12
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> checklist_id -->  --> 13
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> checklist_id -->  --> 14
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:31 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> checklist_id -->  --> 15
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> checklist_id -->  --> 16
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> checklist_id -->  --> 17
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> checklist_id -->  --> 18
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> checklist_id -->  --> 19
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> checklist_id -->  --> 20
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:32 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> checklist_id -->  --> 21
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> checklist_id -->  --> 22
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> checklist_id -->  --> 23
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> checklist_id -->  --> 24
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> checklist_id -->  --> 25
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> checklist_id -->  --> 26

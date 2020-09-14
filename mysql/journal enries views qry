@@ -1,0 +1,30 @@
+SELECT `pct`.`payroll_date` AS `payroll_date`,
+`pp`.`date_from` AS `date_from`,
+`pp`.`date_to` AS `date_to`,
+`uc`.`company` AS `company`,
+`uc`.`address` AS `address`,
+`pct`.`branch_id` AS `branch_id`,
+IF((IFNULL(`pas`.`category_value`,'') = ''),`ub`.`branch_code`,`pas`.`category_value`) AS `branch`,
+IF((IFNULL(`pas`.`account_code`,'') = ''),CONVERT(`pa`.`account_code` USING utf8),`pas`.`account_code`) AS `account`,
+IF((IFNULL(`pas`.`account_code`,'') = ''),CONVERT(`pa`.`account_name` USING utf8),`pas`.`account_sub`) AS `description`,
+IF((IFNULL(`pas`.`account_code`,'') = ''),IF((`pa`.`department_breakdown` = 0),'000-000-000',`ud`.`department_code`),`pas`.`account_sub_code`) AS `sub_account`,
+'' AS `project`,
+'' AS `project_task`,
+'' AS `ref_number`,
+1 AS `quantity`,
+'' AS `uom`,
+SUM(IF((IF((`pa`.`department_breakdown` = 0),1,((`pct`.`department_id` = `ud`.`department_id`) AND (`pa`.`department_breakdown` = `ud`.`category_id`))) AND FIND_IN_SET(`pa`.`account_id`,`pt`.`debit_account`)),(IF(((`pt`.`transaction_type_id` = 5) AND (`ptc`.`government_mandated` = 0)),-(1),1) * AES_DECRYPT(`pct`.`amount`,`encryption_key`())),0)) AS `debit_amount`,
+SUM(IF((IF((`pa`.`department_breakdown` = 0),1,((`pct`.`department_id` = `ud`.`department_id`) AND (`ud`.`category_id` = `pa`.`department_breakdown`))) AND FIND_IN_SET(`pa`.`account_id`,`pt`.`credit_account`)),AES_DECRYPT(`pct`.`amount`,`encryption_key`()),0)) AS `credit_amount`,
+`pp`.`remarks` AS `transaction_description`,
+'FALSE' AS `non_billable` 
+FROM ((((((((((`ww_payroll_closed_transaction` `pct` JOIN `ww_payroll_account` `pa`) 
+	LEFT JOIN `ww_payroll_period` `pp` ON((`pp`.`payroll_period_id` = `pct`.`period_id`))) 
+	LEFT JOIN `ww_users_company` `uc` ON((`uc`.`company_id` = `pct`.`company_id`))) 
+	LEFT JOIN `ww_users_branch` `ub` ON((`ub`.`branch_id` = `pct`.`branch_id`))) 
+	LEFT JOIN `ww_users_department` `ud` ON((`ud`.`department_id` = `pct`.`department_id`))) 
+	LEFT JOIN `ww_payroll_transaction` `pt` ON((`pt`.`transaction_id` = `pct`.`transaction_id`))) 
+	LEFT JOIN `ww_payroll_transaction_class` `ptc` ON((`ptc`.`transaction_class_id` = `pt`.`transaction_class_id`))) 
+	LEFT JOIN `ww_payroll_account_type` `pat` ON((`pat`.`account_type_id` = `pa`.`account_type_id`))) LEFT JOIN `ww_users` `u` ON((`pct`.`employee_id` = `u`.`user_id`))) 
+	LEFT JOIN `ww_payroll_account_sub` `pas` ON(((`pas`.`deleted` = 0) AND (`pas`.`account_id` = `pa`.`account_id`) AND (`pas`.`category_val_id` = `ub`.`branch_id`) AND IF((`pas`.`sub_category_id` = 0),1,(`pas`.`sub_category_id` = `ud`.`department_id`))))) 
+	WHERE (`pa`.`deleted` = 0) 
+	GROUP BY `pct`.`payroll_date`,`pct`.`branch_id`,`pa`.`account_code`,IF((`pa`.`department_breakdown` = 0),1,`ud`.`department_id`) HAVING (((`debit_amount` = 0) AND (`credit_amount` = 0)) = 0) ORDER BY `pct`.`payroll_date`,`pct`.`branch_id`,`pa`.`account_code`,`ud`.`department_code`$$

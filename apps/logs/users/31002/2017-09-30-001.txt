@@ -1,0 +1,19 @@
+2017-09-30 10:51:35 --> authentication --> login --> login -->  --> 
+2017-09-30 11:57:59 --> applicant_monitoring --> update --> request_id --> 0 --> 1
+2017-09-30 11:57:59 --> applicant_monitoring --> update --> status_id --> 11 --> 1
+2017-09-30 11:57:59 --> applicant_monitoring --> insert --> recruit_id -->  --> 1
+2017-09-30 11:57:59 --> applicant_monitoring --> insert --> key_id -->  --> 196
+2017-09-30 11:57:59 --> applicant_monitoring --> insert --> key -->  --> sourcing_free_sites
+2017-09-30 11:57:59 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-09-30 11:57:59 --> applicant_monitoring --> insert --> key_name -->  --> Recruitment Sourcing Free Sites
+2017-09-30 11:57:59 --> applicant_monitoring --> insert --> request_id -->  --> 1
+2017-09-30 11:57:59 --> applicant_monitoring --> insert --> recruit_id -->  --> 1
+2017-09-30 11:57:59 --> applicant_monitoring --> insert --> status_id -->  --> 1
+2017-09-30 11:58:30 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-09-30 11:58:30 --> applicant_monitoring --> insert --> date -->  --> 2017-10-02 01:00:00
+2017-09-30 11:58:30 --> applicant_monitoring --> insert --> user_id -->  --> 11
+2017-09-30 11:58:30 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2017-09-30 11:58:30 --> applicant_monitoring --> insert --> schedule_id -->  --> 1
+2017-09-30 11:58:30 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2017-09-30 11:58:30 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2017-09-30 12:07:21 --> authentication --> logout --> logout -->  --> 

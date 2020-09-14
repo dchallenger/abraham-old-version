@@ -1,0 +1,15 @@
+2017-04-23 09:34:53 --> authentication --> login --> login -->  --> 
+2017-04-23 15:37:49 --> authentication --> logout --> logout -->  --> 
+2017-04-23 20:18:29 --> authentication --> login --> login -->  --> 
+2017-04-23 20:20:37 --> authentication --> logout --> logout -->  --> 
+2017-04-23 21:11:02 --> authentication --> login --> login -->  --> 
+2017-04-23 22:09:01 --> module --> insert --> short_name -->  --> Employee Movement
+2017-04-23 22:09:02 --> module --> insert --> long_name -->  --> Employee Movement
+2017-04-23 22:09:02 --> module --> insert --> icon -->  --> fa-user
+2017-04-23 22:09:02 --> module --> insert --> description -->  --> Manage Employee Movement
+2017-04-23 22:09:06 --> module --> update --> mod_code -->  --> movement_manage
+2017-04-23 22:09:06 --> module --> update --> route -->  --> partners/admin/movement_manage
+2017-04-23 22:09:06 --> module --> update --> table -->  --> partners_movement
+2017-04-23 22:09:06 --> module --> update --> primary_key -->  --> movement_id
+2017-04-23 22:09:06 --> module --> update --> list_template_header -->  --> 1
+2017-04-23 22:09:06 --> module --> update --> list_template -->  --> 1

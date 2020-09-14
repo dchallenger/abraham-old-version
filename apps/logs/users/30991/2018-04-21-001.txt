@@ -1,0 +1,42 @@
+2018-04-21 13:50:50 --> authentication --> login --> login -->  --> 
+2018-04-21 13:52:21 --> performance_planning --> insert --> year -->  --> 2018
+2018-04-21 13:52:21 --> performance_planning --> insert --> performance_type_id -->  --> 1
+2018-04-21 13:52:21 --> performance_planning --> insert --> date_from -->  --> 2018-04-21
+2018-04-21 13:52:21 --> performance_planning --> insert --> date_to -->  --> 2018-04-30
+2018-04-21 13:52:21 --> performance_planning --> insert --> status_id -->  --> 1
+2018-04-21 13:52:21 --> performance_planning --> insert --> notes -->  --> testing
+2018-04-21 14:04:26 --> authentication --> logout --> logout -->  --> 
+2018-04-21 14:24:04 --> authentication --> login --> login -->  --> 
+2018-04-21 14:25:29 --> performance_planning --> insert --> year -->  --> 2018
+2018-04-21 14:25:29 --> performance_planning --> insert --> performance_type_id -->  --> 1
+2018-04-21 14:25:29 --> performance_planning --> insert --> date_from -->  --> 2018-04-21
+2018-04-21 14:25:29 --> performance_planning --> insert --> date_to -->  --> 2018-04-30
+2018-04-21 14:25:29 --> performance_planning --> insert --> status_id -->  --> 1
+2018-04-21 14:25:29 --> performance_planning --> insert --> notes -->  --> testr
+2018-04-21 14:25:44 --> performance_planning --> insert --> year -->  --> 2018
+2018-04-21 14:25:44 --> performance_planning --> insert --> performance_type_id -->  --> 1
+2018-04-21 14:25:44 --> performance_planning --> insert --> date_from -->  --> 2018-04-21
+2018-04-21 14:25:44 --> performance_planning --> insert --> date_to -->  --> 2018-04-30
+2018-04-21 14:25:44 --> performance_planning --> insert --> status_id -->  --> 1
+2018-04-21 14:25:44 --> performance_planning --> insert --> notes -->  --> testr
+2018-04-21 14:28:45 --> performance_planning --> insert --> year -->  --> 2018
+2018-04-21 14:28:45 --> performance_planning --> insert --> performance_type_id -->  --> 1
+2018-04-21 14:28:45 --> performance_planning --> insert --> date_from -->  --> 2018-04-21
+2018-04-21 14:28:45 --> performance_planning --> insert --> date_to -->  --> 2018-04-30
+2018-04-21 14:28:45 --> performance_planning --> insert --> status_id -->  --> 1
+2018-04-21 14:28:45 --> performance_planning --> insert --> notes -->  --> testr
+2018-04-21 14:30:19 --> performance_planning --> insert --> year -->  --> 2018
+2018-04-21 14:30:19 --> performance_planning --> insert --> performance_type_id -->  --> 1
+2018-04-21 14:30:19 --> performance_planning --> insert --> date_from -->  --> 2018-04-21
+2018-04-21 14:30:19 --> performance_planning --> insert --> date_to -->  --> 2018-04-30
+2018-04-21 14:30:19 --> performance_planning --> insert --> status_id -->  --> 1
+2018-04-21 14:30:19 --> performance_planning --> insert --> notes -->  --> test
+2018-04-21 14:31:13 --> authentication --> logout --> logout -->  --> 
+2018-04-21 15:33:58 --> authentication --> login --> login -->  --> 
+2018-04-21 15:34:24 --> authentication --> logout --> logout -->  --> 
+2018-04-21 21:11:36 --> authentication --> login --> login -->  --> 
+2018-04-21 21:21:26 --> authentication --> logout --> logout -->  --> 
+2018-04-21 21:22:11 --> authentication --> login --> login -->  --> 
+2018-04-21 21:56:09 --> authentication --> logout --> logout -->  --> 
+2018-04-21 22:33:51 --> authentication --> login --> login -->  --> 
+2018-04-21 22:38:54 --> authentication --> logout --> logout -->  --> 

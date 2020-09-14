@@ -1,0 +1,33 @@
+Admin, System (admin) --> 2017-04-16 16:37:32 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-16 16:37:41 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-16 16:39:32 --> incident_report --> insert --> involved_partners -->  --> 9
+LOPEZ, PAOLO (02115) --> 2017-04-16 16:39:32 --> incident_report --> insert --> offense_id -->  --> 1
+LOPEZ, PAOLO (02115) --> 2017-04-16 16:39:32 --> incident_report --> insert --> complainants -->  --> 30
+LOPEZ, PAOLO (02115) --> 2017-04-16 16:39:32 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-20 16:00:00
+LOPEZ, PAOLO (02115) --> 2017-04-16 16:39:32 --> incident_report --> insert --> incident_status_id -->  --> 2
+LOPEZ, PAOLO (02115) --> 2017-04-16 16:39:32 --> incident_report --> insert --> date_sent -->  --> 2017-04-16 16:39:32
+LOPEZ, PAOLO (02115) --> 2017-04-16 16:39:39 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-16 16:39:49 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-16 16:49:45 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-16 16:49:55 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-16 16:53:00 --> incident_report --> insert --> involved_partners -->  --> 9
+LOPEZ, PAOLO (02115) --> 2017-04-16 16:53:00 --> incident_report --> insert --> offense_id -->  --> 1
+LOPEZ, PAOLO (02115) --> 2017-04-16 16:53:00 --> incident_report --> insert --> complainants -->  --> 30
+LOPEZ, PAOLO (02115) --> 2017-04-16 16:53:00 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-12 13:00:00
+LOPEZ, PAOLO (02115) --> 2017-04-16 16:53:00 --> incident_report --> insert --> incident_status_id -->  --> 2
+LOPEZ, PAOLO (02115) --> 2017-04-16 16:53:00 --> incident_report --> insert --> date_sent -->  --> 2017-04-16 16:53:00
+LOPEZ, PAOLO (02115) --> 2017-04-16 16:53:20 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-16 16:53:40 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-16 18:56:22 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-16 18:56:30 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-16 19:24:16 --> exit_interview_manager --> insert --> layout_name -->  --> Template 1
+Admin, System (admin) --> 2017-04-16 19:24:16 --> exit_interview_manager --> insert --> company_id -->  --> 1
+Admin, System (admin) --> 2017-04-16 19:24:16 --> exit_interview_manager --> insert --> department_id -->  --> 1
+Admin, System (admin) --> 2017-04-16 19:25:59 --> clearance_sign --> insert --> layout_name -->  --> asdfadsf
+Admin, System (admin) --> 2017-04-16 19:25:59 --> clearance_sign --> insert --> company_id -->  --> 1
+Admin, System (admin) --> 2017-04-16 19:25:59 --> clearance_sign --> insert --> department_id -->  --> 1
+Admin, System (admin) --> 2017-04-16 19:26:18 --> clearance_sign --> update --> layout_name -->  --> asdfadsf
+Admin, System (admin) --> 2017-04-16 19:26:18 --> clearance_sign --> update --> company_id -->  --> 1
+Admin, System (admin) --> 2017-04-16 19:26:18 --> clearance_sign --> update --> department_id -->  --> 1
+Admin, System (admin) --> 2017-04-16 19:29:22 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-16 19:29:41 --> authentication --> login --> login -->  --> 

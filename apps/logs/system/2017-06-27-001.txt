@@ -1,0 +1,18 @@
+GARCES, JOCELYN (00451) --> 2017-06-27 05:19:10 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-27 05:19:34 --> authentication --> login --> login -->  --> 
+() --> 2017-06-27 05:20:02 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-06-27 05:20:19 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-06-27 05:21:19 --> authentication --> login --> login -->  --> 
+() --> 2017-06-27 05:21:21 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-06-27 05:22:05 --> authentication --> logout --> logout -->  --> 
+() --> 2017-06-27 05:22:08 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-06-27 05:22:22 --> authentication --> login --> login -->  --> 
+() --> 2017-06-27 09:48:23 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-06-27 09:48:52 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-06-27 10:07:21 --> authentication --> logout --> logout -->  --> 
+() --> 2017-06-27 10:07:22 --> authentication --> logout --> logout -->  --> 
+() --> 2017-06-27 10:07:24 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-06-27 10:07:49 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-06-27 12:33:44 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-06-27 12:34:36 --> authentication --> login --> login -->  --> 
+() --> 2017-06-27 14:16:32 --> authentication --> logout --> logout -->  --> 

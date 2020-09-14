@@ -1,0 +1,49 @@
+Admin, Teemworx (admin) --> 2017-05-25 09:06:26 --> system --> update --> config -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-25 09:06:26 --> system --> update --> config -->  --> 0
+Admin, Teemworx (admin) --> 2017-05-25 09:06:26 --> system --> update --> config -->  --> 0
+Admin, Teemworx (admin) --> 2017-05-25 09:06:26 --> system --> update --> config -->  --> 0
+Admin, Teemworx (admin) --> 2017-05-25 09:06:26 --> system --> update --> config -->  --> 36000005
+Admin, Teemworx (admin) --> 2017-05-25 09:06:26 --> system --> update --> config -->  --> 18000005
+Admin, Teemworx (admin) --> 2017-05-25 09:06:26 --> system --> update --> config -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-25 09:06:26 --> system --> update --> config -->  --> 2017-05-22
+Admin, Teemworx (admin) --> 2017-05-25 09:06:26 --> system --> update --> config -->  --> 2017-05-25
+Admin, Teemworx (admin) --> 2017-05-25 09:06:26 --> system --> update --> config -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-25 09:25:54 --> system --> update --> config -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-25 09:25:54 --> system --> update --> config -->  --> 0
+Admin, Teemworx (admin) --> 2017-05-25 09:25:54 --> system --> update --> config -->  --> 0
+Admin, Teemworx (admin) --> 2017-05-25 09:25:54 --> system --> update --> config -->  --> 0
+Admin, Teemworx (admin) --> 2017-05-25 09:25:54 --> system --> update --> config -->  --> 36000005
+Admin, Teemworx (admin) --> 2017-05-25 09:25:54 --> system --> update --> config -->  --> 18000005
+Admin, Teemworx (admin) --> 2017-05-25 09:25:54 --> system --> update --> config -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-25 09:25:54 --> system --> update --> config -->  --> 2017-05-22
+Admin, Teemworx (admin) --> 2017-05-25 09:25:54 --> system --> update --> config -->  --> 2017-05-25
+Admin, Teemworx (admin) --> 2017-05-25 09:25:54 --> system --> update --> config -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-25 09:26:16 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-25 09:26:20 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-25 10:20:28 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-25 10:20:34 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-25 10:58:57 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-25 10:59:12 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-25 11:21:14 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-25 11:21:20 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-25 11:22:19 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-05-25 11:22:19 --> incident_report --> insert --> offense_id -->  --> 4
+DECANO, JAN RANDOLPH (32954) --> 2017-05-25 11:22:19 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-05-25 11:22:19 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-05-25 11:21:00
+DECANO, JAN RANDOLPH (32954) --> 2017-05-25 11:22:19 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-05-25 11:22:19 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-05-25 11:22:19 --> incident_report --> insert --> date_sent -->  --> 2017-05-25 11:22:19
+DECANO, JAN RANDOLPH (32954) --> 2017-05-25 11:22:52 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-25 11:22:57 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-25 11:23:19 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-25 11:23:24 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-25 11:24:09 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-25 11:26:00 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-25 11:26:57 --> incident_manage --> update --> status --> Open --> Close
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-25 11:26:57 --> incident_manage --> update --> incident_status_id --> 2 --> 6
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-25 11:47:40 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-25 11:48:39 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-25 05:03:12 --> report_generator --> insert --> report_code -->  --> INCIDENT
+Admin, Teemworx (admin) --> 2017-05-25 05:03:12 --> report_generator --> insert --> report_name -->  --> INCIDENT REPORT
+Admin, Teemworx (admin) --> 2017-05-25 05:03:13 --> report_generator --> insert --> category_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-25 05:03:13 --> report_generator --> insert --> roles -->  --> 1,2,3,4,5,6,7,8,9,10,11,12,21,22,23,24,25,26,27,28,29

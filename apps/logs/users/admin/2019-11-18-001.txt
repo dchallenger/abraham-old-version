@@ -1,0 +1,2 @@
+2019-11-18 04:57:37 --> recurring_transaction --> update --> transaction_method_id --> 7 --> 3
+2019-11-18 04:57:43 --> recurring_transaction --> update --> transaction_method_id --> 3 --> 7

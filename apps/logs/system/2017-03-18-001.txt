@@ -1,0 +1,11 @@
+Diaz, Eduardo (1001) --> 2017-03-18 12:48:29 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-18 12:48:49 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-18 15:44:05 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-18 15:44:17 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-18 15:54:27 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-18 15:54:36 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-18 15:56:38 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-18 15:56:55 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-18 15:57:20 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-18 21:58:36 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-18 22:29:48 --> authentication --> login --> login -->  --> 

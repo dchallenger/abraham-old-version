@@ -1,0 +1,12 @@
+Admin, Teemworx (admin) --> 2020-01-30 15:43:29 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2020-01-30 15:46:43 --> memo --> insert --> memo_type_id -->  --> 5
+Admin, Teemworx (admin) --> 2020-01-30 15:46:58 --> memo --> insert --> apply_to_id -->  --> 2
+Admin, Teemworx (admin) --> 2020-01-30 15:46:59 --> memo --> insert --> memo_title -->  --> Test Announcement
+Admin, Teemworx (admin) --> 2020-01-30 15:46:59 --> memo --> insert --> publish_from -->  --> 2020-01-30
+Admin, Teemworx (admin) --> 2020-01-30 15:46:59 --> memo --> insert --> publish_to -->  --> 2020-01-31
+Admin, Teemworx (admin) --> 2020-01-30 15:46:59 --> memo --> insert --> publish -->  --> 1
+Admin, Teemworx (admin) --> 2020-01-30 15:46:59 --> memo --> insert --> comments -->  --> 0
+Admin, Teemworx (admin) --> 2020-01-30 15:46:59 --> memo --> insert --> email -->  --> 0
+Admin, Teemworx (admin) --> 2020-01-30 15:46:59 --> memo --> insert --> memo_body -->  --> <p>TEST MESSAGE</p>
+Admin, Teemworx (admin) --> 2020-01-30 16:23:18 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2020-01-30 16:25:08 --> authentication --> login --> login -->  --> 

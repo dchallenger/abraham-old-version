@@ -1,0 +1,2 @@
+2019-07-15 10:04:57 --> authentication --> login --> login -->  --> 
+2019-07-15 10:05:56 --> authentication --> update --> users - hash --> $2a$08$hRV4eko18h6qPQ0gn7.f.eKk9O9Dv7nPKfZbN1mhregMrBYi3sR6i --> $2a$08$obc4PyY72fruIAqhUIMGluEWASOCeISzmJBNySd1VYLoH4/9U3FkC

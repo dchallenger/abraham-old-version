@@ -1,0 +1,9 @@
+NICOLAS, RESURECCION (00346) --> 2018-12-17 10:08:39 --> authentication --> logout --> logout -->  --> 
+() --> 2018-12-17 10:53:06 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-12-17 11:07:21 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-12-17 11:43:03 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-12-17 11:43:07 --> authentication --> login --> login -->  --> 
+() --> 2018-12-17 11:43:10 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-12-17 11:48:09 --> authentication --> logout --> logout -->  --> 
+() --> 2018-12-17 11:48:11 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-12-17 11:48:17 --> authentication --> login --> login -->  --> 

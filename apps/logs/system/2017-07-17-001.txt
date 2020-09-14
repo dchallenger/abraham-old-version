@@ -1,0 +1,16 @@
+Admin, Teemworx (admin) --> 2017-07-17 09:01:46 --> branch --> update --> company_coe -->  --> The Ithiel Alaminos Company
+Admin, Teemworx (admin) --> 2017-07-17 11:45:30 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-17 11:56:00 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-17 11:57:15 --> payroll_period --> insert --> date_from -->  --> 2017-05-31
+Admin, Teemworx (admin) --> 2017-07-17 11:57:15 --> payroll_period --> insert --> date_to -->  --> 2017-05-31
+Admin, Teemworx (admin) --> 2017-07-17 11:57:15 --> payroll_period --> insert --> payroll_date -->  --> 2017-07-15
+Admin, Teemworx (admin) --> 2017-07-17 11:57:15 --> payroll_period --> insert --> posting_date -->  --> 2017-07-15
+Admin, Teemworx (admin) --> 2017-07-17 11:57:15 --> payroll_period --> insert --> apply_to_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-07-17 11:57:15 --> payroll_period --> insert --> period_processing_type_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-17 11:57:15 --> payroll_period --> insert --> payroll_schedule_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-07-17 11:57:15 --> payroll_period --> insert --> week -->  --> 2
+Admin, Teemworx (admin) --> 2017-07-17 11:57:15 --> payroll_period --> insert --> remarks -->  --> special for ot
+Admin, Teemworx (admin) --> 2017-07-17 11:57:15 --> payroll_period --> insert --> period_status_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-17 14:28:43 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-17 14:32:12 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-17 15:08:18 --> authentication --> login --> login -->  --> 

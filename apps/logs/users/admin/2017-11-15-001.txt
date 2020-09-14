@@ -1,0 +1,6 @@
+2017-11-15 13:25:38 --> authentication --> login --> login -->  --> 
+2017-11-15 05:50:25 --> report_generator --> insert --> report_code -->  --> Incident Report
+2017-11-15 05:50:25 --> report_generator --> insert --> report_name -->  --> Incident Report
+2017-11-15 05:50:25 --> report_generator --> insert --> category_id -->  --> 2
+2017-11-15 05:50:25 --> report_generator --> insert --> roles -->  --> 1,2,3,4,5,6,7,8,9,10,11,12,21,22,23,24,25,26,27,28,29
+2017-11-15 18:31:31 --> authentication --> logout --> logout -->  --> 

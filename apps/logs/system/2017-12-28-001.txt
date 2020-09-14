@@ -1,0 +1,3 @@
+GARCES, JOCELYN (00451) --> 2017-12-28 10:23:15 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-12-28 10:23:22 --> authentication --> login --> login -->  --> 
+() --> 2017-12-28 10:23:29 --> authentication --> logout --> logout -->  --> 

@@ -1,0 +1,123 @@
+ELISCUPIDES, ROWENA (00273) --> 2017-05-31 10:06:30 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-31 10:08:57 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-31 10:09:09 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-31 10:12:55 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-31 10:12:55 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ELISCUPIDES, ROWENA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-31 10:12:56 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-31 10:12:56 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ELISCUPIDES, ROWENA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-31 10:19:20 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-31 10:20:21 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-31 10:22:18 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:18 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-31 10:22:18 --> profiles --> edit --> sensitivity_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-31 10:22:18 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:18 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:18 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-31 10:22:18 --> profiles --> edit --> sensitivity_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-31 10:22:18 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> sensitivity_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> sensitivity_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> sensitivity_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:19 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> sensitivity_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> sensitivity_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> sensitivity_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> sensitivity_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-31 10:22:20 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:21 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:21 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-05-31 10:22:21 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-05-31 10:22:21 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:21 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:21 --> profiles --> edit --> mod_id -->  --> 28
+Admin, Teemworx (admin) --> 2017-05-31 10:22:21 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-31 10:22:21 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:21 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:21 --> profiles --> edit --> mod_id -->  --> 28
+Admin, Teemworx (admin) --> 2017-05-31 10:22:21 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> mod_id -->  --> 28
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> mod_id -->  --> 28
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> mod_id -->  --> 41
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> mod_id -->  --> 41
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-05-31 10:22:22 --> profiles --> edit --> mod_id -->  --> 9

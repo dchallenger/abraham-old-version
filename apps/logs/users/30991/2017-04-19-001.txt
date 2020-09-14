@@ -1,0 +1,33 @@
+2017-04-19 12:55:36 --> authentication --> login --> login -->  --> 
+2017-04-19 12:55:58 --> authentication --> update --> users - hash --> $2a$08$AfgN7dsFg9ulhvqKBSaW3uX.WQdhBuZG3yCrqe0v5hDnWYJEwhDy. --> $2a$08$fWH9ZZfcbbjSyvrtmj5Qyu4REQLovwcwIVOuSSZyBubdlKKiqhoRu
+2017-04-19 12:57:14 --> authentication --> logout --> logout -->  --> 
+2017-04-19 13:14:02 --> authentication --> login --> login -->  --> 
+2017-04-19 13:28:13 --> incident_admin --> update --> hr_remarks -->  --> ok na
+2017-04-19 13:28:13 --> incident_admin --> update --> nte_immediate --> 0 --> 1
+2017-04-19 13:28:13 --> incident_admin --> update --> nte_complainants --> 0 --> 1
+2017-04-19 13:28:13 --> incident_admin --> update --> nte_witnesses --> 0 --> 1
+2017-04-19 13:28:13 --> incident_admin --> update --> nte_others --> 0 --> 1
+2017-04-19 13:28:13 --> incident_admin --> update --> incident_status_id --> 4 --> 9
+2017-04-19 13:34:11 --> authentication --> logout --> logout -->  --> 
+2017-04-19 13:45:58 --> authentication --> login --> login -->  --> 
+2017-04-19 13:50:43 --> hearing_admin --> update --> incident_status_id --> 9 --> 10
+2017-04-19 13:51:02 --> authentication --> logout --> logout -->  --> 
+2017-04-19 14:37:41 --> authentication --> login --> login -->  --> 
+2017-04-19 14:45:11 --> authentication --> logout --> logout -->  --> 
+2017-04-19 14:50:47 --> authentication --> login --> login -->  --> 
+2017-04-19 14:55:35 --> authentication --> logout --> logout -->  --> 
+2017-04-19 16:00:34 --> authentication --> login --> login -->  --> 
+2017-04-19 16:04:13 --> authentication --> logout --> logout -->  --> 
+2017-04-19 16:07:52 --> authentication --> login --> login -->  --> 
+2017-04-19 16:12:05 --> incident_admin --> update --> hr_remarks -->  --> test
+2017-04-19 16:12:05 --> incident_admin --> update --> nte_immediate --> 0 --> 1
+2017-04-19 16:12:05 --> incident_admin --> update --> nte_complainants --> 0 --> 1
+2017-04-19 16:12:05 --> incident_admin --> update --> nte_witnesses --> 0 --> 1
+2017-04-19 16:12:05 --> incident_admin --> update --> incident_status_id --> 4 --> 9
+2017-04-19 16:12:15 --> authentication --> logout --> logout -->  --> 
+2017-04-19 18:42:23 --> authentication --> login --> login -->  --> 
+2017-04-19 18:43:30 --> disciplinary_admin --> update --> incident_status_id --> 9 --> 6
+2017-04-19 18:43:30 --> disciplinary_admin --> update --> status --> Open --> Close
+2017-04-19 18:49:14 --> disciplinary_admin --> update --> incident_status_id --> 11 --> 6
+2017-04-19 18:49:14 --> disciplinary_admin --> update --> status --> Open --> Close
+2017-04-19 18:52:25 --> authentication --> logout --> logout -->  --> 

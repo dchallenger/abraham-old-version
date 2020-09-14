@@ -1,0 +1,16 @@
+2017-12-03 03:57:41 --> authentication --> login --> login -->  --> 
+2017-12-03 04:59:22 --> leave_conversion --> update --> form_id --> 2 --> 22
+2017-12-03 04:59:39 --> leave_conversion --> update --> form_id --> 2 --> 22
+2017-12-03 05:13:03 --> payroll_period --> insert --> date_from -->  --> 2017-12-22
+2017-12-03 05:13:03 --> payroll_period --> insert --> date_to -->  --> 2017-12-22
+2017-12-03 05:13:03 --> payroll_period --> insert --> payroll_date -->  --> 2017-12-22
+2017-12-03 05:13:03 --> payroll_period --> insert --> posting_date -->  --> 2017-12-22
+2017-12-03 05:13:03 --> payroll_period --> insert --> apply_to_id -->  --> 1
+2017-12-03 05:13:03 --> payroll_period --> insert --> period_processing_type_id -->  --> 4
+2017-12-03 05:13:03 --> payroll_period --> insert --> payroll_schedule_id -->  --> 4
+2017-12-03 05:13:03 --> payroll_period --> insert --> week -->  --> 4
+2017-12-03 05:13:03 --> payroll_period --> insert --> remarks -->  --> test
+2017-12-03 05:13:03 --> payroll_period --> insert --> period_status_id -->  --> 1
+2017-12-03 05:30:14 --> payroll_period --> update --> apply_to_id --> 1 --> 2
+2017-12-03 05:49:59 --> payroll_period --> update --> apply_to_id --> 2 --> 1
+2017-12-03 06:00:30 --> payroll_period --> update --> apply_to_id --> 1 --> 2

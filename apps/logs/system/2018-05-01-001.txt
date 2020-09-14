@@ -1,0 +1,38 @@
+Admin, Teemworx (admin) --> 2018-05-01 12:54:53 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-05-01 12:55:08 --> authentication --> login --> login -->  --> 
+() --> 2018-05-01 12:55:36 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-05-01 13:32:37 --> performance_appraisal --> insert --> planning_id -->  --> 5
+CHAVEZ, NELSON (00129) --> 2018-05-01 13:32:37 --> performance_appraisal --> insert --> date_from -->  --> 2018-05-25
+CHAVEZ, NELSON (00129) --> 2018-05-01 13:32:37 --> performance_appraisal --> insert --> date_to -->  --> 2018-05-28
+CHAVEZ, NELSON (00129) --> 2018-05-01 13:32:37 --> performance_appraisal --> insert --> year -->  --> 2018
+CHAVEZ, NELSON (00129) --> 2018-05-01 13:32:37 --> performance_appraisal --> insert --> performance_type_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 13:32:37 --> performance_appraisal --> insert --> template_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 13:32:37 --> performance_appraisal --> insert --> employment_status_id -->  --> 3,1,2
+CHAVEZ, NELSON (00129) --> 2018-05-01 13:32:37 --> performance_appraisal --> insert --> filter_by -->  --> 5
+CHAVEZ, NELSON (00129) --> 2018-05-01 13:32:37 --> performance_appraisal --> insert --> notes -->  --> asdasdasdfasdf
+CHAVEZ, NELSON (00129) --> 2018-05-01 13:32:37 --> performance_appraisal --> insert --> status_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:07:18 --> performance_planning_manage --> update --> template_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:07:18 --> performance_planning_manage --> update --> employment_status_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:07:18 --> performance_planning_manage --> update --> filter_by --> 0 --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:07:18 --> performance_planning_manage --> update --> filter_id -->  --> 1,2,3,13,4,6,5,7,12,10,8,9,11
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:07:18 --> performance_planning_manage --> update --> immediate_remarks -->  --> dd
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:12:00 --> performance_planning_manage --> update --> template_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:12:00 --> performance_planning_manage --> update --> employment_status_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:12:00 --> performance_planning_manage --> update --> filter_by --> 0 --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:12:00 --> performance_planning_manage --> update --> filter_id -->  --> 1,2,3,13,4,6,5,7,12,10,8,9,11
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:25:02 --> performance_planning_manage --> update --> template_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:25:02 --> performance_planning_manage --> update --> employment_status_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:25:03 --> performance_planning_manage --> update --> filter_by --> 0 --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:25:03 --> performance_planning_manage --> update --> filter_id -->  --> 1,2,3,13,4,6,5,7,12,10,8,9,11
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:28:34 --> performance_planning_manage --> update --> template_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:28:34 --> performance_planning_manage --> update --> employment_status_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:28:34 --> performance_planning_manage --> update --> filter_by --> 0 --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:28:34 --> performance_planning_manage --> update --> filter_id -->  --> 1,2,3,13,4,6,5,7,12,10,8,9,11
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:35:49 --> performance_planning_manage --> update --> template_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:35:49 --> performance_planning_manage --> update --> employment_status_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:35:49 --> performance_planning_manage --> update --> filter_by --> 0 --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:35:49 --> performance_planning_manage --> update --> filter_id -->  --> 1,2,3,13,4,6,5,7,12,10,8,9,11
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:40:57 --> performance_planning_manage --> update --> template_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:40:57 --> performance_planning_manage --> update --> employment_status_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:40:57 --> performance_planning_manage --> update --> filter_by --> 0 --> 1
+CHAVEZ, NELSON (00129) --> 2018-05-01 23:40:57 --> performance_planning_manage --> update --> filter_id -->  --> 1,2,3,13,4,6,5,7,12,10,8,9,11

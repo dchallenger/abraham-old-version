@@ -1,0 +1,5 @@
+2018-03-30 20:17:06 --> appraisal_template --> insert --> sequence -->  --> 1
+2018-03-30 20:17:06 --> appraisal_template --> insert --> width -->  --> 12.5
+2018-03-30 20:17:06 --> appraisal_template --> insert --> uitype_id -->  --> 4
+2018-03-30 20:17:06 --> appraisal_template --> insert --> min_items -->  --> 3
+2018-03-30 20:17:06 --> appraisal_template --> insert --> max_items -->  --> 8

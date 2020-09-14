@@ -1,0 +1,4 @@
+Admin, Teemworx (admin) --> 2020-03-30 16:40:53 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2020-03-30 16:41:41 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2020-03-30 16:55:01 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2020-03-30 16:55:11 --> authentication --> login --> login -->  --> 

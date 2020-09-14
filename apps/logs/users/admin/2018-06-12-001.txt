@@ -1,0 +1,15 @@
+2018-06-12 19:37:18 --> authentication --> login --> login -->  --> 
+2018-06-12 19:50:32 --> partner_loan --> update --> loan_status_id --> 4 --> 2
+2018-06-12 19:50:32 --> partner_loan --> update --> no_payments --> 24 --> 20
+2018-06-12 19:50:32 --> partner_loan --> update --> loan_principal --> "phÅù_u<¯}HÒGD --> …«‰DV¬÷¸µÑ>Ë²um
+2018-06-12 19:50:33 --> partner_loan --> update --> interest --> ¨¢¶Z•à—ù0¤Zò‹ --> O6›	›èHa'h¸BÇx
+2018-06-12 19:50:33 --> partner_loan --> update --> amount --> "phÅù_u<¯}HÒGD --> …«‰DV¬÷¸µÑ>Ë²um
+2018-06-12 19:50:33 --> partner_loan --> update --> beginning_balance --> "phÅù_u<¯}HÒGD --> …«‰DV¬÷¸µÑ>Ë²um
+2018-06-12 19:50:33 --> partner_loan --> update --> no_payments_remaining --> 1 --> 4
+2018-06-12 19:50:33 --> partner_loan --> update --> running_balance --> ]@Ý:HßPì—³¯%ÊŽ --> h)[Œ¹•(]ÏU€ËVòW
+2018-06-12 19:50:33 --> partner_loan --> update --> system_amortization --> ]@Ý:HßPì—³¯%ÊŽ --> ­°ûi°,¨³,JÄ|Ð'n
+2018-06-12 19:50:33 --> partner_loan --> update --> system_interest --> ¨¢¶Z•à—ù0¤Zò‹ --> O6›	›èHa'h¸BÇx
+2018-06-12 19:50:33 --> partner_loan --> update --> total_amount_paid --> 
+3êjÿƒÐl¨À³k	 --> 	Nœ"›ÛÅ“ ÷+(Ö
+2018-06-12 19:50:33 --> partner_loan --> update --> no_payments_paid --> 17 --> 20
+2018-06-12 19:50:33 --> partner_loan --> update --> total_arrears --> -?àMé†Ù2¦6±¦:i© --> 0

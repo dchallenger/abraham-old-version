@@ -1,0 +1,6 @@
+Admin, Teemworx (admin) --> 2018-12-09 15:09:31 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-12-09 07:22:02 --> report_generator --> insert --> report_code -->  --> OTSUMMARY
+Admin, Teemworx (admin) --> 2018-12-09 07:22:02 --> report_generator --> insert --> report_name -->  --> Overtime Summary Report
+Admin, Teemworx (admin) --> 2018-12-09 07:22:03 --> report_generator --> insert --> description -->  --> Overtime Summary Report
+Admin, Teemworx (admin) --> 2018-12-09 07:22:03 --> report_generator --> insert --> category_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-12-09 07:22:03 --> report_generator --> insert --> roles -->  --> 1,2,6,8,10,11

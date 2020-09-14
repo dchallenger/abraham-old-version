@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+
+<Styles>
+ <Style ss:ID="Default" ss:Name="Normal">
+  <Alignment ss:Vertical="Bottom"/>
+  <Borders/>
+  <Font/>
+  <Interior/>
+  <NumberFormat/>
+  <Protection/>
+ </Style>
+ <Style ss:ID="s27">
+  <Font x:Family="Swiss" ss:Color="#0000FF" ss:Bold="1"/>
+ </Style>
+ <Style ss:ID="s21">
+  <NumberFormat ss:Format="yyyy\-mm\-dd"/>
+ </Style>
+ <Style ss:ID="s22">
+  <NumberFormat ss:Format="yyyy\-mm\-dd\ hh:mm:ss"/>
+ </Style>
+ <Style ss:ID="s23">
+  <NumberFormat ss:Format="hh:mm:ss"/>
+ </Style>
+</Styles>
+
+ <Worksheet ss:Name="Sheet1">
+  <ss:Table>
+   <ss:Row>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">partner_loan_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">id_number</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">user_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">loan_code</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">loan_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">loan_status</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">loan_status_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">description</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">entry_date</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">remarks</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">loan_principal</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">amount</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">interest</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">interest_type_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">no_payments</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">no_payments_paid</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">no_payments_remaining</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">beginning_balance</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">running_balance</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">release_date</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">payment_mode</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">payment_mode_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">start_date</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">releasing_debit_account_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">releasing_credit_account_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">system_amortization</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">user_amortization</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">system_interest</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">user_interest</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">total_arrears</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">total_amount_paid</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">last_payment_date</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">amortization_credit_account_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">interest_credit_account_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">interest_amortization_credit_account_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">week</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">previous_employee_loan_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">created_on</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">created_by</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">modified_on</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">modified_by</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">deleted</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">30</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">12</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Pag-Ibig Multi-Purpose Loan</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-01-16T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">R�&amp;���B�4�B</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">~	&gt;�@5��{�6c&lt;R.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">ɗ���}��F�*�ڙ}�</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">24</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">65000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">~	&gt;�@5��{�6c&lt;R.</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-03-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">�ɟ�x�����IB�b</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">���Cy�xE:����</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">1970-01-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2017-03-24T10:58:29.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">30</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">651</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">9</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">SSS Salary Loan</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-01-10T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">sss loan</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">�K�(|jo�P�2:q�4�</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">�K�(|jo�P�2:q�4�</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">24</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">35840</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-03-15T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">@7�A�/~,��t�&quot;�</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">O6�	��Ha�'h�B�x</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">1970-01-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2017-03-25T08:37:49.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2017-03-25T09:10:13.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">101</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">9</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">SSS Salary Loan</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-01-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">sss loan casual</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">�-[-'DV��&lt;��Ɨs</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">o�SHyC��&gt;׭</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">48</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">16800</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">o�SHyC��&gt;׭</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">2017-03-30T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">`�;��imZ_`7���</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">O6�	��Ha�'h�B�x</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell ss:StyleID="s21"><Data ss:Type="DateTime">1970-01-01T00:00:00.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2017-03-25T12:17:15.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15</Data></ss:Cell>
+    <ss:Cell ss:StyleID="s22"><Data ss:Type="DateTime">2017-03-25T12:26:14.000</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">15</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+  </ss:Table>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,33 @@
+Admin, Teemworx (admin) --> 2018-04-04 21:31:08 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-04 21:32:48 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-04 22:20:50 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:21:11 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:21:59 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:21:59 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:21:59 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:21:59 --> appraisal_individual_planning --> insert --> item -->  --> test
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:22:36 --> appraisal_individual_planning --> insert --> parent_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:22:36 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:22:36 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:22:36 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:22:36 --> appraisal_individual_planning --> insert --> item -->  --> ssss
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:22:36 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:22:36 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:22:36 --> appraisal_individual_planning --> insert --> item_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:22:36 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:22:36 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:22:37 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:22:37 --> appraisal_individual_planning --> insert --> item_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:22:37 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 5
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:22:37 --> appraisal_individual_planning --> insert --> value -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:23:37 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:23:37 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:23:37 --> appraisal_individual_planning --> insert --> item_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:23:37 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:23:37 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:23:37 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:23:38 --> appraisal_individual_planning --> insert --> item_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:23:38 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 5
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:23:38 --> appraisal_individual_planning --> insert --> value -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:23:38 --> appraisal_individual_planning --> delete --> performance_planning_applicable_items - item_id --> 1 --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-04 22:23:42 --> appraisal_individual_planning --> delete --> performance_planning_applicable_items - item_id --> 2 --> 

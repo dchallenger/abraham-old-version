@@ -1,0 +1,127 @@
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 77
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 8
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 77
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 9
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 77
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 10
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 175
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 175
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 2
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 175
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 3
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 175
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 4
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 175
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 5
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 175
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 6
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 175
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 7
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 175
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 8
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 175
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 9
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 175
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 10
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 27
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 27
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 2
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 27
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 3
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 27
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 4
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 27
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 5
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 27
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 6
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 27
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> action_id -->  --> 7
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:02 --> profiles --> edit --> mod_id -->  --> 27
+Admin, System (admin) --> 2017-04-15 15:05:03 --> profiles --> edit --> action_id -->  --> 8
+Admin, System (admin) --> 2017-04-15 15:05:03 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:03 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:03 --> profiles --> edit --> mod_id -->  --> 27
+Admin, System (admin) --> 2017-04-15 15:05:03 --> profiles --> edit --> action_id -->  --> 9
+Admin, System (admin) --> 2017-04-15 15:05:03 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:05:03 --> profiles --> edit --> profile_id -->  --> 1
+Admin, System (admin) --> 2017-04-15 15:05:03 --> profiles --> edit --> mod_id -->  --> 27
+Admin, System (admin) --> 2017-04-15 15:05:03 --> profiles --> edit --> action_id -->  --> 10
+Admin, System (admin) --> 2017-04-15 15:05:03 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-04-15 15:09:17 --> offense_level --> update --> description -->  --> dfdf
+Admin, System (admin) --> 2017-04-15 15:15:06 --> module --> insert --> short_name -->  --> Offense Sanction Category
+Admin, System (admin) --> 2017-04-15 15:15:06 --> module --> insert --> long_name -->  --> Offense Sanction Category
+Admin, System (admin) --> 2017-04-15 15:15:06 --> module --> insert --> icon -->  --> fa-th-list
+Admin, System (admin) --> 2017-04-15 15:15:06 --> module --> insert --> description -->  --> Manage and list offense category
+Admin, System (admin) --> 2017-04-15 15:17:30 --> module --> update --> mod_code -->  --> offense_sanction_category
+Admin, System (admin) --> 2017-04-15 15:17:30 --> module --> update --> route -->  --> admin/offense_sanction_category
+Admin, System (admin) --> 2017-04-15 15:17:30 --> module --> update --> table -->  --> partners_offense_sanction_category
+Admin, System (admin) --> 2017-04-15 15:17:30 --> module --> update --> primary_key -->  --> offense_sanction_category_id
+Admin, System (admin) --> 2017-04-15 15:17:30 --> module --> update --> list_template_header -->  --> <th width="40%">Offense Category</th>
+<th width="40%">Description</th>
+Admin, System (admin) --> 2017-04-15 15:17:30 --> module --> update --> list_template -->  --> <tr class="record">
+    <td>
+        <div>
+            <input type="checkbox" class="record-checker checkboxes" value="<?php echo $record_id; ?>" />
+        </div>
+    </td>
+    <td>
+        {{ $partners_offense_sanction_category_offense_sanction_category }}
+    </td>
+    <td>
+        {{ $partners_offense_sanction_category_description }}
+    </td>
+    <td>
+        <div class="btn-group">
+            <a class="btn btn-xs text-muted" href="{{ $edit_url }}"><i class="fa fa-pencil"></i> Edit</a>
+        </div>
+        <div class="btn-group">
+            <a class="btn btn-xs text-muted" href="#" data-close-others="true" data-toggle="dropdown"><i class="fa fa-gear"></i> Options</a>
+            <ul class="dropdown-menu pull-right">
+                {{ $options }}
+            </ul>
+        </div>
+    </td>
+</tr>

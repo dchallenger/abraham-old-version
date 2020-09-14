@@ -1,0 +1,7 @@
+Admin, System (admin) --> 2017-03-25 15:58:34 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-25 16:06:48 --> authentication --> logout --> logout -->  --> 
+AMANDY, ERNESTO (31291) --> 2017-03-25 16:07:32 --> authentication --> login --> login -->  --> 
+AMANDY, ERNESTO (31291) --> 2017-03-25 16:11:11 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-03-25 16:11:30 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-03-25 16:29:10 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-25 16:30:16 --> authentication --> login --> login -->  --> 

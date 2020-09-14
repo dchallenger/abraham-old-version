@@ -1,0 +1,31 @@
+LOPEZ, PAOLO (02115) --> 2017-03-31 14:04:56 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-03-31 14:10:27 --> authentication --> login --> login -->  --> 
+ZULUETA, EDITA (00837) --> 2017-03-31 16:02:26 --> authentication --> login --> login -->  --> 
+ZULUETA, EDITA (00837) --> 2017-03-31 16:11:36 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-31 16:12:09 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-31 16:13:31 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, System (admin) --> 2017-03-31 16:13:31 --> leave_balance_admin --> insert --> user_id -->  --> 17
+Admin, System (admin) --> 2017-03-31 16:13:31 --> leave_balance_admin --> insert --> form_id -->  --> 5
+Admin, System (admin) --> 2017-03-31 16:13:31 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, System (admin) --> 2017-03-31 16:13:31 --> leave_balance_admin --> insert --> current -->  --> 30
+Admin, System (admin) --> 2017-03-31 16:13:31 --> leave_balance_admin --> insert --> period_from -->  --> 2017-03-01
+Admin, System (admin) --> 2017-03-31 16:13:31 --> leave_balance_admin --> insert --> period_to -->  --> 2017-08-31
+Admin, System (admin) --> 2017-03-31 16:13:31 --> leave_balance_admin --> insert --> period_extension -->  --> 2017-08-31
+Admin, System (admin) --> 2017-03-31 16:13:35 --> authentication --> logout --> logout -->  --> 
+ZULUETA, SANTIAGO JR(00732) --> 2017-03-31 16:13:46 --> authentication --> login --> login -->  --> 
+ZULUETA, SANTIAGO JR(00732) --> 2017-03-31 16:14:39 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-31 16:14:51 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-31 16:16:55 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, System (admin) --> 2017-03-31 16:16:55 --> leave_balance_admin --> insert --> user_id -->  --> 22
+Admin, System (admin) --> 2017-03-31 16:16:55 --> leave_balance_admin --> insert --> form_id -->  --> 5
+Admin, System (admin) --> 2017-03-31 16:16:55 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, System (admin) --> 2017-03-31 16:16:55 --> leave_balance_admin --> insert --> current -->  --> 30
+Admin, System (admin) --> 2017-03-31 16:16:55 --> leave_balance_admin --> insert --> period_from -->  --> 2017-03-01
+Admin, System (admin) --> 2017-03-31 16:16:55 --> leave_balance_admin --> insert --> period_to -->  --> 2017-06-30
+Admin, System (admin) --> 2017-03-31 16:16:55 --> leave_balance_admin --> insert --> period_extension -->  --> 2017-06-30
+Admin, System (admin) --> 2017-03-31 16:17:00 --> authentication --> logout --> logout -->  --> 
+ZULUETA, EDITA (00837) --> 2017-03-31 16:17:08 --> authentication --> login --> login -->  --> 
+ZULUETA, EDITA (00837) --> 2017-03-31 16:49:31 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-31 16:49:57 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-31 16:55:24 --> authentication --> logout --> logout -->  --> 
+ZULUETA, EDITA (00837) --> 2017-03-31 16:55:38 --> authentication --> login --> login -->  --> 

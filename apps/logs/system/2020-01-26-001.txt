@@ -1,0 +1,11 @@
+Admin, Teemworx (admin) --> 2020-01-26 07:56:10 --> report_generator --> update --> report_code --> BDAY CELEBRANT --> BDAY_CELEBRANT
+Admin, Teemworx (admin) --> 2020-01-26 08:01:12 --> report_generator --> insert --> report_code -->  --> MANPOWER_REQUEST
+Admin, Teemworx (admin) --> 2020-01-26 08:01:12 --> report_generator --> insert --> report_name -->  --> Manpower Request
+Admin, Teemworx (admin) --> 2020-01-26 08:01:12 --> report_generator --> insert --> description -->  --> List of manpower request
+Admin, Teemworx (admin) --> 2020-01-26 08:01:12 --> report_generator --> insert --> category_id -->  --> 4
+Admin, Teemworx (admin) --> 2020-01-26 08:01:12 --> report_generator --> insert --> roles -->  --> 1,2
+Admin, Teemworx (admin) --> 2020-01-26 08:07:15 --> report_generator --> insert --> report_code -->  --> LEAVE_BALANCE
+Admin, Teemworx (admin) --> 2020-01-26 08:07:15 --> report_generator --> insert --> report_name -->  --> Leave Balance
+Admin, Teemworx (admin) --> 2020-01-26 08:07:15 --> report_generator --> insert --> category_id -->  --> 1
+Admin, Teemworx (admin) --> 2020-01-26 08:07:15 --> report_generator --> insert --> roles -->  --> 1,2
+Admin, Teemworx (admin) --> 2020-01-26 08:13:25 --> report_generator --> update --> description -->  --> List of leave balance, converted and forfeited

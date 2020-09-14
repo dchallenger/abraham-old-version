@@ -1,0 +1,84 @@
+2017-05-31 02:40:47 --> applicants --> insert --> key_name -->  --> Permanent Barangay
+2017-05-31 02:40:47 --> applicants --> insert --> recruit_id -->  --> 1
+2017-05-31 02:40:47 --> applicants --> insert --> key_id -->  --> 98
+2017-05-31 02:40:47 --> applicants --> insert --> key -->  --> permanent_city_town
+2017-05-31 02:40:47 --> applicants --> insert --> sequence -->  --> 2
+2017-05-31 02:40:47 --> applicants --> insert --> key_name -->  --> Permanent City
+2017-05-31 02:40:47 --> applicants --> insert --> recruit_id -->  --> 1
+2017-05-31 02:40:47 --> applicants --> insert --> key_id -->  --> 99
+2017-05-31 02:40:47 --> applicants --> insert --> key -->  --> permanent_province
+2017-05-31 02:40:48 --> applicants --> insert --> sequence -->  --> 2
+2017-05-31 02:40:48 --> applicants --> insert --> key_name -->  --> Permanent Province
+2017-05-31 02:40:48 --> applicants --> insert --> recruit_id -->  --> 1
+2017-05-31 02:40:48 --> applicants --> insert --> key_id -->  --> 100
+2017-05-31 02:40:48 --> applicants --> insert --> key -->  --> permanent_country
+2017-05-31 02:40:48 --> applicants --> insert --> sequence -->  --> 2
+2017-05-31 02:40:48 --> applicants --> insert --> key_name -->  --> Permanent Country
+2017-05-31 02:40:48 --> applicants --> insert --> recruit_id -->  --> 1
+2017-05-31 02:40:48 --> applicants --> insert --> key_id -->  --> 101
+2017-05-31 02:40:48 --> applicants --> insert --> key -->  --> permanent_zipcode
+2017-05-31 02:40:48 --> applicants --> insert --> sequence -->  --> 2
+2017-05-31 02:40:48 --> applicants --> insert --> key_name -->  --> Permanent Zipcode
+2017-05-31 02:40:48 --> applicants --> insert --> recruit_id -->  --> 1
+2017-05-31 02:40:48 --> applicants --> insert --> key_id -->  --> 174
+2017-05-31 02:40:48 --> applicants --> insert --> key -->  --> permanent_add_no
+2017-05-31 02:40:48 --> applicants --> insert --> sequence -->  --> 2
+2017-05-31 02:40:48 --> applicants --> insert --> key_name -->  --> Permanent No.
+2017-05-31 02:40:48 --> applicants --> insert --> recruit_id -->  --> 1
+2017-05-31 02:40:48 --> applicants --> insert --> key_id -->  --> 175
+2017-05-31 02:40:48 --> applicants --> insert --> key -->  --> permanent_add_village
+2017-05-31 02:40:48 --> applicants --> insert --> sequence -->  --> 2
+2017-05-31 02:40:48 --> applicants --> insert --> key_name -->  --> Permanent Subdivision/Village
+2017-05-31 02:40:48 --> applicants --> insert --> recruit_id -->  --> 1
+2017-05-31 02:40:48 --> applicants --> insert --> key_id -->  --> 176
+2017-05-31 02:40:48 --> applicants --> insert --> key -->  --> permanent_town
+2017-05-31 02:40:48 --> applicants --> insert --> sequence -->  --> 2
+2017-05-31 02:40:48 --> applicants --> insert --> key_name -->  --> Permanent Town
+2017-05-31 02:40:48 --> applicants --> insert --> recruit_id -->  --> 1
+2017-05-31 02:40:48 --> applicants --> insert --> key_id -->  --> 16
+2017-05-31 02:40:48 --> applicants --> insert --> key -->  --> emergency_name
+2017-05-31 02:40:48 --> applicants --> insert --> sequence -->  --> 2
+2017-05-31 02:40:48 --> applicants --> insert --> key_name -->  --> Contact Name
+2017-05-31 02:40:48 --> applicants --> insert --> recruit_id -->  --> 1
+2017-05-31 02:40:48 --> applicants --> insert --> key_id -->  --> 17
+2017-05-31 02:40:48 --> applicants --> insert --> key -->  --> emergency_relationship
+2017-05-31 02:40:48 --> applicants --> insert --> sequence -->  --> 2
+2017-05-31 02:40:48 --> applicants --> insert --> key_name -->  --> Relationship
+2017-05-31 02:40:48 --> applicants --> insert --> recruit_id -->  --> 1
+2017-05-31 02:40:48 --> applicants --> insert --> key_id -->  --> 18
+2017-05-31 02:40:49 --> applicants --> insert --> key -->  --> emergency_phone
+2017-05-31 02:40:49 --> applicants --> insert --> sequence -->  --> 2
+2017-05-31 02:40:49 --> applicants --> insert --> key_name -->  --> Contact Phone
+2017-05-31 02:40:49 --> applicants --> insert --> recruit_id -->  --> 1
+2017-05-31 02:40:49 --> applicants --> insert --> key_id -->  --> 19
+2017-05-31 02:40:49 --> applicants --> insert --> key -->  --> emergency_mobile
+2017-05-31 02:40:49 --> applicants --> insert --> sequence -->  --> 2
+2017-05-31 02:40:49 --> applicants --> insert --> key_name -->  --> Contact Mobile
+2017-05-31 02:40:49 --> applicants --> insert --> recruit_id -->  --> 1
+2017-05-31 02:40:49 --> applicants --> insert --> key_id -->  --> 20
+2017-05-31 02:40:49 --> applicants --> insert --> key -->  --> emergency_address
+2017-05-31 02:40:49 --> applicants --> insert --> sequence -->  --> 2
+2017-05-31 02:40:49 --> applicants --> insert --> key_name -->  --> Contact Address
+2017-05-31 02:40:49 --> applicants --> insert --> recruit_id -->  --> 1
+2017-05-31 02:40:49 --> applicants --> insert --> key_id -->  --> 21
+2017-05-31 02:40:49 --> applicants --> insert --> key -->  --> emergency_city
+2017-05-31 02:40:49 --> applicants --> insert --> sequence -->  --> 2
+2017-05-31 02:40:49 --> applicants --> insert --> key_name -->  --> Contact City
+2017-05-31 02:40:49 --> applicants --> insert --> recruit_id -->  --> 1
+2017-05-31 02:40:49 --> applicants --> insert --> key_id -->  --> 92
+2017-05-31 02:40:49 --> applicants --> insert --> key -->  --> emergency_country
+2017-05-31 02:40:49 --> applicants --> insert --> sequence -->  --> 2
+2017-05-31 02:40:49 --> applicants --> insert --> key_name -->  --> Country
+2017-05-31 02:40:49 --> applicants --> insert --> recruit_id -->  --> 1
+2017-05-31 02:40:49 --> applicants --> insert --> key_id -->  --> 22
+2017-05-31 02:40:49 --> applicants --> insert --> key -->  --> emergency_zip_code
+2017-05-31 02:40:49 --> applicants --> insert --> sequence -->  --> 2
+2017-05-31 02:40:49 --> applicants --> insert --> key_name -->  --> Contact Zip Code
+2017-05-31 11:16:38 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-05-31 11:16:38 --> applicant_monitoring --> insert --> date -->  --> 2017-07-07 11:16:00
+2017-05-31 11:16:38 --> applicant_monitoring --> insert --> user_id -->  --> 121
+2017-05-31 11:16:38 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2017-05-31 11:16:38 --> applicant_monitoring --> insert --> schedule_id -->  --> 1
+2017-05-31 11:16:38 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2017-05-31 11:16:38 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2017-05-31 15:29:23 --> authentication --> logout --> logout -->  --> 

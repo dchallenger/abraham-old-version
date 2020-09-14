@@ -1,0 +1,66 @@
+POLONAN, MARIA LEE (31002) --> 2018-04-22 13:42:08 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-22 13:42:58 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-22 13:45:11 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2018-04-22 13:45:27 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2018-04-22 13:48:56 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-22 13:49:10 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-22 14:12:28 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-22 14:12:47 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-22 14:13:37 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2018-04-22 14:13:49 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2018-04-22 14:14:21 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-22 14:14:34 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-22 14:15:33 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2018-04-22 14:15:46 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2018-04-22 14:16:39 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2018-04-22 14:16:51 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2018-04-22 14:30:36 --> performance_appraisal --> insert --> planning_id -->  --> 5
+ALICANTE, LISSA (30991) --> 2018-04-22 14:30:36 --> performance_appraisal --> insert --> date_from -->  --> 2018-04-01
+ALICANTE, LISSA (30991) --> 2018-04-22 14:30:36 --> performance_appraisal --> insert --> date_to -->  --> 2018-04-30
+ALICANTE, LISSA (30991) --> 2018-04-22 14:30:36 --> performance_appraisal --> insert --> year -->  --> 2018
+ALICANTE, LISSA (30991) --> 2018-04-22 14:30:36 --> performance_appraisal --> insert --> performance_type_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2018-04-22 14:30:36 --> performance_appraisal --> insert --> template_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2018-04-22 14:30:36 --> performance_appraisal --> insert --> employment_status_id -->  --> 3,1,2
+ALICANTE, LISSA (30991) --> 2018-04-22 14:30:36 --> performance_appraisal --> insert --> filter_by -->  --> 1
+ALICANTE, LISSA (30991) --> 2018-04-22 14:30:37 --> performance_appraisal --> insert --> filter_id -->  --> 1,2,3,13,4,6,5,7,12,10,8,9,11
+ALICANTE, LISSA (30991) --> 2018-04-22 14:30:37 --> performance_appraisal --> insert --> notes -->  --> test
+ALICANTE, LISSA (30991) --> 2018-04-22 14:30:37 --> performance_appraisal --> insert --> status_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2018-04-22 14:31:39 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-22 14:31:54 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-22 15:24:33 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2018-04-22 15:25:01 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2018-04-22 15:43:27 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-22 15:43:40 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-22 15:44:53 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2018-04-22 15:45:08 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2018-04-22 15:46:20 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:46:35 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:11 --> appraisal_individual_rate --> update --> selfrate_date -->  --> 2018-04-22
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:53:04 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-22 15:53:19 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-22 15:57:19 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2018-04-22 15:57:31 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2018-04-22 16:00:06 --> appraisal_individual_rate --> update --> selfrate_date -->  --> 2018-04-22
+ALICANTE, LISSA (30991) --> 2018-04-22 16:00:26 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-22 16:00:37 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-22 16:03:41 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2018-04-22 16:03:52 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2018-04-22 16:05:03 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-22 16:05:17 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-22 16:08:01 --> performance_appraisal --> update --> status_id --> 1 --> 0
+Admin, Teemworx (admin) --> 2018-04-22 21:11:39 --> authentication --> logout --> logout -->  --> 
+() --> 2018-04-22 21:11:47 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-22 21:11:49 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-22 21:12:59 --> applicant_monitoring --> insert --> reports_to -->  --> 200
+Admin, Teemworx (admin) --> 2018-04-22 21:12:59 --> applicant_monitoring --> insert --> employment_status_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-22 21:12:59 --> applicant_monitoring --> insert --> no_months -->  --> 6
+Admin, Teemworx (admin) --> 2018-04-22 21:12:59 --> applicant_monitoring --> insert --> start_date -->  --> 2018-04-22
+Admin, Teemworx (admin) --> 2018-04-22 21:12:59 --> applicant_monitoring --> insert --> end_date -->  --> 2018-10-22
+Admin, Teemworx (admin) --> 2018-04-22 21:12:59 --> applicant_monitoring --> insert --> accept_offer -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-22 21:12:59 --> applicant_monitoring --> insert --> process_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-22 21:12:59 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+Admin, Teemworx (admin) --> 2018-04-22 21:13:00 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+Admin, Teemworx (admin) --> 2018-04-22 21:13:05 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+Admin, Teemworx (admin) --> 2018-04-22 21:13:05 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+Admin, Teemworx (admin) --> 2018-04-22 21:43:23 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-22 21:43:27 --> authentication --> login --> login -->  --> 

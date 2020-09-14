@@ -1,0 +1,41 @@
+2019-07-03 13:32:45 --> authentication --> login --> login -->  --> 
+2019-07-03 13:33:16 --> authentication --> logout --> logout -->  --> 
+2019-07-03 13:34:50 --> authentication --> login --> login -->  --> 
+2019-07-03 13:35:11 --> authentication --> logout --> logout -->  --> 
+2019-07-03 13:39:24 --> authentication --> login --> login -->  --> 
+2019-07-03 13:39:37 --> authentication --> logout --> logout -->  --> 
+2019-07-03 13:39:43 --> authentication --> login --> login -->  --> 
+2019-07-03 13:39:53 --> authentication --> logout --> logout -->  --> 
+2019-07-03 13:41:03 --> authentication --> login --> login -->  --> 
+2019-07-03 13:41:20 --> authentication --> logout --> logout -->  --> 
+2019-07-03 13:44:48 --> authentication --> login --> login -->  --> 
+2019-07-03 13:48:03 --> authentication --> logout --> logout -->  --> 
+2019-07-03 13:49:06 --> authentication --> login --> login -->  --> 
+2019-07-03 14:11:14 --> mrf --> insert --> to -->  --> joselito_f@abrahamholdings.ph
+2019-07-03 14:11:14 --> mrf --> insert --> subject -->  --> PRF for approval
+2019-07-03 14:11:14 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear FELIPE, JOSELITO ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by DONES, JASMIN  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+2019-07-03 14:12:00 --> authentication --> logout --> logout -->  --> 
+2019-07-03 14:13:31 --> authentication --> login --> login -->  --> 
+2019-07-03 14:14:00 --> authentication --> logout --> logout -->  --> 
+2019-07-03 14:24:03 --> authentication --> login --> login -->  --> 
+2019-07-03 14:39:40 --> authentication --> logout --> logout -->  --> 

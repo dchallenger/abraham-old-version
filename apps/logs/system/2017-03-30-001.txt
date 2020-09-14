@@ -1,0 +1,6 @@
+Admin, System (admin) --> 2017-03-30 09:54:09 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-30 10:02:04 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-03-30 10:02:15 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-03-30 13:26:05 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-03-30 13:58:15 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-03-30 13:58:16 --> authentication --> login --> login -->  --> 

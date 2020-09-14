@@ -1,0 +1,43 @@
+Admin, Teemworx (admin) --> 2017-05-18 09:20:13 --> payroll_employee --> update --> bank_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-18 09:20:13 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-18 09:20:13 --> payroll_employee --> update --> whole_half --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-18 10:38:49 --> authentication --> logout --> logout -->  --> 
+RUMBAOA, FLORANTE (00426) --> 2017-05-18 10:39:22 --> authentication --> login --> login -->  --> 
+RUMBAOA, FLORANTE (00426) --> 2017-05-18 10:42:27 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-18 10:43:30 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-18 11:27:02 --> authentication --> logout --> logout -->  --> 
+RUMBAOA, FLORANTE (00426) --> 2017-05-18 11:27:25 --> authentication --> login --> login -->  --> 
+RUMBAOA, FLORANTE (00426) --> 2017-05-18 11:53:30 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-18 11:53:44 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-18 11:56:26 --> authentication --> logout --> logout -->  --> 
+RUMBAOA, FLORANTE (00426) --> 2017-05-18 11:56:38 --> authentication --> login --> login -->  --> 
+RUMBAOA, FLORANTE (00426) --> 2017-05-18 14:04:17 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-18 14:04:25 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-18 14:09:44 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-18 14:16:24 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-18 14:17:50 --> authentication --> logout --> logout -->  --> 
+RUMBAOA, FLORANTE (00426) --> 2017-05-18 14:18:09 --> authentication --> login --> login -->  --> 
+RUMBAOA, FLORANTE (00426) --> 2017-05-18 14:26:48 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-18 14:26:55 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-18 15:06:56 --> bank_settings --> update --> bank_type -->  --> sddadsf
+Admin, Teemworx (admin) --> 2017-05-18 15:06:57 --> bank_settings --> update --> account_name -->  --> Abraham
+Admin, Teemworx (admin) --> 2017-05-18 15:06:57 --> bank_settings --> update --> account_no -->  --> asdfdsf
+Admin, Teemworx (admin) --> 2017-05-18 15:09:48 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-18 15:10:02 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-18 15:11:31 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-18 15:13:05 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-18 15:13:41 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-18 15:13:41 --> payroll_employee --> update --> whole_half --> 1 --> 0
+Admin, Teemworx (admin) --> 2017-05-18 15:13:53 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-18 15:13:53 --> payroll_employee --> update --> whole_half --> 0 --> 1
+Admin, Teemworx (admin) --> 2017-05-18 15:16:14 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-18 15:19:38 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-18 15:19:39 --> payroll_employee --> update --> whole_half --> 0 --> 1
+Admin, Teemworx (admin) --> 2017-05-18 15:20:00 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-18 15:20:00 --> payroll_employee --> update --> whole_half --> 1 --> 0
+Admin, Teemworx (admin) --> 2017-05-18 15:20:38 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-18 15:20:38 --> payroll_employee --> update --> whole_half --> 0 --> 1
+Admin, Teemworx (admin) --> 2017-05-18 15:20:56 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-05-18 15:20:56 --> payroll_employee --> update --> whole_half --> 1 --> 0
+Admin, Teemworx (admin) --> 2017-05-18 22:22:50 --> authentication --> logout --> logout -->  --> 
+RUMBAOA, FLORANTE (00426) --> 2017-05-18 22:24:33 --> authentication --> login --> login -->  --> 

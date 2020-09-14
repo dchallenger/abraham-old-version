@@ -1,0 +1,57 @@
+Admin, Teemworx (admin) --> 2018-04-25 10:33:51 --> authentication --> logout --> logout -->  --> 
+VILLAMOR, ARNEL (33047) --> 2018-04-25 10:34:42 --> authentication --> login --> login -->  --> 
+() --> 2018-04-25 10:36:01 --> authentication --> logout --> logout -->  --> 
+VILLAMOR, ARNEL (33047) --> 2018-04-25 10:36:54 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-25 10:37:02 --> authentication --> login --> login -->  --> 
+() --> 2018-04-25 10:37:40 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-25 10:38:03 --> authentication --> logout --> logout -->  --> 
+VILLAMOR, ARNEL (33047) --> 2018-04-25 10:38:15 --> authentication --> login --> login -->  --> 
+() --> 2018-04-25 10:39:01 --> authentication --> logout --> logout -->  --> 
+VILLAMOR, ARNEL (33047) --> 2018-04-25 10:59:58 --> authentication --> logout --> logout -->  --> 
+() --> 2018-04-25 11:00:00 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-25 11:00:52 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-25 11:01:55 --> authentication --> logout --> logout -->  --> 
+() --> 2018-04-25 11:01:58 --> authentication --> logout --> logout -->  --> 
+CARMEN, MA RITA (00108) --> 2018-04-25 11:02:00 --> authentication --> login --> login -->  --> 
+CARMEN, MA RITA (00108) --> 2018-04-25 11:03:31 --> mrf --> insert --> to -->  --> dk@abrahamholdings.ph
+CARMEN, MA RITA (00108) --> 2018-04-25 11:03:31 --> mrf --> insert --> subject -->  --> PRF for approval
+CARMEN, MA RITA (00108) --> 2018-04-25 11:03:31 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear KOE, ERLINDA ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by CARMEN, MA RITA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CARMEN, MA RITA (00108) --> 2018-04-25 12:06:12 --> authentication --> logout --> logout -->  --> 
+() --> 2018-04-25 12:06:12 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-25 12:06:19 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-25 14:23:58 --> authentication --> logout --> logout -->  --> 
+VILLAMOR, ARNEL (33047) --> 2018-04-25 14:24:18 --> authentication --> login --> login -->  --> 
+() --> 2018-04-25 14:25:02 --> authentication --> logout --> logout -->  --> 
+VILLAMOR, ARNEL (33047) --> 2018-04-25 14:25:19 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-25 14:25:27 --> authentication --> login --> login -->  --> 
+() --> 2018-04-25 14:25:32 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-25 14:27:21 --> authentication --> logout --> logout -->  --> 
+() --> 2018-04-25 14:27:31 --> authentication --> logout --> logout -->  --> 
+VILLAMOR, ARNEL (33047) --> 2018-04-25 14:27:35 --> authentication --> login --> login -->  --> 
+VILLAMOR, ARNEL (33047) --> 2018-04-25 14:28:29 --> authentication --> logout --> logout -->  --> 
+() --> 2018-04-25 14:28:32 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-04-25 14:28:47 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-04-25 14:30:01 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-25 14:30:46 --> authentication --> login --> login -->  --> 
+() --> 2018-04-25 14:30:51 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-25 15:55:01 --> authentication --> login --> login -->  --> 

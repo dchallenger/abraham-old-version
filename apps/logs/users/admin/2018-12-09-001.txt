@@ -1,0 +1,6 @@
+2018-12-09 15:09:31 --> authentication --> login --> login -->  --> 
+2018-12-09 07:22:02 --> report_generator --> insert --> report_code -->  --> OTSUMMARY
+2018-12-09 07:22:03 --> report_generator --> insert --> report_name -->  --> Overtime Summary Report
+2018-12-09 07:22:03 --> report_generator --> insert --> description -->  --> Overtime Summary Report
+2018-12-09 07:22:03 --> report_generator --> insert --> category_id -->  --> 1
+2018-12-09 07:22:03 --> report_generator --> insert --> roles -->  --> 1,2,6,8,10,11

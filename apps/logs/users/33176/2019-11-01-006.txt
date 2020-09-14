@@ -1,0 +1,67 @@
+2019-11-01 23:06:33 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:06:33 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:33 --> applicants --> insert --> key_id -->  --> 77
+2019-11-01 23:06:33 --> applicants --> insert --> key -->  --> affiliation-month-end
+2019-11-01 23:06:33 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:34 --> applicants --> insert --> key_name -->  --> Month End
+2019-11-01 23:06:34 --> applicants --> insert --> key_value -->  --> January
+2019-11-01 23:06:34 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:06:34 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:34 --> applicants --> insert --> key_id -->  --> 76
+2019-11-01 23:06:34 --> applicants --> insert --> key -->  --> affiliation-year-start
+2019-11-01 23:06:34 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:34 --> applicants --> insert --> key_name -->  --> Year Start
+2019-11-01 23:06:34 --> applicants --> insert --> key_value -->  --> 3032
+2019-11-01 23:06:34 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:06:34 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:34 --> applicants --> insert --> key_id -->  --> 78
+2019-11-01 23:06:34 --> applicants --> insert --> key -->  --> affiliation-year-end
+2019-11-01 23:06:34 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:34 --> applicants --> insert --> key_name -->  --> Year End
+2019-11-01 23:06:34 --> applicants --> insert --> key_value -->  --> 2344
+2019-11-01 23:06:50 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:50 --> applicants --> insert --> key_id -->  --> 79
+2019-11-01 23:06:50 --> applicants --> insert --> key -->  --> accountabilities-name
+2019-11-01 23:06:50 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:50 --> applicants --> insert --> key_name -->  --> Name
+2019-11-01 23:06:50 --> applicants --> insert --> key_value -->  --> er
+2019-11-01 23:06:50 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:50 --> applicants --> insert --> key_id -->  --> 80
+2019-11-01 23:06:50 --> applicants --> insert --> key -->  --> accountabilities-code
+2019-11-01 23:06:50 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:50 --> applicants --> insert --> key_name -->  --> Code
+2019-11-01 23:06:50 --> applicants --> insert --> key_value -->  --> wert
+2019-11-01 23:06:50 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:50 --> applicants --> insert --> key_id -->  --> 81
+2019-11-01 23:06:50 --> applicants --> insert --> key -->  --> accountabilities-quantity
+2019-11-01 23:06:50 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:50 --> applicants --> insert --> key_name -->  --> Quantity
+2019-11-01 23:06:50 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:50 --> applicants --> insert --> key_id -->  --> 82
+2019-11-01 23:06:50 --> applicants --> insert --> key -->  --> accountabilities-date-issued
+2019-11-01 23:06:51 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:51 --> applicants --> insert --> key_name -->  --> Date Issued
+2019-11-01 23:06:51 --> applicants --> insert --> key_value -->  --> November 02, 2019
+2019-11-01 23:06:51 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:51 --> applicants --> insert --> key_id -->  --> 85
+2019-11-01 23:06:51 --> applicants --> insert --> key -->  --> accountabilities-date-returned
+2019-11-01 23:06:51 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:51 --> applicants --> insert --> key_name -->  --> Date Returned
+2019-11-01 23:06:51 --> applicants --> insert --> key_value -->  --> November 23, 2019
+2019-11-01 23:06:51 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:51 --> applicants --> insert --> key_id -->  --> 88
+2019-11-01 23:06:51 --> applicants --> insert --> key -->  --> accountabilities-remarks
+2019-11-01 23:06:51 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:51 --> applicants --> insert --> key_name -->  --> Remarks
+2019-11-01 23:07:17 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:07:17 --> applicants --> insert --> key_id -->  --> 89
+2019-11-01 23:07:17 --> applicants --> insert --> key -->  --> attachment-name
+2019-11-01 23:07:17 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:07:18 --> applicants --> insert --> key_name -->  --> File Name
+2019-11-01 23:07:18 --> applicants --> insert --> key_value -->  --> sretretew
+2019-11-01 23:07:18 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:07:18 --> applicants --> insert --> key_id -->  --> 91
+2019-11-01 23:07:18 --> applicants --> insert --> key -->  --> attachment-file
+2019-11-01 23:07:18 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:07:18 --> applicants --> insert --> key_name -->  --> File
+2019-11-01 23:07:18 --> applicants --> insert --> key_value -->  --> uploads/applicants/GENESIS.doc

@@ -1,0 +1,38 @@
+2017-03-21 09:48:54 --> authentication --> login --> login -->  --> 
+2017-03-21 09:50:06 --> form_policy --> insert --> class_id -->  --> 263
+2017-03-21 09:50:06 --> form_policy --> insert --> class_value -->  --> 30
+2017-03-21 09:50:06 --> form_policy --> insert --> severity -->  --> Strict Compliance
+2017-03-21 09:50:06 --> form_policy --> insert --> company_id -->  --> 1,2,3,4,16
+2017-03-21 09:50:20 --> authentication --> logout --> logout -->  --> 
+2017-03-21 09:53:22 --> authentication --> login --> login -->  --> 
+2017-03-21 09:54:08 --> form_policy --> delete --> id --> 135 --> 
+2017-03-21 09:54:56 --> authentication --> logout --> logout -->  --> 
+2017-03-21 10:16:50 --> authentication --> login --> login -->  --> 
+2017-03-21 10:19:42 --> authentication --> logout --> logout -->  --> 
+2017-03-21 10:27:33 --> authentication --> login --> login -->  --> 
+2017-03-21 10:28:44 --> authentication --> logout --> logout -->  --> 
+2017-03-21 10:42:30 --> authentication --> login --> login -->  --> 
+2017-03-21 10:49:54 --> authentication --> logout --> logout -->  --> 
+2017-03-21 10:52:46 --> authentication --> login --> login -->  --> 
+2017-03-21 11:39:38 --> authentication --> logout --> logout -->  --> 
+2017-03-21 13:02:55 --> authentication --> login --> login -->  --> 
+2017-03-21 13:14:46 --> authentication --> logout --> logout -->  --> 
+2017-03-21 14:29:13 --> authentication --> login --> login -->  --> 
+2017-03-21 14:30:02 --> authentication --> logout --> logout -->  --> 
+2017-03-21 14:42:18 --> authentication --> login --> login -->  --> 
+2017-03-21 15:03:55 --> authentication --> logout --> logout -->  --> 
+2017-03-21 15:20:26 --> authentication --> login --> login -->  --> 
+2017-03-21 15:30:46 --> authentication --> logout --> logout -->  --> 
+2017-03-21 15:31:29 --> authentication --> login --> login -->  --> 
+2017-03-21 15:49:48 --> authentication --> logout --> logout -->  --> 
+2017-03-21 15:58:56 --> authentication --> login --> login -->  --> 
+2017-03-21 16:30:39 --> leave_balance_admin --> insert --> year -->  --> 2017
+2017-03-21 16:30:39 --> leave_balance_admin --> insert --> user_id -->  --> 5
+2017-03-21 16:30:39 --> leave_balance_admin --> insert --> form_id -->  --> 21
+2017-03-21 16:30:39 --> leave_balance_admin --> insert --> previous -->  --> 0
+2017-03-21 16:30:39 --> leave_balance_admin --> insert --> current -->  --> 20
+2017-03-21 16:30:39 --> leave_balance_admin --> insert --> period_from -->  --> 2017-03-01
+2017-03-21 16:30:39 --> leave_balance_admin --> insert --> period_to -->  --> 2017-04-30
+2017-03-21 16:30:39 --> leave_balance_admin --> insert --> period_extension -->  --> 2017-04-30
+2017-03-21 16:30:44 --> authentication --> logout --> logout -->  --> 
+2017-03-21 16:32:21 --> authentication --> login --> login -->  --> 

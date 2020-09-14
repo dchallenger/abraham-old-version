@@ -1,0 +1,13 @@
+2017-06-01 16:38:35 --> authentication --> login --> login -->  --> 
+2017-06-01 16:41:17 --> incident_report --> insert --> involved_partners -->  --> 41
+2017-06-01 16:41:17 --> incident_report --> insert --> offense_id -->  --> 3
+2017-06-01 16:41:17 --> incident_report --> insert --> complainants -->  --> 93
+2017-06-01 16:41:17 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-06-01 01:00:00
+2017-06-01 16:41:17 --> incident_report --> insert --> attachments -->  --> uploads/incident_report/ca%20for%20sept%202015.jpg
+2017-06-01 16:41:17 --> incident_report --> insert --> witnesses -->  --> 15
+2017-06-01 16:41:17 --> incident_report --> insert --> violation_details -->  --> violation
+2017-06-01 16:41:17 --> incident_report --> insert --> damages -->  --> damages
+2017-06-01 16:41:17 --> incident_report --> insert --> incident_status_id -->  --> 2
+2017-06-01 16:41:17 --> incident_report --> insert --> date_sent -->  --> 2017-06-01 16:41:17
+2017-06-01 16:53:19 --> authentication --> logout --> logout -->  --> 
+2017-06-01 21:36:27 --> authentication --> login --> login -->  --> 

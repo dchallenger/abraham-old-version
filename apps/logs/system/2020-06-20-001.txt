@@ -1,0 +1,2 @@
+() --> 2020-06-20 14:06:01 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2020-06-20 15:12:03 --> authentication --> login --> login -->  --> 

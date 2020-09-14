@@ -1,0 +1,7 @@
+2017-05-30 20:21:20 --> authentication --> login --> login -->  --> 
+2017-05-30 20:22:00 --> authentication --> logout --> logout -->  --> 
+2017-05-30 20:32:16 --> authentication --> login --> login -->  --> 
+2017-05-30 20:33:25 --> authentication --> logout --> logout -->  --> 
+2017-05-30 20:34:34 --> authentication --> login --> login -->  --> 
+2017-05-30 20:35:10 --> authentication --> logout --> logout -->  --> 
+2017-05-30 20:35:27 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,9 @@
+Admin, Teemworx (admin) --> 2018-03-21 05:00:05 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-03-21 05:00:25 --> authentication --> login --> login -->  --> 
+() --> 2018-03-21 05:02:39 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-03-21 11:05:20 --> authentication --> logout --> logout -->  --> 
+PRESTOZA, MICHELLE (31108) --> 2018-03-21 11:05:25 --> authentication --> login --> login -->  --> 
+() --> 2018-03-21 11:05:27 --> authentication --> logout --> logout -->  --> 
+PRESTOZA, MICHELLE (31108) --> 2018-03-21 11:14:39 --> authentication --> logout --> logout -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-03-21 11:14:45 --> authentication --> login --> login -->  --> 
+() --> 2018-03-21 11:14:48 --> authentication --> logout --> logout -->  --> 

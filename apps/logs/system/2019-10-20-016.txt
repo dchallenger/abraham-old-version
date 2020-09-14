@@ -1,0 +1,135 @@
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:04 --> applicant_monitoring --> insert --> user_id -->  --> 1331
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:04 --> applicant_monitoring --> insert --> id_number -->  --> 33779
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:04 --> applicant_monitoring --> insert --> effectivity_date -->  --> 2019-11-01
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:04 --> applicant_monitoring --> insert --> alias -->  --> Garcia, Tirso
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:05 --> applicant_monitoring --> insert --> company_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:05 --> applicant_monitoring --> insert --> department_id -->  --> 9
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:05 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:05 --> applicant_monitoring --> insert --> location_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:05 --> applicant_monitoring --> insert --> user_id -->  --> 1331
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:05 --> applicant_monitoring --> insert --> partner_id -->  --> 1330
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:05 --> applicant_monitoring --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:05 --> applicant_monitoring --> insert --> lastname -->  --> Garcia
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:05 --> applicant_monitoring --> insert --> firstname -->  --> Tirso
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:05 --> applicant_monitoring --> insert --> middlename -->  --> Tamares
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:05 --> applicant_monitoring --> insert --> nickname -->  --> Jun
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:05 --> applicant_monitoring --> insert --> position_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:05 --> applicant_monitoring --> insert --> title -->  --> Mr.
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:05 --> applicant_monitoring --> insert --> birth_date -->  --> 1995-02-08
+ALICANTE, LISSA (30991) --> 2019-10-20 15:27:05 --> applicant_monitoring --> update --> partner_id --> 1329 --> 1330
+ALICANTE, LISSA (30991) --> 2019-10-20 15:33:22 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2019-10-20 15:33:41 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2019-10-20 15:34:19 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 15:34:39 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 15:38:43 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 15:38:55 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 15:45:23 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-10-20 15:45:35 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:01:33 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 16:01:40 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 16:03:32 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2019-10-20 16:03:38 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2019-10-20 16:04:33 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:04:47 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:05:46 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 16:05:58 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 16:07:25 --> applicant_monitoring --> insert --> process_id -->  --> 9
+ALICANTE, LISSA (30991) --> 2019-10-20 16:07:25 --> applicant_monitoring --> insert --> date -->  --> 2019-10-20 16:16:00
+ALICANTE, LISSA (30991) --> 2019-10-20 16:07:25 --> applicant_monitoring --> insert --> user_id -->  --> 9
+ALICANTE, LISSA (30991) --> 2019-10-20 16:07:25 --> applicant_monitoring --> insert --> location_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 16:07:25 --> applicant_monitoring --> insert --> schedule_id -->  --> 16
+ALICANTE, LISSA (30991) --> 2019-10-20 16:07:26 --> applicant_monitoring --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+ALICANTE, LISSA (30991) --> 2019-10-20 16:07:26 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+ALICANTE, LISSA (30991) --> 2019-10-20 16:07:26 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi NELSON CHAVEZ,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of MYLENE JOSE, for the position of ACCOUNT EXECUTIVE. Below are the details and schedule:</p>
+<p>
+	Applicant Name: MYLENE JOSE
+	<br>
+	Position: ACCOUNT EXECUTIVE
+	<br>
+	Date: October 20, 2019
+	<br>
+	Time: 04:16 pm
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+ALICANTE, LISSA (30991) --> 2019-10-20 16:07:26 --> applicant_monitoring --> insert --> to -->  --> mylene_j@livingangels.edu.ph
+ALICANTE, LISSA (30991) --> 2019-10-20 16:07:26 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+ALICANTE, LISSA (30991) --> 2019-10-20 16:07:26 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear MYLENE JOSE,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNT EXECUTIVE position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: October 20, 2019
+	<br>
+	Time: 04:16 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for NELSON CHAVEZ</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+ALICANTE, LISSA (30991) --> 2019-10-20 16:07:26 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+ALICANTE, LISSA (30991) --> 2019-10-20 16:07:26 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+ALICANTE, LISSA (30991) --> 2019-10-20 16:07:52 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:05 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:48 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:48 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:49 --> applicant_monitoring --> update --> process_id --> 0 --> 9
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:49 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:49 --> applicant_monitoring --> update --> result -->  --> Consider
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:49 --> applicant_monitoring --> insert --> interview_id -->  --> 16
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:49 --> applicant_monitoring --> insert --> key_id -->  --> 31
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:49 --> applicant_monitoring --> insert --> key -->  --> remarks
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:49 --> applicant_monitoring --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:49 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:49 --> applicant_monitoring --> insert --> interview_id -->  --> 16
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:49 --> applicant_monitoring --> insert --> key_id -->  --> 66
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:49 --> applicant_monitoring --> insert --> key -->  --> interviewer
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:49 --> applicant_monitoring --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:49 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:49 --> applicant_monitoring --> insert --> key_value -->  --> CHAVEZ, NELSON
+CHAVEZ, NELSON (00129) --> 2019-10-20 16:08:50 --> applicant_monitoring --> insert --> interview_id -->  --> 16

@@ -1,0 +1,7 @@
+ELISCUPIDES, ROWENA (00273) --> 2017-04-08 20:32:49 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-08 21:05:38 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-08 21:05:48 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-08 13:47:27 --> report_generator --> insert --> report_code -->  --> Time Record Schedule History
+Admin, System (admin) --> 2017-04-08 13:47:27 --> report_generator --> insert --> report_name -->  --> Time Record Schedule History Report
+Admin, System (admin) --> 2017-04-08 13:47:27 --> report_generator --> insert --> category_id -->  --> 1
+Admin, System (admin) --> 2017-04-08 13:47:27 --> report_generator --> insert --> roles -->  --> 1,2,3,23

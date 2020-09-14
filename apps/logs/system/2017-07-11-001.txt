@@ -1,0 +1,121 @@
+() --> 2017-07-11 09:43:24 --> authentication --> logout --> logout -->  --> 
+() --> 2017-07-11 09:43:37 --> authentication --> logout --> logout -->  --> 
+() --> 2017-07-11 09:45:04 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-11 09:47:12 --> authentication --> logout --> logout -->  --> 
+() --> 2017-07-11 09:47:15 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-11 09:47:27 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-11 09:48:19 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-11 09:48:37 --> authentication --> login --> login -->  --> 
+() --> 2017-07-11 09:50:41 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-11 09:50:49 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-11 10:04:03 --> authentication --> logout --> logout -->  --> 
+() --> 2017-07-11 10:04:08 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-11 10:04:16 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-11 10:12:45 --> module --> insert --> mod_code -->  --> coe
+Admin, Teemworx (admin) --> 2017-07-11 10:12:45 --> module --> insert --> route -->  --> partner/coe
+Admin, Teemworx (admin) --> 2017-07-11 10:12:45 --> module --> insert --> table -->  --> certificate_of_employment
+Admin, Teemworx (admin) --> 2017-07-11 10:12:45 --> module --> insert --> primary_key -->  --> coe_id
+Admin, Teemworx (admin) --> 2017-07-11 10:12:45 --> module --> insert --> enable_mass_action -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 10:12:45 --> module --> insert --> list_template_header -->  --> <th width="20%">Created by</th>
+<th width="22%">Title</th>
+<th width="17%" class="hidden-xs">Date Created</th>
+Admin, Teemworx (admin) --> 2017-07-11 10:12:45 --> module --> insert --> list_template -->  --> <tr class="record">
+	<td>
+		<a href="#" class="text-success">{{$createdbyname}}</a>
+		<br />
+		<span class="small">{{$login}}</span>
+	</td>
+	<td>
+		<a href="#" class="text-success">{{$resources_policies_title}}</a>
+	</td>
+    <td class="hidden-xs"><?php echo date("M-d",strtotime($resources_policies_created_on)); ?> <span class="text-muted small"><?php echo date("D",strtotime($resources_policies_created_on)); ?></span><br>
+        <span class="text-muted small"><?php echo date("Y",strtotime($resources_policies_created_on)); ?></span>
+    </td>
+	<td>
+		<div class="btn-group">
+			<a class="btn btn-xs text-muted" href="{{$quickedit_url}}"><i class="fa fa-pencil"></i> Edit</a>
+		</div>
+        @if( $options != "" )
+	        <div class="btn-group">
+	            <a class="btn btn-xs text-muted" href="#" data-close-others="true" data-toggle="dropdown"><i class="fa fa-gear"></i> Options</a>
+	            <ul class="dropdown-menu pull-right">
+		    		<li><a href="javascript: ajax_export({{$record_id}})" ><i class="fa fa-search"></i> View</a></li>
+		    		<li><a href="{{$export_url}}"><i class="fa fa-print"></i> Export</a></li>
+	            </ul>
+	        </div>
+        @endif
+		<!-- <div class="btn-group">
+			<a class="btn btn-xs text-muted" href="#" data-close-others="true" data-hover="dropdown" data-toggle="dropdown-toggle"><i class="fa fa-gear"></i> Options</a>
+			<ul class="dropdown-menu pull-right">
+			</ul>
+		</div>
+ -->	</td>
+</tr>
+Admin, Teemworx (admin) --> 2017-07-11 10:15:46 --> module --> update --> short_name -->  --> Certificate of Employment
+Admin, Teemworx (admin) --> 2017-07-11 10:15:46 --> module --> update --> long_name -->  --> Certificate of Employment
+Admin, Teemworx (admin) --> 2017-07-11 10:15:47 --> module --> update --> description -->  --> Certificate of Employment
+Admin, Teemworx (admin) --> 2017-07-11 15:02:10 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:10 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-07-11 15:02:10 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-07-11 15:02:10 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-07-11 15:02:11 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:11 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-07-11 15:02:11 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:11 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-11 15:02:11 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:11 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-07-11 15:02:11 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-07-11 15:02:11 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-11 15:02:11 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:11 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-07-11 15:02:11 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-07-11 15:02:11 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-11 15:02:11 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:11 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-07-11 15:02:11 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> action_id -->  --> 5
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> action_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> action_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> action_id -->  --> 8
+Admin, Teemworx (admin) --> 2017-07-11 15:02:12 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-11 15:02:13 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-07-11 15:02:13 --> profiles --> edit --> action_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-07-11 15:02:13 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-11 15:02:13 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-07-11 15:02:13 --> profiles --> edit --> action_id -->  --> 10
+Admin, Teemworx (admin) --> 2017-07-11 15:02:13 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-11 15:02:13 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:13 --> profiles --> edit --> mod_id -->  --> 261
+Admin, Teemworx (admin) --> 2017-07-11 15:02:13 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:13 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-11 15:02:13 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:13 --> profiles --> edit --> mod_id -->  --> 261
+Admin, Teemworx (admin) --> 2017-07-11 15:02:13 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-07-11 15:02:14 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-11 15:02:14 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:14 --> profiles --> edit --> mod_id -->  --> 261
+Admin, Teemworx (admin) --> 2017-07-11 15:02:14 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-07-11 15:02:14 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-11 15:02:14 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:14 --> profiles --> edit --> mod_id -->  --> 261
+Admin, Teemworx (admin) --> 2017-07-11 15:02:14 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-07-11 15:02:14 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-11 15:02:14 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-11 15:02:14 --> profiles --> edit --> mod_id -->  --> 261
+Admin, Teemworx (admin) --> 2017-07-11 15:02:14 --> profiles --> edit --> action_id -->  --> 5
+Admin, Teemworx (admin) --> 2017-07-11 15:02:14 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-11 15:02:14 --> profiles --> edit --> profile_id -->  --> 1

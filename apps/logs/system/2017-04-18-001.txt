@@ -1,0 +1,56 @@
+LOPEZ, PAOLO (02115) --> 2017-04-18 13:48:30 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-18 14:05:58 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-18 14:06:35 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-18 15:38:49 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-04-18 15:39:08 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-04-18 15:40:33 --> code_discipline --> insert --> offense_category_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-18 15:40:33 --> code_discipline --> insert --> offense_level_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-18 15:40:33 --> code_discipline --> insert --> offense -->  --> 1.01 Stealing, misappropriating or embezzling of company funds or property (E)
+Admin, Teemworx (admin) --> 2017-04-18 15:43:49 --> offense_sanction --> insert --> sanction_category_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-04-18 15:43:49 --> offense_sanction --> insert --> offense_level_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-18 15:43:49 --> offense_sanction --> insert --> sanction -->  --> Dismissal
+Admin, Teemworx (admin) --> 2017-04-18 15:45:48 --> offense_sanction --> update --> sanction_category_id --> 4 --> 1
+Admin, Teemworx (admin) --> 2017-04-18 15:45:48 --> offense_sanction --> update --> sanction --> Dismissal --> Verbal
+Admin, Teemworx (admin) --> 2017-04-18 15:46:32 --> offense_sanction --> insert --> sanction_category_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-04-18 15:46:32 --> offense_sanction --> insert --> offense_level_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-18 15:46:32 --> offense_sanction --> insert --> sanction -->  --> Written
+Admin, Teemworx (admin) --> 2017-04-18 15:46:43 --> offense_sanction --> insert --> sanction_category_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-04-18 15:46:43 --> offense_sanction --> insert --> offense_level_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-04-18 15:46:43 --> offense_sanction --> insert --> sanction -->  --> Written
+Admin, Teemworx (admin) --> 2017-04-18 15:47:14 --> offense_sanction --> insert --> sanction_category_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-04-18 15:47:14 --> offense_sanction --> insert --> offense_level_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-18 15:47:14 --> offense_sanction --> insert --> sanction -->  --> 6 days suspension
+Admin, Teemworx (admin) --> 2017-04-18 15:47:40 --> offense_sanction --> insert --> sanction_category_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-04-18 15:47:40 --> offense_sanction --> insert --> offense_level_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-18 15:47:40 --> offense_sanction --> insert --> sanction -->  --> 12 days suspension
+Admin, Teemworx (admin) --> 2017-04-18 15:47:56 --> offense_sanction --> insert --> sanction_category_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-04-18 15:47:56 --> offense_sanction --> insert --> offense_level_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-04-18 15:47:56 --> offense_sanction --> insert --> sanction -->  --> 6 days suspension
+Admin, Teemworx (admin) --> 2017-04-18 15:48:10 --> offense_sanction --> insert --> sanction_category_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-04-18 15:48:10 --> offense_sanction --> insert --> offense_level_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-04-18 15:48:10 --> offense_sanction --> insert --> sanction -->  --> 12 days suspension
+Admin, Teemworx (admin) --> 2017-04-18 15:48:21 --> offense_sanction --> insert --> sanction_category_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-04-18 15:48:21 --> offense_sanction --> insert --> offense_level_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-04-18 15:48:21 --> offense_sanction --> insert --> sanction -->  --> 6 days suspension
+Admin, Teemworx (admin) --> 2017-04-18 15:48:45 --> offense_sanction --> insert --> sanction_category_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-04-18 15:48:45 --> offense_sanction --> insert --> offense_level_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-04-18 15:48:45 --> offense_sanction --> insert --> sanction -->  --> 12 days suspension
+Admin, Teemworx (admin) --> 2017-04-18 15:49:01 --> offense_sanction --> insert --> sanction_category_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-04-18 15:49:01 --> offense_sanction --> insert --> offense_level_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-04-18 15:49:01 --> offense_sanction --> insert --> sanction -->  --> 12 days suspension
+Admin, Teemworx (admin) --> 2017-04-18 15:49:16 --> offense_sanction --> insert --> sanction_category_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-04-18 15:49:16 --> offense_sanction --> insert --> offense_level_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-18 15:49:16 --> offense_sanction --> insert --> sanction -->  --> Dismissal
+Admin, Teemworx (admin) --> 2017-04-18 15:49:24 --> offense_sanction --> insert --> sanction_category_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-04-18 15:49:24 --> offense_sanction --> insert --> offense_level_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-04-18 15:49:25 --> offense_sanction --> insert --> sanction -->  --> Dismissal
+Admin, Teemworx (admin) --> 2017-04-18 15:49:33 --> offense_sanction --> insert --> sanction_category_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-04-18 15:49:33 --> offense_sanction --> insert --> offense_level_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-04-18 15:49:33 --> offense_sanction --> insert --> sanction -->  --> Dismissal
+Admin, Teemworx (admin) --> 2017-04-18 15:49:42 --> offense_sanction --> insert --> sanction_category_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-04-18 15:49:42 --> offense_sanction --> insert --> offense_level_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-04-18 15:49:42 --> offense_sanction --> insert --> sanction -->  --> Dismissal
+Admin, Teemworx (admin) --> 2017-04-18 15:49:50 --> offense_sanction --> insert --> sanction_category_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-04-18 15:49:50 --> offense_sanction --> insert --> offense_level_id -->  --> 5
+Admin, Teemworx (admin) --> 2017-04-18 15:49:50 --> offense_sanction --> insert --> sanction -->  --> Dismissal
+Admin, Teemworx (admin) --> 2017-04-18 17:07:29 --> authentication --> logout --> logout -->  --> 

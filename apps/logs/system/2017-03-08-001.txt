@@ -1,0 +1,45 @@
+Admin, System (admin) --> 2017-03-08 09:51:25 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-08 10:06:38 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-08 10:37:14 --> form_policy --> update --> class_id --> 294 --> 295
+Admin, System (admin) --> 2017-03-08 10:37:14 --> form_policy --> update --> company_id --> 1,2,3,4 --> 1,2
+Admin, System (admin) --> 2017-03-08 10:38:11 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-08 10:38:32 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-08 10:39:32 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-08 10:45:18 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-08 10:45:30 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-08 10:46:42 --> form_policy --> update --> severity --> Warning --> Strict Compliance
+Admin, System (admin) --> 2017-03-08 10:46:54 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-08 10:47:04 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-08 11:15:15 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-08 11:15:25 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-08 11:16:41 --> form_policy --> update --> class_value --> YES --> NO
+Admin, System (admin) --> 2017-03-08 11:16:41 --> form_policy --> update --> company_id --> 1,2,3,4 --> 1,2
+Admin, System (admin) --> 2017-03-08 11:18:38 --> form_policy --> update --> class_value --> YES --> NO
+Admin, System (admin) --> 2017-03-08 11:18:38 --> form_policy --> update --> company_id --> 1,2,3,4 --> 1,2
+Admin, System (admin) --> 2017-03-08 11:19:16 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-08 11:19:25 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-08 11:20:17 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-08 11:20:26 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-08 13:23:50 --> form_policy --> insert --> class_id -->  --> 641
+Admin, System (admin) --> 2017-03-08 13:23:50 --> form_policy --> insert --> class_value -->  --> YES
+Admin, System (admin) --> 2017-03-08 13:23:50 --> form_policy --> insert --> severity -->  --> Strict Compliance
+Admin, System (admin) --> 2017-03-08 13:23:50 --> form_policy --> insert --> company_id -->  --> 1,2
+Admin, System (admin) --> 2017-03-08 13:25:08 --> form_policy --> update --> description -->  --> Allow filling of home leave
+Admin, System (admin) --> 2017-03-08 14:08:11 --> form_policy --> insert --> class_id -->  --> 674
+Admin, System (admin) --> 2017-03-08 14:08:11 --> form_policy --> insert --> class_value -->  --> YES
+Admin, System (admin) --> 2017-03-08 14:08:11 --> form_policy --> insert --> description -->  --> Filing allow for leave incentive program
+Admin, System (admin) --> 2017-03-08 14:08:11 --> form_policy --> insert --> severity -->  --> Strict Compliance
+Admin, System (admin) --> 2017-03-08 14:08:11 --> form_policy --> insert --> company_id -->  --> 1,2
+Admin, System (admin) --> 2017-03-08 14:08:47 --> form_policy --> insert --> class_id -->  --> 707
+Admin, System (admin) --> 2017-03-08 14:08:47 --> form_policy --> insert --> class_value -->  --> YES
+Admin, System (admin) --> 2017-03-08 14:08:47 --> form_policy --> insert --> description -->  --> Allow filing for force leave
+Admin, System (admin) --> 2017-03-08 14:08:47 --> form_policy --> insert --> severity -->  --> Strict Compliance
+Admin, System (admin) --> 2017-03-08 14:08:47 --> form_policy --> insert --> company_id -->  --> 1,2
+Admin, System (admin) --> 2017-03-08 15:45:30 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, System (admin) --> 2017-03-08 15:45:30 --> leave_balance_admin --> insert --> user_id -->  --> 5
+Admin, System (admin) --> 2017-03-08 15:45:30 --> leave_balance_admin --> insert --> form_id -->  --> 22
+Admin, System (admin) --> 2017-03-08 15:45:30 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, System (admin) --> 2017-03-08 15:45:30 --> leave_balance_admin --> insert --> current -->  --> 20
+Admin, System (admin) --> 2017-03-08 15:45:30 --> leave_balance_admin --> insert --> period_from -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-08 15:45:30 --> leave_balance_admin --> insert --> period_to -->  --> 1970-01-01
+Admin, System (admin) --> 2017-03-08 15:45:30 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01

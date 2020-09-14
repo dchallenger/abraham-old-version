@@ -1,0 +1,47 @@
+Admin, System (admin) --> 2017-03-28 04:58:53 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-28 04:59:20 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-03-28 04:59:50 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-03-28 09:58:02 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-28 09:58:44 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-28 10:02:39 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-03-28 10:02:57 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-03-28 13:00:00 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-28 13:42:33 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-28 13:43:27 --> company --> insert --> company -->  --> asd
+Admin, System (admin) --> 2017-03-28 13:43:27 --> company --> insert --> company_code -->  --> s
+Admin, System (admin) --> 2017-03-28 13:43:27 --> company --> insert --> address -->  --> asdf
+Admin, System (admin) --> 2017-03-28 13:43:27 --> company --> insert --> city_id -->  --> 15
+Admin, System (admin) --> 2017-03-28 13:43:27 --> company --> insert --> city -->  --> updated by trigger
+Admin, System (admin) --> 2017-03-28 13:43:27 --> company --> insert --> country_id -->  --> 15
+Admin, System (admin) --> 2017-03-28 13:43:27 --> company --> insert --> country -->  --> updated by trigger
+Admin, System (admin) --> 2017-03-28 13:43:27 --> company --> insert --> zipcode -->  --> 2323
+Admin, System (admin) --> 2017-03-28 13:43:27 --> company --> insert --> company_id -->  --> 14
+Admin, System (admin) --> 2017-03-28 13:43:27 --> company --> insert --> contact_type -->  --> Phone
+Admin, System (admin) --> 2017-03-28 13:43:27 --> company --> insert --> company_id -->  --> 14
+Admin, System (admin) --> 2017-03-28 13:43:27 --> company --> insert --> contact_type -->  --> Mobile
+Admin, System (admin) --> 2017-03-28 13:43:27 --> company --> insert --> company_id -->  --> 14
+Admin, System (admin) --> 2017-03-28 13:43:27 --> company --> insert --> contact_type -->  --> Fax
+Admin, System (admin) --> 2017-03-28 13:45:13 --> company --> update --> city --> Baguio City --> updated by trigger
+Admin, System (admin) --> 2017-03-28 13:45:13 --> company --> update --> country --> Austria --> updated by trigger
+Admin, System (admin) --> 2017-03-28 13:45:13 --> company --> insert --> company_id -->  --> 14
+Admin, System (admin) --> 2017-03-28 13:45:13 --> company --> insert --> contact_type -->  --> Phone
+Admin, System (admin) --> 2017-03-28 13:45:13 --> company --> insert --> company_id -->  --> 14
+Admin, System (admin) --> 2017-03-28 13:45:13 --> company --> insert --> contact_type -->  --> Mobile
+Admin, System (admin) --> 2017-03-28 13:45:13 --> company --> insert --> company_id -->  --> 14
+Admin, System (admin) --> 2017-03-28 13:45:13 --> company --> insert --> contact_type -->  --> Fax
+Admin, System (admin) --> 2017-03-28 13:46:33 --> company --> update --> city --> Baguio City --> updated by trigger
+Admin, System (admin) --> 2017-03-28 13:46:33 --> company --> update --> country --> Austria --> updated by trigger
+Admin, System (admin) --> 2017-03-28 13:46:33 --> company --> insert --> company_id -->  --> 14
+Admin, System (admin) --> 2017-03-28 13:46:33 --> company --> insert --> contact_type -->  --> Phone
+Admin, System (admin) --> 2017-03-28 13:46:33 --> company --> insert --> company_id -->  --> 14
+Admin, System (admin) --> 2017-03-28 13:46:33 --> company --> insert --> contact_type -->  --> Mobile
+Admin, System (admin) --> 2017-03-28 13:46:33 --> company --> insert --> company_id -->  --> 14
+Admin, System (admin) --> 2017-03-28 13:46:33 --> company --> insert --> contact_type -->  --> Fax
+Admin, System (admin) --> 2017-03-28 13:46:55 --> company --> update --> city --> Baguio City --> updated by trigger
+Admin, System (admin) --> 2017-03-28 13:46:55 --> company --> update --> country --> Austria --> updated by trigger
+Admin, System (admin) --> 2017-03-28 13:46:55 --> company --> insert --> company_id -->  --> 14
+Admin, System (admin) --> 2017-03-28 13:46:55 --> company --> insert --> contact_type -->  --> Phone
+Admin, System (admin) --> 2017-03-28 13:46:55 --> company --> insert --> company_id -->  --> 14
+Admin, System (admin) --> 2017-03-28 13:46:55 --> company --> insert --> contact_type -->  --> Mobile
+Admin, System (admin) --> 2017-03-28 13:46:55 --> company --> insert --> company_id -->  --> 14
+Admin, System (admin) --> 2017-03-28 13:46:55 --> company --> insert --> contact_type -->  --> Fax

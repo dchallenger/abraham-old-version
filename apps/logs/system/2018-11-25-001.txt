@@ -1,0 +1,4 @@
+Admin, Teemworx (admin) --> 2018-11-25 15:18:53 --> authentication --> logout --> logout -->  --> 
+() --> 2018-11-25 15:19:04 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-11-25 15:19:06 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-11-25 15:19:11 --> authentication --> login --> login -->  --> 

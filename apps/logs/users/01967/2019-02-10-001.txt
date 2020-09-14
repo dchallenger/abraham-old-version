@@ -1,0 +1,10 @@
+2019-02-10 18:04:30 --> authentication --> login --> login -->  --> 
+2019-02-10 18:04:49 --> authentication --> logout --> logout -->  --> 
+2019-02-10 18:12:33 --> authentication --> login --> login -->  --> 
+2019-02-10 18:13:43 --> authentication --> logout --> logout -->  --> 
+2019-02-10 18:30:33 --> authentication --> login --> login -->  --> 
+2019-02-10 18:31:30 --> authentication --> logout --> logout -->  --> 
+2019-02-10 18:34:15 --> authentication --> login --> login -->  --> 
+2019-02-10 18:35:35 --> authentication --> logout --> logout -->  --> 
+2019-02-10 18:39:30 --> authentication --> login --> login -->  --> 
+2019-02-10 18:41:44 --> authentication --> logout --> logout -->  --> 

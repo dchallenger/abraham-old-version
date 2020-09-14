@@ -1,0 +1,2 @@
+Admin, Teemworx (admin) --> 2020-07-31 09:22:16 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2020-07-31 09:22:32 --> authentication --> login --> login -->  --> 

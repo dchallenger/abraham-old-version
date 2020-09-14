@@ -1,0 +1,83 @@
+2019-06-24 06:16:37 --> applicant_monitoring --> insert --> recruitment_date -->  --> 2019-06-24
+2019-06-24 06:16:40 --> applicant_monitoring --> insert --> title -->  --> Mr.
+2019-06-24 06:16:40 --> applicant_monitoring --> insert --> lastname -->  --> AGUILAR
+2019-06-24 06:16:40 --> applicant_monitoring --> insert --> firstname -->  --> RAYMOND
+2019-06-24 06:16:40 --> applicant_monitoring --> insert --> middlename -->  --> FERRER
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> email -->  --> raymond_a@legendpalawan.com.ph
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> birth_date -->  --> 1980-07-18
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> request_id -->  --> 12
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> partner_id -->  --> 773
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_id -->  --> 164
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key -->  --> position_sought
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_name -->  --> Position Sought
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_value -->  --> ACCOUNT EXECUTIVE
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_id -->  --> 167
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key -->  --> currently_employed
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_name -->  --> Currently Employed
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_value -->  --> 1
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_id -->  --> 8
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key -->  --> civil_status
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_name -->  --> Civil Status
+2019-06-24 06:16:41 --> applicant_monitoring --> insert --> key_value -->  --> Married
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_id -->  --> 23
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key -->  --> gender
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_name -->  --> Gender
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_value -->  --> Male
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_id -->  --> 14
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key -->  --> organization
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_name -->  --> Organization
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_id -->  --> 11
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key -->  --> original_date_hired
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_name -->  --> Original Hired Date
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_id -->  --> 113
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key -->  --> pagibig_number
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_name -->  --> Pag-Ibig Number
+2019-06-24 06:16:42 --> applicant_monitoring --> insert --> key_value -->  --> 121009799851
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_id -->  --> 119
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key -->  --> philhealth_number
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_name -->  --> Philhealth Number
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_value -->  --> 090250242513
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_id -->  --> 10
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key -->  --> probationary_date
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_name -->  --> Probationary Date
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_value -->  --> June 20, 2018
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_id -->  --> 110
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key -->  --> sss_number
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_name -->  --> SSS Number
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_value -->  --> 04-1964580-7
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_id -->  --> 128
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key -->  --> taxcode
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_name -->  --> Tax Status Code
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_value -->  --> 6
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key_id -->  --> 116
+2019-06-24 06:16:43 --> applicant_monitoring --> insert --> key -->  --> tin_number
+2019-06-24 06:16:44 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-24 06:16:44 --> applicant_monitoring --> insert --> key_name -->  --> TIN Number
+2019-06-24 06:16:44 --> applicant_monitoring --> insert --> key_value -->  --> 496807808
+2019-06-24 06:16:44 --> applicant_monitoring --> insert --> request_id -->  --> 12
+2019-06-24 06:16:44 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+2019-06-24 06:16:44 --> applicant_monitoring --> insert --> status_id -->  --> 1
+2019-06-24 09:45:49 --> authentication --> logout --> logout -->  --> 

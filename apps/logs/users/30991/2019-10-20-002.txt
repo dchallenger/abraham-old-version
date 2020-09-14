@@ -1,0 +1,133 @@
+2019-10-20 05:25:53 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:53 --> applicants --> insert --> key_id -->  --> 23
+2019-10-20 05:25:53 --> applicants --> insert --> key -->  --> gender
+2019-10-20 05:25:53 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:53 --> applicants --> insert --> key_name -->  --> Gender
+2019-10-20 05:25:53 --> applicants --> insert --> key_value -->  --> Male
+2019-10-20 05:25:54 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:54 --> applicants --> insert --> key_id -->  --> 24
+2019-10-20 05:25:54 --> applicants --> insert --> key -->  --> birth_place
+2019-10-20 05:25:54 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:54 --> applicants --> insert --> key_name -->  --> Birth Place
+2019-10-20 05:25:54 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:54 --> applicants --> insert --> key_id -->  --> 25
+2019-10-20 05:25:54 --> applicants --> insert --> key -->  --> religion
+2019-10-20 05:25:54 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:54 --> applicants --> insert --> key_name -->  --> Religion
+2019-10-20 05:25:54 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:54 --> applicants --> insert --> key_id -->  --> 26
+2019-10-20 05:25:54 --> applicants --> insert --> key -->  --> nationality
+2019-10-20 05:25:54 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:54 --> applicants --> insert --> key_name -->  --> Nationality
+2019-10-20 05:25:54 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:54 --> applicants --> insert --> key_id -->  --> 8
+2019-10-20 05:25:54 --> applicants --> insert --> key -->  --> civil_status
+2019-10-20 05:25:54 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:54 --> applicants --> insert --> key_name -->  --> Civil Status
+2019-10-20 05:25:54 --> applicants --> insert --> key_value -->  --> Single
+2019-10-20 05:25:54 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:55 --> applicants --> insert --> key_id -->  --> 116
+2019-10-20 05:25:55 --> applicants --> insert --> key -->  --> tin_number
+2019-10-20 05:25:55 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:55 --> applicants --> insert --> key_name -->  --> TIN Number
+2019-10-20 05:25:55 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:55 --> applicants --> insert --> key_id -->  --> 110
+2019-10-20 05:25:55 --> applicants --> insert --> key -->  --> sss_number
+2019-10-20 05:25:55 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:55 --> applicants --> insert --> key_name -->  --> SSS Number
+2019-10-20 05:25:55 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:55 --> applicants --> insert --> key_id -->  --> 113
+2019-10-20 05:25:55 --> applicants --> insert --> key -->  --> pagibig_number
+2019-10-20 05:25:55 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:55 --> applicants --> insert --> key_name -->  --> Pag-Ibig Number
+2019-10-20 05:25:55 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:55 --> applicants --> insert --> key_id -->  --> 119
+2019-10-20 05:25:55 --> applicants --> insert --> key -->  --> philhealth_number
+2019-10-20 05:25:55 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:55 --> applicants --> insert --> key_name -->  --> Philhealth Number
+2019-10-20 05:25:55 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:55 --> applicants --> insert --> key_id -->  --> 202
+2019-10-20 05:25:55 --> applicants --> insert --> key -->  --> machine_operated
+2019-10-20 05:25:56 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:56 --> applicants --> insert --> key_name -->  --> Machine Operated
+2019-10-20 05:25:56 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:56 --> applicants --> insert --> key_id -->  --> 203
+2019-10-20 05:25:56 --> applicants --> insert --> key -->  --> driver_license
+2019-10-20 05:25:56 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:56 --> applicants --> insert --> key_name -->  --> Do You Have Driver License
+2019-10-20 05:25:56 --> applicants --> insert --> key_value -->  --> 0
+2019-10-20 05:25:56 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:56 --> applicants --> insert --> key_id -->  --> 204
+2019-10-20 05:25:56 --> applicants --> insert --> key -->  --> driver_type_license
+2019-10-20 05:25:56 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:56 --> applicants --> insert --> key_name -->  --> Driver License Type
+2019-10-20 05:25:56 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:56 --> applicants --> insert --> key_id -->  --> 205
+2019-10-20 05:25:56 --> applicants --> insert --> key -->  --> prc_license
+2019-10-20 05:25:56 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:56 --> applicants --> insert --> key_name -->  --> Do You Have PRC
+2019-10-20 05:25:56 --> applicants --> insert --> key_value -->  --> 0
+2019-10-20 05:25:56 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:56 --> applicants --> insert --> key_id -->  --> 206
+2019-10-20 05:25:56 --> applicants --> insert --> key -->  --> prc_type_license
+2019-10-20 05:25:56 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:56 --> applicants --> insert --> key_name -->  --> PRC Type of License
+2019-10-20 05:25:56 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:57 --> applicants --> insert --> key_id -->  --> 207
+2019-10-20 05:25:57 --> applicants --> insert --> key -->  --> prc_license_no
+2019-10-20 05:25:57 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:57 --> applicants --> insert --> key_name -->  --> PRC License No
+2019-10-20 05:25:57 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:57 --> applicants --> insert --> key_id -->  --> 208
+2019-10-20 05:25:57 --> applicants --> insert --> key -->  --> prc_date_expiration
+2019-10-20 05:25:57 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:57 --> applicants --> insert --> key_name -->  --> PRC Date of Expiration
+2019-10-20 05:25:57 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:57 --> applicants --> insert --> key_id -->  --> 209
+2019-10-20 05:25:57 --> applicants --> insert --> key -->  --> illness_question
+2019-10-20 05:25:57 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:57 --> applicants --> insert --> key_name -->  --> Illnes Question
+2019-10-20 05:25:57 --> applicants --> insert --> key_value -->  --> 0
+2019-10-20 05:25:57 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:57 --> applicants --> insert --> key_id -->  --> 214
+2019-10-20 05:25:57 --> applicants --> insert --> key -->  --> illness_yes
+2019-10-20 05:25:57 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:57 --> applicants --> insert --> key_name -->  --> Type of Illnes
+2019-10-20 05:25:57 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:57 --> applicants --> insert --> key_id -->  --> 168
+2019-10-20 05:25:57 --> applicants --> insert --> key -->  --> how_hiring_heard
+2019-10-20 05:25:58 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:58 --> applicants --> insert --> key_name -->  --> How did you learn about the post
+2019-10-20 05:25:58 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:58 --> applicants --> insert --> key_id -->  --> 212
+2019-10-20 05:25:58 --> applicants --> insert --> key -->  --> work_start
+2019-10-20 05:25:58 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:58 --> applicants --> insert --> key_name -->  --> Work Start
+2019-10-20 05:25:58 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:58 --> applicants --> insert --> key_id -->  --> 213
+2019-10-20 05:25:58 --> applicants --> insert --> key -->  --> referred_employee
+2019-10-20 05:25:58 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:58 --> applicants --> insert --> key_name -->  --> Referred Employee
+2019-10-20 05:25:58 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:58 --> applicants --> insert --> key_id -->  --> 27
+2019-10-20 05:25:58 --> applicants --> insert --> key -->  --> height
+2019-10-20 05:25:58 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:58 --> applicants --> insert --> key_name -->  --> Height
+2019-10-20 05:25:58 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:58 --> applicants --> insert --> key_id -->  --> 28
+2019-10-20 05:25:58 --> applicants --> insert --> key -->  --> weight
+2019-10-20 05:25:58 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:58 --> applicants --> insert --> key_name -->  --> Weight
+2019-10-20 05:25:58 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:58 --> applicants --> insert --> key_id -->  --> 29
+2019-10-20 05:25:58 --> applicants --> insert --> key -->  --> interests_hobbies
+2019-10-20 05:25:58 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:59 --> applicants --> insert --> key_name -->  --> Interests/Hobbies
+2019-10-20 05:25:59 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:59 --> applicants --> insert --> key_id -->  --> 30
+2019-10-20 05:25:59 --> applicants --> insert --> key -->  --> language
+2019-10-20 05:25:59 --> applicants --> insert --> sequence -->  --> 1
+2019-10-20 05:25:59 --> applicants --> insert --> key_name -->  --> Language Known
+2019-10-20 05:25:59 --> applicants --> insert --> recruit_id -->  --> 10
+2019-10-20 05:25:59 --> applicants --> insert --> key_id -->  --> 31
+2019-10-20 05:25:59 --> applicants --> insert --> key -->  --> dialect

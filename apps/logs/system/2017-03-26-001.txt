@@ -1,0 +1,21 @@
+Admin, System (admin) --> 2017-03-26 13:57:20 --> branch --> update --> status_id --> 1 --> 0
+Admin, System (admin) --> 2017-03-26 14:35:36 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-03-26 14:35:51 --> authentication --> login --> login -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-26 14:40:12 --> authentication --> login --> login -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-26 15:00:41 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-03-26 15:01:23 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-03-26 15:09:55 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-26 15:10:08 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-26 15:29:09 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-03-26 15:30:34 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-03-26 16:30:59 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-26 16:31:16 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-26 18:00:17 --> weeklyshift --> update --> default --> 0 --> 1
+Admin, System (admin) --> 2017-03-26 18:43:40 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-03-26 18:43:56 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-03-26 19:05:24 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-26 19:05:37 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-26 19:07:00 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-03-26 19:07:16 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-03-26 19:08:28 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-26 19:08:40 --> authentication --> login --> login -->  --> 

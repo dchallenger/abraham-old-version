@@ -1,0 +1,21 @@
+2019-12-21 10:29:05 --> authentication --> login --> login -->  --> 
+2019-12-21 10:42:58 --> menu_manager --> insert --> label -->  --> Taxable From Previous Employer
+2019-12-21 10:42:58 --> menu_manager --> insert --> parent_menu_item_id -->  --> 74
+2019-12-21 10:42:58 --> menu_manager --> insert --> menu_item_type_id -->  --> 1
+2019-12-21 10:42:58 --> menu_manager --> insert --> mod_id -->  --> 54
+2019-12-21 10:44:05 --> menu_manager --> delete --> menu_item_id --> 128 --> 
+2019-12-21 11:02:09 --> module --> insert --> short_name -->  --> Previous Employer Amount For Alphalist
+2019-12-21 11:02:09 --> module --> insert --> long_name -->  --> Previous Employer Amount For Alphalist
+2019-12-21 11:02:09 --> module --> insert --> icon -->  --> fa-folder
+2019-12-21 11:04:31 --> module --> update --> mod_code -->  --> previous_employer_amount_for_alphalist
+2019-12-21 11:04:31 --> module --> update --> route -->  --> payroll/previous_employer_amount_for_alphalist
+2019-12-21 11:04:31 --> module --> update --> table -->  --> payroll_partners_previous_employer
+2019-12-21 11:04:31 --> module --> update --> primary_key -->  --> payroll_partners_previous_employer_id
+2019-12-21 11:04:31 --> module --> update --> list_template_header -->  --> <th width="15%">Employee Name</th>
+<th width="24%">Company Name</th>
+<th width="15%">Address</th>
+2019-12-21 11:04:31 --> module --> update --> list_template -->  --> <tr class="record">
+    <td><input type="checkbox" value="{{ $record_id }}" class="record-checker checkboxes"></td>
+</tr>
+2019-12-21 11:06:36 --> module --> update --> short_name --> Previous Employer Amount For Alp --> Previous Employer Alphalist
+2019-12-21 11:06:36 --> module --> update --> long_name --> Previous Employer Amount For Alphalist --> Previous Employer Alphalist

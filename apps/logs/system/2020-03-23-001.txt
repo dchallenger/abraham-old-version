@@ -1,0 +1,4 @@
+Admin, Teemworx (admin) --> 2020-03-23 15:41:24 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2020-03-23 15:58:27 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2020-03-23 15:58:39 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2020-03-23 16:10:16 --> authentication --> login --> login -->  --> 

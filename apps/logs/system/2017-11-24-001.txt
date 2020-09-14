@@ -1,0 +1,8 @@
+Admin, Teemworx (admin) --> 2017-11-24 13:26:07 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-24 18:11:07 --> current_transaction --> delete --> id --> 705189 --> 
+Admin, Teemworx (admin) --> 2017-11-24 18:11:17 --> current_transaction --> delete --> id --> 705192 --> 
+Admin, Teemworx (admin) --> 2017-11-24 18:32:21 --> payroll_transactions --> insert --> transaction_code -->  --> Basic Pay
+Admin, Teemworx (admin) --> 2017-11-24 18:32:21 --> payroll_transactions --> insert --> transaction_label -->  --> Basic Pay
+Admin, Teemworx (admin) --> 2017-11-24 18:32:21 --> payroll_transactions --> insert --> transaction_class_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-24 18:32:21 --> payroll_transactions --> insert --> transaction_type_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-24 18:32:21 --> payroll_transactions --> insert --> priority_id -->  --> 5

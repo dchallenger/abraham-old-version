@@ -1,0 +1,10 @@
+2017-07-19 14:08:47 --> authentication --> login --> login -->  --> 
+2017-07-19 15:38:21 --> company --> update --> city --> Pasay --> updated by trigger
+2017-07-19 15:38:22 --> company --> update --> country --> Philippines --> updated by trigger
+2017-07-19 15:38:22 --> company --> update --> print_logo -->  --> uploads/company/print/AHI LOGO.png
+2017-07-19 15:38:22 --> company --> insert --> company_id -->  --> 1
+2017-07-19 15:38:22 --> company --> insert --> contact_type -->  --> Phone
+2017-07-19 15:38:23 --> company --> insert --> company_id -->  --> 1
+2017-07-19 15:38:23 --> company --> insert --> contact_type -->  --> Mobile
+2017-07-19 15:38:23 --> company --> insert --> company_id -->  --> 1
+2017-07-19 15:38:24 --> company --> insert --> contact_type -->  --> Fax

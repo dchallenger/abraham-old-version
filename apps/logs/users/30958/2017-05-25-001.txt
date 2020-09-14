@@ -1,0 +1,6 @@
+2017-05-25 11:22:57 --> authentication --> login --> login -->  --> 
+2017-05-25 11:23:19 --> authentication --> logout --> logout -->  --> 
+2017-05-25 11:26:00 --> authentication --> login --> login -->  --> 
+2017-05-25 11:26:57 --> incident_manage --> update --> status --> Open --> Close
+2017-05-25 11:26:57 --> incident_manage --> update --> incident_status_id --> 2 --> 6
+2017-05-25 11:47:40 --> authentication --> logout --> logout -->  --> 

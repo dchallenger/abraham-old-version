@@ -1,0 +1,8 @@
+2018-04-30 15:05:07 --> authentication --> login --> login -->  --> 
+2018-04-30 15:55:43 --> performance_planning_manage --> update --> filter_by --> 1 --> 5
+2018-04-30 15:55:43 --> performance_planning_manage --> update --> filter_id --> 1,2,3,13,4,6,5,7,12,10,8,9,11 --> 1,2,3,4,5,6,7,8,9,10,11,12,13
+2018-04-30 22:36:44 --> authentication --> logout --> logout -->  --> 
+2018-04-30 22:44:23 --> authentication --> login --> login -->  --> 
+2018-04-30 22:48:11 --> authentication --> logout --> logout -->  --> 
+2018-04-30 22:52:34 --> authentication --> login --> login -->  --> 
+2018-04-30 22:54:14 --> authentication --> logout --> logout -->  --> 

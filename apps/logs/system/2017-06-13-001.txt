@@ -1,0 +1,2 @@
+Admin, Teemworx (admin) --> 2017-06-13 05:17:42 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-06-13 12:28:49 --> authentication --> login --> login -->  --> 

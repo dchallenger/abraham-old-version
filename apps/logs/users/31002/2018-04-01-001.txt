@@ -1,0 +1,41 @@
+2018-04-01 09:11:26 --> authentication --> login --> login -->  --> 
+2018-04-01 09:54:19 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+2018-04-01 09:54:19 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+2018-04-01 09:54:19 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 2
+2018-04-01 09:54:19 --> appraisal_individual_planning --> insert --> item -->  --> sdadsf
+2018-04-01 09:54:19 --> appraisal_individual_planning --> update --> status_id --> 0 --> 1
+2018-04-01 10:17:08 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+2018-04-01 10:17:08 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+2018-04-01 10:17:08 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 2
+2018-04-01 10:17:08 --> appraisal_individual_planning --> insert --> item -->  --> dsfasd
+2018-04-01 10:18:54 --> appraisal_individual_planning --> delete --> performance_planning_applicable_items - item_id --> 1 --> 
+2018-04-01 10:28:16 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+2018-04-01 10:28:16 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+2018-04-01 10:28:16 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 2
+2018-04-01 10:28:16 --> appraisal_individual_planning --> insert --> item -->  --> KPI
+2018-04-01 10:41:35 --> appraisal_individual_planning --> insert --> parent_id -->  --> 2
+2018-04-01 10:41:35 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+2018-04-01 10:41:35 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+2018-04-01 10:41:35 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 2
+2018-04-01 10:41:35 --> appraisal_individual_planning --> insert --> item -->  --> ddd
+2018-04-01 10:41:36 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+2018-04-01 10:41:36 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+2018-04-01 10:41:36 --> appraisal_individual_planning --> insert --> item_id -->  --> 2
+2018-04-01 10:41:36 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 5
+2018-04-01 10:41:36 --> appraisal_individual_planning --> insert --> value -->  --> 1
+2018-04-01 13:13:47 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+2018-04-01 13:13:47 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+2018-04-01 13:13:47 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 2
+2018-04-01 13:13:47 --> appraisal_individual_planning --> insert --> item -->  --> Sourcing / Pooling
+2018-04-01 13:17:54 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+2018-04-01 13:17:54 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+2018-04-01 13:17:54 --> appraisal_individual_planning --> insert --> item_id -->  --> 1
+2018-04-01 13:17:54 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 3
+2018-04-01 13:17:54 --> appraisal_individual_planning --> insert --> value -->  --> 15
+2018-04-01 13:17:54 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+2018-04-01 13:17:54 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+2018-04-01 13:17:54 --> appraisal_individual_planning --> insert --> item_id -->  --> 1
+2018-04-01 13:17:54 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 5
+2018-04-01 13:17:54 --> appraisal_individual_planning --> insert --> value -->  --> 3
+2018-04-01 13:17:54 --> appraisal_individual_planning --> update --> item --> Sourcing / Pooling --> Testing
+2018-04-01 13:19:23 --> authentication --> logout --> logout -->  --> 

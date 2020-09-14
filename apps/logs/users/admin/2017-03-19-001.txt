@@ -1,0 +1,58 @@
+2017-03-19 10:19:53 --> authentication --> logout --> logout -->  --> 
+2017-03-19 10:24:32 --> authentication --> login --> login -->  --> 
+2017-03-19 10:53:21 --> leave_balance_admin --> insert --> year -->  --> 2017
+2017-03-19 10:53:21 --> leave_balance_admin --> insert --> user_id -->  --> 18
+2017-03-19 10:53:21 --> leave_balance_admin --> insert --> form_id -->  --> 21
+2017-03-19 10:53:21 --> leave_balance_admin --> insert --> previous -->  --> 0
+2017-03-19 10:53:21 --> leave_balance_admin --> insert --> current -->  --> 5
+2017-03-19 10:53:21 --> leave_balance_admin --> insert --> period_from -->  --> 1970-01-01
+2017-03-19 10:53:21 --> leave_balance_admin --> insert --> period_to -->  --> 1970-01-01
+2017-03-19 10:53:21 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+2017-03-19 10:55:17 --> leave_balance_admin --> insert --> year -->  --> 2017
+2017-03-19 10:55:17 --> leave_balance_admin --> insert --> user_id -->  --> 19
+2017-03-19 10:55:17 --> leave_balance_admin --> insert --> form_id -->  --> 16
+2017-03-19 10:55:17 --> leave_balance_admin --> insert --> previous -->  --> 0
+2017-03-19 10:55:17 --> leave_balance_admin --> insert --> current -->  --> 5
+2017-03-19 10:55:17 --> leave_balance_admin --> insert --> period_from -->  --> 1970-01-01
+2017-03-19 10:55:17 --> leave_balance_admin --> insert --> period_to -->  --> 1970-01-01
+2017-03-19 10:55:17 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+2017-03-19 10:57:27 --> leave_balance_admin --> insert --> year -->  --> 2017
+2017-03-19 10:57:27 --> leave_balance_admin --> insert --> user_id -->  --> 18
+2017-03-19 10:57:27 --> leave_balance_admin --> insert --> form_id -->  --> 16
+2017-03-19 10:57:27 --> leave_balance_admin --> insert --> previous -->  --> 0
+2017-03-19 10:57:27 --> leave_balance_admin --> insert --> current -->  --> 7
+2017-03-19 10:57:27 --> leave_balance_admin --> insert --> period_from -->  --> 1970-01-01
+2017-03-19 10:57:27 --> leave_balance_admin --> insert --> period_to -->  --> 1970-01-01
+2017-03-19 10:57:27 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+2017-03-19 10:59:36 --> leave_balance_admin --> insert --> year -->  --> 2017
+2017-03-19 10:59:36 --> leave_balance_admin --> insert --> user_id -->  --> 2
+2017-03-19 10:59:36 --> leave_balance_admin --> insert --> form_id -->  --> 6
+2017-03-19 10:59:36 --> leave_balance_admin --> insert --> previous -->  --> 0
+2017-03-19 10:59:36 --> leave_balance_admin --> insert --> current -->  --> 9
+2017-03-19 10:59:36 --> leave_balance_admin --> insert --> period_from -->  --> 1970-01-01
+2017-03-19 10:59:36 --> leave_balance_admin --> insert --> period_to -->  --> 1970-01-01
+2017-03-19 10:59:36 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+2017-03-19 11:00:26 --> leave_balance_admin --> insert --> year -->  --> 2017
+2017-03-19 11:00:26 --> leave_balance_admin --> insert --> user_id -->  --> 18
+2017-03-19 11:00:26 --> leave_balance_admin --> insert --> form_id -->  --> 16
+2017-03-19 11:00:26 --> leave_balance_admin --> insert --> previous -->  --> 0
+2017-03-19 11:00:26 --> leave_balance_admin --> insert --> current -->  --> 9
+2017-03-19 11:00:26 --> leave_balance_admin --> insert --> period_from -->  --> 1970-01-01
+2017-03-19 11:00:26 --> leave_balance_admin --> insert --> period_to -->  --> 1970-01-01
+2017-03-19 11:00:26 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+2017-03-19 12:26:25 --> authentication --> logout --> logout -->  --> 
+2017-03-19 12:36:23 --> authentication --> login --> login -->  --> 
+2017-03-19 12:37:01 --> authentication --> logout --> logout -->  --> 
+2017-03-19 12:49:49 --> authentication --> login --> login -->  --> 
+2017-03-19 19:53:32 --> form_policy --> update --> division_id --> ALL --> 1
+2017-03-19 19:53:32 --> form_policy --> update --> department_id --> ALL --> 1
+2017-03-19 20:18:56 --> leave_balance_admin --> update --> year --> 2017 --> 2018
+2017-03-19 20:19:24 --> leave_balance_admin --> update --> year --> 2018 --> 2017
+2017-03-19 20:19:24 --> leave_balance_admin --> update --> period_extension --> 0000-00-00 --> 1970-01-01
+2017-03-19 20:25:52 --> authentication --> logout --> logout -->  --> 
+2017-03-19 20:33:12 --> authentication --> login --> login -->  --> 
+2017-03-19 20:40:13 --> authentication --> logout --> logout -->  --> 
+2017-03-19 20:45:33 --> authentication --> login --> login -->  --> 
+2017-03-19 20:51:14 --> authentication --> logout --> logout -->  --> 
+2017-03-19 21:52:41 --> authentication --> login --> login -->  --> 
+2017-03-19 21:57:53 --> authentication --> logout --> logout -->  --> 

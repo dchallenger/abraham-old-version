@@ -1,0 +1,18 @@
+2018-04-20 14:37:14 --> authentication --> login --> login -->  --> 
+2018-04-20 15:43:05 --> appraisal_individual_rate --> update --> performance_appraisal_applicable --> Array --> 
+2018-04-20 15:43:05 --> appraisal_individual_rate --> update --> status_id --> 4 --> 13
+2018-04-20 15:43:05 --> appraisal_individual_rate --> update --> selfrate_date -->  --> 2018-04-20
+2018-04-20 15:43:11 --> appraisal_individual_rate --> update --> performance_appraisal_applicable --> Array --> 
+2018-04-20 15:43:11 --> appraisal_individual_rate --> update --> status_id --> 4 --> 13
+2018-04-20 15:43:11 --> appraisal_individual_rate --> update --> selfrate_date -->  --> 2018-04-20
+2018-04-20 15:44:01 --> appraisal_individual_rate --> update --> performance_appraisal_applicable --> Array --> 
+2018-04-20 15:44:01 --> appraisal_individual_rate --> update --> status_id --> 4 --> 13
+2018-04-20 15:44:01 --> appraisal_individual_rate --> update --> selfrate_date -->  --> 2018-04-20
+2018-04-20 15:44:23 --> appraisal_individual_rate --> update --> status_id --> 4 --> 13
+2018-04-20 15:44:23 --> appraisal_individual_rate --> update --> selfrate_date -->  --> 2018-04-20
+2018-04-20 16:03:47 --> appraisal_individual_rate --> update --> status_id --> 4 --> 13
+2018-04-20 16:03:47 --> appraisal_individual_rate --> update --> selfrate_date -->  --> 2018-04-20
+2018-04-20 16:05:34 --> appraisal_individual_rate --> update --> status_id --> 4 --> 13
+2018-04-20 16:05:34 --> appraisal_individual_rate --> update --> selfrate_date -->  --> 2018-04-20
+2018-04-20 16:18:57 --> authentication --> login --> login -->  --> 
+2018-04-20 16:20:54 --> authentication --> logout --> logout -->  --> 

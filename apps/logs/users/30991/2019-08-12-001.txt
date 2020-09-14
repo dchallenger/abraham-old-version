@@ -1,0 +1,32 @@
+2019-08-12 15:47:20 --> authentication --> login --> login -->  --> 
+2019-08-12 15:53:56 --> authentication --> logout --> logout -->  --> 
+2019-08-12 16:38:34 --> authentication --> login --> login -->  --> 
+2019-08-12 16:42:14 --> performance_planning --> update --> status_id --> 1 --> 0
+2019-08-12 16:42:49 --> performance_appraisal --> insert --> planning_id -->  --> 28
+2019-08-12 16:42:49 --> performance_appraisal --> insert --> date_from -->  --> 2019-06-01
+2019-08-12 16:42:49 --> performance_appraisal --> insert --> date_to -->  --> 2019-12-31
+2019-08-12 16:42:49 --> performance_appraisal --> insert --> year -->  --> 2019
+2019-08-12 16:42:49 --> performance_appraisal --> insert --> performance_type_id -->  --> 2
+2019-08-12 16:42:49 --> performance_appraisal --> insert --> template_id -->  --> 1
+2019-08-12 16:42:49 --> performance_appraisal --> insert --> employment_status_id -->  --> 6,3,1
+2019-08-12 16:42:49 --> performance_appraisal --> insert --> filter_by -->  --> 1
+2019-08-12 16:42:49 --> performance_appraisal --> insert --> filter_id -->  --> 14,1,16,15,2,3,13,17,4,6,5,7,12,10,8,9,11
+2019-08-12 16:42:49 --> performance_appraisal --> insert --> notes -->  --> lissa created appraisal
+2019-08-12 16:42:49 --> performance_appraisal --> insert --> status_id -->  --> 1
+2019-08-12 16:44:26 --> authentication --> logout --> logout -->  --> 
+2019-08-12 20:17:50 --> authentication --> login --> login -->  --> 
+2019-08-12 20:18:43 --> authentication --> login --> login -->  --> 
+2019-08-12 20:18:43 --> authentication --> login --> login -->  --> 
+2019-08-12 20:18:44 --> authentication --> login --> login -->  --> 
+2019-08-12 20:18:44 --> authentication --> login --> login -->  --> 
+2019-08-12 20:34:48 --> authentication --> logout --> logout -->  --> 
+2019-08-12 20:38:38 --> authentication --> login --> login -->  --> 
+2019-08-12 20:39:28 --> authentication --> logout --> logout -->  --> 
+2019-08-12 20:45:22 --> authentication --> login --> login -->  --> 
+2019-08-12 20:47:54 --> authentication --> logout --> logout -->  --> 
+2019-08-12 21:00:12 --> authentication --> login --> login -->  --> 
+2019-08-12 21:01:46 --> authentication --> logout --> logout -->  --> 
+2019-08-12 21:24:33 --> authentication --> login --> login -->  --> 
+2019-08-12 21:28:13 --> performance_appraisal --> update --> status_id --> 1 --> 0
+2019-08-12 21:31:26 --> authentication --> logout --> logout -->  --> 
+2019-08-12 21:44:14 --> authentication --> login --> login -->  --> 

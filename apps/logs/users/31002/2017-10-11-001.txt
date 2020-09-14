@@ -1,0 +1,112 @@
+2017-10-11 20:05:20 --> authentication --> login --> login -->  --> 
+2017-10-11 20:40:18 --> applicant_monitoring --> update --> submitted --> 0 --> 1
+2017-10-11 20:40:24 --> applicant_monitoring --> update --> submitted --> 0 --> 1
+2017-10-11 21:18:54 --> applicant_monitoring --> update --> status_id --> 7 --> 8
+2017-10-11 21:18:54 --> applicant_monitoring --> update --> status_id --> 7 --> 8
+2017-10-11 21:18:54 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 4
+2017-10-11 21:18:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:54 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 5
+2017-10-11 21:18:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:54 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 6
+2017-10-11 21:18:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:54 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 7
+2017-10-11 21:18:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> checklist_id -->  --> 8
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> checklist_id -->  --> 9
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> checklist_id -->  --> 10
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> checklist_id -->  --> 11
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> checklist_id -->  --> 12
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> checklist_id -->  --> 13
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> checklist_id -->  --> 14
+2017-10-11 21:18:55 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> checklist_id -->  --> 15
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> checklist_id -->  --> 16
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> checklist_id -->  --> 17
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> checklist_id -->  --> 18
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> checklist_id -->  --> 19
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> checklist_id -->  --> 20
+2017-10-11 21:18:56 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> checklist_id -->  --> 21
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> checklist_id -->  --> 22
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> checklist_id -->  --> 23
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> submitted -->  --> 1
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> date_submitted -->  --> 2017-10-27
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> checklist_id -->  --> 24
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> submitted -->  --> 1
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> date_submitted -->  --> 2017-10-25
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> checklist_id -->  --> 25
+2017-10-11 21:18:57 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:58 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:58 --> applicant_monitoring --> insert --> checklist_id -->  --> 26
+2017-10-11 21:18:58 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:58 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:58 --> applicant_monitoring --> insert --> checklist_id -->  --> 27
+2017-10-11 21:18:58 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:58 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:58 --> applicant_monitoring --> insert --> checklist_id -->  --> 28
+2017-10-11 21:18:58 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:18:58 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-11 21:18:58 --> applicant_monitoring --> insert --> checklist_id -->  --> 29
+2017-10-11 21:18:58 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-10-11 21:37:12 --> applicant_monitoring --> insert --> login -->  --> 123456
+2017-10-11 21:37:12 --> applicant_monitoring --> insert --> email -->  --> tjkgarcia@yahoo.com
+2017-10-11 21:37:12 --> applicant_monitoring --> insert --> role_id -->  --> 12
+2017-10-11 21:37:12 --> applicant_monitoring --> insert --> full_name -->  --> Garcia, Tirso
+2017-10-11 21:37:12 --> applicant_monitoring --> insert --> display_name -->  --> Garcia, Tirso
+2017-10-11 21:37:12 --> applicant_monitoring --> insert --> shift_id -->  --> 5
+2017-10-11 21:37:12 --> applicant_monitoring --> insert --> user_id -->  --> 787
+2017-10-11 21:37:12 --> applicant_monitoring --> insert --> id_number -->  --> 123456
+2017-10-11 21:37:12 --> applicant_monitoring --> insert --> effectivity_date -->  --> 2017-10-13
+2017-10-11 21:37:12 --> applicant_monitoring --> insert --> alias -->  --> Garcia, Tirso
+2017-10-11 21:37:13 --> applicant_monitoring --> insert --> company_id -->  --> 1
+2017-10-11 21:37:13 --> applicant_monitoring --> insert --> department_id -->  --> 9
+2017-10-11 21:37:13 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+2017-10-11 21:37:13 --> applicant_monitoring --> insert --> location_id -->  --> 4
+2017-10-11 21:37:13 --> applicant_monitoring --> insert --> user_id -->  --> 787
+2017-10-11 21:37:13 --> applicant_monitoring --> insert --> partner_id -->  --> 874
+2017-10-11 21:37:13 --> applicant_monitoring --> insert --> recruit_id -->  --> 1
+2017-10-11 21:37:13 --> applicant_monitoring --> insert --> lastname -->  --> Garcia
+2017-10-11 21:37:13 --> applicant_monitoring --> insert --> firstname -->  --> Tirso
+2017-10-11 21:37:13 --> applicant_monitoring --> insert --> nickname -->  --> Jun
+2017-10-11 21:37:13 --> applicant_monitoring --> insert --> position_id -->  --> 1
+2017-10-11 21:37:13 --> applicant_monitoring --> insert --> title -->  --> Mr.
+2017-10-11 21:37:13 --> applicant_monitoring --> insert --> birth_date -->  --> 1980-12-15
+2017-10-11 21:37:13 --> applicant_monitoring --> update --> status_id --> 8 --> 7
+2017-10-11 21:37:13 --> applicant_monitoring --> update --> hired --> 0 --> 1
+2017-10-11 21:37:13 --> applicant_monitoring --> update --> partner_id -->  --> 783
+2017-10-11 21:43:38 --> authentication --> logout --> logout -->  --> 

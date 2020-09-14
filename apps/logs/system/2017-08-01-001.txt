@@ -1,0 +1,16 @@
+Admin, Teemworx (admin) --> 2017-08-01 09:57:22 --> authentication --> logout --> logout -->  --> 
+() --> 2017-08-01 09:57:26 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-08-01 09:58:22 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-08-01 11:29:03 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-08-01 11:29:10 --> authentication --> login --> login -->  --> 
+() --> 2017-08-01 11:29:20 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-08-01 05:05:43 --> report_generator --> delete --> report_id --> 67 --> 
+Admin, Teemworx (admin) --> 2017-08-01 14:26:10 --> module --> insert --> short_name -->  --> Habitual Tardiness Configuration
+Admin, Teemworx (admin) --> 2017-08-01 14:26:10 --> module --> insert --> long_name -->  --> Habitual Tardiness Configuration
+Admin, Teemworx (admin) --> 2017-08-01 14:30:54 --> module --> update --> mod_code -->  --> habitual_tardiness_configuration
+Admin, Teemworx (admin) --> 2017-08-01 14:30:54 --> module --> update --> route -->  --> admin/time/habitual_tardiness_configuration
+Admin, Teemworx (admin) --> 2017-08-01 14:30:54 --> module --> update --> table -->  --> time_record_tardiness_settings
+Admin, Teemworx (admin) --> 2017-08-01 14:30:54 --> module --> update --> primary_key -->  --> habitual_tardiness_id
+Admin, Teemworx (admin) --> 2017-08-01 14:30:54 --> module --> update --> list_template_header -->  --> *
+Admin, Teemworx (admin) --> 2017-08-01 14:30:54 --> module --> update --> list_template -->  --> *
+Admin, Teemworx (admin) --> 2017-08-01 14:44:55 --> module --> update --> enable_mass_action --> 1 --> 0

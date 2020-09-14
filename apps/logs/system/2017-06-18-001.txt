@@ -1,0 +1,5 @@
+POLONAN, MARIA LEE (31002) --> 2017-06-18 11:06:50 --> recurring_transaction --> update --> date_to --> 2019-03-31 --> 2019-08-31
+POLONAN, MARIA LEE (31002) --> 2017-06-18 13:27:26 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-06-18 13:27:33 --> authentication --> login --> login -->  --> 
+() --> 2017-06-18 13:28:30 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-06-18 13:29:01 --> clearance_sign --> update --> layout_name -->  --> Head Office

@@ -1,0 +1,33 @@
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:18:58 --> applicant_monitoring --> insert --> submitted -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:12 --> applicant_monitoring --> insert --> login -->  --> 123456
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:12 --> applicant_monitoring --> insert --> email -->  --> tjkgarcia@yahoo.com
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:12 --> applicant_monitoring --> insert --> role_id -->  --> 12
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:12 --> applicant_monitoring --> insert --> full_name -->  --> Garcia, Tirso
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:12 --> applicant_monitoring --> insert --> display_name -->  --> Garcia, Tirso
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:12 --> applicant_monitoring --> insert --> shift_id -->  --> 5
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:12 --> applicant_monitoring --> insert --> user_id -->  --> 787
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:12 --> applicant_monitoring --> insert --> id_number -->  --> 123456
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:12 --> applicant_monitoring --> insert --> effectivity_date -->  --> 2017-10-13
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:12 --> applicant_monitoring --> insert --> alias -->  --> Garcia, Tirso
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:13 --> applicant_monitoring --> insert --> company_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:13 --> applicant_monitoring --> insert --> department_id -->  --> 9
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:13 --> applicant_monitoring --> insert --> reports_to_id -->  --> 38
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:13 --> applicant_monitoring --> insert --> location_id -->  --> 4
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:13 --> applicant_monitoring --> insert --> user_id -->  --> 787
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:13 --> applicant_monitoring --> insert --> partner_id -->  --> 874
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:13 --> applicant_monitoring --> insert --> recruit_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:13 --> applicant_monitoring --> insert --> lastname -->  --> Garcia
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:13 --> applicant_monitoring --> insert --> firstname -->  --> Tirso
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:13 --> applicant_monitoring --> insert --> nickname -->  --> Jun
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:13 --> applicant_monitoring --> insert --> position_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:13 --> applicant_monitoring --> insert --> title -->  --> Mr.
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:13 --> applicant_monitoring --> insert --> birth_date -->  --> 1980-12-15
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:13 --> applicant_monitoring --> update --> status_id --> 8 --> 7
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:13 --> applicant_monitoring --> update --> hired --> 0 --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:37:13 --> applicant_monitoring --> update --> partner_id -->  --> 783
+POLONAN, MARIA LEE (31002) --> 2017-10-11 21:43:38 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-11 21:43:46 --> authentication --> login --> login -->  --> 
+() --> 2017-10-11 21:43:55 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-11 22:13:01 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-11 22:13:08 --> authentication --> login --> login -->  --> 
+() --> 2017-10-11 22:13:12 --> authentication --> logout --> logout -->  --> 

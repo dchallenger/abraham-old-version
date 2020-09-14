@@ -1,0 +1,3 @@
+() --> 2017-12-20 10:12:44 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-12-20 10:12:54 --> authentication --> login --> login -->  --> 
+() --> 2017-12-20 10:13:01 --> authentication --> logout --> logout -->  --> 

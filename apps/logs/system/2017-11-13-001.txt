@@ -1,0 +1,61 @@
+Admin, Teemworx (admin) --> 2017-11-13 10:27:25 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-13 21:28:20 --> payroll_period --> insert --> date_from -->  --> 2017-11-13
+Admin, Teemworx (admin) --> 2017-11-13 21:28:20 --> payroll_period --> insert --> date_to -->  --> 2017-11-13
+Admin, Teemworx (admin) --> 2017-11-13 21:28:20 --> payroll_period --> insert --> payroll_date -->  --> 2017-11-13
+Admin, Teemworx (admin) --> 2017-11-13 21:28:20 --> payroll_period --> insert --> posting_date -->  --> 2017-11-13
+Admin, Teemworx (admin) --> 2017-11-13 21:28:20 --> payroll_period --> insert --> apply_to_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-13 21:28:20 --> payroll_period --> insert --> period_processing_type_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-11-13 21:28:20 --> payroll_period --> insert --> payroll_schedule_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-11-13 21:28:20 --> payroll_period --> insert --> week -->  --> 2
+Admin, Teemworx (admin) --> 2017-11-13 21:28:20 --> payroll_period --> insert --> remarks -->  --> 13th month pay
+Admin, Teemworx (admin) --> 2017-11-13 21:28:20 --> payroll_period --> insert --> period_status_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-13 21:30:03 --> bonus --> insert --> bonus_transaction_id -->  --> 74
+Admin, Teemworx (admin) --> 2017-11-13 21:30:03 --> bonus --> insert --> payroll_date -->  --> 2017-11-13
+Admin, Teemworx (admin) --> 2017-11-13 21:30:03 --> bonus --> insert --> date_from -->  --> 2017-11-13
+Admin, Teemworx (admin) --> 2017-11-13 21:30:03 --> bonus --> insert --> date_to -->  --> 2017-11-13
+Admin, Teemworx (admin) --> 2017-11-13 21:30:03 --> bonus --> insert --> period -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-13 21:30:03 --> bonus --> insert --> week -->  --> 2
+Admin, Teemworx (admin) --> 2017-11-13 21:30:03 --> bonus --> insert --> transaction_method_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-11-13 21:30:03 --> bonus --> insert --> account_id -->  --> 43
+Admin, Teemworx (admin) --> 2017-11-13 21:30:03 --> bonus --> insert --> description -->  --> 13th  month pay
+Admin, Teemworx (admin) --> 2017-11-13 21:30:03 --> bonus --> insert --> taxable_bonus_transaction_id -->  --> 11
+Admin, Teemworx (admin) --> 2017-11-13 21:32:03 --> bonus --> delete --> payroll_bonus_employee - bonus_id --> 48 --> 
+Admin, Teemworx (admin) --> 2017-11-13 21:32:03 --> bonus --> insert --> bonus_id -->  --> 48
+Admin, Teemworx (admin) --> 2017-11-13 21:32:03 --> bonus --> insert --> employee_id -->  --> 57
+Admin, Teemworx (admin) --> 2017-11-13 21:32:03 --> bonus --> insert --> amount -->  --> O6›	›èHa'h¸BÇx
+Admin, Teemworx (admin) --> 2017-11-13 22:02:11 --> bonus --> update --> transaction_method_id --> 4 --> 6
+Admin, Teemworx (admin) --> 2017-11-13 22:02:11 --> bonus --> delete --> payroll_bonus_employee - bonus_id --> 48 --> 
+Admin, Teemworx (admin) --> 2017-11-13 22:02:11 --> bonus --> insert --> bonus_id -->  --> 48
+Admin, Teemworx (admin) --> 2017-11-13 22:02:11 --> bonus --> insert --> employee_id -->  --> 57
+Admin, Teemworx (admin) --> 2017-11-13 22:02:11 --> bonus --> insert --> amount -->  --> O6›	›èHa'h¸BÇx
+Admin, Teemworx (admin) --> 2017-11-13 22:05:07 --> bonus --> update --> date_from --> 2017-11-13 --> 2017-01-01
+Admin, Teemworx (admin) --> 2017-11-13 22:05:07 --> bonus --> update --> date_to --> 2017-11-13 --> 2017-12-31
+Admin, Teemworx (admin) --> 2017-11-13 22:05:07 --> bonus --> delete --> payroll_bonus_employee - bonus_id --> 48 --> 
+Admin, Teemworx (admin) --> 2017-11-13 22:05:07 --> bonus --> insert --> bonus_id -->  --> 48
+Admin, Teemworx (admin) --> 2017-11-13 22:05:07 --> bonus --> insert --> employee_id -->  --> 57
+Admin, Teemworx (admin) --> 2017-11-13 22:05:07 --> bonus --> insert --> amount -->  --> O6›	›èHa'h¸BÇx
+Admin, Teemworx (admin) --> 2017-11-13 22:05:29 --> payroll_period --> update --> date_from --> 2017-11-13 --> 2017-01-01
+Admin, Teemworx (admin) --> 2017-11-13 22:05:29 --> payroll_period --> update --> date_to --> 2017-11-13 --> 2017-12-31
+Admin, Teemworx (admin) --> 2017-11-13 23:10:07 --> bonus --> delete --> payroll_bonus_employee - bonus_id --> 48 --> 
+Admin, Teemworx (admin) --> 2017-11-13 23:10:07 --> bonus --> insert --> bonus_id -->  --> 48
+Admin, Teemworx (admin) --> 2017-11-13 23:10:07 --> bonus --> insert --> employee_id -->  --> 57
+Admin, Teemworx (admin) --> 2017-11-13 23:10:07 --> bonus --> insert --> amount -->  --> O6›	›èHa'h¸BÇx
+Admin, Teemworx (admin) --> 2017-11-13 23:10:07 --> bonus --> insert --> bonus_id -->  --> 48
+Admin, Teemworx (admin) --> 2017-11-13 23:10:07 --> bonus --> insert --> employee_id -->  --> 113
+Admin, Teemworx (admin) --> 2017-11-13 23:10:07 --> bonus --> insert --> amount -->  --> O6›	›èHa'h¸BÇx
+Admin, Teemworx (admin) --> 2017-11-13 23:10:07 --> bonus --> insert --> bonus_id -->  --> 48
+Admin, Teemworx (admin) --> 2017-11-13 23:10:07 --> bonus --> insert --> employee_id -->  --> 745
+Admin, Teemworx (admin) --> 2017-11-13 23:10:07 --> bonus --> insert --> amount -->  --> O6›	›èHa'h¸BÇx
+Admin, Teemworx (admin) --> 2017-11-13 23:28:07 --> bonus --> delete --> payroll_bonus_employee - bonus_id --> 48 --> 
+Admin, Teemworx (admin) --> 2017-11-13 23:28:07 --> bonus --> insert --> bonus_id -->  --> 48
+Admin, Teemworx (admin) --> 2017-11-13 23:28:07 --> bonus --> insert --> employee_id -->  --> 57
+Admin, Teemworx (admin) --> 2017-11-13 23:28:07 --> bonus --> insert --> amount -->  --> O6›	›èHa'h¸BÇx
+Admin, Teemworx (admin) --> 2017-11-13 23:28:07 --> bonus --> insert --> bonus_id -->  --> 48
+Admin, Teemworx (admin) --> 2017-11-13 23:28:07 --> bonus --> insert --> employee_id -->  --> 113
+Admin, Teemworx (admin) --> 2017-11-13 23:28:07 --> bonus --> insert --> amount -->  --> O6›	›èHa'h¸BÇx
+Admin, Teemworx (admin) --> 2017-11-13 23:28:07 --> bonus --> insert --> bonus_id -->  --> 48
+Admin, Teemworx (admin) --> 2017-11-13 23:28:08 --> bonus --> insert --> employee_id -->  --> 745
+Admin, Teemworx (admin) --> 2017-11-13 23:28:08 --> bonus --> insert --> amount -->  --> O6›	›èHa'h¸BÇx
+Admin, Teemworx (admin) --> 2017-11-13 23:28:08 --> bonus --> insert --> bonus_id -->  --> 48
+Admin, Teemworx (admin) --> 2017-11-13 23:28:08 --> bonus --> insert --> employee_id -->  --> 713
+Admin, Teemworx (admin) --> 2017-11-13 23:28:08 --> bonus --> insert --> amount -->  --> O6›	›èHa'h¸BÇx

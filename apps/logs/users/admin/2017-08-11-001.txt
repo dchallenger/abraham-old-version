@@ -1,0 +1,5 @@
+2017-08-11 13:40:31 --> applicant_monitoring --> insert --> recruit_id -->  --> 1
+2017-08-11 13:40:31 --> applicant_monitoring --> insert --> key_id -->  --> 196
+2017-08-11 13:40:31 --> applicant_monitoring --> insert --> key -->  --> sourcing_free_sites
+2017-08-11 13:40:31 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-08-11 13:40:31 --> applicant_monitoring --> insert --> key_name -->  --> Recruitment Sourcing Free Sites

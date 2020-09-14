@@ -1,0 +1,5 @@
+2019-12-07 05:20:09 --> report_generator --> insert --> report_code -->  --> BIR1604CF 7.3
+2019-12-07 05:20:17 --> report_generator --> insert --> report_name -->  --> BIR1604CF 7.3
+2019-12-07 05:20:17 --> report_generator --> insert --> description -->  --> Alphalist of employees as of December 31 with no previous employers.
+2019-12-07 05:20:17 --> report_generator --> insert --> category_id -->  --> 3
+2019-12-07 05:20:17 --> report_generator --> insert --> roles -->  --> 1,2,8

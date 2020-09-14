@@ -1,0 +1,66 @@
+2017-09-11 14:15:46 --> module --> insert --> short_name -->  --> Training Calendar Manage
+2017-09-11 14:15:46 --> module --> insert --> long_name -->  --> Training Calendar Manage
+2017-09-11 14:15:46 --> module --> insert --> description -->  --> Manage Training Calendar for Approval
+2017-09-11 14:17:46 --> module --> update --> mod_code -->  --> training_calendar_manage
+2017-09-11 14:17:46 --> module --> update --> route -->  --> training/training_calendar_manage
+2017-09-11 14:17:46 --> module --> update --> table -->  --> training_calendar
+2017-09-11 14:17:46 --> module --> update --> primary_key -->  --> training_calendar_id
+2017-09-11 14:17:46 --> module --> update --> list_template_header -->  --> <th width="20%">Training Course</th>
+<th width="20%">Training Course Description</th>
+<th width="19%" class="hidden-xs">Last Registration Date</th>
+<th width="20%" class="hidden-xs">Status</th>
+2017-09-11 14:17:46 --> module --> update --> list_template -->  --> <tr class="record">
+    <td>
+        <div>
+            <input type="checkbox" class="record-checker checkboxes" value="<?php echo $record_id; ?>" />
+        </div>
+    </td>
+    <td>{{ $training_calendar_course }}</td>
+    <td>{{ $training_calendar_description }}</td>
+    <td class="hidden-xs">{{ $training_calendar_last_registration_date }} </td> 
+    <td class="hidden-xs">{{ $training_calendar_status }} </td> 
+    <td>
+        <div class="btn-group">
+            <a class="btn btn-xs text-muted" href="{{ $edit_url }}"><i class="fa fa-pencil"></i> Edit</a>
+        </div>
+        <div class="btn-group">
+            <a class="btn btn-xs text-muted" href="#" data-close-others="true" data-toggle="dropdown"><i class="fa fa-gear"></i> Options</a>
+            <ul class="dropdown-menu pull-right">
+                {{ $options }}
+            </ul>
+        </div>
+    </td>
+</tr>
+2017-09-11 14:24:06 --> module --> insert --> short_name -->  --> Training Calendar Admin
+2017-09-11 14:24:06 --> module --> insert --> long_name -->  --> Training Calendar Admin
+2017-09-11 14:24:06 --> module --> insert --> description -->  --> Manage Training Calendar for Admin
+2017-09-11 14:25:06 --> module --> update --> mod_code -->  --> training_calendar_admin
+2017-09-11 14:25:06 --> module --> update --> route -->  --> training/training_calendar_admin
+2017-09-11 14:25:06 --> module --> update --> table -->  --> training_calendar
+2017-09-11 14:25:06 --> module --> update --> primary_key -->  --> training_calendar_id
+2017-09-11 14:25:06 --> module --> update --> list_template_header -->  --> <th width="20%">Training Course</th>
+<th width="20%">Training Course Description</th>
+<th width="19%" class="hidden-xs">Last Registration Date</th>
+<th width="20%" class="hidden-xs">Status</th>
+2017-09-11 14:25:06 --> module --> update --> list_template -->  --> <tr class="record">
+    <td>
+        <div>
+            <input type="checkbox" class="record-checker checkboxes" value="<?php echo $record_id; ?>" />
+        </div>
+    </td>
+    <td>{{ $training_calendar_course }}</td>
+    <td>{{ $training_calendar_description }}</td>
+    <td class="hidden-xs">{{ $training_calendar_last_registration_date }} </td> 
+    <td class="hidden-xs">{{ $training_calendar_status }} </td> 
+    <td>
+        <div class="btn-group">
+            <a class="btn btn-xs text-muted" href="{{ $edit_url }}"><i class="fa fa-pencil"></i> Edit</a>
+        </div>
+        <div class="btn-group">
+            <a class="btn btn-xs text-muted" href="#" data-close-others="true" data-toggle="dropdown"><i class="fa fa-gear"></i> Options</a>
+            <ul class="dropdown-menu pull-right">
+                {{ $options }}
+            </ul>
+        </div>
+    </td>
+</tr>

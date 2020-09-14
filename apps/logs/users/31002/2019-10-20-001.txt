@@ -1,0 +1,37 @@
+2019-10-20 13:43:52 --> authentication --> login --> login -->  --> 
+2019-10-20 13:44:28 --> applicant_monitoring --> update --> process_id --> 0 --> 8
+2019-10-20 13:44:28 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2019-10-20 13:44:28 --> applicant_monitoring --> update --> result -->  --> Consider
+2019-10-20 13:44:28 --> applicant_monitoring --> insert --> interview_id -->  --> 15
+2019-10-20 13:44:28 --> applicant_monitoring --> insert --> key_id -->  --> 31
+2019-10-20 13:44:28 --> applicant_monitoring --> insert --> key -->  --> remarks
+2019-10-20 13:44:28 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 13:44:28 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> interview_id -->  --> 15
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> key_id -->  --> 66
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> key -->  --> interviewer
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> key_value -->  --> POLONAN, MARIA LEE
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> interview_id -->  --> 15
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> key_id -->  --> 64
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> interview_id -->  --> 15
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> key_id -->  --> 32
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+2019-10-20 13:44:29 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+2019-10-20 13:44:30 --> applicant_monitoring --> insert --> interview_id -->  --> 15
+2019-10-20 13:44:30 --> applicant_monitoring --> insert --> key_id -->  --> 67
+2019-10-20 13:44:30 --> applicant_monitoring --> insert --> key -->  --> hrd_remarks
+2019-10-20 13:44:30 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 13:44:30 --> applicant_monitoring --> insert --> key_name -->  --> Remarks
+2019-10-20 13:44:30 --> applicant_monitoring --> insert --> key_value -->  --> test
+2019-10-20 13:44:40 --> authentication --> logout --> logout -->  --> 
+2019-10-20 15:33:41 --> authentication --> login --> login -->  --> 
+2019-10-20 15:34:19 --> authentication --> logout --> logout -->  --> 
+2019-10-20 16:03:38 --> authentication --> login --> login -->  --> 
+2019-10-20 16:04:33 --> authentication --> logout --> logout -->  --> 

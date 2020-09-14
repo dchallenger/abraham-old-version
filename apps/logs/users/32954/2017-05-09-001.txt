@@ -1,0 +1,26 @@
+2017-05-09 10:52:59 --> authentication --> login --> login -->  --> 
+2017-05-09 11:11:11 --> authentication --> logout --> logout -->  --> 
+2017-05-09 11:31:00 --> authentication --> login --> login -->  --> 
+2017-05-09 11:40:34 --> authentication --> logout --> logout -->  --> 
+2017-05-09 11:52:51 --> authentication --> login --> login -->  --> 
+2017-05-09 11:53:28 --> authentication --> logout --> logout -->  --> 
+2017-05-09 13:48:57 --> authentication --> login --> login -->  --> 
+2017-05-09 13:51:15 --> incident_report --> insert --> involved_partners -->  --> 41
+2017-05-09 13:51:15 --> incident_report --> insert --> offense_id -->  --> 1
+2017-05-09 13:51:15 --> incident_report --> insert --> complainants -->  --> 93
+2017-05-09 13:51:15 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-05-09 13:49:00
+2017-05-09 13:51:15 --> incident_report --> insert --> witnesses -->  --> 15
+2017-05-09 13:51:15 --> incident_report --> insert --> incident_status_id -->  --> 2
+2017-05-09 13:51:15 --> incident_report --> insert --> date_sent -->  --> 2017-05-09 13:51:15
+2017-05-09 13:51:26 --> authentication --> logout --> logout -->  --> 
+2017-05-09 14:01:43 --> authentication --> login --> login -->  --> 
+2017-05-09 14:03:20 --> incident_report --> insert --> involved_partners -->  --> 41
+2017-05-09 14:03:20 --> incident_report --> insert --> offense_id -->  --> 1
+2017-05-09 14:03:20 --> incident_report --> insert --> complainants -->  --> 93
+2017-05-09 14:03:20 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-05-09 14:02:00
+2017-05-09 14:03:20 --> incident_report --> insert --> witnesses -->  --> 15
+2017-05-09 14:03:20 --> incident_report --> insert --> incident_status_id -->  --> 2
+2017-05-09 14:03:20 --> incident_report --> insert --> date_sent -->  --> 2017-05-09 14:03:20
+2017-05-09 14:03:35 --> authentication --> logout --> logout -->  --> 
+2017-05-09 14:40:38 --> authentication --> login --> login -->  --> 
+2017-05-09 14:41:05 --> authentication --> logout --> logout -->  --> 

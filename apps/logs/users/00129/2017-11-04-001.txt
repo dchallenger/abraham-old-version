@@ -1,0 +1,30 @@
+2017-11-04 12:04:13 --> authentication --> login --> login -->  --> 
+2017-11-04 11:31:51 --> applicants --> update --> key_value -->  --> operator
+2017-11-04 11:31:51 --> applicants --> update --> key_value --> 0 --> 1
+2017-11-04 11:31:51 --> applicants --> update --> key_value -->  --> 1
+2017-11-04 11:31:51 --> applicants --> update --> key_value -->  --> dsf
+2017-11-04 11:31:51 --> applicants --> update --> key_value -->  --> 234234
+2017-11-04 11:31:51 --> applicants --> update --> key_value -->  --> filipino
+2017-11-04 11:31:51 --> applicants --> update --> key_value -->  --> english
+2017-11-04 11:31:51 --> applicants --> update --> key_value -->  --> 5
+2017-11-04 11:32:30 --> applicants --> update --> key_value -->  --> January 28, 2020
+2017-11-04 11:32:30 --> applicants --> update --> key_value --> 0 --> 1
+2017-11-04 11:32:30 --> applicants --> update --> key_value -->  --> ketong
+2017-11-04 11:32:30 --> applicants --> delete --> recruitment_personal - recruit_id --> 2 --> 
+2017-11-04 11:32:30 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-04 11:32:30 --> applicants --> insert --> key_id -->  --> 210
+2017-11-04 11:32:30 --> applicants --> insert --> key -->  --> trial_court
+2017-11-04 11:32:30 --> applicants --> insert --> sequence -->  --> 1
+2017-11-04 11:32:30 --> applicants --> insert --> key_name -->  --> Trial Court
+2017-11-04 11:32:30 --> applicants --> insert --> key_value -->  --> Yes
+2017-11-04 11:32:30 --> applicants --> update --> key_value -->  --> 5
+2017-11-04 11:32:30 --> applicants --> update --> key_value -->  --> dasdf
+2017-11-04 11:32:30 --> applicants --> update --> key_value -->  --> 8
+2017-11-04 11:40:23 --> applicants --> update --> key_value --> 0 --> 1
+2017-11-04 11:40:23 --> applicants --> delete --> recruitment_personal - recruit_id --> 2 --> 
+2017-11-04 11:40:23 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-04 11:40:23 --> applicants --> insert --> key_id -->  --> 210
+2017-11-04 11:40:23 --> applicants --> insert --> key -->  --> trial_court
+2017-11-04 11:40:23 --> applicants --> insert --> sequence -->  --> 1
+2017-11-04 11:40:23 --> applicants --> insert --> key_name -->  --> Trial Court
+2017-11-04 11:40:23 --> applicants --> insert --> key_value -->  --> Yes

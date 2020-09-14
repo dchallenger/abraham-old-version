@@ -1,0 +1,12 @@
+2019-12-28 16:38:36 --> authentication --> login --> login -->  --> 
+2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> company_name -->  --> firefly
+2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> address -->  --> test
+2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> user_id -->  --> 1261
+2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> prev_nontax_thirten_month -->  --> 44
+2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> prev_nontax_deminimis -->  --> 23
+2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> prev_nontax_sss_etc -->  --> 23
+2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> prev_nontax_salaries -->  --> 23
+2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> prev_nontax_comp_income -->  --> 23
+2019-12-28 18:24:59 --> previous_employer_amount_for_alphalist --> insert --> prev_taxable_thirten_month -->  --> 23
+2019-12-28 18:25:00 --> previous_employer_amount_for_alphalist --> insert --> prev_taxable_salaries -->  --> 23
+2019-12-28 18:25:00 --> previous_employer_amount_for_alphalist --> insert --> prev_total_taxable -->  --> 23

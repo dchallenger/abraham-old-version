@@ -1,0 +1,6 @@
+2018-04-22 13:42:09 --> authentication --> logout --> logout -->  --> 
+2018-04-22 14:12:47 --> authentication --> login --> login -->  --> 
+2018-04-22 14:13:37 --> authentication --> logout --> logout -->  --> 
+2018-04-22 15:46:35 --> authentication --> login --> login -->  --> 
+2018-04-22 15:47:11 --> appraisal_individual_rate --> update --> selfrate_date -->  --> 2018-04-22
+2018-04-22 15:53:04 --> authentication --> logout --> logout -->  --> 

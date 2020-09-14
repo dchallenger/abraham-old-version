@@ -1,0 +1,9 @@
+DECANO, JAN RANDOLPH (32954) --> 2017-04-22 19:47:38 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-22 20:41:04 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-22 20:44:23 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-22 20:48:54 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-22 20:49:45 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-22 21:22:22 --> disciplinary_admin --> update --> incident_status_id --> 10 --> 6
+DE LEON, LISSA (30991) --> 2017-04-22 21:22:22 --> disciplinary_admin --> update --> status --> Open --> Close
+DE LEON, LISSA (30991) --> 2017-04-22 21:26:28 --> disciplinary_admin --> update --> incident_status_id --> 10 --> 6
+DE LEON, LISSA (30991) --> 2017-04-22 21:26:28 --> disciplinary_admin --> update --> status --> Open --> Close

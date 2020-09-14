@@ -1,0 +1,94 @@
+2017-11-07 20:20:22 --> authentication --> login --> login -->  --> 
+2017-11-07 20:21:19 --> applicant_monitoring --> update --> process_id --> 0 --> 1
+2017-11-07 20:21:19 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2017-11-07 20:21:19 --> applicant_monitoring --> update --> result -->  --> Consider
+2017-11-07 20:21:19 --> applicant_monitoring --> insert --> interview_id -->  --> 2
+2017-11-07 20:21:19 --> applicant_monitoring --> insert --> key_id -->  --> 31
+2017-11-07 20:21:19 --> applicant_monitoring --> insert --> key -->  --> remarks
+2017-11-07 20:21:19 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-11-07 20:21:19 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+2017-11-07 20:21:19 --> applicant_monitoring --> insert --> key_value -->  --> comments ni nelson
+
+ito and ok
+
+asdca
+2017-11-07 20:21:19 --> applicant_monitoring --> insert --> interview_id -->  --> 2
+2017-11-07 20:21:19 --> applicant_monitoring --> insert --> key_id -->  --> 66
+2017-11-07 20:21:19 --> applicant_monitoring --> insert --> key -->  --> interviewer
+2017-11-07 20:21:19 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-11-07 20:21:19 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+2017-11-07 20:21:19 --> applicant_monitoring --> insert --> key_value -->  --> CHAVEZ, NELSON
+2017-11-07 20:21:19 --> applicant_monitoring --> insert --> interview_id -->  --> 2
+2017-11-07 20:21:20 --> applicant_monitoring --> insert --> key_id -->  --> 64
+2017-11-07 20:21:20 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+2017-11-07 20:21:20 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-11-07 20:21:20 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+2017-11-07 20:21:20 --> applicant_monitoring --> insert --> key_value -->  --> November 30, 2017
+2017-11-07 20:21:20 --> applicant_monitoring --> insert --> interview_id -->  --> 2
+2017-11-07 20:21:20 --> applicant_monitoring --> insert --> key_id -->  --> 32
+2017-11-07 20:21:20 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+2017-11-07 20:21:20 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-11-07 20:21:20 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+2017-11-07 20:21:20 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+2017-11-07 20:25:08 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+2017-11-07 20:25:37 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+2017-11-07 20:28:52 --> applicant_monitoring --> insert --> template_id -->  --> 1
+2017-11-07 20:28:52 --> applicant_monitoring --> insert --> template_value -->  --> <div>07 November 2017<br><br><b>Mr. Tirso Garcia<br></b>Address<b><br><br></b>Dear Mr. Garcia,<br><br>Praise God!<br><br>We are very pleased to confirm our offer of employment with <b>Legend Hotel International Corporation - The Legend Palawan</b> as _____________________ (job level)&nbsp; effective __________________________ with the following conditions:<br><br><br></div><div>1.&nbsp; Hiring rate on project based employment<br><blockquote>{{compensation}}<br></blockquote>2.&nbsp; Company sponsored benefits (subject to policies, system and procedures)<br><blockquote>2.1&nbsp; Duty Meals: Based on the approved duty meal policy<br></blockquote><blockquote>2.2&nbsp; Full sponsorship to external and internal trainings.<br></blockquote><blockquote>23.&nbsp; Government Mandated Benefits.<br></blockquote><br>Your employment contract shall be served as soon as we received from you the 2nd copy of this letter with your signature , and your submission of all pre-employment requirements.<br><br>Thank you very much and may God Bless you and your family.<br><br>Sicerely,<br><br>HRD OFFICER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HRD MANAGER<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Mr. NELSON CHAVEZ</b><br><br><br>Received and accepted:<b>Mr. Tirso Garcia</b><br>Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; :<br></div>
+2017-11-07 20:28:52 --> applicant_monitoring --> insert --> reports_to -->  --> 121
+2017-11-07 20:28:52 --> applicant_monitoring --> insert --> employment_status_id -->  --> 3
+2017-11-07 20:28:52 --> applicant_monitoring --> insert --> start_date -->  --> 0000-00-00
+2017-11-07 20:28:52 --> applicant_monitoring --> insert --> end_date -->  --> 0000-00-00
+2017-11-07 20:28:52 --> applicant_monitoring --> insert --> accept_offer -->  --> 1
+2017-11-07 20:28:52 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-07 20:28:52 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 1 --> 
+2017-11-07 20:28:52 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-07 20:28:53 --> applicant_monitoring --> insert --> benefit_id -->  --> 251
+2017-11-07 20:28:53 --> applicant_monitoring --> insert --> amount -->  --> 6000
+2017-11-07 20:28:53 --> applicant_monitoring --> insert --> rate_id -->  --> 5
+2017-11-07 20:29:04 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+2017-11-07 20:29:04 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+2017-11-07 20:34:03 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+2017-11-07 20:35:22 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+2017-11-07 20:40:31 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+2017-11-07 20:41:30 --> applicant_monitoring --> update --> status_id --> 7 --> 8
+2017-11-07 20:41:30 --> applicant_monitoring --> update --> status_id --> 7 --> 8
+2017-11-07 20:41:30 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-07 20:41:30 --> applicant_monitoring --> insert --> checklist_id -->  --> 4
+2017-11-07 20:41:30 --> applicant_monitoring --> insert --> submitted -->  --> 1
+2017-11-07 20:41:30 --> applicant_monitoring --> insert --> date_submitted -->  --> 2017-11-14
+2017-11-07 20:41:30 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-07 20:41:30 --> applicant_monitoring --> insert --> checklist_id -->  --> 5
+2017-11-07 20:41:30 --> applicant_monitoring --> insert --> submitted -->  --> 1
+2017-11-07 20:41:30 --> applicant_monitoring --> insert --> date_submitted -->  --> 2017-11-25
+2017-11-07 20:41:30 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-07 20:41:30 --> applicant_monitoring --> insert --> checklist_id -->  --> 6
+2017-11-07 20:41:30 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-11-07 20:41:30 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> checklist_id -->  --> 7
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> submitted -->  --> 1
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> date_submitted -->  --> 2017-11-29
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> checklist_id -->  --> 8
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> checklist_id -->  --> 9
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> submitted -->  --> 1
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> date_submitted -->  --> 2017-11-30
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> checklist_id -->  --> 10
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> checklist_id -->  --> 11
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> checklist_id -->  --> 12
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> checklist_id -->  --> 13
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> checklist_id -->  --> 14
+2017-11-07 20:41:31 --> applicant_monitoring --> insert --> submitted -->  --> 0
+2017-11-07 20:41:32 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-07 20:41:32 --> applicant_monitoring --> insert --> checklist_id -->  --> 15
+2017-11-07 20:41:32 --> applicant_monitoring --> insert --> submitted -->  --> 0

@@ -1,0 +1,17 @@
+2017-11-27 13:29:56 --> authentication --> logout --> logout -->  --> 
+2017-11-27 13:32:19 --> authentication --> login --> login -->  --> 
+2017-11-27 13:57:27 --> authentication --> logout --> logout -->  --> 
+2017-11-27 13:59:12 --> authentication --> login --> login -->  --> 
+2017-11-27 14:09:36 --> authentication --> login --> login -->  --> 
+2017-11-27 14:13:22 --> payroll_period --> insert --> date_from -->  --> 2017-08-30
+2017-11-27 14:13:22 --> payroll_period --> insert --> date_to -->  --> 2017-08-30
+2017-11-27 14:13:22 --> payroll_period --> insert --> payroll_date -->  --> 2017-11-30
+2017-11-27 14:13:22 --> payroll_period --> insert --> posting_date -->  --> 2017-11-30
+2017-11-27 14:13:22 --> payroll_period --> insert --> apply_to_id -->  --> 1
+2017-11-27 14:13:22 --> payroll_period --> insert --> period_processing_type_id -->  --> 3
+2017-11-27 14:13:22 --> payroll_period --> insert --> payroll_schedule_id -->  --> 4
+2017-11-27 14:13:22 --> payroll_period --> insert --> week -->  --> 4
+2017-11-27 14:13:22 --> payroll_period --> insert --> remarks -->  --> test
+2017-11-27 14:13:22 --> payroll_period --> insert --> period_status_id -->  --> 1
+2017-11-27 14:33:54 --> payroll_period --> update --> date_from --> 2017-08-30 --> 2017-09-01
+2017-11-27 14:33:54 --> payroll_period --> update --> date_to --> 2017-08-30 --> 2017-09-30

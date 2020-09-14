@@ -1,0 +1,97 @@
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:42 --> applicants --> insert --> key_name -->  --> Contact Address
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:42 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:42 --> applicants --> insert --> key_id -->  --> 21
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:42 --> applicants --> insert --> key -->  --> emergency_city
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:42 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:42 --> applicants --> insert --> key_name -->  --> Contact City
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:42 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:42 --> applicants --> insert --> key_id -->  --> 92
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:42 --> applicants --> insert --> key -->  --> emergency_country
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:42 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:42 --> applicants --> insert --> key_name -->  --> Country
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:42 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:42 --> applicants --> insert --> key_id -->  --> 22
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:42 --> applicants --> insert --> key -->  --> emergency_zip_code
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:42 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:42 --> applicants --> insert --> key_name -->  --> Contact Zip Code
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:58 --> applicants --> update --> birth_date --> 0000-00-00 --> 2009-01-05
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:58 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:58 --> applicants --> insert --> key_id -->  --> 23
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:58 --> applicants --> insert --> key -->  --> gender
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:58 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:58 --> applicants --> insert --> key_name -->  --> Gender
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:58 --> applicants --> insert --> key_value -->  --> Male
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:58 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key_id -->  --> 24
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key -->  --> birth_place
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key_name -->  --> Birth Place
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key_id -->  --> 25
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key -->  --> religion
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key_name -->  --> Religion
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key_id -->  --> 26
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key -->  --> nationality
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key_name -->  --> Nationality
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key_id -->  --> 8
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key -->  --> civil_status
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key_name -->  --> Civil Status
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key_value -->  --> Single
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key_id -->  --> 116
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key -->  --> tin_number
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key_name -->  --> TIN Number
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key_id -->  --> 110
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> key -->  --> sss_number
+ALICANTE, LISSA (30991) --> 2019-06-22 07:24:59 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key_name -->  --> SSS Number
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key_id -->  --> 113
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key -->  --> pagibig_number
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key_name -->  --> Pag-Ibig Number
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key_id -->  --> 119
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key -->  --> philhealth_number
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key_name -->  --> Philhealth Number
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key_id -->  --> 202
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key -->  --> machine_operated
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key_name -->  --> Machine Operated
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key_id -->  --> 203
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key -->  --> driver_license
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key_name -->  --> Do You Have Driver License
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key_value -->  --> 0
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key_id -->  --> 204
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key -->  --> driver_type_license
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> key_name -->  --> Driver License Type
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:00 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:01 --> applicants --> insert --> key_id -->  --> 205
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:01 --> applicants --> insert --> key -->  --> prc_license
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:01 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:01 --> applicants --> insert --> key_name -->  --> Do You Have PRC
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:01 --> applicants --> insert --> key_value -->  --> 0
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:01 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:01 --> applicants --> insert --> key_id -->  --> 206
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:01 --> applicants --> insert --> key -->  --> prc_type_license
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:01 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:01 --> applicants --> insert --> key_name -->  --> PRC Type of License
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:01 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:01 --> applicants --> insert --> key_id -->  --> 207
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:01 --> applicants --> insert --> key -->  --> prc_license_no
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:01 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:01 --> applicants --> insert --> key_name -->  --> PRC License No
+ALICANTE, LISSA (30991) --> 2019-06-22 07:25:01 --> applicants --> insert --> recruit_id -->  --> 10

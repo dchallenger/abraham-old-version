@@ -1,0 +1,92 @@
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:54:58 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:54:58 --> applicants --> delete --> recruitment_personal - recruit_id --> 1 --> 
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:54:58 --> applicants --> insert --> recruit_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:54:58 --> applicants --> insert --> key_id -->  --> 210
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:54:58 --> applicants --> insert --> key -->  --> trial_court
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:54:58 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:54:58 --> applicants --> insert --> key_name -->  --> Trial Court
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:54:58 --> applicants --> insert --> key_value -->  --> Yes
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:54:58 --> applicants --> update --> key_value --> 10 --> 16
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:54:58 --> applicants --> update --> key_value --> 16 --> 787
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:56:13 --> applicants --> insert --> recruit_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:56:13 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:56:13 --> applicants --> insert --> key_value -->  --> zxdasd
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:56:13 --> applicants --> delete --> recruitment_personal - recruit_id --> 1 --> 
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:56:13 --> applicants --> insert --> recruit_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:56:13 --> applicants --> insert --> key_id -->  --> 210
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:56:13 --> applicants --> insert --> key -->  --> trial_court
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:56:13 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:56:13 --> applicants --> insert --> key_name -->  --> Trial Court
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:56:13 --> applicants --> insert --> key_value -->  --> No
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:57:05 --> applicants --> insert --> recruit_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:57:05 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:57:05 --> applicants --> insert --> key_value -->  --> rrrrr
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:57:05 --> applicants --> delete --> recruitment_personal - recruit_id --> 1 --> 
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:57:05 --> applicants --> insert --> recruit_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:57:05 --> applicants --> insert --> key_id -->  --> 210
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:57:05 --> applicants --> insert --> key -->  --> trial_court
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:57:05 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:57:05 --> applicants --> insert --> key_name -->  --> Trial Court
+CHAVEZ, NELSON (00129) --> 2017-10-30 03:57:05 --> applicants --> insert --> key_value -->  --> No
+CHAVEZ, NELSON (00129) --> 2017-10-30 04:06:33 --> applicants --> insert --> recruit_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-10-30 04:06:33 --> applicants --> insert --> key_id -->  --> 214
+CHAVEZ, NELSON (00129) --> 2017-10-30 04:06:33 --> applicants --> insert --> key -->  --> illness_yes
+CHAVEZ, NELSON (00129) --> 2017-10-30 04:06:33 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-10-30 04:06:33 --> applicants --> insert --> key_name -->  --> Type of Illnes
+CHAVEZ, NELSON (00129) --> 2017-10-30 04:06:33 --> applicants --> insert --> key_value -->  --> sdsdssd
+CHAVEZ, NELSON (00129) --> 2017-10-30 04:06:33 --> applicants --> delete --> recruitment_personal - recruit_id --> 1 --> 
+CHAVEZ, NELSON (00129) --> 2017-10-30 04:06:33 --> applicants --> insert --> recruit_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-10-30 04:06:34 --> applicants --> insert --> key_id -->  --> 210
+CHAVEZ, NELSON (00129) --> 2017-10-30 04:06:34 --> applicants --> insert --> key -->  --> trial_court
+CHAVEZ, NELSON (00129) --> 2017-10-30 04:06:34 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-10-30 04:06:34 --> applicants --> insert --> key_name -->  --> Trial Court
+CHAVEZ, NELSON (00129) --> 2017-10-30 04:06:34 --> applicants --> insert --> key_value -->  --> No
+CHAVEZ, NELSON (00129) --> 2017-10-30 12:36:35 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-30 12:36:48 --> authentication --> login --> login -->  --> 
+() --> 2017-10-30 12:37:08 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-30 13:38:50 --> authentication --> logout --> logout -->  --> 
+() --> 2017-10-30 13:38:54 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-30 13:39:12 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-30 14:22:05 --> applicant_monitoring --> insert --> template_value -->  --> <div>
+
+<h4>A PHP Error was encountered</h4>
+
+Severity: Notice
+Message:  Undefined variable: template_value
+Filename: forms/jo_form.php
+Line Number: 398
+
+</div>
+DE LEON, LISSA (30991) --> 2017-10-30 14:22:05 --> applicant_monitoring --> insert --> reports_to -->  --> 207
+DE LEON, LISSA (30991) --> 2017-10-30 14:22:05 --> applicant_monitoring --> insert --> employment_status_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-10-30 14:22:05 --> applicant_monitoring --> insert --> start_date -->  --> 0000-00-00
+DE LEON, LISSA (30991) --> 2017-10-30 14:22:05 --> applicant_monitoring --> insert --> end_date -->  --> 0000-00-00
+DE LEON, LISSA (30991) --> 2017-10-30 14:22:05 --> applicant_monitoring --> insert --> work_schedule -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-30 14:22:05 --> applicant_monitoring --> insert --> accept_offer -->  --> 0
+DE LEON, LISSA (30991) --> 2017-10-30 14:22:05 --> applicant_monitoring --> insert --> process_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-10-30 14:22:05 --> applicant_monitoring --> update --> status_id --> 5 --> 8
+DE LEON, LISSA (30991) --> 2017-10-30 14:22:05 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 3 --> 
+DE LEON, LISSA (30991) --> 2017-10-30 21:27:52 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-30 21:49:10 --> mrf --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+DE LEON, LISSA (30991) --> 2017-10-30 21:49:10 --> mrf --> insert --> subject -->  --> Send email to approver
+DE LEON, LISSA (30991) --> 2017-10-30 21:49:10 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by DE LEON, LISSA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>

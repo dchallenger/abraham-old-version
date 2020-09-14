@@ -1,0 +1,126 @@
+2019-11-01 23:05:32 --> applicants --> insert --> key -->  --> reference-organization
+2019-11-01 23:05:32 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:05:32 --> applicants --> insert --> key_name -->  --> Organization
+2019-11-01 23:05:48 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:05:48 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:05:48 --> applicants --> insert --> key_id -->  --> 54
+2019-11-01 23:05:48 --> applicants --> insert --> key -->  --> licensure-title
+2019-11-01 23:05:48 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:05:48 --> applicants --> insert --> key_name -->  --> Title
+2019-11-01 23:05:48 --> applicants --> insert --> key_value -->  --> aasdf
+2019-11-01 23:05:48 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:05:48 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:05:48 --> applicants --> insert --> key_id -->  --> 55
+2019-11-01 23:05:48 --> applicants --> insert --> key -->  --> licensure-number
+2019-11-01 23:05:48 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:05:48 --> applicants --> insert --> key_name -->  --> License Number
+2019-11-01 23:05:48 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:05:48 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:05:48 --> applicants --> insert --> key_id -->  --> 57
+2019-11-01 23:05:48 --> applicants --> insert --> key -->  --> licensure-remarks
+2019-11-01 23:05:48 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:05:48 --> applicants --> insert --> key_name -->  --> Remarks
+2019-11-01 23:05:48 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:05:49 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:05:49 --> applicants --> insert --> key_id -->  --> 68
+2019-11-01 23:05:49 --> applicants --> insert --> key -->  --> licensure-month-taken
+2019-11-01 23:05:49 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:05:49 --> applicants --> insert --> key_name -->  --> Month Taken
+2019-11-01 23:05:49 --> applicants --> insert --> key_value -->  --> January
+2019-11-01 23:05:49 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:05:49 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:05:49 --> applicants --> insert --> key_id -->  --> 56
+2019-11-01 23:05:49 --> applicants --> insert --> key -->  --> licensure-year-taken
+2019-11-01 23:05:49 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:05:49 --> applicants --> insert --> key_name -->  --> Year Taken
+2019-11-01 23:05:49 --> applicants --> insert --> key_value -->  --> 2015
+2019-11-01 23:06:02 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:06:02 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:02 --> applicants --> insert --> key_id -->  --> 60
+2019-11-01 23:06:02 --> applicants --> insert --> key -->  --> training-category
+2019-11-01 23:06:02 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:02 --> applicants --> insert --> key_name -->  --> Category
+2019-11-01 23:06:02 --> applicants --> insert --> key_value -->  --> Training
+2019-11-01 23:06:02 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:06:02 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:02 --> applicants --> insert --> key_id -->  --> 59
+2019-11-01 23:06:02 --> applicants --> insert --> key -->  --> training-title
+2019-11-01 23:06:02 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:02 --> applicants --> insert --> key_name -->  --> Title
+2019-11-01 23:06:02 --> applicants --> insert --> key_value -->  --> erswtg
+2019-11-01 23:06:02 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:06:02 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:02 --> applicants --> insert --> key_id -->  --> 61
+2019-11-01 23:06:02 --> applicants --> insert --> key -->  --> training-venue
+2019-11-01 23:06:03 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:03 --> applicants --> insert --> key_name -->  --> Venue
+2019-11-01 23:06:03 --> applicants --> insert --> key_value -->  --> ret
+2019-11-01 23:06:03 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:06:03 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:03 --> applicants --> insert --> key_id -->  --> 66
+2019-11-01 23:06:03 --> applicants --> insert --> key -->  --> training-start-month
+2019-11-01 23:06:03 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:03 --> applicants --> insert --> key_name -->  --> Start Month
+2019-11-01 23:06:03 --> applicants --> insert --> key_value -->  --> January
+2019-11-01 23:06:03 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:06:03 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:03 --> applicants --> insert --> key_id -->  --> 62
+2019-11-01 23:06:03 --> applicants --> insert --> key -->  --> training-start-year
+2019-11-01 23:06:03 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:03 --> applicants --> insert --> key_name -->  --> Start Year
+2019-11-01 23:06:03 --> applicants --> insert --> key_value -->  --> 3201
+2019-11-01 23:06:03 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:06:03 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:03 --> applicants --> insert --> key_id -->  --> 67
+2019-11-01 23:06:04 --> applicants --> insert --> key -->  --> training-end-month
+2019-11-01 23:06:04 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:04 --> applicants --> insert --> key_name -->  --> End Month
+2019-11-01 23:06:04 --> applicants --> insert --> key_value -->  --> January
+2019-11-01 23:06:04 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:06:04 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:04 --> applicants --> insert --> key_id -->  --> 63
+2019-11-01 23:06:04 --> applicants --> insert --> key -->  --> training-end-year
+2019-11-01 23:06:04 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:04 --> applicants --> insert --> key_name -->  --> End Year
+2019-11-01 23:06:04 --> applicants --> insert --> key_value -->  --> 1212
+2019-11-01 23:06:19 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:06:19 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:19 --> applicants --> insert --> key_id -->  --> 69
+2019-11-01 23:06:20 --> applicants --> insert --> key -->  --> skill-name
+2019-11-01 23:06:20 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:20 --> applicants --> insert --> key_name -->  --> Name
+2019-11-01 23:06:20 --> applicants --> insert --> key_value -->  --> wertwert
+2019-11-01 23:06:20 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:06:20 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:20 --> applicants --> insert --> key_id -->  --> 71
+2019-11-01 23:06:20 --> applicants --> insert --> key -->  --> skill-level
+2019-11-01 23:06:20 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:20 --> applicants --> insert --> key_name -->  --> Proficiency Level
+2019-11-01 23:06:20 --> applicants --> insert --> key_value -->  --> Advance
+2019-11-01 23:06:20 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:06:20 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:20 --> applicants --> insert --> key_id -->  --> 72
+2019-11-01 23:06:20 --> applicants --> insert --> key -->  --> skill-remarks
+2019-11-01 23:06:20 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:20 --> applicants --> insert --> key_name -->  --> Remarks
+2019-11-01 23:06:32 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:06:32 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:32 --> applicants --> insert --> key_id -->  --> 73
+2019-11-01 23:06:32 --> applicants --> insert --> key -->  --> affiliation-name
+2019-11-01 23:06:33 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:33 --> applicants --> insert --> key_name -->  --> Name
+2019-11-01 23:06:33 --> applicants --> insert --> key_value -->  --> yt
+2019-11-01 23:06:33 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:06:33 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:33 --> applicants --> insert --> key_id -->  --> 74
+2019-11-01 23:06:33 --> applicants --> insert --> key -->  --> affiliation-position
+2019-11-01 23:06:33 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:33 --> applicants --> insert --> key_name -->  --> Position
+2019-11-01 23:06:33 --> applicants --> insert --> key_value -->  --> wert
+2019-11-01 23:06:33 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+2019-11-01 23:06:33 --> applicants --> insert --> recruit_id -->  --> 13
+2019-11-01 23:06:33 --> applicants --> insert --> key_id -->  --> 75
+2019-11-01 23:06:33 --> applicants --> insert --> key -->  --> affiliation-month-start
+2019-11-01 23:06:33 --> applicants --> insert --> sequence -->  --> 1
+2019-11-01 23:06:33 --> applicants --> insert --> key_name -->  --> Month Start
+2019-11-01 23:06:33 --> applicants --> insert --> key_value -->  --> January

@@ -1,0 +1,33 @@
+2020-01-02 05:04:59 --> authentication --> login --> login -->  --> 
+2020-01-02 05:40:47 --> module --> insert --> short_name -->  --> Previous Employer Alphalist
+2020-01-02 05:40:47 --> module --> insert --> long_name -->  --> Previous Employer Alphalist
+2020-01-02 05:40:47 --> module --> insert --> icon -->  --> fa-folder
+2020-01-02 05:40:53 --> module --> update --> mod_code -->  --> previous_employer_amount_for_alphalist
+2020-01-02 05:40:53 --> module --> update --> route -->  --> payroll/previous_employer_amount_for_alphalist
+2020-01-02 05:40:53 --> module --> update --> table -->  --> payroll_partners_previous_employer
+2020-01-02 05:40:53 --> module --> update --> primary_key -->  --> payroll_partners_previous_employer_id
+2020-01-02 05:40:53 --> module --> update --> list_template_header -->  --> <th width="15%">Employee Name</th>
+<th width="24%">Company Name</th>
+<th width="15%">Address</th>
+2020-01-02 05:40:53 --> module --> update --> list_template -->  --> <tr class="record">
+    <td><input type="checkbox" value="{{ $record_id }}" class="record-checker checkboxes"></td>
+</tr>
+2020-01-02 05:55:09 --> module --> delete --> mod_id --> 263 --> 
+2020-01-02 06:01:03 --> previous_employer_amount_for_alphalist --> insert --> company_name -->  --> firefly
+2020-01-02 06:01:03 --> previous_employer_amount_for_alphalist --> insert --> address -->  --> est
+2020-01-02 06:01:03 --> previous_employer_amount_for_alphalist --> insert --> user_id -->  --> 1261
+2020-01-02 06:01:03 --> previous_employer_amount_for_alphalist --> insert --> prev_nontax_thirten_month -->  --> 23
+2020-01-02 06:01:03 --> previous_employer_amount_for_alphalist --> insert --> prev_nontax_deminimis -->  --> 23
+2020-01-02 06:01:03 --> previous_employer_amount_for_alphalist --> insert --> prev_nontax_sss_etc -->  --> 23
+2020-01-02 06:01:03 --> previous_employer_amount_for_alphalist --> insert --> prev_nontax_salaries -->  --> 23
+2020-01-02 06:01:03 --> previous_employer_amount_for_alphalist --> insert --> prev_nontax_comp_income -->  --> 23
+2020-01-02 06:01:04 --> previous_employer_amount_for_alphalist --> insert --> prev_taxable_thirten_month -->  --> 23
+2020-01-02 06:01:04 --> previous_employer_amount_for_alphalist --> insert --> prev_taxable_salaries -->  --> 23
+2020-01-02 06:01:04 --> previous_employer_amount_for_alphalist --> insert --> prev_total_taxable -->  --> 23
+2020-01-02 09:01:36 --> previous_employer_amount_for_alphalist --> update --> prev_tax_w_held -->  --> 500
+2020-01-02 11:35:12 --> authentication --> logout --> logout -->  --> 
+2020-01-02 11:45:19 --> authentication --> login --> login -->  --> 
+2020-01-02 04:34:45 --> report_generator --> insert --> report_code -->  --> BIR1604CF 7.4
+2020-01-02 04:34:45 --> report_generator --> insert --> report_name -->  --> BIR1604CF 7.4
+2020-01-02 04:34:45 --> report_generator --> insert --> category_id -->  --> 3
+2020-01-02 04:34:45 --> report_generator --> insert --> roles -->  --> 1,8,24

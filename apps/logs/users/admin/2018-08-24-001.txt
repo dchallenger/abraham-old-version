@@ -1,0 +1,9 @@
+2018-08-24 08:15:47 --> authentication --> logout --> logout -->  --> 
+2018-08-24 08:15:56 --> authentication --> login --> login -->  --> 
+2018-08-24 08:18:48 --> leave_balance_admin --> insert --> year -->  --> 2018
+2018-08-24 08:18:48 --> leave_balance_admin --> insert --> user_id -->  --> 26
+2018-08-24 08:18:48 --> leave_balance_admin --> insert --> form_id -->  --> 21
+2018-08-24 08:18:48 --> leave_balance_admin --> insert --> previous -->  --> 0
+2018-08-24 08:18:48 --> leave_balance_admin --> insert --> period_from -->  --> 2018-08-01
+2018-08-24 08:18:49 --> leave_balance_admin --> insert --> period_to -->  --> 2018-12-31
+2018-08-24 08:18:49 --> leave_balance_admin --> insert --> period_extension -->  --> 2019-03-31

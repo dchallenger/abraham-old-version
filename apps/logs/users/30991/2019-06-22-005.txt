@@ -1,0 +1,117 @@
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key -->  --> language
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key_name -->  --> Language Known
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key_id -->  --> 7
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key -->  --> mobile
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key_name -->  --> Mobile
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key_value -->  --> +639236371241
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key_id -->  --> 26
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key -->  --> nationality
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key_name -->  --> Nationality
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key_id -->  --> 14
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key -->  --> organization
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key_name -->  --> Organization
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key_id -->  --> 11
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key -->  --> original_date_hired
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key_name -->  --> Original Hired Date
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key_id -->  --> 113
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key -->  --> pagibig_number
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:04 --> applicant_monitoring --> insert --> key_name -->  --> Pag-Ibig Number
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> key_value -->  --> 101001303273
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> key_id -->  --> 119
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> key -->  --> philhealth_number
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> key_name -->  --> Philhealth Number
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> key_value -->  --> 210500721361
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> key_id -->  --> 10
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> key -->  --> probationary_date
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> key_name -->  --> Probationary Date
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> key_id -->  --> 25
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> key -->  --> religion
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> key_name -->  --> Religion
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> key_id -->  --> 163
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> key -->  --> solo_parent
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> key_name -->  --> Is Solo Parent
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> key_id -->  --> 110
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> key -->  --> sss_number
+2019-06-22 15:27:05 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key_name -->  --> SSS Number
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key_value -->  --> 3394992805
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key_id -->  --> 128
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key -->  --> taxcode
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key_name -->  --> Tax Status Code
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key_value -->  --> 6
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key_id -->  --> 116
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key -->  --> tin_number
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key_name -->  --> TIN Number
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key_value -->  --> 229382606
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key_id -->  --> 28
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key -->  --> weight
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key_name -->  --> Weight
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key_id -->  --> 15
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key -->  --> zip_code
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key_name -->  --> Zip Code
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:06 --> applicant_monitoring --> insert --> key_id -->  --> 37
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key -->  --> education-degree
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key_name -->  --> Degree
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key_value -->  --> BS HRM
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key_id -->  --> 34
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key -->  --> education-school
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key_name -->  --> School
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key_value -->  --> Our Lady of Fatima University- Valenzuela
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key_id -->  --> 38
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key -->  --> education-status
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key_name -->  --> Status
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key_value -->  --> Graduated
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key_id -->  --> 33
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key -->  --> education-type
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key_name -->  --> Type
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key_value -->  --> Tertiary
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key_id -->  --> 35
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key -->  --> education-year-from
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key_name -->  --> Year From
+2019-06-22 15:27:07 --> applicant_monitoring --> insert --> key_value -->  --> 2003
+2019-06-22 15:27:08 --> applicant_monitoring --> insert --> recruit_id -->  --> 11
+2019-06-22 15:27:08 --> applicant_monitoring --> insert --> key_id -->  --> 36
+2019-06-22 15:27:08 --> applicant_monitoring --> insert --> key -->  --> education-year-to
+2019-06-22 15:27:08 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-06-22 15:27:08 --> applicant_monitoring --> insert --> key_name -->  --> Year To
+2019-06-22 15:27:08 --> applicant_monitoring --> insert --> key_value -->  --> 2007
+2019-06-22 15:28:23 --> applicant_monitoring --> insert --> recruitment_date -->  --> 2019-06-22
+2019-06-22 15:28:23 --> applicant_monitoring --> insert --> title -->  --> Miss

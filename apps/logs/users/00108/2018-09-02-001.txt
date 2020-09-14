@@ -1,0 +1,22 @@
+2018-09-02 08:42:19 --> payroll_period --> insert --> date_from -->  --> 2018-08-01
+2018-09-02 08:42:19 --> payroll_period --> insert --> date_to -->  --> 2018-08-31
+2018-09-02 08:42:19 --> payroll_period --> insert --> payroll_date -->  --> 2018-09-15
+2018-09-02 08:42:19 --> payroll_period --> insert --> posting_date -->  --> 2018-09-15
+2018-09-02 08:42:19 --> payroll_period --> insert --> apply_to_id -->  --> 2
+2018-09-02 08:42:19 --> payroll_period --> insert --> period_processing_type_id -->  --> 1
+2018-09-02 08:42:19 --> payroll_period --> insert --> include_basic_and_allowances -->  --> 0
+2018-09-02 08:42:19 --> payroll_period --> insert --> payroll_schedule_id -->  --> 4
+2018-09-02 08:42:19 --> payroll_period --> insert --> week -->  --> 2
+2018-09-02 08:42:19 --> payroll_period --> insert --> remarks -->  --> payroll abhi
+2018-09-02 08:42:19 --> payroll_period --> insert --> period_status_id -->  --> 1
+2018-09-02 09:44:05 --> holiday --> delete --> holiday_id --> 79 --> 
+2018-09-02 09:44:16 --> holiday --> delete --> holiday_id --> 59 --> 
+2018-09-02 11:22:28 --> overtime_rates --> insert --> company_id -->  --> 14
+2018-09-02 11:22:28 --> overtime_rates --> insert --> overtime_id -->  --> 44
+2018-09-02 11:22:28 --> overtime_rates --> insert --> overtime_rate -->  --> 1.8
+2018-09-02 11:22:55 --> overtime_rates --> insert --> company_id -->  --> 1
+2018-09-02 11:22:55 --> overtime_rates --> insert --> overtime_id -->  --> 45
+2018-09-02 11:22:55 --> overtime_rates --> insert --> overtime_rate -->  --> 2.0
+2018-09-02 11:25:29 --> overtime_rates --> insert --> company_id -->  --> 1
+2018-09-02 11:25:29 --> overtime_rates --> insert --> overtime_id -->  --> 44
+2018-09-02 11:25:29 --> overtime_rates --> insert --> overtime_rate -->  --> 1.9

@@ -1,0 +1,6 @@
+() --> 2017-08-09 10:03:17 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-08-09 10:05:32 --> authentication --> login --> login -->  --> 
+MELLEJOR, GABRIEL (32633) --> 2017-08-09 13:49:06 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-08-09 13:49:55 --> authentication --> login --> login -->  --> 
+CARMEN, MA RITA (00108) --> 2017-08-09 11:32:50 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-08-09 11:33:03 --> authentication --> login --> login -->  --> 

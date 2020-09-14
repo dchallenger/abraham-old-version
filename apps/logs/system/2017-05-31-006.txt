@@ -1,0 +1,58 @@
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:48 --> applicants --> insert --> key_name -->  --> Permanent Town
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:48 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:48 --> applicants --> insert --> key_id -->  --> 16
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:48 --> applicants --> insert --> key -->  --> emergency_name
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:48 --> applicants --> insert --> sequence -->  --> 2
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:48 --> applicants --> insert --> key_name -->  --> Contact Name
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:48 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:48 --> applicants --> insert --> key_id -->  --> 17
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:48 --> applicants --> insert --> key -->  --> emergency_relationship
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:48 --> applicants --> insert --> sequence -->  --> 2
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:48 --> applicants --> insert --> key_name -->  --> Relationship
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:48 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:48 --> applicants --> insert --> key_id -->  --> 18
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key -->  --> emergency_phone
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> sequence -->  --> 2
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key_name -->  --> Contact Phone
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key_id -->  --> 19
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key -->  --> emergency_mobile
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> sequence -->  --> 2
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key_name -->  --> Contact Mobile
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key_id -->  --> 20
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key -->  --> emergency_address
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> sequence -->  --> 2
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key_name -->  --> Contact Address
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key_id -->  --> 21
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key -->  --> emergency_city
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> sequence -->  --> 2
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key_name -->  --> Contact City
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key_id -->  --> 92
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key -->  --> emergency_country
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> sequence -->  --> 2
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key_name -->  --> Country
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> recruit_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key_id -->  --> 22
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key -->  --> emergency_zip_code
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> sequence -->  --> 2
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 02:40:49 --> applicants --> insert --> key_name -->  --> Contact Zip Code
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 11:16:38 --> applicant_monitoring --> insert --> process_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 11:16:38 --> applicant_monitoring --> insert --> date -->  --> 2017-07-07 11:16:00
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 11:16:38 --> applicant_monitoring --> insert --> user_id -->  --> 121
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 11:16:38 --> applicant_monitoring --> insert --> location_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 11:16:38 --> applicant_monitoring --> insert --> schedule_id -->  --> 1
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 11:16:38 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 11:16:38 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+ZULUETA, SANTIAGO JR(00732) --> 2017-05-31 15:29:23 --> authentication --> logout --> logout -->  --> 
+ABO, MADONNA (00886) --> 2017-05-31 15:29:59 --> authentication --> login --> login -->  --> 
+ABO, MADONNA (00886) --> 2017-05-31 15:32:07 --> applicant_monitoring --> update --> process_id --> 0 --> 1
+ABO, MADONNA (00886) --> 2017-05-31 15:32:07 --> applicant_monitoring --> update --> result_id --> 0 --> 1
+ABO, MADONNA (00886) --> 2017-05-31 15:32:07 --> applicant_monitoring --> update --> result -->  --> Passed
+ABO, MADONNA (00886) --> 2017-05-31 15:32:08 --> applicant_monitoring --> update --> key_value --> Qualified --> Passed
+ABO, MADONNA (00886) --> 2017-05-31 15:32:22 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-31 15:33:30 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-31 15:34:33 --> applicant_monitoring --> update --> status_id --> 3 --> 4
+ELISCUPIDES, ROWENA (00273) --> 2017-05-31 15:34:33 --> applicant_monitoring --> update --> status_id --> 2 --> 4

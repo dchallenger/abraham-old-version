@@ -1,0 +1,93 @@
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:25 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:25 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:25 --> applicants --> insert --> key_id -->  --> 136
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:25 --> applicants --> insert --> key -->  --> family-employer
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:25 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:26 --> applicants --> insert --> key_name -->  --> Employer
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:38 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:38 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:38 --> applicants --> insert --> key_id -->  --> 215
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:38 --> applicants --> insert --> key -->  --> family-age
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:38 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:38 --> applicants --> insert --> key_name -->  --> Age
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:38 --> applicants --> insert --> key_value -->  --> 79
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:38 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> key_id -->  --> 132
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> key -->  --> family-relationship
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> key_name -->  --> Relationship
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> key_value -->  --> Father
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> key_id -->  --> 133
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> key -->  --> family-name
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> key_name -->  --> Name
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> key_value -->  --> Tirso garcia sr
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> key_id -->  --> 134
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> key -->  --> family-birthdate
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> key_name -->  --> Birthday
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> key_value -->  --> October 01, 1940
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:39 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:40 --> applicants --> insert --> key_id -->  --> 135
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:40 --> applicants --> insert --> key -->  --> family-occupation
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:40 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:40 --> applicants --> insert --> key_name -->  --> Occupation
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:40 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:40 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:40 --> applicants --> insert --> key_id -->  --> 136
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:40 --> applicants --> insert --> key -->  --> family-employer
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:40 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:26:40 --> applicants --> insert --> key_name -->  --> Employer
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:00 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:00 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:00 --> applicants --> insert --> key_id -->  --> 215
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:00 --> applicants --> insert --> key -->  --> family-age
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:00 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:00 --> applicants --> insert --> key_name -->  --> Age
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:00 --> applicants --> insert --> key_value -->  --> 79
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:00 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:00 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:00 --> applicants --> insert --> key_id -->  --> 132
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:00 --> applicants --> insert --> key -->  --> family-relationship
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:00 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:00 --> applicants --> insert --> key_name -->  --> Relationship
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> key_value -->  --> Father
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> key_id -->  --> 133
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> key -->  --> family-name
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> key_name -->  --> Name
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> key_value -->  --> Tirso garcia sr
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> key_id -->  --> 134
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> key -->  --> family-birthdate
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> key_name -->  --> Birthday
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> key_value -->  --> October 01, 1940
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> key_id -->  --> 135
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> key -->  --> family-occupation
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> key_name -->  --> Occupation
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> key_id -->  --> 136
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:01 --> applicants --> insert --> key -->  --> family-employer
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:02 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:27:02 --> applicants --> insert --> key_name -->  --> Employer
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:53 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 10 --> 
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:53 --> applicants --> insert --> recruit_id -->  --> 10
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:53 --> applicants --> insert --> key_id -->  --> 33
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:53 --> applicants --> insert --> key -->  --> education-type
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:53 --> applicants --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:53 --> applicants --> insert --> key_name -->  --> Type
+ALICANTE, LISSA (30991) --> 2019-10-20 05:35:53 --> applicants --> insert --> key_value -->  --> Graduate Studies

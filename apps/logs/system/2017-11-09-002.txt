@@ -1,0 +1,46 @@
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:14 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:14 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:14 --> applicant_monitoring --> insert --> checklist_id -->  --> 16
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:14 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:14 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:14 --> applicant_monitoring --> insert --> checklist_id -->  --> 17
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:14 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:15 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:15 --> applicant_monitoring --> insert --> checklist_id -->  --> 18
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:15 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:15 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:15 --> applicant_monitoring --> insert --> checklist_id -->  --> 19
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:15 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:15 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:15 --> applicant_monitoring --> insert --> checklist_id -->  --> 20
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:15 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:15 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:15 --> applicant_monitoring --> insert --> checklist_id -->  --> 21
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:15 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:15 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:15 --> applicant_monitoring --> insert --> checklist_id -->  --> 22
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> checklist_id -->  --> 23
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> checklist_id -->  --> 24
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> checklist_id -->  --> 25
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> checklist_id -->  --> 26
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> checklist_id -->  --> 27
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:16 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:17 --> applicant_monitoring --> insert --> checklist_id -->  --> 28
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:17 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:17 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:17 --> applicant_monitoring --> insert --> checklist_id -->  --> 29
+DE LEON, LISSA (30991) --> 2017-11-09 14:20:17 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 14:36:05 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-11-09 14:36:25 --> authentication --> login --> login -->  --> 
+() --> 2017-11-09 14:36:50 --> authentication --> logout --> logout -->  --> 

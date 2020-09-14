@@ -1,0 +1,89 @@
+Admin, Teemworx (admin) --> 2017-04-25 00:06:57 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 08:49:07 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 10:18:25 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 10:24:18 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 10:36:29 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 10:51:33 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-25 10:51:49 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-25 11:02:00 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 11:02:17 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 11:38:54 --> authentication --> logout --> logout -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-04-25 11:39:09 --> authentication --> login --> login -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-04-25 11:39:39 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-25 11:39:55 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-25 11:42:45 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 11:42:58 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 12:40:05 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-25 12:40:17 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-25 12:40:32 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 12:42:08 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 13:55:57 --> hearing_manage --> update --> incident_status_id --> 9 --> 10
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 14:03:56 --> hearing_manage --> update --> incident_status_id --> 9 --> 10
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 14:05:08 --> hearing_manage --> update --> incident_status_id --> 9 --> 10
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 14:15:46 --> hearing_manage --> update --> incident_status_id --> 9 --> 10
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 14:18:08 --> hearing_manage --> update --> incident_status_id --> 9 --> 10
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 14:20:59 --> hearing_manage --> update --> incident_status_id --> 9 --> 10
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 14:27:41 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 14:27:53 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 14:29:21 --> authentication --> logout --> logout -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-04-25 14:29:36 --> authentication --> login --> login -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-04-25 14:30:14 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-25 14:30:18 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-25 14:30:42 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-25 14:30:47 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-25 14:39:38 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 14:39:52 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 15:07:16 --> disciplinary_manage --> update --> incident_status_id --> 10 --> 6
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 15:07:16 --> disciplinary_manage --> update --> status --> Open --> Close
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 15:09:41 --> disciplinary_manage --> update --> incident_status_id --> 10 --> 6
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 15:09:41 --> disciplinary_manage --> update --> status --> Open --> Close
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-25 15:39:19 --> authentication --> logout --> logout -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-04-25 15:39:31 --> authentication --> login --> login -->  --> 
+LABAPIS, JOSHUA (31091) --> 2017-04-25 15:40:04 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 15:40:23 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 15:41:15 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-25 15:41:19 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-25 15:44:23 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 15:44:36 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:06:42 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:06:42 --> incident_report --> insert --> offense_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:06:42 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:06:42 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-25 15:00:00
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:06:42 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:06:42 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:06:42 --> incident_report --> insert --> date_sent -->  --> 2017-04-25 16:06:42
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:37:57 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:37:57 --> incident_report --> insert --> offense_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:37:57 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:37:57 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-25 16:13:00
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:37:57 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:37:57 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:37:57 --> incident_report --> insert --> date_sent -->  --> 2017-04-25 16:37:57
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:42:13 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:42:13 --> incident_report --> insert --> offense_id -->  --> 1
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:42:13 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:42:13 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-25 16:04:00
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:42:13 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:42:13 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:42:13 --> incident_report --> insert --> date_sent -->  --> 2017-04-25 16:42:13
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:48:51 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:48:51 --> incident_report --> insert --> offense_id -->  --> 1
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:48:51 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:48:51 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-25 16:04:00
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:48:51 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:48:52 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:48:52 --> incident_report --> insert --> date_sent -->  --> 2017-04-25 16:48:51
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:49:42 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:49:42 --> incident_report --> insert --> offense_id -->  --> 1
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:49:42 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:49:42 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-25 16:04:00
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:49:43 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:49:43 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:49:43 --> incident_report --> insert --> date_sent -->  --> 2017-04-25 16:49:42
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:50:36 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:50:36 --> incident_report --> insert --> offense_id -->  --> 1
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:50:36 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:50:36 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-25 16:04:00
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:50:36 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:50:36 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-04-25 16:50:36 --> incident_report --> insert --> date_sent -->  --> 2017-04-25 16:50:36

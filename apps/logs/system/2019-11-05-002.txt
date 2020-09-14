@@ -1,0 +1,114 @@
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:00 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi MARIA LEE POLONAN,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of Justin Garcia, for the position of ACCOUNT EXECUTIVE. Below are the details and schedule:</p>
+<p>
+	Applicant Name: Justin Garcia
+	<br>
+	Position: ACCOUNT EXECUTIVE
+	<br>
+	Date: November 06, 2019
+	<br>
+	Time: 11:06 am
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:00 --> applicant_monitoring --> insert --> to -->  --> tjkgarcia@yahoo.com
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:00 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:00 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear Justin Garcia,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNT EXECUTIVE position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: November 06, 2019
+	<br>
+	Time: 11:06 am
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for MARIA LEE POLONAN</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:00 --> applicant_monitoring --> update --> status_id --> 5 --> 2
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:00 --> applicant_monitoring --> update --> from_seting_final_interview --> 0 --> 2
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:00 --> applicant_monitoring --> update --> status_id --> 5 --> 2
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:00 --> applicant_monitoring --> update --> from_seting_final_interview --> 0 --> 2
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> update --> process_id --> 0 --> 12
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> update --> result_id --> 0 --> 9
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> update --> result -->  --> Hold
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> interview_id -->  --> 21
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> key_id -->  --> 31
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> key -->  --> remarks
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> interview_id -->  --> 21
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> key_id -->  --> 66
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> key -->  --> interviewer
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> key_value -->  --> POLONAN, MARIA LEE
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> interview_id -->  --> 21
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> key_id -->  --> 64
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:36 --> applicant_monitoring --> insert --> key_value -->  --> November 08, 2019
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:37 --> applicant_monitoring --> insert --> interview_id -->  --> 21
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:37 --> applicant_monitoring --> insert --> key_id -->  --> 32
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:37 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:37 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:37 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:37 --> applicant_monitoring --> insert --> key_value -->  --> Hold
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:37 --> applicant_monitoring --> insert --> interview_id -->  --> 21
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:37 --> applicant_monitoring --> insert --> key_id -->  --> 67
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:37 --> applicant_monitoring --> insert --> key -->  --> hrd_remarks
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:37 --> applicant_monitoring --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:37 --> applicant_monitoring --> insert --> key_name -->  --> Remarks
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:51 --> applicant_monitoring --> update --> result_id --> 9 --> 8
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:51 --> applicant_monitoring --> update --> result --> Hold --> Consider
+ABULENCIA, AMYRA (33176) --> 2019-11-05 11:59:51 --> applicant_monitoring --> update --> key_value --> Hold --> Consider
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:00:19 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:00:19 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:02:43 --> applicant_monitoring --> insert --> template_id -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:02:43 --> applicant_monitoring --> insert --> template_value -->  --> <div>05 November 2019<br><br><b>Mr. Justin Garcia<br></b>Address<b><br><br></b>Dear Mr. Garcia,<br><br>Praise God!<br><br>We are very pleased to confirm our offer of employment with <b>Legend Hotel International Corporation - The Legend Palawan</b> as _____________________ (job level)&nbsp; effective __________________________ with the following conditions:<br><br><br></div><div>1.&nbsp; Hiring rate on project based employment<br><blockquote>{{compensation}}<br></blockquote>2.&nbsp; Company sponsored benefits (subject to policies, system and procedures)<br><blockquote>2.1&nbsp; Duty Meals: Based on the approved duty meal policy<br></blockquote><blockquote>2.2&nbsp; Full sponsorship to external and internal trainings.<br></blockquote><blockquote>23.&nbsp; Government Mandated Benefits.<br></blockquote><br>Your employment contract shall be served as soon as we received from you the 2nd copy of this letter with your signature , and your submission of all pre-employment requirements.<br><br>Thank you very much and may God Bless you and your family.<br><br>Sicerely,<br><br>HRD OFFICER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HRD MANAGER<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Mr. NELSON CHAVEZ</b><br><br><br>Received and accepted:<b>Mr. Justin Garcia</b><br>Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; :<br></div>

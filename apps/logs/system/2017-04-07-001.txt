@@ -1,0 +1,10 @@
+LOPEZ, PAOLO (02115) --> 2017-04-07 10:29:12 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-07 12:46:01 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-07 13:20:17 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-07 13:20:25 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-07 13:48:43 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-07 13:48:55 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-07 14:04:07 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-07 14:04:16 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-07 15:17:50 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-07 15:18:02 --> authentication --> login --> login -->  --> 

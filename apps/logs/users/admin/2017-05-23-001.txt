@@ -1,0 +1,39 @@
+2017-05-23 10:30:28 --> authentication --> login --> login -->  --> 
+2017-05-23 10:32:42 --> system --> update --> config -->  --> 1
+2017-05-23 10:32:42 --> system --> update --> config -->  --> 0
+2017-05-23 10:32:42 --> system --> update --> config -->  --> 0
+2017-05-23 10:32:42 --> system --> update --> config -->  --> 0
+2017-05-23 10:32:42 --> system --> update --> config -->  --> 36000005
+2017-05-23 10:32:42 --> system --> update --> config -->  --> 18000005
+2017-05-23 10:32:42 --> system --> update --> config -->  --> 2017-05-22
+2017-05-23 10:32:42 --> system --> update --> config -->  --> 2017-05-26
+2017-05-23 10:32:43 --> system --> update --> config -->  --> 3
+2017-05-23 10:32:47 --> authentication --> logout --> logout -->  --> 
+2017-05-23 10:36:12 --> authentication --> login --> login -->  --> 
+2017-05-23 10:46:30 --> system --> update --> config -->  --> 1
+2017-05-23 10:46:30 --> system --> update --> config -->  --> 0
+2017-05-23 10:46:30 --> system --> update --> config -->  --> 0
+2017-05-23 10:46:30 --> system --> update --> config -->  --> 0
+2017-05-23 10:46:30 --> system --> update --> config -->  --> 36000005
+2017-05-23 10:46:30 --> system --> update --> config -->  --> 18000005
+2017-05-23 10:46:30 --> system --> update --> config -->  --> 0
+2017-05-23 10:46:30 --> system --> update --> config -->  --> 2017-05-22
+2017-05-23 10:46:30 --> system --> update --> config -->  --> 2017-05-26
+2017-05-23 10:46:30 --> system --> update --> config -->  --> 3
+2017-05-23 10:46:52 --> system --> update --> config -->  --> 1
+2017-05-23 10:46:52 --> system --> update --> config -->  --> 0
+2017-05-23 10:46:52 --> system --> update --> config -->  --> 0
+2017-05-23 10:46:52 --> system --> update --> config -->  --> 0
+2017-05-23 10:46:52 --> system --> update --> config -->  --> 36000005
+2017-05-23 10:46:52 --> system --> update --> config -->  --> 18000005
+2017-05-23 10:46:52 --> system --> update --> config -->  --> 1
+2017-05-23 10:46:53 --> system --> update --> config -->  --> 2017-05-22
+2017-05-23 10:46:53 --> system --> update --> config -->  --> 2017-05-26
+2017-05-23 10:46:53 --> system --> update --> config -->  --> 3
+2017-05-23 10:48:07 --> authentication --> logout --> logout -->  --> 
+2017-05-23 13:25:21 --> authentication --> login --> login -->  --> 
+2017-05-23 13:33:05 --> authentication --> logout --> logout -->  --> 
+2017-05-23 13:40:14 --> authentication --> login --> login -->  --> 
+2017-05-23 21:42:01 --> exit_interview_manager --> insert --> layout_name -->  --> Ano ang dahilan ng pag-alis mo sa kumpanya
+2017-05-23 22:22:28 --> authentication --> logout --> logout -->  --> 
+2017-05-23 22:35:23 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,21 @@
+2017-05-12 10:41:09 --> authentication --> login --> login -->  --> 
+2017-05-12 10:43:45 --> recurring_transaction --> insert --> document_no -->  --> 11111
+2017-05-12 10:43:45 --> recurring_transaction --> insert --> transaction_id -->  --> 2
+2017-05-12 10:43:45 --> recurring_transaction --> insert --> date_from -->  --> 2017-05-01
+2017-05-12 10:43:45 --> recurring_transaction --> insert --> date_to -->  --> 2018-03-31
+2017-05-12 10:43:45 --> recurring_transaction --> insert --> transaction_method_id -->  --> 3
+2017-05-12 10:43:45 --> recurring_transaction --> insert --> account_id -->  --> 3
+2017-05-12 10:43:45 --> recurring_transaction --> insert --> week -->  --> 2
+2017-05-12 10:43:45 --> recurring_transaction --> insert --> amount -->  --> Š››îk“’»
+Š5¾‰
+2017-05-12 13:57:11 --> recurring_transaction --> insert --> document_no -->  --> fsdfasd
+2017-05-12 13:57:11 --> recurring_transaction --> insert --> transaction_id -->  --> 231
+2017-05-12 13:57:11 --> recurring_transaction --> insert --> date_from -->  --> 2017-05-01
+2017-05-12 13:57:11 --> recurring_transaction --> insert --> date_to -->  --> 2019-03-31
+2017-05-12 13:57:11 --> recurring_transaction --> insert --> transaction_method_id -->  --> 3
+2017-05-12 13:57:11 --> recurring_transaction --> insert --> account_id -->  --> 3
+2017-05-12 13:57:11 --> recurring_transaction --> insert --> week -->  --> 2
+2017-05-12 13:57:11 --> recurring_transaction --> insert --> amount -->  --> æ® (g$o¼v ;
+2017-05-12 13:57:11 --> recurring_transaction --> insert --> remarks -->  --> test
+2017-05-12 17:19:10 --> authentication --> logout --> logout -->  --> 
+2017-05-12 17:39:58 --> authentication --> login --> login -->  --> 

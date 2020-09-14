@@ -1,0 +1,22 @@
+CARMEN, MA RITA (00108) --> 2018-09-02 08:42:19 --> payroll_period --> insert --> date_from -->  --> 2018-08-01
+CARMEN, MA RITA (00108) --> 2018-09-02 08:42:19 --> payroll_period --> insert --> date_to -->  --> 2018-08-31
+CARMEN, MA RITA (00108) --> 2018-09-02 08:42:19 --> payroll_period --> insert --> payroll_date -->  --> 2018-09-15
+CARMEN, MA RITA (00108) --> 2018-09-02 08:42:19 --> payroll_period --> insert --> posting_date -->  --> 2018-09-15
+CARMEN, MA RITA (00108) --> 2018-09-02 08:42:19 --> payroll_period --> insert --> apply_to_id -->  --> 2
+CARMEN, MA RITA (00108) --> 2018-09-02 08:42:19 --> payroll_period --> insert --> period_processing_type_id -->  --> 1
+CARMEN, MA RITA (00108) --> 2018-09-02 08:42:19 --> payroll_period --> insert --> include_basic_and_allowances -->  --> 0
+CARMEN, MA RITA (00108) --> 2018-09-02 08:42:19 --> payroll_period --> insert --> payroll_schedule_id -->  --> 4
+CARMEN, MA RITA (00108) --> 2018-09-02 08:42:19 --> payroll_period --> insert --> week -->  --> 2
+CARMEN, MA RITA (00108) --> 2018-09-02 08:42:19 --> payroll_period --> insert --> remarks -->  --> payroll abhi
+CARMEN, MA RITA (00108) --> 2018-09-02 08:42:19 --> payroll_period --> insert --> period_status_id -->  --> 1
+CARMEN, MA RITA (00108) --> 2018-09-02 09:44:05 --> holiday --> delete --> holiday_id --> 79 --> 
+CARMEN, MA RITA (00108) --> 2018-09-02 09:44:16 --> holiday --> delete --> holiday_id --> 59 --> 
+CARMEN, MA RITA (00108) --> 2018-09-02 11:22:28 --> overtime_rates --> insert --> company_id -->  --> 14
+CARMEN, MA RITA (00108) --> 2018-09-02 11:22:28 --> overtime_rates --> insert --> overtime_id -->  --> 44
+CARMEN, MA RITA (00108) --> 2018-09-02 11:22:28 --> overtime_rates --> insert --> overtime_rate -->  --> 1.8
+CARMEN, MA RITA (00108) --> 2018-09-02 11:22:55 --> overtime_rates --> insert --> company_id -->  --> 1
+CARMEN, MA RITA (00108) --> 2018-09-02 11:22:55 --> overtime_rates --> insert --> overtime_id -->  --> 45
+CARMEN, MA RITA (00108) --> 2018-09-02 11:22:55 --> overtime_rates --> insert --> overtime_rate -->  --> 2.0
+CARMEN, MA RITA (00108) --> 2018-09-02 11:25:29 --> overtime_rates --> insert --> company_id -->  --> 1
+CARMEN, MA RITA (00108) --> 2018-09-02 11:25:29 --> overtime_rates --> insert --> overtime_id -->  --> 44
+CARMEN, MA RITA (00108) --> 2018-09-02 11:25:29 --> overtime_rates --> insert --> overtime_rate -->  --> 1.9

@@ -1,0 +1,5 @@
+2018-12-16 12:44:39 --> authentication --> login --> login -->  --> 
+2018-12-16 13:10:24 --> authentication --> logout --> logout -->  --> 
+2018-12-16 13:16:40 --> authentication --> login --> login -->  --> 
+2018-12-16 13:19:10 --> form_policy --> update --> company_id --> 2 --> 2,6
+2018-12-16 13:19:10 --> form_policy --> update --> employment_status_id --> 1,2,3,4,5,6,7,8,9,10,11,12,13,25 --> 1,2,3,4,5,6,7,8,9,10,11,12

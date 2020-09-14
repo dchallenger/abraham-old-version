@@ -1,0 +1,4 @@
+DECANO, JAN RANDOLPH (32954) --> 2017-06-02 13:35:41 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-06-02 13:36:18 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-06-02 14:59:28 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-06-02 14:59:35 --> authentication --> login --> login -->  --> 

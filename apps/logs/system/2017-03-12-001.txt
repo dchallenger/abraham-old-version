@@ -1,0 +1,13 @@
+Admin, System (admin) --> 2017-03-12 10:12:05 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-12 10:14:57 --> authentication --> logout --> logout -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-12 10:15:46 --> authentication --> login --> login -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-12 10:51:01 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-12 10:51:10 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-12 20:43:18 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-12 20:45:55 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-12 21:56:44 --> authentication --> logout --> logout -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-12 21:57:12 --> authentication --> login --> login -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-12 21:57:34 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-12 21:57:42 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-12 22:04:56 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-12 22:05:09 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,25 @@
+ELISCUPIDES, ROWENA (00273) --> 2017-05-03 11:28:24 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-03 11:28:37 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-03 11:32:08 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-03 11:32:18 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-03 11:47:00 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-03 11:47:14 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-03 14:52:59 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-03 14:53:12 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-03 15:04:07 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-03 15:04:23 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-03 15:07:47 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-03 15:07:54 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-03 15:10:54 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-03 15:13:14 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-03 15:13:21 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-03 15:13:59 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-03 15:14:58 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-03 15:16:49 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-03 15:17:00 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-03 15:23:00 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-03 15:23:10 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-03 15:23:27 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-03 15:23:36 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-03 15:31:06 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-03 15:31:19 --> authentication --> login --> login -->  --> 

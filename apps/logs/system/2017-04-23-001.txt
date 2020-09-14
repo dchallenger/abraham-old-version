@@ -1,0 +1,72 @@
+DE LEON, LISSA (30991) --> 2017-04-23 09:34:43 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-04-23 09:34:53 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-04-23 15:37:49 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-23 15:38:57 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-23 18:13:06 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-23 18:13:11 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-23 18:14:53 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-23 18:15:05 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-23 18:16:13 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-04-23 18:16:13 --> incident_report --> insert --> offense_id -->  --> 1
+DECANO, JAN RANDOLPH (32954) --> 2017-04-23 18:16:13 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-04-23 18:16:13 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-23 18:00:00
+DECANO, JAN RANDOLPH (32954) --> 2017-04-23 18:16:13 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-04-23 18:16:13 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-04-23 18:16:13 --> incident_report --> insert --> date_sent -->  --> 2017-04-23 18:16:13
+DECANO, JAN RANDOLPH (32954) --> 2017-04-23 18:16:18 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-23 18:16:33 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-23 18:16:56 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-23 18:17:37 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-23 18:18:15 --> incident_manage --> update --> incident_status_id --> 2 --> 4
+ELISCUPIDES, ROWENA (00273) --> 2017-04-23 18:18:19 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-23 18:18:33 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-23 18:19:17 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-23 18:20:01 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-23 18:24:41 --> incident_manage --> update --> incident_status_id --> 2 --> 4
+ELISCUPIDES, ROWENA (00273) --> 2017-04-23 20:17:38 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-23 20:18:01 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-23 20:18:15 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-04-23 20:18:29 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-04-23 20:20:37 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-23 20:20:49 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-23 20:21:55 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-23 20:22:08 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-23 20:23:41 --> incident_admin --> update --> hr_remarks -->  --> hr remarks forward to nte
+DE LEON, LISSA (30991) --> 2017-04-23 20:23:41 --> incident_admin --> update --> nte_immediate --> 0 --> 1
+DE LEON, LISSA (30991) --> 2017-04-23 20:23:41 --> incident_admin --> update --> nte_complainants --> 0 --> 1
+DE LEON, LISSA (30991) --> 2017-04-23 20:23:41 --> incident_admin --> update --> nte_witnesses --> 0 --> 1
+DE LEON, LISSA (30991) --> 2017-04-23 20:23:41 --> incident_admin --> update --> nte_others --> 0 --> 1
+DE LEON, LISSA (30991) --> 2017-04-23 20:23:41 --> incident_admin --> update --> incident_status_id --> 4 --> 9
+DE LEON, LISSA (30991) --> 2017-04-23 20:28:21 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-23 20:28:31 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-23 20:31:01 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-23 20:31:18 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-23 20:36:43 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-23 20:36:57 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-23 20:43:02 --> hearing_admin --> update --> incident_status_id --> 9 --> 10
+DE LEON, LISSA (30991) --> 2017-04-23 20:43:07 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-23 20:43:22 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-23 20:50:10 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-23 20:50:16 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-23 21:00:37 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-23 21:00:52 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-23 21:01:24 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-23 21:03:28 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-04-23 21:04:30 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-23 21:04:43 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-23 21:07:45 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-23 21:09:13 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-04-23 21:10:01 --> disciplinary_admin --> update --> incident_status_id --> 10 --> 6
+DE LEON, LISSA (30991) --> 2017-04-23 21:10:01 --> disciplinary_admin --> update --> status --> Open --> Close
+DE LEON, LISSA (30991) --> 2017-04-23 21:10:39 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-04-23 21:11:02 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-04-23 22:09:01 --> module --> insert --> short_name -->  --> Employee Movement
+Admin, Teemworx (admin) --> 2017-04-23 22:09:01 --> module --> insert --> long_name -->  --> Employee Movement
+Admin, Teemworx (admin) --> 2017-04-23 22:09:02 --> module --> insert --> icon -->  --> fa-user
+Admin, Teemworx (admin) --> 2017-04-23 22:09:02 --> module --> insert --> description -->  --> Manage Employee Movement
+Admin, Teemworx (admin) --> 2017-04-23 22:09:06 --> module --> update --> mod_code -->  --> movement_manage
+Admin, Teemworx (admin) --> 2017-04-23 22:09:06 --> module --> update --> route -->  --> partners/admin/movement_manage
+Admin, Teemworx (admin) --> 2017-04-23 22:09:06 --> module --> update --> table -->  --> partners_movement
+Admin, Teemworx (admin) --> 2017-04-23 22:09:06 --> module --> update --> primary_key -->  --> movement_id
+Admin, Teemworx (admin) --> 2017-04-23 22:09:06 --> module --> update --> list_template_header -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-23 22:09:06 --> module --> update --> list_template -->  --> 1

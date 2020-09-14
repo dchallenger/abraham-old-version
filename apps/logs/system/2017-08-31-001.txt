@@ -1,0 +1,4 @@
+Admin, Teemworx (admin) --> 2017-08-31 13:20:53 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-08-31 16:53:16 --> authentication --> logout --> logout -->  --> 
+() --> 2017-08-31 16:53:18 --> authentication --> logout --> logout -->  --> 
+LABAPIS, JOCELYN (30898) --> 2017-08-31 16:53:42 --> authentication --> login --> login -->  --> 

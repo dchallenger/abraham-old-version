@@ -1,0 +1,6 @@
+Admin, Teemworx (admin) --> 2020-05-19 15:15:30 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2020-05-19 15:15:36 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2020-05-19 15:18:46 --> authentication --> logout --> logout -->  --> 
+DE SILVA, JOSEPH (33370) --> 2020-05-19 15:19:18 --> authentication --> login --> login -->  --> 
+DE SILVA, JOSEPH (33370) --> 2020-05-19 15:26:42 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2020-05-19 15:26:59 --> authentication --> login --> login -->  --> 

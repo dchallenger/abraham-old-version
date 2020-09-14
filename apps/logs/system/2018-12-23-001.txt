@@ -1,0 +1,4 @@
+() --> 2018-12-23 07:32:39 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-12-23 07:33:12 --> authentication --> login --> login -->  --> 
+() --> 2018-12-23 07:33:15 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-12-23 07:33:32 --> authentication --> update --> users - hash --> $2a$08$hRV4eko18h6qPQ0gn7.f.eKk9O9Dv7nPKfZbN1mhregMrBYi3sR6i --> $2a$08$xd6hwMc3jA.AwySOxxpN..YP.xp.PR0jfF5Eg3Rg2sPteZpsDDHBK

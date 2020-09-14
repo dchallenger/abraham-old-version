@@ -1,0 +1,19 @@
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:58 --> applicant_monitoring --> insert --> id_number -->  --> 33784
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:58 --> applicant_monitoring --> insert --> effectivity_date -->  --> 2019-11-06
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:58 --> applicant_monitoring --> insert --> alias -->  --> Garcia, Justin
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:59 --> applicant_monitoring --> insert --> company_id -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:59 --> applicant_monitoring --> insert --> department_id -->  --> 9
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:59 --> applicant_monitoring --> insert --> reports_to_id -->  --> 757
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:59 --> applicant_monitoring --> insert --> location_id -->  --> 11
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:59 --> applicant_monitoring --> insert --> user_id -->  --> 1334
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:59 --> applicant_monitoring --> insert --> partner_id -->  --> 1333
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:59 --> applicant_monitoring --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:59 --> applicant_monitoring --> insert --> lastname -->  --> Garcia
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:59 --> applicant_monitoring --> insert --> firstname -->  --> Justin
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:59 --> applicant_monitoring --> insert --> position_id -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:59 --> applicant_monitoring --> insert --> title -->  --> Mr.
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:59 --> applicant_monitoring --> insert --> birth_date -->  --> 1999-03-02
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:59 --> applicant_monitoring --> update --> status_id --> 8 --> 7
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:59 --> applicant_monitoring --> update --> hired --> 0 --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-05 12:05:59 --> applicant_monitoring --> update --> partner_id -->  --> 1333
+ALICANTE, LISSA (30991) --> 2019-11-05 12:06:42 --> authentication --> login --> login -->  --> 

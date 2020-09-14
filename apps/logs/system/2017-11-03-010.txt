@@ -1,0 +1,90 @@
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:04 --> applicants --> insert --> key_name -->  --> Location
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:04 --> applicants --> insert --> key_value -->  --> Ortigas
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:04 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:04 --> applicants --> insert --> recruit_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:04 --> applicants --> insert --> key_id -->  --> 44
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:04 --> applicants --> insert --> key -->  --> employment-duties
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:04 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:04 --> applicants --> insert --> key_name -->  --> Duties and Responsibilities
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:04 --> applicants --> insert --> key_value -->  --> test
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:04 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:04 --> applicants --> insert --> recruit_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:05 --> applicants --> insert --> key_id -->  --> 42
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:05 --> applicants --> insert --> key -->  --> employment-month-hired
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:05 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:05 --> applicants --> insert --> key_name -->  --> Month Hired
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:05 --> applicants --> insert --> key_value -->  --> July
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:05 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:05 --> applicants --> insert --> recruit_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:05 --> applicants --> insert --> key_id -->  --> 43
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:05 --> applicants --> insert --> key -->  --> employment-month-end
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:05 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:05 --> applicants --> insert --> key_name -->  --> Month End
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:06 --> applicants --> insert --> key_value -->  --> January
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:06 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:06 --> applicants --> insert --> recruit_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:06 --> applicants --> insert --> key_id -->  --> 64
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:06 --> applicants --> insert --> key -->  --> employment-year-hired
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:06 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:06 --> applicants --> insert --> key_name -->  --> Year Hired
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:07 --> applicants --> insert --> key_value -->  --> 2012
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:07 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:08 --> applicants --> insert --> recruit_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:08 --> applicants --> insert --> key_id -->  --> 65
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:08 --> applicants --> insert --> key -->  --> employment-year-end
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:08 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:08 --> applicants --> insert --> key_name -->  --> Year End
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:08 --> applicants --> insert --> key_value -->  --> 2016
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:08 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:08 --> applicants --> insert --> recruit_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:08 --> applicants --> insert --> key_id -->  --> 141
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:08 --> applicants --> insert --> key -->  --> employment-nature-of-business
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:08 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> insert --> key_name -->  --> Nature of Business
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> insert --> key_value -->  --> IT
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> insert --> recruit_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> insert --> key_id -->  --> 181
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> insert --> key -->  --> employment-contact-number
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> insert --> key_name -->  --> Contact Number
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> insert --> key_value -->  --> 232334
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> insert --> recruit_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> insert --> key_id -->  --> 182
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> insert --> key -->  --> employment-last-salary
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> insert --> key_name -->  --> Last Salary
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> insert --> key_value -->  --> 55000
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:09 --> applicants --> insert --> recruit_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:10 --> applicants --> insert --> key_id -->  --> 142
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:10 --> applicants --> insert --> key -->  --> employment-supervisor
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:10 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:10 --> applicants --> insert --> key_name -->  --> Immediate Superior
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:10 --> applicants --> insert --> key_value -->  --> test
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:10 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:10 --> applicants --> insert --> recruit_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:10 --> applicants --> insert --> key_id -->  --> 143
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:10 --> applicants --> insert --> key -->  --> employment-reason-for-leaving
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:10 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:10 --> applicants --> insert --> key_name -->  --> Reason for Leaving
+POLONAN, MARIA LEE (31002) --> 2017-11-03 06:58:10 --> applicants --> insert --> key_value -->  --> test
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:18:59 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> insert --> recruit_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> insert --> key_id -->  --> 60
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> insert --> key -->  --> training-category
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> insert --> key_name -->  --> Category
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> insert --> key_value -->  --> Training
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> insert --> recruit_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> insert --> key_id -->  --> 60
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> insert --> key -->  --> training-category
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> insert --> sequence -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> insert --> key_name -->  --> Category
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> insert --> key_value -->  --> Seminar
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> insert --> recruit_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> insert --> key_id -->  --> 59
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> insert --> key -->  --> training-title
+POLONAN, MARIA LEE (31002) --> 2017-11-03 07:19:00 --> applicants --> insert --> sequence -->  --> 1

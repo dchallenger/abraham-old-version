@@ -1,0 +1,30 @@
+2018-04-21 14:04:49 --> authentication --> login --> login -->  --> 
+2018-04-21 14:23:46 --> authentication --> logout --> logout -->  --> 
+2018-04-21 14:31:27 --> authentication --> login --> login -->  --> 
+2018-04-21 14:48:35 --> performance_planning_manage --> update --> template_id -->  --> 1
+2018-04-21 14:48:35 --> performance_planning_manage --> update --> employment_status_id -->  --> 1,2,3
+2018-04-21 14:48:35 --> performance_planning_manage --> update --> filter_by --> 0 --> 1
+2018-04-21 14:48:35 --> performance_planning_manage --> update --> filter_id -->  --> 1,2,3,13,4,6,5,7,12,10,8,9,11
+2018-04-21 14:48:36 --> performance_planning_manage --> update --> immediate_remarks -->  --> test
+2018-04-21 15:31:49 --> authentication --> logout --> logout -->  --> 
+2018-04-21 15:34:55 --> authentication --> login --> login -->  --> 
+2018-04-21 16:02:24 --> authentication --> logout --> logout -->  --> 
+2018-04-21 16:05:08 --> authentication --> login --> login -->  --> 
+2018-04-21 20:16:00 --> authentication --> logout --> logout -->  --> 
+2018-04-21 20:35:26 --> authentication --> login --> login -->  --> 
+2018-04-21 20:40:20 --> authentication --> logout --> logout -->  --> 
+2018-04-21 21:56:25 --> authentication --> login --> login -->  --> 
+2018-04-21 21:58:01 --> performance_planning_manage --> update --> template_id -->  --> 1
+2018-04-21 21:58:01 --> performance_planning_manage --> update --> employment_status_id -->  --> 1,2,3
+2018-04-21 21:58:01 --> performance_planning_manage --> update --> filter_by --> 0 --> 1
+2018-04-21 21:58:01 --> performance_planning_manage --> update --> filter_id -->  --> 1,2,3,13,4,6,5,7,12,10,8,9,11
+2018-04-21 21:58:01 --> performance_planning_manage --> update --> immediate_remarks -->  --> test
+2018-04-21 22:33:23 --> authentication --> logout --> logout -->  --> 
+2018-04-21 22:39:13 --> authentication --> login --> login -->  --> 
+2018-04-21 23:00:02 --> authentication --> logout --> logout -->  --> 
+2018-04-21 23:03:20 --> authentication --> login --> login -->  --> 
+2018-04-21 23:04:12 --> authentication --> logout --> logout -->  --> 
+2018-04-21 23:05:23 --> authentication --> login --> login -->  --> 
+2018-04-21 23:10:44 --> authentication --> logout --> logout -->  --> 
+2018-04-21 23:26:39 --> authentication --> login --> login -->  --> 
+2018-04-21 23:37:51 --> authentication --> logout --> logout -->  --> 

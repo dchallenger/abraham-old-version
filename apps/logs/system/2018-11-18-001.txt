@@ -1,0 +1,10 @@
+Admin, Teemworx (admin) --> 2018-11-18 19:28:10 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-11-18 21:34:32 --> authentication --> logout --> logout -->  --> 
+() --> 2018-11-18 21:34:33 --> authentication --> logout --> logout -->  --> 
+ARCANGEL, PEPITO (01741) --> 2018-11-18 21:34:56 --> authentication --> login --> login -->  --> 
+ARCANGEL, PEPITO (01741) --> 2018-11-18 22:06:03 --> authentication --> logout --> logout -->  --> 
+SY, GILFORD (33068) --> 2018-11-18 22:06:14 --> authentication --> login --> login -->  --> 
+() --> 2018-11-18 22:06:54 --> authentication --> logout --> logout -->  --> 
+SY, GILFORD (33068) --> 2018-11-18 22:20:45 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-11-18 22:20:51 --> authentication --> login --> login -->  --> 
+() --> 2018-11-18 22:21:06 --> authentication --> logout --> logout -->  --> 

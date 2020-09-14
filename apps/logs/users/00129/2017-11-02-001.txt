@@ -1,0 +1,3 @@
+2017-11-02 11:44:37 --> authentication --> login --> login -->  --> 
+2017-11-02 13:10:41 --> applicants --> insert --> recruit_id -->  --> 2
+2017-11-02 13:10:41 --> applicants --> insert --> sequence -->  --> 1

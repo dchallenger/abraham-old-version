@@ -1,0 +1,6 @@
+DE LARA, ANDY (31197) --> 2018-01-04 10:22:14 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-04 10:22:23 --> authentication --> login --> login -->  --> 
+() --> 2018-01-04 10:22:30 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-04 23:26:36 --> authentication --> logout --> logout -->  --> 
+() --> 2018-01-04 23:27:17 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-04 23:33:29 --> authentication --> login --> login -->  --> 

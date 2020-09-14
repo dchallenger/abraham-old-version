@@ -1,0 +1,42 @@
+Admin, Teemworx (admin) --> 2017-05-07 09:13:30 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 09:13:39 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 10:35:08 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-07 10:35:15 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-07 10:49:16 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 10:58:06 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 10:59:45 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-07 10:59:55 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-07 11:00:09 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-05-07 11:00:22 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-05-07 11:03:49 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 11:04:01 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 11:04:45 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-07 11:04:50 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-07 11:05:56 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 11:06:08 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 11:06:54 --> incident_report --> insert --> involved_partners -->  --> 41
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 11:06:54 --> incident_report --> insert --> offense_id -->  --> 1
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 11:06:54 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 11:06:54 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-05-07 11:06:00
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 11:06:54 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 11:06:54 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 11:06:54 --> incident_report --> insert --> date_sent -->  --> 2017-05-07 11:06:54
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 11:07:01 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-07 11:07:16 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-07 11:07:54 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-07 11:07:59 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-07 11:10:48 --> incident_manage --> update --> nte_complainants --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-07 11:10:48 --> incident_manage --> update --> nte_witnesses --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-07 11:10:48 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-07 11:11:10 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 11:11:22 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 11:11:52 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-07 11:12:04 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-05-07 11:17:16 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-07 11:17:22 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-07 22:15:50 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-07 22:15:54 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-07 23:39:17 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 23:39:57 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-05-07 23:41:36 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-07 23:41:46 --> authentication --> login --> login -->  --> 

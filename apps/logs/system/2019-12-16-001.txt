@@ -1,0 +1,9 @@
+CHAVEZ, NELSON (00129) --> 2019-12-16 04:43:13 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-12-16 04:44:53 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-12-16 05:01:02 --> authentication --> logout --> logout -->  --> 
+AMOSCO, SHAIRA (33268) --> 2019-12-16 05:01:18 --> authentication --> login --> login -->  --> 
+AMOSCO, SHAIRA (33268) --> 2019-12-16 05:01:49 --> appraisal_individual_rate --> update --> status_id -->  --> 13
+AMOSCO, SHAIRA (33268) --> 2019-12-16 05:01:49 --> appraisal_individual_rate --> update --> appraisee_acceptance -->  --> 1
+AMOSCO, SHAIRA (33268) --> 2019-12-16 05:01:49 --> appraisal_individual_rate --> update --> appraisee_remarks -->  --> test
+AMOSCO, SHAIRA (33268) --> 2019-12-16 05:01:50 --> appraisal_individual_rate --> update --> selfrate_date -->  --> 2019-12-16
+AMOSCO, SHAIRA (33268) --> 2019-12-16 05:20:40 --> authentication --> logout --> logout -->  --> 

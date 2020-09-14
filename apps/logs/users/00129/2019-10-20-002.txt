@@ -1,0 +1,133 @@
+2019-10-20 13:22:17 --> mrf_manage --> insert --> to -->  --> sharon_a@kalinisanlaundry.com.pjh
+2019-10-20 13:22:17 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+2019-10-20 13:22:17 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear AGUILAR, SHARON ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+2019-10-20 13:22:18 --> mrf_manage --> insert --> to -->  --> renalyn_c@livingangels.edu.ph
+2019-10-20 13:22:18 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+2019-10-20 13:22:18 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CAUSON, RENALYN ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+2019-10-20 13:22:18 --> mrf_manage --> insert --> to -->  --> johannaliza_c@kalinisanlaundry.com.ph
+2019-10-20 13:22:18 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+2019-10-20 13:22:18 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CATALAN, JOHANNA LIZA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+2019-10-20 13:22:18 --> mrf_manage --> insert --> to -->  --> lorie_l@kalinisanlaundry.com.ph
+2019-10-20 13:22:18 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+2019-10-20 13:22:18 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear LINGO, LORILYN ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+2019-10-20 13:22:25 --> authentication --> logout --> logout -->  --> 
+2019-10-20 15:45:35 --> authentication --> login --> login -->  --> 
+2019-10-20 16:01:33 --> authentication --> logout --> logout -->  --> 
+2019-10-20 16:04:47 --> authentication --> login --> login -->  --> 
+2019-10-20 16:05:46 --> authentication --> logout --> logout -->  --> 
+2019-10-20 16:08:05 --> authentication --> login --> login -->  --> 
+2019-10-20 16:08:48 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2019-10-20 16:08:48 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2019-10-20 16:08:49 --> applicant_monitoring --> update --> process_id --> 0 --> 9
+2019-10-20 16:08:49 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2019-10-20 16:08:49 --> applicant_monitoring --> update --> result -->  --> Consider
+2019-10-20 16:08:49 --> applicant_monitoring --> insert --> interview_id -->  --> 16
+2019-10-20 16:08:49 --> applicant_monitoring --> insert --> key_id -->  --> 31
+2019-10-20 16:08:49 --> applicant_monitoring --> insert --> key -->  --> remarks
+2019-10-20 16:08:49 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 16:08:49 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+2019-10-20 16:08:49 --> applicant_monitoring --> insert --> interview_id -->  --> 16
+2019-10-20 16:08:49 --> applicant_monitoring --> insert --> key_id -->  --> 66
+2019-10-20 16:08:49 --> applicant_monitoring --> insert --> key -->  --> interviewer
+2019-10-20 16:08:49 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 16:08:49 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+2019-10-20 16:08:49 --> applicant_monitoring --> insert --> key_value -->  --> CHAVEZ, NELSON
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> interview_id -->  --> 16
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> key_id -->  --> 64
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> key_value -->  --> October 20, 2019
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> interview_id -->  --> 16
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> key_id -->  --> 32
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> interview_id -->  --> 16
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> key_id -->  --> 67
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> key -->  --> hrd_remarks
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> key_name -->  --> Remarks
+2019-10-20 16:08:50 --> applicant_monitoring --> insert --> key_value -->  --> test
+2019-10-20 16:09:04 --> authentication --> logout --> logout -->  --> 

@@ -1,0 +1,2 @@
+POLONAN, MARIA LEE (31002) --> 2017-06-10 18:44:47 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-06-10 18:45:00 --> authentication --> login --> login -->  --> 

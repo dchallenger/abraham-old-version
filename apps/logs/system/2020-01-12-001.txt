@@ -1,0 +1,2 @@
+() --> 2020-01-12 12:13:21 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2020-01-12 12:16:08 --> authentication --> login --> login -->  --> 

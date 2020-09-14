@@ -1,0 +1,5 @@
+DE LEON, LISSA (30991) --> 2017-11-02 11:30:35 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-11-02 11:44:37 --> authentication --> login --> login -->  --> 
+() --> 2017-11-02 11:44:40 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-11-02 13:10:41 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-11-02 13:10:41 --> applicants --> insert --> sequence -->  --> 1

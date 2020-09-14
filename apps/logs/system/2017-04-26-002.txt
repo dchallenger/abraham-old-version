@@ -1,0 +1,17 @@
+DECANO, JAN RANDOLPH (32954) --> 2017-04-26 11:11:03 --> incident_report --> insert --> offense_id -->  --> 5
+DECANO, JAN RANDOLPH (32954) --> 2017-04-26 11:11:03 --> incident_report --> insert --> complainants -->  --> 93
+DECANO, JAN RANDOLPH (32954) --> 2017-04-26 11:11:03 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-04-28 11:10:00
+DECANO, JAN RANDOLPH (32954) --> 2017-04-26 11:11:03 --> incident_report --> insert --> witnesses -->  --> 15
+DECANO, JAN RANDOLPH (32954) --> 2017-04-26 11:11:03 --> incident_report --> insert --> incident_status_id -->  --> 2
+DECANO, JAN RANDOLPH (32954) --> 2017-04-26 11:11:03 --> incident_report --> insert --> date_sent -->  --> 2017-04-26 11:11:03
+DECANO, JAN RANDOLPH (32954) --> 2017-04-26 11:11:06 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-26 11:11:21 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-26 11:12:06 --> incident_manage --> update --> nte_complainants --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-26 11:12:06 --> incident_manage --> update --> nte_witnesses --> 0 --> 1
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-26 11:12:06 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-26 11:12:09 --> authentication --> logout --> logout -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-26 11:12:24 --> authentication --> login --> login -->  --> 
+DECANO, JAN RANDOLPH (32954) --> 2017-04-26 11:12:45 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-26 11:13:10 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-04-26 11:46:17 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-04-26 11:46:26 --> authentication --> login --> login -->  --> 

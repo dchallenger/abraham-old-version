@@ -1,0 +1,126 @@
+2017-11-14 13:34:43 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:34:43 --> applicants --> insert --> key_name -->  --> Year To
+2017-11-14 13:34:43 --> applicants --> insert --> key_value -->  --> 2016
+2017-11-14 13:34:43 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:34:43 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:34:43 --> applicants --> insert --> key_id -->  --> 37
+2017-11-14 13:34:43 --> applicants --> insert --> key -->  --> education-degree
+2017-11-14 13:34:43 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:34:43 --> applicants --> insert --> key_name -->  --> Degree
+2017-11-14 13:34:43 --> applicants --> insert --> key_value -->  --> degree
+2017-11-14 13:34:43 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:34:43 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:34:43 --> applicants --> insert --> key_id -->  --> 38
+2017-11-14 13:34:43 --> applicants --> insert --> key -->  --> education-status
+2017-11-14 13:34:43 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:34:43 --> applicants --> insert --> key_name -->  --> Status
+2017-11-14 13:34:43 --> applicants --> insert --> key_value -->  --> Graduated
+2017-11-14 13:34:43 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:34:43 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:34:43 --> applicants --> insert --> key_id -->  --> 180
+2017-11-14 13:34:44 --> applicants --> insert --> key -->  --> education-lastsem-attended
+2017-11-14 13:34:44 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:34:44 --> applicants --> insert --> key_name -->  --> Last SY and Sem
+2017-11-14 13:36:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:36:01 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:36:01 --> applicants --> insert --> key_id -->  --> 33
+2017-11-14 13:36:01 --> applicants --> insert --> key -->  --> education-type
+2017-11-14 13:36:01 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:36:01 --> applicants --> insert --> key_name -->  --> Type
+2017-11-14 13:36:01 --> applicants --> insert --> key_value -->  --> Tertiary
+2017-11-14 13:36:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:36:01 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:36:01 --> applicants --> insert --> key_id -->  --> 34
+2017-11-14 13:36:01 --> applicants --> insert --> key -->  --> education-school
+2017-11-14 13:36:01 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:36:01 --> applicants --> insert --> key_name -->  --> School
+2017-11-14 13:36:01 --> applicants --> insert --> key_value -->  --> AMA
+2017-11-14 13:36:02 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:36:02 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:36:02 --> applicants --> insert --> key_id -->  --> 35
+2017-11-14 13:36:02 --> applicants --> insert --> key -->  --> education-year-from
+2017-11-14 13:36:02 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:36:02 --> applicants --> insert --> key_name -->  --> Year From
+2017-11-14 13:36:02 --> applicants --> insert --> key_value -->  --> 2011
+2017-11-14 13:36:02 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:36:02 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:36:02 --> applicants --> insert --> key_id -->  --> 36
+2017-11-14 13:36:02 --> applicants --> insert --> key -->  --> education-year-to
+2017-11-14 13:36:02 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:36:02 --> applicants --> insert --> key_name -->  --> Year To
+2017-11-14 13:36:02 --> applicants --> insert --> key_value -->  --> 2016
+2017-11-14 13:36:02 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:36:02 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:36:02 --> applicants --> insert --> key_id -->  --> 37
+2017-11-14 13:36:02 --> applicants --> insert --> key -->  --> education-degree
+2017-11-14 13:36:02 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:36:02 --> applicants --> insert --> key_name -->  --> Degree
+2017-11-14 13:36:02 --> applicants --> insert --> key_value -->  --> degree
+2017-11-14 13:36:02 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:36:02 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:36:03 --> applicants --> insert --> key_id -->  --> 38
+2017-11-14 13:36:03 --> applicants --> insert --> key -->  --> education-status
+2017-11-14 13:36:03 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:36:03 --> applicants --> insert --> key_name -->  --> Status
+2017-11-14 13:36:03 --> applicants --> insert --> key_value -->  --> Graduated
+2017-11-14 13:36:03 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:36:03 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:36:03 --> applicants --> insert --> key_id -->  --> 180
+2017-11-14 13:36:03 --> applicants --> insert --> key -->  --> education-lastsem-attended
+2017-11-14 13:36:03 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:36:03 --> applicants --> insert --> key_name -->  --> Last SY and Sem
+2017-11-14 13:36:03 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:36:03 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:36:03 --> applicants --> insert --> key_id -->  --> 131
+2017-11-14 13:36:03 --> applicants --> insert --> key -->  --> education-honors_awards
+2017-11-14 13:36:03 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:36:03 --> applicants --> insert --> key_name -->  --> Honors/Awards
+2017-11-14 13:36:03 --> applicants --> insert --> key_value -->  --> 1st honor
+2017-11-14 13:41:49 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:41:49 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:41:49 --> applicants --> insert --> key_id -->  --> 39
+2017-11-14 13:41:49 --> applicants --> insert --> key -->  --> employment-company
+2017-11-14 13:41:49 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:41:49 --> applicants --> insert --> key_name -->  --> Company Name
+2017-11-14 13:41:49 --> applicants --> insert --> key_value -->  --> Thinkpadd
+2017-11-14 13:41:49 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:41:50 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:41:50 --> applicants --> insert --> key_id -->  --> 40
+2017-11-14 13:41:50 --> applicants --> insert --> key -->  --> employment-position-title
+2017-11-14 13:41:50 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:41:50 --> applicants --> insert --> key_name -->  --> Position Title
+2017-11-14 13:41:50 --> applicants --> insert --> key_value -->  --> manager
+2017-11-14 13:41:50 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:41:50 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:41:50 --> applicants --> insert --> key_id -->  --> 41
+2017-11-14 13:41:50 --> applicants --> insert --> key -->  --> employment-location
+2017-11-14 13:41:50 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:41:50 --> applicants --> insert --> key_name -->  --> Location
+2017-11-14 13:41:50 --> applicants --> insert --> key_value -->  --> ortigas
+2017-11-14 13:41:50 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:41:50 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:41:50 --> applicants --> insert --> key_id -->  --> 44
+2017-11-14 13:41:50 --> applicants --> insert --> key -->  --> employment-duties
+2017-11-14 13:41:50 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:41:50 --> applicants --> insert --> key_name -->  --> Duties and Responsibilities
+2017-11-14 13:41:50 --> applicants --> insert --> key_value -->  --> asd
+2017-11-14 13:41:50 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:41:50 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:41:50 --> applicants --> insert --> key_id -->  --> 42
+2017-11-14 13:41:50 --> applicants --> insert --> key -->  --> employment-month-hired
+2017-11-14 13:41:51 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:41:51 --> applicants --> insert --> key_name -->  --> Month Hired
+2017-11-14 13:41:51 --> applicants --> insert --> key_value -->  --> January
+2017-11-14 13:41:51 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:41:51 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:41:51 --> applicants --> insert --> key_id -->  --> 43
+2017-11-14 13:41:51 --> applicants --> insert --> key -->  --> employment-month-end
+2017-11-14 13:41:51 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:41:51 --> applicants --> insert --> key_name -->  --> Month End
+2017-11-14 13:41:51 --> applicants --> insert --> key_value -->  --> January
+2017-11-14 13:41:51 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 3 --> 
+2017-11-14 13:41:51 --> applicants --> insert --> recruit_id -->  --> 3
+2017-11-14 13:41:51 --> applicants --> insert --> key_id -->  --> 64
+2017-11-14 13:41:51 --> applicants --> insert --> key -->  --> employment-year-hired
+2017-11-14 13:41:51 --> applicants --> insert --> sequence -->  --> 1
+2017-11-14 13:41:51 --> applicants --> insert --> key_name -->  --> Year Hired

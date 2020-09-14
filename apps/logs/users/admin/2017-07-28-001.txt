@@ -1,0 +1,19 @@
+2017-07-28 11:48:02 --> form_policy --> delete --> id --> 48 --> 
+2017-07-28 11:48:37 --> form_policy --> update --> class_id --> 298 --> 299
+2017-07-28 11:48:37 --> form_policy --> update --> class_value --> 2 --> 3
+2017-07-28 11:48:57 --> form_policy --> delete --> id --> 85 --> 
+2017-07-28 11:49:15 --> form_policy --> delete --> id --> 47 --> 
+2017-07-28 11:49:26 --> form_policy --> update --> class_value --> 66 --> 3
+2017-07-28 11:50:50 --> form_policy --> insert --> class_id -->  --> 307
+2017-07-28 11:50:50 --> form_policy --> insert --> class_value -->  --> 3
+2017-07-28 11:50:50 --> form_policy --> insert --> description -->  --> test
+2017-07-28 11:50:50 --> form_policy --> insert --> severity -->  --> Strict Compliance
+2017-07-28 11:50:51 --> form_policy --> insert --> company_id -->  --> 1,2,3,4,5,6,7,8,9,10,11,12,13
+2017-07-28 11:51:09 --> form_policy --> delete --> id --> 162 --> 
+2017-07-28 12:20:34 --> form_policy --> insert --> class_id -->  --> 303
+2017-07-28 12:20:34 --> form_policy --> insert --> class_value -->  --> 3
+2017-07-28 12:20:34 --> form_policy --> insert --> severity -->  --> Strict Compliance
+2017-07-28 12:20:34 --> form_policy --> insert --> company_id -->  --> 1,2,3,4,5,6,7,8,9,10,11,12,13
+2017-07-28 12:20:55 --> form_policy --> delete --> id --> 164 --> 
+2017-07-28 12:51:35 --> authentication --> logout --> logout -->  --> 
+2017-07-28 13:52:22 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,92 @@
+Admin, Teemworx (admin) --> 2017-07-14 09:09:30 --> profiles --> edit --> mod_id -->  --> 37
+Admin, Teemworx (admin) --> 2017-07-14 09:09:30 --> profiles --> edit --> action_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-07-14 09:09:30 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-14 09:09:30 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-14 09:09:30 --> profiles --> edit --> mod_id -->  --> 37
+Admin, Teemworx (admin) --> 2017-07-14 09:09:30 --> profiles --> edit --> action_id -->  --> 10
+Admin, Teemworx (admin) --> 2017-07-14 09:09:31 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-14 09:09:31 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-14 09:09:31 --> profiles --> edit --> mod_id -->  --> 58
+Admin, Teemworx (admin) --> 2017-07-14 09:09:31 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-14 09:09:31 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-14 09:09:31 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-07-14 09:09:31 --> profiles --> edit --> mod_id -->  --> 58
+Admin, Teemworx (admin) --> 2017-07-14 09:09:31 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-07-14 09:09:31 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-07-14 09:09:31 --> profiles --> edit --> profile_id -->  --> 1
+() --> 2017-07-14 09:09:40 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-14 09:23:20 --> authentication --> logout --> logout -->  --> 
+() --> 2017-07-14 09:23:21 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-14 09:23:51 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-14 09:37:28 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-14 09:37:42 --> authentication --> login --> login -->  --> 
+() --> 2017-07-14 09:37:59 --> authentication --> logout --> logout -->  --> 
+GRIO, JONATHAN (33107) --> 2017-07-14 12:43:46 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-14 19:45:56 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, Teemworx (admin) --> 2017-07-14 19:45:56 --> leave_balance_admin --> insert --> user_id -->  --> 434
+Admin, Teemworx (admin) --> 2017-07-14 19:45:56 --> leave_balance_admin --> insert --> form_id -->  --> 19
+Admin, Teemworx (admin) --> 2017-07-14 19:45:56 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, Teemworx (admin) --> 2017-07-14 19:45:56 --> leave_balance_admin --> insert --> period_from -->  --> 2017-07-14
+Admin, Teemworx (admin) --> 2017-07-14 19:45:56 --> leave_balance_admin --> insert --> period_to -->  --> 2017-07-28
+Admin, Teemworx (admin) --> 2017-07-14 19:45:56 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+Admin, Teemworx (admin) --> 2017-07-14 22:37:31 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-14 22:40:13 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, Teemworx (admin) --> 2017-07-14 22:40:13 --> leave_balance_admin --> insert --> user_id -->  --> 757
+Admin, Teemworx (admin) --> 2017-07-14 22:40:13 --> leave_balance_admin --> insert --> form_id -->  --> 5
+Admin, Teemworx (admin) --> 2017-07-14 22:40:13 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, Teemworx (admin) --> 2017-07-14 22:40:13 --> leave_balance_admin --> insert --> period_from -->  --> 2017-07-14
+Admin, Teemworx (admin) --> 2017-07-14 22:40:13 --> leave_balance_admin --> insert --> period_to -->  --> 2017-07-28
+Admin, Teemworx (admin) --> 2017-07-14 22:40:13 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+Admin, Teemworx (admin) --> 2017-07-14 22:42:39 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, Teemworx (admin) --> 2017-07-14 22:42:39 --> leave_balance_admin --> insert --> user_id -->  --> 121
+Admin, Teemworx (admin) --> 2017-07-14 22:42:39 --> leave_balance_admin --> insert --> form_id -->  --> 17
+Admin, Teemworx (admin) --> 2017-07-14 22:42:40 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, Teemworx (admin) --> 2017-07-14 22:42:40 --> leave_balance_admin --> insert --> period_from -->  --> 2017-07-14
+Admin, Teemworx (admin) --> 2017-07-14 22:42:40 --> leave_balance_admin --> insert --> period_to -->  --> 2017-07-28
+Admin, Teemworx (admin) --> 2017-07-14 22:42:40 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+Admin, Teemworx (admin) --> 2017-07-14 22:43:13 --> leave_balance_admin --> update --> period_extension --> 2017-07-28 --> 1970-01-01
+Admin, Teemworx (admin) --> 2017-07-14 22:44:45 --> leave_balance_admin --> update --> period_extension --> 2017-07-28 --> 1970-01-01
+Admin, Teemworx (admin) --> 2017-07-14 22:46:18 --> leave_balance_admin --> update --> current --> 13.5000 --> 14.5000
+Admin, Teemworx (admin) --> 2017-07-14 22:46:59 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, Teemworx (admin) --> 2017-07-14 22:46:59 --> leave_balance_admin --> insert --> user_id -->  --> 431
+Admin, Teemworx (admin) --> 2017-07-14 22:46:59 --> leave_balance_admin --> insert --> form_id -->  --> 21
+Admin, Teemworx (admin) --> 2017-07-14 22:46:59 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, Teemworx (admin) --> 2017-07-14 22:47:00 --> leave_balance_admin --> insert --> period_from -->  --> 2017-07-01
+Admin, Teemworx (admin) --> 2017-07-14 22:47:00 --> leave_balance_admin --> insert --> period_to -->  --> 2017-09-30
+Admin, Teemworx (admin) --> 2017-07-14 22:47:00 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+Admin, Teemworx (admin) --> 2017-07-14 22:49:56 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, Teemworx (admin) --> 2017-07-14 22:49:56 --> leave_balance_admin --> insert --> user_id -->  --> 697
+Admin, Teemworx (admin) --> 2017-07-14 22:49:56 --> leave_balance_admin --> insert --> form_id -->  --> 21
+Admin, Teemworx (admin) --> 2017-07-14 22:49:56 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, Teemworx (admin) --> 2017-07-14 22:49:56 --> leave_balance_admin --> insert --> period_from -->  --> 2017-07-01
+Admin, Teemworx (admin) --> 2017-07-14 22:49:56 --> leave_balance_admin --> insert --> period_to -->  --> 2017-08-31
+Admin, Teemworx (admin) --> 2017-07-14 22:49:56 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+Admin, Teemworx (admin) --> 2017-07-14 22:52:49 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, Teemworx (admin) --> 2017-07-14 22:52:49 --> leave_balance_admin --> insert --> user_id -->  --> 476
+Admin, Teemworx (admin) --> 2017-07-14 22:52:49 --> leave_balance_admin --> insert --> form_id -->  --> 21
+Admin, Teemworx (admin) --> 2017-07-14 22:52:49 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, Teemworx (admin) --> 2017-07-14 22:52:49 --> leave_balance_admin --> insert --> period_from -->  --> 2017-07-01
+Admin, Teemworx (admin) --> 2017-07-14 22:52:49 --> leave_balance_admin --> insert --> period_to -->  --> 2017-07-14
+Admin, Teemworx (admin) --> 2017-07-14 22:52:49 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+Admin, Teemworx (admin) --> 2017-07-14 22:54:27 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, Teemworx (admin) --> 2017-07-14 22:54:28 --> leave_balance_admin --> insert --> user_id -->  --> 734
+Admin, Teemworx (admin) --> 2017-07-14 22:54:28 --> leave_balance_admin --> insert --> form_id -->  --> 19
+Admin, Teemworx (admin) --> 2017-07-14 22:54:28 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, Teemworx (admin) --> 2017-07-14 22:54:28 --> leave_balance_admin --> insert --> period_from -->  --> 2017-07-01
+Admin, Teemworx (admin) --> 2017-07-14 22:54:28 --> leave_balance_admin --> insert --> period_to -->  --> 2017-08-31
+Admin, Teemworx (admin) --> 2017-07-14 22:54:28 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+Admin, Teemworx (admin) --> 2017-07-14 22:55:49 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, Teemworx (admin) --> 2017-07-14 22:55:49 --> leave_balance_admin --> insert --> user_id -->  --> 285
+Admin, Teemworx (admin) --> 2017-07-14 22:55:49 --> leave_balance_admin --> insert --> form_id -->  --> 17
+Admin, Teemworx (admin) --> 2017-07-14 22:55:49 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, Teemworx (admin) --> 2017-07-14 22:55:49 --> leave_balance_admin --> insert --> period_from -->  --> 2017-07-01
+Admin, Teemworx (admin) --> 2017-07-14 22:55:49 --> leave_balance_admin --> insert --> period_to -->  --> 2017-08-31
+Admin, Teemworx (admin) --> 2017-07-14 22:55:49 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+Admin, Teemworx (admin) --> 2017-07-14 22:56:39 --> leave_balance_admin --> update --> period_extension --> 2017-08-31 --> 1970-01-01
+Admin, Teemworx (admin) --> 2017-07-14 22:58:08 --> leave_balance_admin --> update --> period_extension --> 2017-08-31 --> 1970-01-01
+Admin, Teemworx (admin) --> 2017-07-14 22:59:38 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, Teemworx (admin) --> 2017-07-14 22:59:38 --> leave_balance_admin --> insert --> user_id -->  --> 757
+Admin, Teemworx (admin) --> 2017-07-14 22:59:38 --> leave_balance_admin --> insert --> form_id -->  --> 17
+Admin, Teemworx (admin) --> 2017-07-14 22:59:38 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, Teemworx (admin) --> 2017-07-14 22:59:39 --> leave_balance_admin --> insert --> period_from -->  --> 2017-07-01
+Admin, Teemworx (admin) --> 2017-07-14 22:59:39 --> leave_balance_admin --> insert --> period_to -->  --> 2017-08-31

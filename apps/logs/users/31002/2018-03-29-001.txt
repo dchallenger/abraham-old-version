@@ -1,0 +1,20 @@
+2018-03-29 20:45:39 --> authentication --> login --> login -->  --> 
+2018-03-29 20:46:29 --> authentication --> logout --> logout -->  --> 
+2018-03-29 20:48:38 --> authentication --> login --> login -->  --> 
+2018-03-29 20:49:48 --> authentication --> update --> users - hash --> $2a$08$hRV4eko18h6qPQ0gn7.f.eKk9O9Dv7nPKfZbN1mhregMrBYi3sR6i --> $2a$08$4LnoyN0wKkJWvW4Gr/RNtuA0LrMBXK2dJL3JBVW/x6CKf2nPsnJdG
+2018-03-29 20:50:01 --> authentication --> logout --> logout -->  --> 
+2018-03-29 20:55:56 --> authentication --> login --> login -->  --> 
+2018-03-29 21:05:48 --> performance_planning --> update --> filter_id --> 1,2,3,4,5,6,7,8,9,10,11,12,13 --> 1,2,3,13,4,6,5,7,12,10,8,9,11
+2018-03-29 21:44:33 --> authentication --> logout --> logout -->  --> 
+2018-03-29 22:06:17 --> authentication --> login --> login -->  --> 
+2018-03-29 22:30:47 --> authentication --> logout --> logout -->  --> 
+2018-03-29 22:33:16 --> authentication --> login --> login -->  --> 
+2018-03-29 22:41:30 --> authentication --> logout --> logout -->  --> 
+2018-03-29 22:44:10 --> authentication --> login --> login -->  --> 
+2018-03-29 22:45:21 --> appraisal_individual_planning --> insert --> planning_id -->  --> 1
+2018-03-29 22:45:22 --> appraisal_individual_planning --> insert --> user_id -->  --> 39
+2018-03-29 22:45:22 --> appraisal_individual_planning --> insert --> section_column_id -->  --> 2
+2018-03-29 22:45:22 --> appraisal_individual_planning --> insert --> item -->  --> asdfasdfdsfa
+2018-03-29 22:45:22 --> appraisal_individual_planning --> update --> status_id --> 0 --> 1
+2018-03-29 22:47:34 --> authentication --> logout --> logout -->  --> 
+2018-03-29 22:48:25 --> authentication --> login --> login -->  --> 

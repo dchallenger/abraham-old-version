@@ -1,0 +1,8 @@
+CHAVEZ, NELSON (00129) --> 2018-04-14 21:41:13 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-14 21:42:34 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-14 22:04:52 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-14 22:05:04 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-14 22:06:58 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-14 22:07:21 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-14 22:55:48 --> performance_planning --> update --> status_id --> 1 --> 0
+CHAVEZ, NELSON (00129) --> 2018-04-14 23:16:36 --> authentication --> login --> login -->  --> 

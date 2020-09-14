@@ -1,0 +1,15 @@
+Admin, Teemworx (admin) --> 2018-11-06 05:30:24 --> authentication --> logout --> logout -->  --> 
+() --> 2018-11-06 05:30:25 --> authentication --> logout --> logout -->  --> 
+SAMORTIN, ANA MARIE JOY (31207) --> 2018-11-06 05:30:30 --> authentication --> login --> login -->  --> 
+SAMORTIN, ANA MARIE JOY (31207) --> 2018-11-06 06:17:29 --> authentication --> logout --> logout -->  --> 
+ZAMORA, MELCHOR (01028) --> 2018-11-06 06:17:33 --> authentication --> login --> login -->  --> 
+() --> 2018-11-06 06:18:45 --> authentication --> logout --> logout -->  --> 
+ZAMORA, MELCHOR (01028) --> 2018-11-06 06:19:00 --> authentication --> logout --> logout -->  --> 
+SAMORTIN, ANA MARIE JOY (31207) --> 2018-11-06 06:19:16 --> authentication --> login --> login -->  --> 
+() --> 2018-11-06 06:19:21 --> authentication --> logout --> logout -->  --> 
+SAMORTIN, ANA MARIE JOY (31207) --> 2018-11-06 06:20:58 --> authentication --> logout --> logout -->  --> 
+() --> 2018-11-06 06:21:01 --> authentication --> logout --> logout -->  --> 
+ZAMORA, MELCHOR (01028) --> 2018-11-06 06:21:10 --> authentication --> login --> login -->  --> 
+ZAMORA, MELCHOR (01028) --> 2018-11-06 09:56:01 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-11-06 09:56:22 --> authentication --> login --> login -->  --> 
+() --> 2018-11-06 09:56:55 --> authentication --> logout --> logout -->  --> 

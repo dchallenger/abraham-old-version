@@ -1,0 +1,6 @@
+Admin, Teemworx (admin) --> 2017-05-22 23:08:57 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-05-22 23:09:32 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-05-22 23:15:20 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-22 23:15:26 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-22 23:17:42 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-05-22 23:17:51 --> authentication --> login --> login -->  --> 

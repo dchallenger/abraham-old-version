@@ -1,0 +1,14 @@
+2020-01-25 05:51:58 --> authentication --> login --> login -->  --> 
+2020-01-25 05:54:19 --> authentication --> logout --> logout -->  --> 
+2020-01-25 01:18:14 --> report_generator --> insert --> report_code -->  --> BDAY CELEBRANT
+2020-01-25 01:18:14 --> report_generator --> insert --> report_name -->  --> Birthday Celebrant
+2020-01-25 01:18:14 --> report_generator --> insert --> category_id -->  --> 2
+2020-01-25 01:18:14 --> report_generator --> insert --> roles -->  --> 1,2
+2020-01-25 01:18:33 --> report_generator --> insert --> report_code -->  --> BDAY CELEBRANT
+2020-01-25 01:18:33 --> report_generator --> insert --> report_name -->  --> Birthday Celebrant
+2020-01-25 01:18:33 --> report_generator --> insert --> category_id -->  --> 2
+2020-01-25 01:18:33 --> report_generator --> insert --> roles -->  --> 1,2
+2020-01-25 01:30:38 --> report_generator --> insert --> report_code -->  --> BDAY CELEBRANT
+2020-01-25 01:30:38 --> report_generator --> insert --> report_name -->  --> Birhtday Celebrant
+2020-01-25 01:30:38 --> report_generator --> insert --> category_id -->  --> 2
+2020-01-25 01:30:38 --> report_generator --> insert --> roles -->  --> 1,2

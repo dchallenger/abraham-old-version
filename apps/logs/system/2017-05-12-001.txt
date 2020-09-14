@@ -1,0 +1,24 @@
+DE LEON, LISSA (30991) --> 2017-05-12 10:41:02 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-12 10:41:09 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-05-12 10:43:45 --> recurring_transaction --> insert --> document_no -->  --> 11111
+Admin, Teemworx (admin) --> 2017-05-12 10:43:45 --> recurring_transaction --> insert --> transaction_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-12 10:43:45 --> recurring_transaction --> insert --> date_from -->  --> 2017-05-01
+Admin, Teemworx (admin) --> 2017-05-12 10:43:45 --> recurring_transaction --> insert --> date_to -->  --> 2018-03-31
+Admin, Teemworx (admin) --> 2017-05-12 10:43:45 --> recurring_transaction --> insert --> transaction_method_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-12 10:43:45 --> recurring_transaction --> insert --> account_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-12 10:43:45 --> recurring_transaction --> insert --> week -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-12 10:43:45 --> recurring_transaction --> insert --> amount -->  --> Š››îk“’»
+Š5¾‰
+Admin, Teemworx (admin) --> 2017-05-12 13:57:11 --> recurring_transaction --> insert --> document_no -->  --> fsdfasd
+Admin, Teemworx (admin) --> 2017-05-12 13:57:11 --> recurring_transaction --> insert --> transaction_id -->  --> 231
+Admin, Teemworx (admin) --> 2017-05-12 13:57:11 --> recurring_transaction --> insert --> date_from -->  --> 2017-05-01
+Admin, Teemworx (admin) --> 2017-05-12 13:57:11 --> recurring_transaction --> insert --> date_to -->  --> 2019-03-31
+Admin, Teemworx (admin) --> 2017-05-12 13:57:11 --> recurring_transaction --> insert --> transaction_method_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-12 13:57:11 --> recurring_transaction --> insert --> account_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-05-12 13:57:11 --> recurring_transaction --> insert --> week -->  --> 2
+Admin, Teemworx (admin) --> 2017-05-12 13:57:11 --> recurring_transaction --> insert --> amount -->  --> æ® (g$o¼v ;
+Admin, Teemworx (admin) --> 2017-05-12 13:57:11 --> recurring_transaction --> insert --> remarks -->  --> test
+Admin, Teemworx (admin) --> 2017-05-12 17:19:10 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-12 17:19:17 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-05-12 17:39:30 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-05-12 17:39:58 --> authentication --> login --> login -->  --> 

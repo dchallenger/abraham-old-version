@@ -1,0 +1,108 @@
+Diaz, Eduardo (1001) --> 2017-03-20 16:32:22 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-20 16:32:30 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-20 16:34:45 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-20 16:34:59 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-20 16:35:43 --> authentication --> logout --> logout -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-20 16:35:57 --> authentication --> login --> login -->  --> 
+Diaz, Eduardo (1001) --> 2017-03-20 16:38:47 --> authentication --> logout --> logout -->  --> 
+Alfonso, Rome (1004) --> 2017-03-20 16:38:59 --> authentication --> login --> login -->  --> 
+Alfonso, Rome (1004) --> 2017-03-20 18:42:21 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-03-20 18:42:32 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> action_id -->  --> 1
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> action_id -->  --> 2
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> action_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> action_id -->  --> 4
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> action_id -->  --> 5
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> action_id -->  --> 6
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> action_id -->  --> 7
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> action_id -->  --> 8
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> action_id -->  --> 9
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> mod_id -->  --> 252
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> action_id -->  --> 10
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> mod_id -->  --> 38
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> action_id -->  --> 1
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> mod_id -->  --> 38
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> action_id -->  --> 2
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> mod_id -->  --> 38
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> action_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> mod_id -->  --> 38
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> action_id -->  --> 4
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> mod_id -->  --> 38
+Admin, System (admin) --> 2017-03-20 18:45:13 --> profiles --> edit --> action_id -->  --> 5
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> mod_id -->  --> 38
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> action_id -->  --> 6
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> mod_id -->  --> 38
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> action_id -->  --> 7
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> mod_id -->  --> 38
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> action_id -->  --> 8
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> mod_id -->  --> 38
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> action_id -->  --> 9
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> mod_id -->  --> 38
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> action_id -->  --> 10
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> mod_id -->  --> 9
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> action_id -->  --> 1
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> mod_id -->  --> 9
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> action_id -->  --> 2
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> mod_id -->  --> 9
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> action_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> mod_id -->  --> 9
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> action_id -->  --> 4
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> grant -->  --> on
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> profile_id -->  --> 3
+Admin, System (admin) --> 2017-03-20 18:45:14 --> profiles --> edit --> mod_id -->  --> 9

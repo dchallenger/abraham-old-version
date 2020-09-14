@@ -1,0 +1,92 @@
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:21 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:21 --> applicants --> insert --> key_id -->  --> 180
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:21 --> applicants --> insert --> key -->  --> education-lastsem-attended
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:21 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:21 --> applicants --> insert --> key_name -->  --> Last SY and Sem
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:21 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:21 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:21 --> applicants --> insert --> key_id -->  --> 131
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:21 --> applicants --> insert --> key -->  --> education-honors_awards
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:21 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:21 --> applicants --> insert --> key_name -->  --> Honors/Awards
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:54 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:54 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:54 --> applicants --> insert --> key_id -->  --> 39
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:54 --> applicants --> insert --> key -->  --> employment-company
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:54 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:54 --> applicants --> insert --> key_name -->  --> Company Name
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:54 --> applicants --> insert --> key_value -->  --> Uknown
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:54 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:54 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:54 --> applicants --> insert --> key_id -->  --> 40
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:54 --> applicants --> insert --> key -->  --> employment-position-title
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:54 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:54 --> applicants --> insert --> key_name -->  --> Position Title
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> key_value -->  --> Test
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> key_id -->  --> 41
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> key -->  --> employment-location
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> key_name -->  --> Location
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> key_id -->  --> 44
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> key -->  --> employment-duties
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> key_name -->  --> Duties and Responsibilities
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> key_id -->  --> 42
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> key -->  --> employment-month-hired
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> key_name -->  --> Month Hired
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> insert --> key_value -->  --> January
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:55 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> key_id -->  --> 43
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> key -->  --> employment-month-end
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> key_name -->  --> Month End
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> key_value -->  --> January
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> key_id -->  --> 64
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> key -->  --> employment-year-hired
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> key_name -->  --> Year Hired
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> key_value -->  --> 2005
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> key_id -->  --> 65
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> key -->  --> employment-year-end
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> key_name -->  --> Year End
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> key_value -->  --> 2018
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:56 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:57 --> applicants --> insert --> key_id -->  --> 182
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:57 --> applicants --> insert --> key -->  --> employment-last-salary
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:57 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:57 --> applicants --> insert --> key_name -->  --> Last Salary
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:57 --> applicants --> insert --> key_value -->  --> 60000
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:57 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:57 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:57 --> applicants --> insert --> key_id -->  --> 143
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:57 --> applicants --> insert --> key -->  --> employment-reason-for-leaving
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:57 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:04:57 --> applicants --> insert --> key_name -->  --> Reason for Leaving
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:05:29 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:05:29 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:05:29 --> applicants --> insert --> key_id -->  --> 45
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:05:29 --> applicants --> insert --> key -->  --> reference-name
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:05:29 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:05:29 --> applicants --> insert --> key_name -->  --> Name
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:05:29 --> applicants --> insert --> key_value -->  --> Edel
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:05:29 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:05:29 --> applicants --> insert --> recruit_id -->  --> 13
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:05:29 --> applicants --> insert --> key_id -->  --> 46
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:05:29 --> applicants --> insert --> key -->  --> reference-occupation
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:05:29 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:05:29 --> applicants --> insert --> key_name -->  --> Occupation
+ABULENCIA, AMYRA (33176) --> 2019-11-01 23:05:30 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 13 --> 

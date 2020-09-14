@@ -1,0 +1,5 @@
+Admin, Teemworx (admin) --> 2020-01-29 16:56:38 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2020-01-29 16:59:34 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2020-01-29 16:59:56 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2020-01-29 17:03:20 --> authentication --> logout --> logout -->  --> 
+FLORES, FLORENCIO (00739) --> 2020-01-29 17:03:27 --> authentication --> login --> login -->  --> 

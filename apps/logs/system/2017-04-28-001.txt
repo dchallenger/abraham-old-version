@@ -1,0 +1,104 @@
+Admin, Teemworx (admin) --> 2017-04-28 09:23:51 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-04-28 09:23:59 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-04-28 10:34:03 --> module --> insert --> short_name -->  --> Overtime Rates Fixed Amount
+Admin, Teemworx (admin) --> 2017-04-28 10:34:03 --> module --> insert --> long_name -->  --> Overtime Rates Fixed Amount
+Admin, Teemworx (admin) --> 2017-04-28 10:34:03 --> module --> insert --> description -->  --> Setup of Overtime Fixed Amount Base on Payroll Location
+Admin, Teemworx (admin) --> 2017-04-28 10:36:00 --> module --> update --> mod_code -->  --> overtime_rates_fixed_amount
+Admin, Teemworx (admin) --> 2017-04-28 10:36:01 --> module --> update --> route -->  --> admin/payroll/overtime_rates_fixed_amount
+Admin, Teemworx (admin) --> 2017-04-28 10:36:01 --> module --> update --> table -->  --> ww_payroll_overtime_rates_amount
+Admin, Teemworx (admin) --> 2017-04-28 10:36:01 --> module --> update --> primary_key -->  --> overtime_rate_amount_id
+Admin, Teemworx (admin) --> 2017-04-28 10:36:01 --> module --> update --> list_template_header -->  --> <th width="28%">Company</th>
+<th width="20%">Overtime</th>
+<th width="15%">Rate</th>
+Admin, Teemworx (admin) --> 2017-04-28 10:36:01 --> module --> update --> list_template -->  --> template row
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:43 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> action_id -->  --> 5
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> action_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> action_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> action_id -->  --> 8
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:44 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> action_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> action_id -->  --> 10
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:45 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> action_id -->  --> 5
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> action_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> action_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> action_id -->  --> 8
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-28 12:14:46 --> profiles --> edit --> action_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-04-28 12:14:47 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:47 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:47 --> profiles --> edit --> mod_id -->  --> 253
+Admin, Teemworx (admin) --> 2017-04-28 12:14:47 --> profiles --> edit --> action_id -->  --> 10
+Admin, Teemworx (admin) --> 2017-04-28 12:14:47 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:47 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:47 --> profiles --> edit --> mod_id -->  --> 258
+Admin, Teemworx (admin) --> 2017-04-28 12:14:47 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:47 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-04-28 12:14:47 --> profiles --> edit --> profile_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-04-28 12:14:47 --> profiles --> edit --> mod_id -->  --> 258
+Admin, Teemworx (admin) --> 2017-04-28 12:14:47 --> profiles --> edit --> action_id -->  --> 2

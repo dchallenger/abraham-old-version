@@ -1,0 +1,8 @@
+Admin, Teemworx (admin) --> 2017-04-27 12:50:04 --> payroll_transactions --> insert --> transaction_code -->  --> ECOLA
+Admin, Teemworx (admin) --> 2017-04-27 12:50:04 --> payroll_transactions --> insert --> transaction_label -->  --> E-cola
+Admin, Teemworx (admin) --> 2017-04-27 12:50:04 --> payroll_transactions --> insert --> transaction_class_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-04-27 12:50:04 --> payroll_transactions --> insert --> transaction_type_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-04-27 12:50:04 --> payroll_transactions --> insert --> debit_account_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-04-27 12:50:04 --> payroll_transactions --> insert --> priority_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-04-27 15:28:23 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-04-27 15:28:30 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,137 @@
+ELISCUPIDES, ROWENA (00273) --> 2017-10-23 12:06:33 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear POLONAN, MARIA LEE ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by DE LEON, LISSA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+ELISCUPIDES, ROWENA (00273) --> 2017-10-23 12:34:33 --> authentication --> logout --> logout -->  --> 
+() --> 2017-10-23 12:34:37 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-23 12:34:47 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-23 12:40:23 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-23 12:40:36 --> authentication --> login --> login -->  --> 
+() --> 2017-10-23 12:43:10 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-23 12:44:43 --> mrf --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+DE LEON, LISSA (30991) --> 2017-10-23 12:44:43 --> mrf --> insert --> subject -->  --> Send email to approver
+DE LEON, LISSA (30991) --> 2017-10-23 12:44:43 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by DE LEON, LISSA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+DE LEON, LISSA (30991) --> 2017-10-23 12:48:16 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-23 12:49:06 --> authentication --> login --> login -->  --> 
+() --> 2017-10-23 12:49:10 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-23 12:50:24 --> mrf_manage --> insert --> to -->  --> weng_e@legendhotels.com.ph
+CHAVEZ, NELSON (00129) --> 2017-10-23 12:50:24 --> mrf_manage --> insert --> subject -->  --> Send email to approver
+CHAVEZ, NELSON (00129) --> 2017-10-23 12:50:24 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ELISCUPIDES, ROWENA ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by DE LEON, LISSA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2017-10-23 13:16:16 --> authentication --> logout --> logout -->  --> 
+() --> 2017-10-23 13:16:18 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-10-23 13:16:28 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-10-23 13:17:02 --> mrf_manage --> insert --> to -->  --> lee_p@abrahamholdings.ph
+ELISCUPIDES, ROWENA (00273) --> 2017-10-23 13:17:02 --> mrf_manage --> insert --> subject -->  --> Send email to approver
+ELISCUPIDES, ROWENA (00273) --> 2017-10-23 13:17:02 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear POLONAN, MARIA LEE ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by DE LEON, LISSA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+ELISCUPIDES, ROWENA (00273) --> 2017-10-23 13:17:07 --> authentication --> logout --> logout -->  --> 
+() --> 2017-10-23 13:17:11 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-23 13:17:17 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-23 13:26:23 --> authentication --> logout --> logout -->  --> 
+() --> 2017-10-23 13:26:26 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-23 13:27:17 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-10-23 13:32:24 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-23 13:32:35 --> authentication --> login --> login -->  --> 
+() --> 2017-10-23 13:33:07 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-23 14:00:05 --> mrf --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+DE LEON, LISSA (30991) --> 2017-10-23 14:00:05 --> mrf --> insert --> subject -->  --> Send email to approver
+DE LEON, LISSA (30991) --> 2017-10-23 14:00:05 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by DE LEON, LISSA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+DE LEON, LISSA (30991) --> 2017-10-23 14:00:37 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-23 14:01:05 --> authentication --> login --> login -->  --> 
+() --> 2017-10-23 14:01:21 --> authentication --> logout --> logout -->  --> 

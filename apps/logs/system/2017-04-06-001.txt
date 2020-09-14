@@ -1,0 +1,48 @@
+Admin, System (admin) --> 2017-04-06 09:44:56 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-06 09:47:26 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 09:47:47 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 09:50:48 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-06 09:50:56 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-06 10:26:08 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-06 10:26:20 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-06 03:41:45 --> report_generator --> insert --> report_code -->  --> Work Schedule
+Admin, System (admin) --> 2017-04-06 03:41:45 --> report_generator --> insert --> report_name -->  --> Work Schedule Report
+Admin, System (admin) --> 2017-04-06 03:41:45 --> report_generator --> insert --> category_id -->  --> 1
+Admin, System (admin) --> 2017-04-06 03:41:45 --> report_generator --> insert --> roles -->  --> 1,2
+Admin, System (admin) --> 2017-04-06 11:47:43 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 11:48:04 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 11:57:41 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-06 11:57:50 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-06 12:08:14 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-06 12:08:40 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-06 12:10:46 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 12:11:22 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 12:47:33 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 13:07:47 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-06 13:08:04 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-06 13:10:14 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-06 13:10:30 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-06 13:16:36 --> authentication --> logout --> logout -->  --> 
+Admin, System (admin) --> 2017-04-06 13:16:49 --> authentication --> login --> login -->  --> 
+Admin, System (admin) --> 2017-04-06 14:07:12 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-06 14:07:38 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-06 14:26:54 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 14:27:20 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 14:29:07 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-06 14:29:17 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-06 14:33:41 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 14:34:04 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 14:42:26 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-06 14:43:03 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-06 15:18:00 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 15:18:11 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 15:30:01 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-06 15:30:14 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-04-06 15:31:40 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 15:31:52 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 16:11:31 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 16:12:14 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-04-06 16:19:25 --> form_policy --> update --> company_id --> ALL --> 1,2,3,4,5,6,7,8,9,10,11,12,13,14
+LOPEZ, PAOLO (02115) --> 2017-04-06 16:19:25 --> form_policy --> update --> employment_status_id --> 1,2,3,4,5,6,7,8,9,10,11,12,13,25 --> 1,2,3,4,5,6,7,8,9,10,11,12
+LOPEZ, PAOLO (02115) --> 2017-04-06 16:19:59 --> form_policy --> update --> class_value --> YES --> NO
+Admin, System (admin) --> 2017-04-06 22:23:34 --> authentication --> login --> login -->  --> 

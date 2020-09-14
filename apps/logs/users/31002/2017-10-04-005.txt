@@ -1,0 +1,4 @@
+2017-10-04 22:30:04 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2017-10-04 22:30:04 --> applicant_monitoring --> update --> result -->  --> Consider
+2017-10-04 22:31:16 --> applicant_monitoring --> update --> status_id --> 2 --> 4
+2017-10-04 22:31:16 --> applicant_monitoring --> update --> status_id --> 2 --> 4

@@ -1,0 +1,11 @@
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> checklist_id -->  --> 27
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> checklist_id -->  --> 28
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> submitted -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:33 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:34 --> applicant_monitoring --> insert --> checklist_id -->  --> 29
+CHAVEZ, NELSON (00129) --> 2017-11-07 20:41:34 --> applicant_monitoring --> insert --> submitted -->  --> 0
+() --> 2017-11-07 20:42:08 --> authentication --> logout --> logout -->  --> 

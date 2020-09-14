@@ -1,0 +1,12 @@
+2018-12-27 07:37:37 --> authentication --> login --> login -->  --> 
+2018-12-27 07:48:31 --> payroll_period --> insert --> date_from -->  --> 2018-12-28
+2018-12-27 07:48:31 --> payroll_period --> insert --> date_to -->  --> 2018-12-28
+2018-12-27 07:48:31 --> payroll_period --> insert --> payroll_date -->  --> 2018-12-28
+2018-12-27 07:48:32 --> payroll_period --> insert --> posting_date -->  --> 2018-12-28
+2018-12-27 07:48:32 --> payroll_period --> insert --> apply_to_id -->  --> 2
+2018-12-27 07:48:32 --> payroll_period --> insert --> period_processing_type_id -->  --> 4
+2018-12-27 07:48:32 --> payroll_period --> insert --> include_basic_and_allowances -->  --> 0
+2018-12-27 07:48:32 --> payroll_period --> insert --> payroll_schedule_id -->  --> 4
+2018-12-27 07:48:32 --> payroll_period --> insert --> week -->  --> 4
+2018-12-27 07:48:32 --> payroll_period --> insert --> remarks -->  --> test
+2018-12-27 07:48:32 --> payroll_period --> insert --> period_status_id -->  --> 1

@@ -1,0 +1,17 @@
+2019-08-12 15:46:51 --> authentication --> logout --> logout -->  --> 
+2019-08-12 16:44:39 --> authentication --> login --> login -->  --> 
+2019-08-12 16:53:06 --> authentication --> logout --> logout -->  --> 
+2019-08-12 20:35:02 --> authentication --> login --> login -->  --> 
+2019-08-12 20:35:35 --> authentication --> logout --> logout -->  --> 
+2019-08-12 20:37:29 --> authentication --> login --> login -->  --> 
+2019-08-12 20:38:12 --> authentication --> logout --> logout -->  --> 
+2019-08-12 20:39:40 --> authentication --> login --> login -->  --> 
+2019-08-12 20:44:43 --> authentication --> logout --> logout -->  --> 
+2019-08-12 20:48:10 --> authentication --> login --> login -->  --> 
+2019-08-12 20:59:58 --> authentication --> logout --> logout -->  --> 
+2019-08-12 21:01:57 --> authentication --> login --> login -->  --> 
+2019-08-12 21:23:56 --> appraisal_individual_rate --> update --> status_id -->  --> 13
+2019-08-12 21:23:56 --> appraisal_individual_rate --> update --> appraisee_acceptance -->  --> 1
+2019-08-12 21:23:56 --> appraisal_individual_rate --> update --> appraisee_remarks -->  --> sdfgdfg
+2019-08-12 21:23:56 --> appraisal_individual_rate --> update --> selfrate_date -->  --> 2019-08-12
+2019-08-12 21:24:19 --> authentication --> logout --> logout -->  --> 
